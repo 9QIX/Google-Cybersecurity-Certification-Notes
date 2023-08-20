@@ -1,0 +1,1 @@
+A **[[Hacktivist]]** is a person who uses hacking to achieve a political goal. The political goal may be to promote social change or civil disobedience. 

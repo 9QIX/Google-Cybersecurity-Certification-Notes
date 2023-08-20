@@ -1,0 +1,3 @@
+Unauthorized hackers are also called [[Unethical Hackers]]. They are malicious threat actors who do not follow or respect the law. Their goal is to collect and sell confidential data for financial gain. 
+
+Other types of hackers are not motivated by any particular agenda other than completing the job they were contracted to do. These types of hackers can be considered **unethical or ethical hackers**. They have been known to work on both illegal and legal tasks for pay.

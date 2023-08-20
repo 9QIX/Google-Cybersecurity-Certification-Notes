@@ -1,0 +1,1 @@
+[[Frameworks]] allow analysts to work alongside other members of the security team to *document, implement, and use the policies and procedures* that have been created. It's essential for an entry-level analyst to understand this process because it directly affects the work they do and how they collaborate with others.

@@ -1,0 +1,2 @@
+- **[[Monitoring and Communicating Results]]**
+	- As an example, you may monitor your organization's internal network and report a potential security issue affecting GDPR to your manager or regulatory compliance officer.

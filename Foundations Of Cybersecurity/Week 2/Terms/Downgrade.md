@@ -1,0 +1,1 @@
+- [[Downgrade]] - A tactic where an attacker forces a system or communication to use a weaker security protocol, making it susceptible to exploitation.
