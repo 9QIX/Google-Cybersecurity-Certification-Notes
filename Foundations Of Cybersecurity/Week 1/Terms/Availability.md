@@ -1,0 +1,1 @@
+**[[Availability]]** means data is accessible to those who are authorized to access it.

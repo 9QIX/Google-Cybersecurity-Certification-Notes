@@ -1,0 +1,1 @@
+A [[Data Breach]], for example, affects everyone that is associated with the organization. This is because data losses or leaks can affect an organization's reputation as well as the lives and reputations of their users, clients, and customers.

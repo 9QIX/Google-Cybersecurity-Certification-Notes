@@ -1,0 +1,1 @@
+- [[Card Cloning and Skimming]] - Illicit techniques involving copying card data from legitimate payment cards (cloning) or capturing card information from point-of-sale devices (skimming) to commit financial fraud.

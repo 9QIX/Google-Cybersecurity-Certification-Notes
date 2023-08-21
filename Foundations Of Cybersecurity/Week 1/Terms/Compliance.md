@@ -1,0 +1,1 @@
+[[Compliance]] is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.

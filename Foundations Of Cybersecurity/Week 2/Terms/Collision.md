@@ -1,0 +1,1 @@
+- [[Collision]] - A type of cryptographic attack that seeks to find two distinct inputs that produce the same hash value, undermining the integrity of hash functions.

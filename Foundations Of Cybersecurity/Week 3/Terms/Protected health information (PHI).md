@@ -1,0 +1,1 @@
+**[[Protected health information (PHI)]]:** Information that relates to the past, present, or future physical or mental health or condition of an individual

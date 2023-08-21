@@ -1,0 +1,3 @@
+Malicious code written to interfere with computer operations and cause damage to data and software. The virus attaches itself to programs or documents on a computer, then spreads and infects one or more computers in a network. Today, viruses are more commonly referred to as [[Malware]], which is software designed to harm devices or networks. Two examples of early malware attacks that we'll cover are the Brain virus and the Morris worm. 
+
+**[[Computer virus]]:** Malicious code written to interfere with computer operations and cause damage to data and software

@@ -1,0 +1,1 @@
+An **[[Asset]]** is an item perceived as having value to an organization. And value is determined by the cost associated with the asset in question.

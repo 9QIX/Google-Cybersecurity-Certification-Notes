@@ -1,0 +1,3 @@
+- **[[Identifying and Documenting Security Goals]]**
+	- For example, an organization may have a goal to align with the E.U.'s General Data Protection Regulation, also known as GDPR. GDPR is a data protection law established to grant European citizens more control over their personal data. 
+	- A security analyst may be asked to identify and document areas where an organization is out of compliance with GDPR.

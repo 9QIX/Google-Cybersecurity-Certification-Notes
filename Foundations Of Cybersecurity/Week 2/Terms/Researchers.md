@@ -1,0 +1,1 @@
+Semi-authorized hackers are considered [[Researchers]]. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.

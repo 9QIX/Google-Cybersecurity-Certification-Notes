@@ -1,0 +1,3 @@
+[[Cloud Security ]]is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly, and access to those assets is limited to authorized users. The cloud is a network made up of a collection of servers or computers that store resources and data in remote physical locations known as data centers that can be accessed via the internet. Cloud security is a growing subfield of cybersecurity that specifically focuses on the protection of data, applications, and infrastructure in the cloud.
+
+**[[Cloud security]]:** The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users

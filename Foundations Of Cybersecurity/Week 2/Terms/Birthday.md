@@ -1,0 +1,1 @@
+- [[Birthday]] - An attack that exploits the probability of two different inputs producing the same cryptographic hash value, potentially compromising security.

@@ -1,0 +1,2 @@
+- [[Setting Guidelines to Achieve Security Goals]]
+	- For example, when implementing guidelines to achieve GDPR compliance, your organization may need to develop new policies for how to handle data requests from individual users.

@@ -1,0 +1,3 @@
+[[Programming Languages]]: By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming. Examples of tasks that programming can be used for include searching data to identify potential threats or organizing and analyzing information to identify patterns related to security issues. 
+
+Analysts may sometimes work with software development teams to analyze and support security, install software, and set up appropriate processes. When involved with **software development** projects, it can be helpful for an analyst to **understand [[Programming Languages]]**.

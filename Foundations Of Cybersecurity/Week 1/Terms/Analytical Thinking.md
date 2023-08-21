@@ -1,0 +1,1 @@
+Security analysts often use [[Analytical Thinking 1]], which means to think carefully and thoroughly. Analysts use this skill when monitoring and securing computer and network systems, responding to potential threats, defining system privileges, and determining ways to mitigate risk.

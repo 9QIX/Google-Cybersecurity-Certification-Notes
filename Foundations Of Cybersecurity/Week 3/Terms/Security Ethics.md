@@ -1,0 +1,3 @@
+[[Security Ethics]] are guidelines for making appropriate decisions as a security professional. 
+
+Being ethical requires that security professionals remain unbiased and maintain the security and confidentiality of private data. Having a strong sense of ethics can help you navigate your decisions as a cybersecurity professional so you’re able to mitigate threats posed by threat actors’ constantly evolving tactics and techniques.

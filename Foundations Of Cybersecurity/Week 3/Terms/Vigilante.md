@@ -1,0 +1,1 @@
+A [[Vigilante]] is a person who is not a member of law enforcement who decides to stop a crime on their own. And because threat actors are criminals, counterattacks can lead to further escalation of the attack, which can cause even more damage and harm.
