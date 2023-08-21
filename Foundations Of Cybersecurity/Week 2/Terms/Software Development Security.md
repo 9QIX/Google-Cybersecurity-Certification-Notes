@@ -1,4 +1,0 @@
-- #### [[Software Development Security]]
-	- This domain focuses on using *secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services*. 
-	- A security analyst may work with software development teams to ensure security practices are incorporated into the software development life-cycle. 
-	- If, for example, one of your partner teams is creating a new mobile app, then you may be asked to advise on the password policies or ensure that any user data is properly secured and managed.

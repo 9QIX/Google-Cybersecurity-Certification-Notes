@@ -1,1 +1,0 @@
-**[[Threat]]:** Any circumstance or event that can negatively impact assets

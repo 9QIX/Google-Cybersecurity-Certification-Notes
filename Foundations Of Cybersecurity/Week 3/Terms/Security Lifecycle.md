@@ -1,1 +1,0 @@
-The [[Security Lifecycle]] is a constantly evolving set of policies and standards that define how an organization manages risks, follows established guidelines, and meets regulatory compliance, or laws.

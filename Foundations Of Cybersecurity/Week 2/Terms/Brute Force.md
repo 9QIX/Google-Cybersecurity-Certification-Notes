@@ -1,1 +1,0 @@
-[[Brute Force]] - A method of attempting every possible combination or password until the correct one is found.

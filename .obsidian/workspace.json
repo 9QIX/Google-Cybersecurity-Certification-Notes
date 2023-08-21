@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "dfe64d9d019764a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "616abb4c4fc7d6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3af0b780f6130695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/I. Important cybersecurity tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180ed54e0a38187a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d45ac42ad962b19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62f71f98052b3e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6353b54fbfd4421",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62f598ddeda6110b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pii",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b1cdfbb30317c06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41edbaf9ed8b1728",
+    "type": "split",
+    "children": [
+      {
+        "id": "79f66f080972ba45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a7a57690b54b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/I. Important cybersecurity tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f3a8f3d7f1f3c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/I. Important cybersecurity tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "202a59204f0e80cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9b320d994cde1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/I. Important cybersecurity tools.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d6353b54fbfd4421",
+  "lastOpenFiles": [
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Images/Pasted image 20230821123259.png",
+    "Pasted image 20230821123223.png",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/I. Important cybersecurity tools.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Protecting and Preserving Evidence.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Chain of Custody Playbook.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Order of Volatility.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 1/Terms/Playbook.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Network Protocol Analyzer (Packet Sniffer).md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Security Information and Event Management (SIEM) Tools.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Logs.md",
+    "log.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Wireshark.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Packet Sniffer.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Chronicle.md",
+    "Google-Cybersecurity-Certification-Notes/Foundations Of Cybersecurity/Week 4/Terms/Splunk.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 1/Terms/Sensitive Personally Identifiable Information.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/II. Ethics in cybersecurity.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 1/Terms/Personally Identifiable Information.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 1/Terms/Confidentiality.md",
+    "Privacy Protection.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms/Hacktivist.md",
+    "hacktivist.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms/Vigilante.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms/Security Ethics.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms/Laws.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms/Privacy Protections.md",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/I. Framework and controls.md",
+    "tRYBVP2USbGPopkOfhzPpw_6ab653e71a614420b313c9e7675893f1_PULBC_YPYaRtzxvZUx-luk79t2pB_kZEoF2XeW17w6D2BekL7XaIUhCIAf65kNzAZU-WXYJ6IwhMr_jwiPhYMd2kWk5TyfeNFUy4ax3hyj_fJbtGSEw4UB0bzaA-E-gKD5tG8yud6Q2kmQFomLoF4CGW-0cC.png",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Images",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Images/Pasted image 20230819191627.png",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 3/Terms",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 2/Terms",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 2",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 1/Terms",
+    "Google Cybersecurity Certification/Foundations Of Cybersecurity/Week 1",
+    "Pasted image 20230730153109.png",
+    "Python Essentials 1/Module 3",
+    "Python Essentials 1/Module 2",
+    "Python Essentials 1/Module 2. Python Data Types, Variables, Operators, and Basic I-O Operations/2.1 Section 1 – The Hello, World Program",
+    "Python Essentials 1/Module 2. Python Data Types, Variables, Operators, and Basic I-O Operations"
+  ]
+}

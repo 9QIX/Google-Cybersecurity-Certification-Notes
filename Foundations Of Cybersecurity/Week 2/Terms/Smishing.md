@@ -1,1 +1,0 @@
-**[[Smishing]]:** The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.

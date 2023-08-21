@@ -1,3 +1,0 @@
-An [[Internal Threat]] can be a current or former employee, an external vendor, or a trusted partner who poses a security risk. At times, an internal threat is accidental. For example, an employee who accidentally clicks on a malicious email link would be considered an accidental threat. Other times, the internal threat actor _intentionally_ engages in risky activities, such as unauthorized data access.
-
-**[[Internal threat]]:** A current or former employee, external vendor, or trusted partner who poses a security risk

@@ -1,3 +1,0 @@
-Authorized hackers are also called [[Ethical Hackers]]. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
-
-Other types of hackers are not motivated by any particular agenda other than completing the job they were contracted to do. These types of hackers can be considered **unethical or ethical hackers**. They have been known to work on both illegal and legal tasks for pay.

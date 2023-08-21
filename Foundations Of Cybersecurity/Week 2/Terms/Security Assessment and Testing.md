@@ -1,3 +1,0 @@
-- #### [[Security Assessment and Testing]]
-	- This domain focuses on *conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities*. 
-	- Security analysts may conduct regular audits of user permissions, to make sure that users have the correct level of access. For example, access to payroll information is often limited to certain employees, so analysts may be asked to regularly audit permissions to ensure that no unauthorized person can view employee salaries. 

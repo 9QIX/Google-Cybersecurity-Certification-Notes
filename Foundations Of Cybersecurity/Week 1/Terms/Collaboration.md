@@ -1,1 +1,0 @@
-[[Collaboration]] means working with stakeholders and other team members. Security analysts often use this skill when responding to an active threat. They'll work with others when blocking unauthorized access and ensuring any compromised systems are restored.

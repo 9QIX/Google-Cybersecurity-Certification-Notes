@@ -1,3 +1,0 @@
-- [[Privacy Protections]] - means safeguarding personal information from unauthorized use. 
-	- For example, imagine you receive a personal email after hours from your manager requesting a colleague's home phone number. Your manager explains that they can't access the employee database at the moment, but they need to discuss an urgent matter with that person
-	- As a security analyst, your role is to follow the policies and procedures of your company, which in this example, state that employee information is stored in a secure database and should never be accessed or shared in any other format.

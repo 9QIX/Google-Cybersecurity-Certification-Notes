@@ -1,1 +1,0 @@
-**[[Security Governance]]:** Practices that help support, define, and direct security efforts of an organization

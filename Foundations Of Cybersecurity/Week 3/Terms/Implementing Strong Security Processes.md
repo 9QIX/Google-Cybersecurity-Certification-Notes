@@ -1,3 +1,0 @@
-- **[[Implementing Strong Security Processes]]**
-	- In the case of GDPR, a security analyst working for a social media company may help design procedures to ensure the organization complies with verified user data requests. 
-	- An example of this type of request is when a user attempts to update or delete their profile information.
