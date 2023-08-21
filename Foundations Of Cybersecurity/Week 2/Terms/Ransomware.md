@@ -1,1 +1,0 @@
-**[[Ransomware]]:** A malicious attack where threat actors encrypt an organization's data and demand payment to restore access. 

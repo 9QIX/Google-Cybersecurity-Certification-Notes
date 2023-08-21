@@ -1,1 +1,0 @@
-- [[Malicious Flash Drive]] - A USB storage device intentionally loaded with malware or harmful code, intended to infect or compromise systems upon insertion.

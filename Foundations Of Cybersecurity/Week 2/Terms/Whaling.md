@@ -1,1 +1,0 @@
-**[[Whaling]]:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.

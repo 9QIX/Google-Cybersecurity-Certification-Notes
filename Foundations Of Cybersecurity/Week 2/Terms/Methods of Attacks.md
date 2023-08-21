@@ -1,2 +1,0 @@
-[[Social Engineering]] is a manipulation technique that exploits human error to gain private information, access, or valuables.
-[[Phishing]] is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.

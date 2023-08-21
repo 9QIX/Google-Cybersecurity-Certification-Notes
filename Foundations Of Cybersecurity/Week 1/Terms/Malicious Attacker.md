@@ -1,1 +1,0 @@
-A [[Threat Actor]], or [[Malicious Attacker]], is any person or group who presents a security risk. This risk can relate to computers, applications, networks, and data.

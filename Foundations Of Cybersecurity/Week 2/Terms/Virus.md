@@ -1,1 +1,0 @@
-**[[Virus]]:** refer to “computer virus”
