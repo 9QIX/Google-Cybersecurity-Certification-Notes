@@ -1,0 +1,3 @@
+- **[[Playbook]]** - is a manual that provides details about any operational action, such as how to respond to an incident. 
+	- Playbooks, which vary from one organization to the next, guide analysts in how to handle a security incident before, during, and after it has occurred. 
+	- Playbooks can pertain to security or compliance reviews, access management, and many other organizational tasks that require a documented process from beginning to end.

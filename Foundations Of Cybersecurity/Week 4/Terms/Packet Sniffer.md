@@ -1,0 +1,1 @@
+A packet sniffer is a tool designed to capture and analyze data traffic within a network. Common network protocol analyzers include tcpdump and [[Wireshark]].
