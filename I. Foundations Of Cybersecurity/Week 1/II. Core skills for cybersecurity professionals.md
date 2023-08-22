@@ -7,7 +7,7 @@
 	- [[Problem Solving]]
 - [[Technical Skills]] may apply to several professions as well.
 	- [[Programming Language]]
-	-  [[Security Information and Event Management]] or SIEM
+	-  [[Security Information and Event Management (SIEM)]] or SIEM
 	- [[Computer Forensics]]
 
 
@@ -34,7 +34,7 @@ There are many technical skills that will help you be successful in the cybersec
 
 - [[Programming Languages]]: By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming. Examples of tasks that programming can be used for include searching data to identify potential threats or organizing and analyzing information to identify patterns related to security issues. 
     
-- [[Security Information and Event Management]] (SIEM) tools: SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
+- [[Security Information and Event Management (SIEM)]] (SIEM) tools: SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
     
 - [[Intrusion Detection Systems]] (IDSs): Cybersecurity analysts use IDSs to monitor system activity and alerts for possible intrusions. It’s important to become familiar with IDSs because they’re a key tool that every organization uses to protect assets and data. For example, you might use an IDS to monitor networks for signs of malicious activity, like unauthorized access to a network.
     
@@ -74,7 +74,7 @@ Explore how entry-level security analysts use a range of skills to help keep org
 
 - Analysts may sometimes work with software development teams to analyze and support security, install software, and set up appropriate processes. When involved with **software development** projects, it can be helpful for an analyst to **understand [[Programming Languages]]**.
 
-- When security analysts need to review vulnerabilities, they conduct a **periodic security audit.** This is a review of an organization’s records, activities, and related documents. During audits, [[Security Information and Event Management]] (SIEM) tools help analysts better understand security threats, risks, and vulnerabilities.
+- When security analysts need to review vulnerabilities, they conduct a **periodic security audit.** This is a review of an organization’s records, activities, and related documents. During audits, [[Security Information and Event Management (SIEM)]] (SIEM) tools help analysts better understand security threats, risks, and vulnerabilities.
 
 Entry-level security analysts will perform a range of tasks on the job, and a number of transferable skills can help an analyst successfully complete those tasks.
 

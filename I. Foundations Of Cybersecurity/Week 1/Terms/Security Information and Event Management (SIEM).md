@@ -1,0 +1,3 @@
+[[Security Information and Event Management (SIEM)]] tools: SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
+
+When security analysts need to review vulnerabilities, they conduct a **periodic security audit.** This is a review of an organization’s records, activities, and related documents. During audits, [[Security Information and Event Management (SIEM)]] (SIEM) tools** help analysts better understand security threats, risks, and vulnerabilities.
