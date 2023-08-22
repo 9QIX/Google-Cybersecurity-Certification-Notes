@@ -1,0 +1,1 @@
+[[Python]] - Security professionals can use Python to perform tasks that are repetitive and time-consuming and that require a high level of detail and accuracy.
