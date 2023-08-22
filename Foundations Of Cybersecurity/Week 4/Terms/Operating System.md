@@ -1,0 +1,1 @@
+An **[[Operating System]]** is the interface between computer hardware and the user. Linux®, macOS®, and Windows are operating systems. They each offer different functionality and user experiences. 

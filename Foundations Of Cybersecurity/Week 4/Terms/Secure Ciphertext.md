@@ -1,0 +1,1 @@
+**[[Plaintext]]** is unencrypted information and **[[Secure Ciphertext]]** is the result of encryption.  

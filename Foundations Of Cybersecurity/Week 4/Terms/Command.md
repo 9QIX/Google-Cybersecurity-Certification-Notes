@@ -1,0 +1,1 @@
+A **[[Command]]** is an instruction telling the computer to do something. 

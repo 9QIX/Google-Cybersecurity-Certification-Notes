@@ -1,0 +1,1 @@
+**[[Antivirus Software]]** is a software program used to prevent, detect, and eliminate malware and viruses. It is also called anti-malware. Depending on the type of antivirus software, it can scan the memory of a device to find patterns that indicate the presence of malware. 

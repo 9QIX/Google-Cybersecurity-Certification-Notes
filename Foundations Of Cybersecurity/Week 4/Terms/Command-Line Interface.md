@@ -1,0 +1,1 @@
+A **[[Command-Line Interface]]** is a text-based user interface that uses commands to interact with the computer.

@@ -1,0 +1,1 @@
+A **[[Data Point]]** is a specific piece of information. 

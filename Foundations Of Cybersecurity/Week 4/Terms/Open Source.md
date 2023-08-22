@@ -1,0 +1,1 @@
+**[[Open Source]]** means that the code is available to the public and allows people to make contributions to improve the software. 

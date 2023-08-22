@@ -1,0 +1,1 @@
+**[[Automation]]** is the use of technology to reduce human and manual effort in performing common and repetitive tasks. Automation also helps reduce the risk of human error.

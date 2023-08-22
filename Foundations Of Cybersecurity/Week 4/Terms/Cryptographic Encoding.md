@@ -1,0 +1,1 @@
+**[[Cryptographic Encoding]]** means converting plaintext into secure ciphertext. 
