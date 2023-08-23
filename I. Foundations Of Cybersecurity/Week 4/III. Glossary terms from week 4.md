@@ -25,3 +25,5 @@
 **[[Security Information and Event Management (SIEM)]]**: An application that collects and analyzes log data to monitor critical activities in an organization
 
 **[[Structured Query Language (SQL)]]:** A programming language used to create, interact with, and request information from a database
+
+# Complete Course 1 Glossary: [Course 1 Glossary](https://docs.google.com/document/d/1bBtBHYrrm4kmWJqJVmeNUDPG24ydGvc4ACMLoP9zzps/template/preview?usp=sharing&resourcekey=0-0uttQ9n9hmekaJBuPVjWMg "Course 1 glossary")

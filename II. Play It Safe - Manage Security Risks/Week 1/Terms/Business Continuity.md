@@ -1,0 +1,1 @@
+[[Business Continuity]] relates to an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans. 

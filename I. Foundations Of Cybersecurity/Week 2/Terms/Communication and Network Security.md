@@ -1,7 +1,8 @@
 - #### [[Communication and Network Security]]
 	- This domain focuses on *managing and securing physical networks and wireless communications*. 
 	- As a security analyst, you may be asked to analyze user behavior within your organization.
-
+	- Secure networks keep an organization's data and communications safe whether on-site, or in the cloud, or when connecting to services remotely. 
+	- For example, employees working remotely in public spaces need to be protected from vulnerabilities that can occur when they use insecure bluetooth connections or public wifi hotspots. By having security team members remove access to those types of communication channels at the organizational level, employees may be discouraged from practicing insecure behavior that could be exploited by threat actors. 
 ## **[[Password Attack]]**
 
 A **password attack** is an attempt to access password-secured devices, systems, networks, or data. Some forms of password attacks that you’ll learn about later in the certificate program are:  

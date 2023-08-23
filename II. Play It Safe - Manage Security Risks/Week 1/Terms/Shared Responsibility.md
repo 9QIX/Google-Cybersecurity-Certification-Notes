@@ -1,0 +1,1 @@
+[[Shared Responsibility]] means that all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security. By having policies that encourage users to recognize and report security concerns, many issues can be handled quickly and effectively. 

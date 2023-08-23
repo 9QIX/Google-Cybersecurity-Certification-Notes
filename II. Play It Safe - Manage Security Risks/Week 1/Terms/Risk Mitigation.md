@@ -1,0 +1,1 @@
+[[Risk Mitigation]] means having the right procedures and rules in place to quickly reduce the impact of a risk like a breach. **Compliance** is the primary method used to develop an organization's internal security policies, regulatory requirements, and independent standards. 

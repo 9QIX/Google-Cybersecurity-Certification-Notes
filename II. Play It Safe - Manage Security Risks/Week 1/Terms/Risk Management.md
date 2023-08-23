@@ -1,0 +1,1 @@
+**[[Risk Management]]** - There are several areas of focus for this domain: defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulations. By defining security goals and objectives, organizations can reduce risks to critical assets and data like PII, or personally identifiable information. 
