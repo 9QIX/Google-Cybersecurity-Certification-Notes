@@ -43,7 +43,7 @@
 
 # Security domains cybersecurity analysts need to know
 
-As an analyst, you can explore various areas of cybersecurity that interest you. One way to explore those areas is by understanding different security domains and how they’re used to organize the work of security professionals. In this reading you will learn more about CISSP’s eight security domains and how they relate to the work you’ll do as a security analyst.
+As an analyst, you can explore various areas of cybersecurity that interest you. One way to explore those areas is by understanding different security domains and how they’re used to organize the work of security professionals. In this reading you will learn more about CISSP’s eight security domains and how they relate to the work you’ll do as a security analyst
 
 ![Illustration des huit icônes symbolisant les domaines de sécurité de la certification CISSP](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/j1FbNS82S1yYlxE-Igbeww_15365b8830a9459285e35f2c933705f1_1oSzH-WlqUZe0MTeQnysKIvtlhXgJLES9dw5McvmUZL-EwfcEQLEDVcXErzxOnVYOJlIqqAK1mafq5Oq9C3lniHKrVvbcChb4_eChT-nusF47qadYlvZV05YzW302o7kstvEsIOw48J8Op_AsTU793sNiXroLTeq8gCo5KrOZiNiIqp6f2P0PLfdfv-BBQ?expiry=1693008000000&hmac=OoAMCGMuWHvuMVLYZeVQRbF5gdrh9dBpohFu22uZ4P0)
 
