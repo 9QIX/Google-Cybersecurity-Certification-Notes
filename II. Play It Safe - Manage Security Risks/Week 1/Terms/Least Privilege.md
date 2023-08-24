@@ -1,0 +1,1 @@
+[[Least Privilege]], which is the concept of granting only the minimal access and authorization required to complete a task. 
