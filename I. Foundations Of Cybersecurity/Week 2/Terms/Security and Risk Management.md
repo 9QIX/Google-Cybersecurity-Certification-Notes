@@ -2,6 +2,7 @@
 	- Security and risk management focuses on defining *security goals and objectives, risk mitigation, compliance, business continuity, and the law*.  
 	- For example, security analysts may need to update company policies related to private health information if a change is made to a federal compliance regulation such as the Health Insurance Portability and Accountability Act, also known as HIPAA.
 
+# Attacks that Occur in Security and Risk Management
 ### **[[Social Engineering Attack]]**
 
 **Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables. Some forms of social engineering attacks that you will continue to learn about throughout the program are:
@@ -22,3 +23,24 @@ Social engineering attacks are related to the [[security and risk management]]do
 ### **[[Supply-Chain Attack]]**
 
 A **supply-chain attack** targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed. Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain. These attacks are costly because they can affect multiple organizations and the individuals who work for them. Supply-chain attacks can fall under several domains, including but not limited to the [[security and risk management]], [[security architecture and engineering]], and [[security operations]] domains.
+
+# Domain one: [[Security and risk management]]
+
+All organizations must develop their security posture. Security posture is an organization’s ability to manage its defense of critical assets and data and react to change. Elements of the security and risk management domain that impact an organization's security posture include:
+
+- Security goals and objectives
+- Risk mitigation processes
+- Compliance
+- Business continuity plans
+- Legal regulations
+- Professional and organizational ethics
+
+[[Information security]], or InfoSec, is also related to this domain and refers to a set of processes established to secure information. An organization may use playbooks and implement training as a part of their security and risk management program, based on their needs and perceived risk. There are many InfoSec design processes, such as:
+
+- Incident response
+- Vulnerability management
+- Application security
+- Cloud security
+- Infrastructure security
+
+As an example, a security team may need to alter how personally identifiable information (PII) is treated in order to adhere to the European Union's General Data Protection Regulation (GDPR).

@@ -43,72 +43,55 @@
 
 # Security domains cybersecurity analysts need to know
 
-As an analyst, you can explore various areas of cybersecurity that interest you. One way to explore those areas is by understanding different security domains and how they’re used to organize the work of security professionals. In this reading you will learn more about CISSP’s eight security domains and how they relate to the work you’ll do as a security analyst
+As an analyst, you can explore various areas of cybersecurity that interest you. One way to explore those areas is by understanding different security domains and how they’re used to organize the work of security professionals. In this reading you will learn more about CISSP’s eight security domains and how they relate to the work you’ll do as a security analyst.
 
 ![Illustration des huit icônes symbolisant les domaines de sécurité de la certification CISSP](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/j1FbNS82S1yYlxE-Igbeww_15365b8830a9459285e35f2c933705f1_1oSzH-WlqUZe0MTeQnysKIvtlhXgJLES9dw5McvmUZL-EwfcEQLEDVcXErzxOnVYOJlIqqAK1mafq5Oq9C3lniHKrVvbcChb4_eChT-nusF47qadYlvZV05YzW302o7kstvEsIOw48J8Op_AsTU793sNiXroLTeq8gCo5KrOZiNiIqp6f2P0PLfdfv-BBQ?expiry=1693008000000&hmac=OoAMCGMuWHvuMVLYZeVQRbF5gdrh9dBpohFu22uZ4P0)
 
-## Domain one: Security and risk management
+## Domain one: [[Security and risk management]]
 
-All organizations must develop their security posture. Security posture is an organization’s ability to manage its defense of critical assets and data and react to change. Elements of the security and risk management domain that impact an organization's security posture include:
+All organizations must develop their [[security posture]]. Security posture is an organization’s ability to manage its defense of critical assets and data and react to change. Elements of the security and risk management domain that impact an organization's security posture include:
 
 - Security goals and objectives
-    
 - Risk mitigation processes
-    
 - Compliance
-    
 - Business continuity plans
-    
 - Legal regulations
-    
 - Professional and organizational ethics
-    
 
-Information security, or InfoSec, is also related to this domain and refers to a set of processes established to secure information. An organization may use playbooks and implement training as a part of their security and risk management program, based on their needs and perceived risk. There are many InfoSec design processes, such as:
+[[Information Security]], or InfoSec, is also related to this domain and refers to a set of processes established to secure information. An organization may use playbooks and implement training as a part of their security and risk management program, based on their needs and perceived risk. There are many InfoSec design processes, such as:
 
 - Incident response
-    
 - Vulnerability management
-    
 - Application security
-    
 - Cloud security
-    
 - Infrastructure security
-    
 
 As an example, a security team may need to alter how personally identifiable information (PII) is treated in order to adhere to the European Union's General Data Protection Regulation (GDPR).
 
-## Domain two: Asset security
+## Domain two: [[Asset security]]
 
-Asset security involves managing the cybersecurity processes of organizational assets, including the storage, maintenance, retention, and destruction of physical and virtual data. Because the loss or theft of assets can expose an organization and increase the level of risk, keeping track of assets and the data they hold is essential. Conducting a security impact analysis, establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment if a security incident places the organization’s data at risk.
+Asset security involves managing the cybersecurity processes of organizational assets, including the storage, maintenance, retention, and destruction of physical and virtual data. 
 
-## Domain three: Security architecture and engineering
+Because the loss or theft of assets can expose an organization and increase the level of risk, keeping track of assets and the data they hold is essential. Conducting a security impact analysis, establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment if a security incident places the organization’s data at risk.
+
+## Domain three: [[Security architecture and engineering]]
 
 This domain focuses on managing data security. Ensuring effective tools, systems, and processes are in place helps protect an organization’s assets and data. Security architects and engineers create these processes.
 
 One important aspect of this domain is the concept of shared responsibility. Shared responsibility means all individuals involved take an active role in lowering risk during the design of a security system. Additional design principles related to this domain, which are discussed later in the program, include:
 
 - Threat modeling
-    
 - Least privilege
-    
 - Defense in depth
-    
 - Fail securely
-    
 - Separation of duties
-    
 - Keep it simple
-    
 - Zero trust
-    
 - Trust but verify
-    
 
-An example of managing data is the use of a security information and event management (SIEM) tool to monitor for flags related to unusual login or user activity that could indicate a threat actor is attempting to access private data.
+An example of managing data is the use of a [[security information and event management (SIEM)]] tool to monitor for flags related to unusual login or user activity that could indicate a [[threat actor]] is attempting to access private data.
 
-## Domain four: Communication and network security
+## Domain four: [[Communication and network security]]
 
 This domain focuses on managing and securing physical networks and wireless communications. This includes on-site, remote, and cloud communications. 
 
