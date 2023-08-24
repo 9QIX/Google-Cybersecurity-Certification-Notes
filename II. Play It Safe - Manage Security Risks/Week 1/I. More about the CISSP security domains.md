@@ -140,3 +140,9 @@ For example, an entry-level analyst working for a pharmaceutical company might b
 ## Key takeaways
 
 In this reading, you learned more about the focus areas of the eight CISSP security domains. In addition, you learned about InfoSec and the principle of least privilege. Being familiar with these security domains and related concepts will help you gain insight into the field of cybersecurity.
+
+# Identify: CISSP's eight security domains
+
+![[Pasted image 20230825022407.png]]
+![[Pasted image 20230825022521.png]]
+
