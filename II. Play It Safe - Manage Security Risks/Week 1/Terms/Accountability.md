@@ -1,0 +1,1 @@
+[[Accountability]] refers to monitoring and recording user actions, like login attempts, to prove systems and data are used properly. 

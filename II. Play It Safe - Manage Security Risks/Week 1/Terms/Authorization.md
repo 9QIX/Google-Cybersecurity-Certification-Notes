@@ -1,0 +1,1 @@
+[[Authorization]] takes place after a user's identity has been confirmed and relates to their level of access, which depends on the role in the organization. 

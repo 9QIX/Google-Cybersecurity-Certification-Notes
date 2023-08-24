@@ -1,0 +1,1 @@
+[[Authentication]] is the verification process to prove a person's identity, such as entering a password or PIN. 

@@ -1,0 +1,1 @@
+ A [[Digital Forensic investigation]] must take place to identify when, how, and why the breach occurred. This helps security teams determine areas for improvement and preventative measures that can be taken to mitigate future attacks. 

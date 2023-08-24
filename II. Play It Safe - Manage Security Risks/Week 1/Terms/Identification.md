@@ -1,0 +1,1 @@
+[[Identification]] is when a user verifies who they are by providing a user name, an access card, or biometric data such as a fingerprint. 
