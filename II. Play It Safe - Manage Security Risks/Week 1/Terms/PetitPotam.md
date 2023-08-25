@@ -1,0 +1,1 @@
+- **[[PetitPotam]]:** Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.

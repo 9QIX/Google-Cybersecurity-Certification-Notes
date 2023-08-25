@@ -87,39 +87,37 @@ Following are some common types of threats, risks, and vulnerabilities you’ll 
 
 ### **Threats**
 
-A **threat** is any circumstance or event that can negatively impact assets. As an entry-level security analyst, your job is to help defend the organization’s assets from inside and outside threats. Therefore, understanding common types of threats is important to an analyst’s daily work. As a reminder, common threats include:
-
-- **Insider threats:** Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
-- **Advanced persistent threats (APTs):** A threat actor maintains unauthorized access to a system for an extended period of time.
+A **[[threat]]** is any circumstance or event that can negatively impact assets. As an entry-level security analyst, your job is to help defend the organization’s assets from inside and outside threats. Therefore, understanding common types of threats is important to an analyst’s daily work. As a reminder, common threats include:
+- **[[Insider Threats]]:** Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
+- **[[Advanced Persistent Threats (APTs)]]:** A threat actor maintains unauthorized access to a system for an extended period of time.
 
 ### **Risks**
 
-A **risk** is anything that can impact the confidentiality, integrity, or availability of an asset. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. One way to think about this is that a risk is being late to work and threats are traffic, an accident, a flat tire, etc. 
+A **[[risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. One way to think about this is that a risk is being late to work and threats are traffic, an accident, a flat tire, etc. 
 
 There are different factors that can affect the likelihood of a risk to an organization’s assets, including:
-
-- **External risk:** Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information
-- **Internal risk:** A current or former employee, vendor, or trusted partner who poses a security risk
-- **Legacy systems:** Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
-- **Multiparty risk:** Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
-- **Software compliance/licensing:** Software that is not updated or in compliance, or patches that are not installed in a timely manner
+- **[[External Risk]]:** Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information
+- **[[Internal Risk]]:** A current or former employee, vendor, or trusted partner who poses a security risk
+- **[[Legacy Systems]]:** Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
+- **[[Multiparty Risk]]:** Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
+- **[[Software Compliance or Licensing]]:** Software that is not updated or in compliance, or patches that are not installed in a timely manner
 
 There are many resources, such as the NIST, that provide lists of [cybersecurity risks](https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics/cybersecurity-risks). Additionally, the Open Web Application Security Project (OWASP) publishes a standard awareness document about the [top 10 most critical security risks](https://owasp.org/www-project-top-ten/) to web applications, which is updated regularly.
 
 **Note:** The OWASP’s common attack types list contains three new risks for the years 2017 to 2021: insecure design, software and data integrity failures, and server-side request forgery. This update emphasizes the fact that security is a constantly evolving field. It also demonstrates the importance of staying up to date on current threat actor tactics and techniques, so you can be better prepared to manage these types of risks.
 
-![Listes comparant les 10 types d'attaques les plus courants entre 2017 et 2021](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/szc-NuF5QlGxA_zoi9LvEg_f089df6d2f2b4fd0bf7ebd806ed63cf1_S33G012.png?expiry=1693094400000&hmac=u4RLwpVAEhMjBYZnkvWqgYJ-RKGii7zS0Q531UVF6kw)
+![[Pasted image 20230825184618.png]]
 
 ### **Vulnerabilities**
 
-A **vulnerability** is a weakness that can be exploited by a threat. Therefore, organizations need to regularly inspect for vulnerabilities within their systems. Some vulnerabilities include:
+A **[[vulnerability]]** is a weakness that can be exploited by a threat. Therefore, organizations need to regularly inspect for vulnerabilities within their systems. Some vulnerabilities include:
 
-- **ProxyLogon:** A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.
-- **ZeroLogon:** A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
-- **Log4Shell:** Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
-- **PetitPotam:** Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.
-- **Security logging and monitoring failures:** Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
-- **Server-side request forgery:** Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
+- **[[ProxyLogon]]:** A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.
+- **[[ZeroLogon]]:** A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
+- **[[Log4Shell]]:** Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
+- **[[PetitPotam]]:** Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.
+- **[[Security Logging and Monitoring Failures]]:** Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
+- **[[Server-Side Request Forgery]]:** Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
 
 As an entry-level security analyst, you might work in vulnerability management, which is monitoring a system to identify and mitigate vulnerabilities. Although patches and updates may exist, if they are not applied, intrusions can still occur. For this reason, constant monitoring is important. The sooner an organization identifies a vulnerability and addresses it by patching it or updating their systems, the sooner it can be mitigated, reducing the organization’s exposure to the vulnerability.
 

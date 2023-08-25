@@ -1,0 +1,1 @@
+- **[[Advanced Persistent Threats (APTs)]]:** A threat actor maintains unauthorized access to a system for an extended period of time.

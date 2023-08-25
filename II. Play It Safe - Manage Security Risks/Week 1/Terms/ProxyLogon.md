@@ -1,0 +1,1 @@
+- **[[ProxyLogon]]:** A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.

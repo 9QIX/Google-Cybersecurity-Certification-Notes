@@ -1,0 +1,1 @@
+- **[[Server-Side Request Forgery]]:** Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.

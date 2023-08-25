@@ -1,5 +1,5 @@
 - A **[[Risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. Think of a risk as the likelihood of a threat occurring. 
-	An example of a risk to an organization might be the lack of backup protocols for making sure its stored information can be recovered in the event of an accident or security incident. 
+	- An example of a risk to an organization might be the lack of backup protocols for making sure its stored information can be recovered in the event of an accident or security incident. 
 	- Organizations tend to rate risks at different levels: low, medium, and high, depending on possible threats and the value of an asset.
 		- A **[[Low-Risk Asset]]** is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised. 
 			- This includes public information such as website content, or published research data.
@@ -7,3 +7,12 @@
 			- For example, the early release of a company's quarterly earnings could impact the value of their stock.
 		- A **[[High-Risk Asset]]** is any information protected by regulations or laws, which if compromised, would have a severe negative impact on an organization's finances, ongoing operations, or reputation. 
 			- This could include leaked assets with SPII, PII, or intellectual property.
+
+A **[[risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. One way to think about this is that a risk is being late to work and threats are traffic, an accident, a flat tire, etc. 
+
+There are different factors that can affect the likelihood of a risk to an organization’s assets, including:
+- **[[External Risk]]:** Anything outside the organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information
+- **[[Internal Risk]]:** A current or former employee, vendor, or trusted partner who poses a security risk
+- **[[Legacy Systems]]:** Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
+- **[[Multiparty Risk]]:** Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
+- **[[Software Compliance or Licensing]]:** Software that is not updated or in compliance, or patches that are not installed in a timely manner

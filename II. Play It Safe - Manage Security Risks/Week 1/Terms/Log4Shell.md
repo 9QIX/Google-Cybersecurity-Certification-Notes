@@ -1,0 +1,1 @@
+- **[[Log4Shell]]:** Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.

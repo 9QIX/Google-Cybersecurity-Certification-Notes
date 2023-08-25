@@ -1,0 +1,1 @@
+- **[[Security Logging and Monitoring Failures]]:** Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
