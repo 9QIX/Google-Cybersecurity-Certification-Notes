@@ -1,0 +1,2 @@
+**[[Implement]]** security and privacy plans for the organization. Having good plans in place is essential for minimizing the impact of ongoing security risks.
+   - For example, if you notice a pattern of employees constantly needing password resets, implementing a change to password requirements may help solve this issue.

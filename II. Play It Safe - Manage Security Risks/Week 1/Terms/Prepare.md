@@ -1,0 +1,2 @@
+- **[[Prepare]]** refers to activities that are necessary to manage security and privacy risks before a breach occurs. 
+	- As an entry-level analyst, you'll likely use this step to monitor for risks and identify controls that can be used to reduce those risks. 

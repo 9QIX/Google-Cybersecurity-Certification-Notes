@@ -1,0 +1,2 @@
+**[[Authorize]]** means being accountable for the security and privacy risks that may exist in an organization.
+   - As an analyst, the authorization step could involve generating reports, developing plans of action, and establishing project milestones that are aligned to your organization's security goals.
