@@ -4,7 +4,7 @@ Welcome to my repository for notes and resources related to the **Google Cyberse
 
 ## Table of Contents 📚
 
-1. [Foundations of Cybersecurity]() 🌐
+1. [Foundations of Cybersecurity](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/I.%20Foundations%20Of%20Cybersecurity) 🌐
 2. [Play It Safe: Manage Security Risks](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/II.%20Play%20It%20Safe%20-%20Manage%20Security%20Risks/Week%201) 🔑
 3. [Connect and Protect: Networks and Network Security]() 🌐🔌
 4. [Tools of the Trade: Linux and SQL]() 🛡️
