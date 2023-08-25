@@ -1,0 +1,1 @@
+- The **[[Deep Web]]** Generally requires authorization to access it. An organization's intranet is an example of the deep web, since it can only be accessed by employees or others who have been granted access. 

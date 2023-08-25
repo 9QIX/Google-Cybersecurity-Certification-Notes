@@ -1,0 +1,2 @@
+- A **[[Medium-Risk Asset]]** might include information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations. 
+	- For example, the early release of a company's quarterly earnings could impact the value of their stock.

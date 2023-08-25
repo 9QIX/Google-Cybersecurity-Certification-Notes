@@ -1,0 +1,2 @@
+- **[[Identity Theft]]** - Organizations must decide whether to store private customer, employee, and outside vendor data, and for how long. Storing any type of sensitive data presents a risk to the organization. 
+	- Sensitive data can include personally identifiable information, or PII, which can be sold or leaked through the dark web. That's because the dark web provides a sense of secrecy and threat actors may have the ability to sell data there without facing legal consequences. 

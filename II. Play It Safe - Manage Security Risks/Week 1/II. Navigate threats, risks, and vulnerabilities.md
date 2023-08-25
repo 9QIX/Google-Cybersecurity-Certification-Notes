@@ -6,7 +6,7 @@ Let's review what threats, risks, and vulnerabilities are and discuss some commo
 
 - A **[[threat]]** is any circumstance or event that can negatively impact assets. One example of a threat is a social engineering attack. 
 	- [[Social engineering]] is a manipulation technique that exploits human error to gain private information, access, or valuables. Malicious links in email messages that look like they're from legitimate companies or people is one method of social engineering known as phishing. As a reminder, phishing is a technique that is used to acquire sensitive data, such as user names, passwords, or banking information.
-- A **[[risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. Think of a risk as the likelihood of a threat occurring. 
+- A **[[Risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. Think of a risk as the likelihood of a threat occurring. 
 	An example of a risk to an organization might be the lack of backup protocols for making sure its stored information can be recovered in the event of an accident or security incident. 
 	- Organizations tend to rate risks at different levels: low, medium, and high, depending on possible threats and the value of an asset.
 		- A **[[Low-Risk Asset]]** is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised. 
@@ -33,4 +33,8 @@ Let's review what threats, risks, and vulnerabilities are and discuss some commo
 
 ## Three key impacts of threats, risks and vulnerabilities
 
-- 
+- **[[Financial Impact]]** - When an organization's assets are compromised by an attack, such as the use of malware, the financial consequences can be significant for a variety of reasons. These can include interrupted production and services, the cost to correct the issue, and fines if assets are compromised because of non-compliance with laws and regulations. 
+- **[[Identity Theft]]** - Organizations must decide whether to store private customer, employee, and outside vendor data, and for how long. Storing any type of sensitive data presents a risk to the organization. 
+	- Sensitive data can include personally identifiable information, or PII, which can be sold or leaked through the dark web. That's because the dark web provides a sense of secrecy and threat actors may have the ability to sell data there without facing legal consequences. 
+- **[[Damage to an Organization's Reputation]]** - A solid customer base supports an organization's mission, vision, and financial goals. An exploited vulnerability can lead customers to seek new business relationships with competitors or create bad press that causes permanent damage to an organization's reputation. 
+	- The loss of customer data doesn't only affect an organization's reputation and financials, it may also result in legal penalties and fines. Organizations are strongly encouraged to take proper security measures and follow certain protocols to prevent the significant impact of threats, risks, and vulnerabilities. By using all the tools in their toolkit, security teams are better prepared to handle an event such as a ransomware attack. 

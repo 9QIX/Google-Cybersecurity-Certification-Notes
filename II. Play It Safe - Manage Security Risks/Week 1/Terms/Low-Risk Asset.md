@@ -1,0 +1,2 @@
+- A **[[Low-Risk Asset]]** is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised. 
+	- This includes public information such as website content, or published research data.

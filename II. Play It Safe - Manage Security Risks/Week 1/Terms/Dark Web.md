@@ -1,0 +1,1 @@
+- The **[[Dark Web]]** can only be accessed by using special software. The dark web generally carries a negative connotation since it is the preferred web layer for criminals because of the secrecy that it provides. 

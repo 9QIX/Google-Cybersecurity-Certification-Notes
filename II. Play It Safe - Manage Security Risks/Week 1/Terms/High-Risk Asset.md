@@ -1,0 +1,2 @@
+- A **[[High-Risk Asset]]** is any information protected by regulations or laws, which if compromised, would have a severe negative impact on an organization's finances, ongoing operations, or reputation. 
+	- This could include leaked assets with SPII, PII, or intellectual property.
