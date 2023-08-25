@@ -1,0 +1,1 @@
+**[[External Threat]]:** Anything outside the organization that has the potential to harm organizational assets
