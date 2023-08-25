@@ -1,0 +1,1 @@
+- **[[Acceptance]]**: Accepting a risk to avoid disrupting business continuity

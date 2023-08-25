@@ -1,0 +1,1 @@
+- **[[Mitigation]]**: Lessening the impact of a known risk

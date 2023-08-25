@@ -1,0 +1,1 @@
+- **[[Avoidance]]**: Creating a plan to avoid the risk altogether

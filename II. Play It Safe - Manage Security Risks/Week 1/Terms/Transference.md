@@ -1,0 +1,1 @@
+- **[[Transference]]**: Transferring risk to a third party to manage
