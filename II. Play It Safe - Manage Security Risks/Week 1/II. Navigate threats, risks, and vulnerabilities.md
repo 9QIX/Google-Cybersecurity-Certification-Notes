@@ -1,0 +1,36 @@
+# Threat, risks and vulnerabilities
+
+[[Asset]] is an item perceived as having value to an organization. During their lifespan, organizations acquire all types of assets, including physical office spaces, computers, customers' PII, intellectual property, such as patents or copyrighted data, and so much more. Unfortunately, organizations operate in an environment that presents multiple security threats, risks, and vulnerabilities to their assets. 
+ 
+Let's review what threats, risks, and vulnerabilities are and discuss some common examples of each:
+
+- A **[[threat]]** is any circumstance or event that can negatively impact assets. One example of a threat is a social engineering attack. 
+	- [[Social engineering]] is a manipulation technique that exploits human error to gain private information, access, or valuables. Malicious links in email messages that look like they're from legitimate companies or people is one method of social engineering known as phishing. As a reminder, phishing is a technique that is used to acquire sensitive data, such as user names, passwords, or banking information.
+- A **[[risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. Think of a risk as the likelihood of a threat occurring. 
+	An example of a risk to an organization might be the lack of backup protocols for making sure its stored information can be recovered in the event of an accident or security incident. 
+	- Organizations tend to rate risks at different levels: low, medium, and high, depending on possible threats and the value of an asset.
+		- A **[[Low-Risk Asset]]** is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised. 
+			- This includes public information such as website content, or published research data.
+		- A **[[Medium-Risk Asset]]** might include information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations. 
+			- For example, the early release of a company's quarterly earnings could impact the value of their stock.
+		- A **[[High-Risk Asset]]** is any information protected by regulations or laws, which if compromised, would have a severe negative impact on an organization's finances, ongoing operations, or reputation. 
+			- This could include leaked assets with SPII, PII, or intellectual property.
+- **[[Vulnerability]]** is a weakness that can be exploited by a threat. ***And it's worth noting that both a vulnerability and threat must be present for there to be a risk***. 
+	- Examples of vulnerabilities include: an outdated firewall, software, or application; weak passwords; or unprotected confidential data. 
+	- People can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Whether it's a client, external vendor, or employee, maintaining security must be a united effort.
+	- So entry-level analysts need to educate and empower people to be more security conscious. For example, educating people on how to identify a phishing email is a great starting point. Using access cards to grant employee access to physical spaces while restricting outside visitors is another good security measure.
+
+# Key impacts of threats, risks and vulnerabilities
+
+- **[[Ransomware]]** is a malicious attack where threat actors encrypt an organization's data then demand payment to restore access. 
+	- Once ransomware is deployed by an attacker, it can freeze network systems, leave devices unusable, and encrypt, or lock confidential data, making devices inaccessible. The [[threat actor]] then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations. Think of a decryption key as a password provided to regain access to your data. Note that when ransom negotiations occur or data is leaked by threat actors, these events can occur through the dark web.
+
+## Three layers of the web
+
+- The **[[Surface Web]]** is the layer that most people use. It contains content that can be accessed using a web browser.
+- The **[[Deep Web]]** Generally requires authorization to access it. An organization's intranet is an example of the deep web, since it can only be accessed by employees or others who have been granted access. 
+- The **[[Dark Web]]** can only be accessed by using special software. The dark web generally carries a negative connotation since it is the preferred web layer for criminals because of the secrecy that it provides. 
+
+## Three key impacts of threats, risks and vulnerabilities
+
+- 

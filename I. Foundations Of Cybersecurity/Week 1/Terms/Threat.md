@@ -1,1 +1,4 @@
 **[[Threat]]:** Any circumstance or event that can negatively impact assets
+
+- A **[[threat]]** is any circumstance or event that can negatively impact assets. One example of a threat is a social engineering attack. 
+	- [[Social engineering]] is a manipulation technique that exploits human error to gain private information, access, or valuables. Malicious links in email messages that look like they're from legitimate companies or people is one method of social engineering known as phishing. As a reminder, phishing is a technique that is used to acquire sensitive data, such as user names, passwords, or banking information.
