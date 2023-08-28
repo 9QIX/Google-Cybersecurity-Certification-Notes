@@ -10,3 +10,6 @@
 4. [[Monitoring and Communicating Results]]
 
 **[[Compliance]]** is the process of adhering to internal standards and external regulations.
+
+[[Security frameworks]] are guidelines used for building plans to help mitigate risks and threats to data and privacy, such as social engineering attacks and ransomware. 
+	Security involves more than just the virtual space. It also includes the physical, which is why many organizations have plans to maintain safety in the work environment. For example, access to a building may require using a key card or badge. 
