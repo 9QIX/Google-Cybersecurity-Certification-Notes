@@ -1,0 +1,1 @@
+The [[Principle of Least Privilege]] limits users' access to only the information they need to complete work-related tasks. Limiting access is one way of maintaining the confidentiality and security of private data. 
