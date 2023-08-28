@@ -42,3 +42,7 @@ The **[[CIA triad]]** is a model that helps inform how organizations consider ri
 ## Key takeaways
 
 The CIA triad is essential for establishing an organization’s security posture. Knowing what it is and how it’s applied can help you better understand how security teams work to protect organizations and the people they serve.
+
+# Practice: Use the CIA triad in workplace situations
+
+![[Pasted image 20230828203054.png]]
