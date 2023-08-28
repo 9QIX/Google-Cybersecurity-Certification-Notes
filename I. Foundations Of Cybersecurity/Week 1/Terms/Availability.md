@@ -1,1 +1,1 @@
-**[[Availability]]** means data is accessible to those who are authorized to access it.
+**[[Availability]]** means data is accessible to those who are authorized to access it. Inaccessible data isn't useful and can prevent people from being able to do their jobs. As a security professional, ensuring that systems, networks, and applications are functioning properly to allow for timely and reliable access, may be a part of your everyday work responsibilities. 

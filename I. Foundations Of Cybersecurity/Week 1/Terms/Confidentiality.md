@@ -1,4 +1,4 @@
-- **[[Confidentiality]]** means that only authorized users can access specific assets or data. 
+- **[[Confidentiality]]** means that only authorized users can access specific assets or data. Sensitive data should be available on a "need to know" basis, so that only the people who are authorized to handle certain assets or data have access. 
 	- For example, strict access controls that define who should and should not have access to data, must be put in place to ensure confidential data remains safe.
 # Confidentiality in Ethics
 

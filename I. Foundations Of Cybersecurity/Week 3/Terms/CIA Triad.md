@@ -2,4 +2,4 @@ The **[[CIA Triad]]** is a foundational model that helps inform how organization
 
 The **confidentiality, integrity, and availability ([[CIA Triad]])** is a model that helps inform how organizations consider risk when setting up systems and security policies. 
 
-
+The **[[CIA triad]]** is a model that helps inform how organizations consider risk when setting up systems and security policies. As a reminder, the three letters in the CIA triad stand for confidentiality, integrity, and availability. As an entry-level analyst, you'll find yourself constantly referring to these three core principles as you work to protect your organization and the people it serves. 
