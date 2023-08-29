@@ -1,0 +1,2 @@
+- ## **[[Keep Security Simple]]**
+	- Keep security simple is the next principle. As the name suggests, ***when implementing security controls, unnecessarily complicated solutions should be avoided*** because they can become unmanageable. The more complex the security controls are, the harder it is for people to work collaboratively. 

@@ -1,0 +1,1 @@
+ An **[[Attack Surface]]** refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors, which are pathways attackers use to penetrate security defenses. 

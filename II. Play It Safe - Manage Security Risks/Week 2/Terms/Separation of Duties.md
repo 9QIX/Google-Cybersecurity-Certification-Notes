@@ -1,0 +1,3 @@
+- ## **[[Separation of Duties]]**
+	- Another principle is separation of duties, which can be used to prevent individuals from carrying out fraudulent or illegal activities. This principle means that ***no one should be given so many privileges that they can misuse the system***. 
+	- For example, the person in a company who signs the paychecks shouldn't also be the person who prepares them. 

@@ -1,0 +1,3 @@
+- ## **[[Fix Security Issues Correctly]]**
+	- The last principle is to fix security issues correctly. Technology is a great tool, but can also present challenges. 
+	- When a security incident occurs, security professionals are expected to identify the root cause quickly. From there, it's important to correct any identified vulnerabilities and conduct tests to ensure that repairs are successful. 
