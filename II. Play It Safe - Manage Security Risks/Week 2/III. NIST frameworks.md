@@ -24,3 +24,25 @@ The NIST CSF also expands into the protection of the United States federal gover
 The security controls provided by this framework are used to maintain the CIA triad for those systems used by the government.
 
 Having an understanding of the NIST, SP 800-53 is crucial if you have an interest in working for the US federal government. 
+
+# Explore the five functions of the NIST Cybersecurity Framework
+
+NIST CSF focuses on five core functions: ***identify, protect, detect, respond, and recover***. These core functions help organizations manage cybersecurity risks, implement risk management strategies, and learn from previous mistakes. Basically, when it comes to security operations, NIST CSF functions are key for making sure an organization is protected against potential threats, risks, and vulnerabilities. So let's take a little time to explore how each function can be used to improve an organization's security. 
+
+- ## Identify
+	- The first core function is **[[Identify]]**, which is related to the ***management of cybersecurity risk and its effect on an organization's people and assets***. 
+	- For example, as a security analyst, you may be asked to monitor systems and devices in your organization's internal network to identify potential security issues 
+- ## Protect
+	- The second core function is **[[Protect]]**, which is the strategy used to protect an organization through the ***implementation of policies, procedures, training, and tools*** that help mitigate cybersecurity threats. 
+	- For example, as a security analyst, you and your team might encounter new and unfamiliar threats and attacks. For this reason, studying historical data and making improvements to policies and procedures is essential. 
+- ## Detect
+	- The third core function is **[[Detect]]**, which means ***identifying potential security incidents and improving monitoring capabilities*** to increase the speed and efficiency of detections. 
+	- For example, as an analyst, you might be asked to review a new security tool's setup to make sure it's flagging low, medium, or high risk, and then alerting the security team about any potential threats or incidents.
+- ## Respond
+	- The fourth function is **[[Respond]]**, which means making sure that the ***proper procedures are used to contain, neutralize, and analyze security incidents***, and implement improvements to the security process. 
+	- As an analyst, you could be working with a team to collect and organize data to document an incident and suggest improvements to processes to prevent the incident from happening again.
+- ## Recover
+	- The fifth core function is **[[Recover]]**, which is the process of ***returning affected systems back to normal operation***. 
+	- For example, as an entry-level security analyst, you might work with your security team to restore systems, data, and assets, such as financial or legal files, that have been affected by an incident like a breach. 
+
+
