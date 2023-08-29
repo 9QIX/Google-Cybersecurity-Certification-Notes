@@ -1,3 +1,3 @@
-- ## **[[Minimize the Attack Surface Area]]**
+- ## **[[Minimize Attack Surface Area]]**
 	- An **[[Attack Surface]]** refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors, which are pathways attackers use to penetrate security defenses. 
 	- Examples of common attack vectors are phishing emails and weak passwords. To minimize the attack surface and avoid incidents from these types of vectors, security teams might disable software features, restrict who can access certain assets, or establish more complex password requirements. 
