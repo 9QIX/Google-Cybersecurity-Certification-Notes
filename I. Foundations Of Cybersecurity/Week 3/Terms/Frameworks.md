@@ -1,1 +1,3 @@
 [[Frameworks]] allow analysts to work alongside other members of the security team to *document, implement, and use the policies and procedures* that have been created. It's essential for an entry-level analyst to understand this process because it directly affects the work they do and how they collaborate with others.
+
+Organizations use **[[frameworks]]** as a starting point to develop plans that mitigate risks, threats, and vulnerabilities to sensitive data and assets. Fortunately, there are organizations worldwide that create frameworks security professionals can use to develop those plans. 
