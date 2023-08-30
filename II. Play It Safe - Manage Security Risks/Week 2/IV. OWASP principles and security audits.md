@@ -78,6 +78,11 @@ Cybersecurity professionals are constantly applying security principles to safeg
 					- **[[Administrative controls]]** are related to the human component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies. 
 					- **[[Technical controls]]** are hardware and software solutions used to protect assets, such as the use of intrusion detection systems, or IDS's, and encryption. 
 					- **[[Physical controls]]** refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks. 
+						- Control types include, but are not limited to
+							- **[[Preventative controls]]** are designed to prevent an incident from occurring in the first place.
+							- **[[Corrective controls]]** are used to restore an asset after an incident.
+							- **[[Detective controls]]** are implemented to determine whether an incident has occurred or is in progress.
+							- **[[Deterrent controls]]** are designed to discourage attacks.
 			- **[[Assessing Compliance]]**
 				- The next element is determining whether or not the organization is adhering to necessary compliance regulations. As a reminder, compliance regulations are laws that organizations must follow to ensure private data remains secure. 
 				- In this example, the organization conducts business in the European Union and accepts credit card payments. So they need to adhere to the GDPR and Payment Card Industry Data Security Standard, or PCI DSS. 
