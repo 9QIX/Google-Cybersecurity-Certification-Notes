@@ -1,0 +1,3 @@
+- ### **[[Fail Securely]]**
+	- Fail securely means that when a control fails or stops, i***t should do so by defaulting to its most secure option***. 
+	- For example, when a firewall fails it should simply close all connections and block all new ones, rather than start accepting everything.
