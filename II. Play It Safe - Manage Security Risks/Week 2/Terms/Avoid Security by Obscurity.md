@@ -1,0 +1,3 @@
+- ### **[[Avoid Security by Obscurity]]**
+	- The ***security of key systems should not rely on keeping details hidden***. Consider the following example from OWASP (2016):
+	- The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.

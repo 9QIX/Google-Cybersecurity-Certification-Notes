@@ -1,0 +1,3 @@
+- ### **[[Don’t Trust Services]]**
+	- Many organizations work with third-party partners. These ***outside partners often have different security policies than the organization does***. And the organization shouldn’t explicitly trust that their partners’ systems are secure. 
+	- For example, if a third-party vendor tracks reward points for airline customers, the airline should ensure that the balance is accurate before sharing that information with their customers.
