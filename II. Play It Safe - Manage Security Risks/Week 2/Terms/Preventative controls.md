@@ -1,0 +1,1 @@
+**[[Preventative controls]]** are designed to prevent an incident from occurring in the first place.

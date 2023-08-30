@@ -1,0 +1,1 @@
+**[[Corrective controls]]** are used to restore an asset after an incident.
