@@ -1,0 +1,1 @@
+**[[National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)]]:** A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk 
