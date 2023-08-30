@@ -57,3 +57,32 @@ Next, you’ll learn about four additional OWASP security principles that cybers
 ## Key takeaways
 
 Cybersecurity professionals are constantly applying security principles to safeguard organizations and the people they serve. As an entry-level security analyst, you can use these security principles to promote safe development practices that reduce risks to companies and users alike.
+
+# Plan a Security Audit
+
+- **[[Security Audit]]** is a review of an organization's security controls, policies, and procedures against a set of expectations. There are two main types of security audits: external and internal.
+	- An **[[Internal Security Audit]]** is typically conducted by a team of people that might include an organization's compliance officer, security manager, and other security team members. 
+		- Internal security audits are used to help improve an organization's security posture and help organizations avoid fines from governing agencies due to a lack of compliance. 
+		- Internal security audits help security teams identify organizational risk, assess controls, and correct compliance issues. 
+		- **Common Elements of Internal Audits:**
+			- **[[Establishing the Scope and Goals]]** (Planning Process)
+				- **[[Scope]]** refers to the specific criteria of an internal security audit. Scope requires organizations to identify people, assets, policies, procedures, and technologies that might impact an organization's security posture. 
+				- **[[Goals]]** are an outline of the organization's security objectives, or what they want to achieve in order to improve their security posture. 
+				- As an example, the scope of this audit involves assessing user permissions; identifying existing controls, policies, and procedures; and accounting for the technology currently in use by the organization. The goals outlined include implementing core functions of frameworks, like the NIST CSF; establishing policies and procedures to ensure compliance; and strengthening system controls. 
+			- **[[Conducting a Risk Assessment]]** (Planning Process)
+				- This helps organizations consider what security measures should be implemented and monitored to ensure the safety of assets. Similar to establishing the scope and goals, a risk assessment is oftentimes completed by managers or other stakeholders. However, you might be asked to analyze details provided in the risk assessment to consider what types of controls and compliance regulations need to be in place to help improve the organization's security posture. 
+				- For example, this risk assessment highlights that there are inadequate controls, processes, and procedures in place to protect the organization's assets. Specifically, there is a lack of proper management of physical and digital assets, including employee equipment. The equipment used to store data is not properly secured. And access to private information stored in the organization's internal network likely needs more robust controls in place. 
+			- **[[Completing a Controls Assessment]]**
+				- Involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. 
+				- To do this, entry-level analysts might be tasked with classifying controls into the following categories: administrative controls, technical controls, and physical controls. 
+					- **[[Administrative controls]]** are related to the human component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies. 
+					- **[[Technical controls]]** are hardware and software solutions used to protect assets, such as the use of intrusion detection systems, or IDS's, and encryption. 
+					- **[[Physical controls]]** refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks. 
+			- **[[Assessing Compliance]]**
+				- The next element is determining whether or not the organization is adhering to necessary compliance regulations. As a reminder, compliance regulations are laws that organizations must follow to ensure private data remains secure. 
+				- In this example, the organization conducts business in the European Union and accepts credit card payments. So they need to adhere to the GDPR and Payment Card Industry Data Security Standard, or PCI DSS. 
+			- **[[Communicating Results]]** 
+				- The final common element of an internal security audit is communication. Once the internal security audit is complete, results and recommendations need to be communicated to stakeholders.
+				- In general, this type of communication summarizes the scope and goals of the audit. Then, it lists existing risks and notes how quickly those risks need to be addressed. Additionally, it identifies compliance regulations the organization needs to adhere to and provides recommendations for improving the organization's security posture. 
+	- Internal audits are a great way to identify gaps within an organization. When I worked at a previous company, my team and I conducted an internal password audit and found that many of the passwords were weak. Once we identified this issue, the compliance team took the lead and began enforcing stricter password policies. Audits are an opportunity to determine what security measures an organization has in place and what areas need to be improved to achieve the organization's desired security posture. 
+
