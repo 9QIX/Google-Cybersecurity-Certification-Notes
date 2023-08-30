@@ -1,0 +1,1 @@
+**[[Security Audit]]** is a review of an organization's security controls, policies, and procedures against a set of expectations. There are two main types of security audits: external and internal.

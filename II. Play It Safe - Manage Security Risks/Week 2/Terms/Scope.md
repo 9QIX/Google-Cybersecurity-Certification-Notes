@@ -1,0 +1,1 @@
+**[[Scope]]** refers to the specific criteria of an internal security audit. Scope requires organizations to identify people, assets, policies, procedures, and technologies that might impact an organization's security posture. 

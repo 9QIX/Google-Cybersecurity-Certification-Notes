@@ -1,0 +1,6 @@
+- **[[Completing a Controls Assessment]]**
+	- Involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. 
+	- To do this, entry-level analysts might be tasked with classifying controls into the following categories: administrative controls, technical controls, and physical controls. 
+		- **[[Administrative controls]]** are related to the human component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies. 
+		- **[[Technical controls]]** are hardware and software solutions used to protect assets, such as the use of intrusion detection systems, or IDS's, and encryption. 
+		- **[[Physical controls]]** refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks. 

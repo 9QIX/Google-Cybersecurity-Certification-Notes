@@ -1,0 +1,1 @@
+**[[Goals]]** are an outline of the organization's security objectives, or what they want to achieve in order to improve their security posture. 
