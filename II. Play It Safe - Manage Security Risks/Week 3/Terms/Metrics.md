@@ -1,0 +1,1 @@
+- **[[Metrics]]** are key technical attributes such as r***esponse time, availability, and failure rate***, which are used to assess the performance of a software application.
