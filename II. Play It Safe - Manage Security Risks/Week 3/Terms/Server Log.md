@@ -1,0 +1,2 @@
+- ### **[[Server Log]]** 
+	- is a record of events related to services such as websites, emails, or file shares. It includes actions such as login, password, and username requests. 

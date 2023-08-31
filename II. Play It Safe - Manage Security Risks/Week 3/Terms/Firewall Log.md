@@ -1,0 +1,2 @@
+- ### **[[Firewall Log]]** 
+	- is a record of attempted or established connections for incoming traffic from the internet. It also includes outbound requests to the internet from within the network. 

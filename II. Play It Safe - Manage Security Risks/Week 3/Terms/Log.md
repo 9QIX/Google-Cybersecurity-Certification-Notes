@@ -1,0 +1,3 @@
+- **[[Log]]** is a record of events that occur within an organization's systems and networks. 
+	- Security analysts access a variety of logs from different sources. 
+	- Three common log sources include firewall logs, network logs, and server logs. 

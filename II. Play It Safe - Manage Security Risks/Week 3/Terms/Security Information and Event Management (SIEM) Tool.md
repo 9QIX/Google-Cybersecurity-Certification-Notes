@@ -1,0 +1,2 @@
+- ### **[[Security Information and Event Management (SIEM) Tool ]]**
+	- is an application that collects and analyzes log data to monitor critical activities in an organization. It provides real-time visibility, event monitoring and analysis, and automated alerts. It also stores all log data in a centralized location. 

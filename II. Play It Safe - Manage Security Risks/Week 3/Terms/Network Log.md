@@ -1,0 +1,2 @@
+- ### **[[Network Log]]** 
+	- is a record of all computers and devices that enter and leave the network. It also records connections between devices and services on the network. 
