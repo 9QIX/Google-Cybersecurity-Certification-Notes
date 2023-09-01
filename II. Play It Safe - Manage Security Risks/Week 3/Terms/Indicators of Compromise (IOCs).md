@@ -1,0 +1,1 @@
+It identifies suspicious domain names in logs, known as [[Indicators of Compromise (IOCs)]]
