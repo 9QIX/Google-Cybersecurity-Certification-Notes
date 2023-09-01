@@ -28,7 +28,7 @@ By monitoring logs, like the one shown here, security teams can identify vulnera
 		- They also discover that the login attempts happened from geographic locations outside of Ymara's usual location and outside of her usual working hours. 
 		- By using a dashboard, the security analyst was able to quickly review visual representations of the the login attempts, location, and the exact time of the activity, then determine that the activity was suspicious. 
 - In addition to providing a comprehensive summary of security-related data, SIEM dashboards also provide stakeholders with different metrics. 
-	- **[[Metrics]]** are key technical attributes such as r***esponse time, availability, and failure rate***, which are used to assess the performance of a software application.
+	- **[[Metrics]]** are key technical attributes such as ***response time, availability, and failure rate***, which are used to assess the performance of a software application.
 	- SIEM dashboards can be customized to display specific metrics or other data that are relevant to different members in an organization. 
 	- For example, a security analyst may create a dashboard that displays metrics for monitoring everyday business operations, like the volume of incoming and outgoing network traffic. 
 
