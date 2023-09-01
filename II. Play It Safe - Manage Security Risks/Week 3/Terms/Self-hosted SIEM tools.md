@@ -1,0 +1,3 @@
+- ### **Self-hosted SIEM tools**
+	- [[Self-hosted SIEM tools]] require organizations to install, operate, and maintain the tool using their own physical infrastructure, such as server capacity. These applications are then managed and maintained by the organization's IT department, rather than a third party vendor. 
+	- Self-hosted SIEM tools are ideal when an organization is required to maintain physical control over confidential data.

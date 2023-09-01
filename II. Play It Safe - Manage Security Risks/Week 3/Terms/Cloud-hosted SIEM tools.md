@@ -1,0 +1,3 @@
+- ### **Cloud-hosted SIEM tools** 
+	- Alternatively, [[Cloud-hosted SIEM tools]] are maintained and managed by the SIEM providers, making them accessible through the internet. 
+	- Cloud-hosted SIEM tools are ideal for organizations that don't want to invest in creating and maintaining their own infrastructure. 
