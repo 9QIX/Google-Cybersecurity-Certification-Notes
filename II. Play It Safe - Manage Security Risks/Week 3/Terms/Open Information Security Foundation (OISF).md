@@ -1,0 +1,2 @@
+
+Suricata was developed by the [[Open Information Security Foundation (OISF)]]. OISF is dedicated to maintaining open-source use of the Suricata project to ensure it’s free and publicly available. Suricata is widely used in the public and private sector, and it integrates with many SIEM tools and other security tools. Suricata will also be discussed in greater detail later in the program.
