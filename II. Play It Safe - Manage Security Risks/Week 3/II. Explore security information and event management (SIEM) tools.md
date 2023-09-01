@@ -19,7 +19,7 @@
 - ### **Splunk Cloud** 
 	- A cloud-hosted tool used to ***collect, search, and monitor log data***. Splunk Cloud is helpful for organizations running hybrid or cloud-only environments, where some or all of the organization's services are in the cloud. 
 - ### **Chronicle**
-	-  A cloud-native tool designed to ***retain, analyze, and search data***. Chronicle provides log monitoring, data analysis, and data collection. 
+	- A cloud-native tool designed to ***retain, analyze, and search data***. Chronicle provides log monitoring, data analysis, and data collection. 
 	- Like cloud-hosted tools, cloud-native tools are also fully maintained and managed by the vendor. But cloud-native tools are specifically designed to take full advantage of cloud computing capabilities such as availability, flexibility, and scalability. 
 - Because threat actors are frequently improving their strategies to compromise the confidentiality, integrity, and availability of their targets, it's important for organizations to use a variety of security tools to help defend against attacks. 
 
