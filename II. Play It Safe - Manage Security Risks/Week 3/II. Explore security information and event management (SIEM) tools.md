@@ -12,7 +12,7 @@
 
 ## Common SIEM tools:
 
-Splunk is a data analysis platform and Splunk Enterprise provides SIEM solutions.
+[[Splunk]] is a data analysis platform and Splunk Enterprise provides SIEM solutions.
 
 - ### **Splunk Enterprise** 
 	- A self-hosted tool used to ***retain, analyze, and search an organization's log data*** to provide security information and alerts in real-time.
