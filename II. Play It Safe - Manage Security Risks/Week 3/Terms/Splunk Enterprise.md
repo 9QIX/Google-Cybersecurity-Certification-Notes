@@ -1,0 +1,1 @@
+**[[Splunk Enterprise]]:** A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time

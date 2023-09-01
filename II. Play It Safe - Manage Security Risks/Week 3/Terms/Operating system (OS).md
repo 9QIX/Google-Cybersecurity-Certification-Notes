@@ -1,0 +1,1 @@
+**[[Operating system (OS)]]:** The interface between computer hardware and the user

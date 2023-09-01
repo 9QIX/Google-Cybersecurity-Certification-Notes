@@ -1,0 +1,1 @@
+**[[Splunk Cloud]]:** A cloud-hosted tool used to collect, search, and monitor log data
