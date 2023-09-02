@@ -1,0 +1,2 @@
+- ### **[[Detection and analysis]]**
+	- The objective of this phase is to ***detect and analyze events using defined processes and technology***. Using appropriate tools and strategies during this phase helps security analysts determine whether a breach has occurred and analyze its possible magnitude. 

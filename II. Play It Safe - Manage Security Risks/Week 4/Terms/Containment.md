@@ -1,0 +1,3 @@
+- ### **[[Containment]]**
+	- The goal of containment is to ***prevent further damage and reduce the immediate impact of a security incident***. 
+	- During this phase, security professionals take actions to contain an incident and minimize damage. Containment is a high priority for organizations because it helps prevent ongoing risks to critical assets and data. 
