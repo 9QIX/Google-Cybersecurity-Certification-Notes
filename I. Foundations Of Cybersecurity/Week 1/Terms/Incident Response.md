@@ -1,3 +1,7 @@
 [[Incident Response]]: Cybersecurity analysts need to be able to follow established policies and procedures to respond to incidents appropriately. For example, a security analyst might receive an alert about a possible malware attack, then follow the organization’s outlined procedures to start the incident response process. This could involve conducting an investigation to identify the root issue and establishing ways to remediate it.
 
 - **[[Incident response]]** is an organization's quick attempt to identify an attack, contain the damage, and correct the effects of a security breach. An incident response playbook is a guide with six phases used to help mitigate and manage security incidents from beginning to end. Let's discuss each phase. 
+
+- ### [[Incident response]]
+	- _Purpose_: Incident response playbooks are designed to guide an organization's response to security incidents. They outline step-by-step procedures to follow when a security breach or incident occurs.
+	- _Use Cases_: These playbooks help organizations handle various types of incidents, such as data breaches, malware infections, denial-of-service attacks, and other security breaches. They ensure that the incident is contained, investigated, and remediated effectively.

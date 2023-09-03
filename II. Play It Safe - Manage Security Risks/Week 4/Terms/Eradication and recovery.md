@@ -1,5 +1,5 @@
 - ### **[[Eradication and recovery]]**
-	- This phase involves the c***omplete removal of an incident's artifacts*** so that an organization can return to normal operations. 
+	- This phase involves the ***complete removal of an incident's artifacts*** so that an organization can return to normal operations. 
 	- During this phase, security professionals eliminate artifacts of the incident by removing malicious code and mitigating vulnerabilities. Once they've exercised due diligence, they can begin to restore the affected environment to a secure state. 
 	- ***This is also known as IT restoration.***
 	- Completely remove artifacts of the incident so that an organization can return to normal operations.
