@@ -1,0 +1,3 @@
+- ### [[Teams-specific]]
+	- _Purpose_: These playbooks are tailored to specific teams within an organization, such as the IT team, the security team, or the compliance team.
+	- _Use Cases_: Different teams may have unique responsibilities and workflows. Teams-specific playbooks outline procedures relevant to each team's role in managing and mitigating security incidents. For example, the IT team may focus on system remediation, while the security team investigates the incident's root cause.
