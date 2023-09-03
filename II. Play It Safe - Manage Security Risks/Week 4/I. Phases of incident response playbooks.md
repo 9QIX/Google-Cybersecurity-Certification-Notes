@@ -26,7 +26,7 @@ A **[[playbook]]** is a manual that provides details about any operational actio
 	- The goal of containment is to ***prevent further damage and reduce the immediate impact of a security incident***. 
 	- During this phase, security professionals take actions to contain an incident and minimize damage. Containment is a high priority for organizations because it helps prevent ongoing risks to critical assets and data. 
 - ### **[[Eradication and recovery]]**
-	- This phase involves the c***omplete removal of an incident's artifacts*** so that an organization can return to normal operations. 
+	- This phase involves the ***complete removal of an incident's artifacts*** so that an organization can return to normal operations. 
 	- During this phase, security professionals eliminate artifacts of the incident by removing malicious code and mitigating vulnerabilities. Once they've exercised due diligence, they can begin to restore the affected environment to a secure state. 
 	- ***This is also known as IT restoration.***
 - ### **[[Post-incident activity]]**
@@ -46,13 +46,13 @@ Previously, you learned that playbooks are tools used by cybersecurity professio
 
 ## Playbook overview
 
-A **playbook** is a manual that provides details about any operational action. Essentially, a playbook provides a predefined and up-to-date list of steps to perform when responding to an incident.
+A **[[playbook]]** is a manual that provides details about any operational action. Essentially, a playbook provides a predefined and up-to-date list of steps to perform when responding to an incident.
 
 ![Une analyste qui utilise un playbook](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qw2OZW3yR1mxXRbPB1hM7w_617d975b56f64c68a26c2aee35004bf1_BTtE4EbRQ9_-1C9WWklOU8-Gd6LLhOgGS4Vm7i_pyp-74LH4jhgguaIvcnDUiZSfYKfnjCv3VLHqmx_-K-5mOyf3wuc5oljeJUgt0Zkk5x-wE8lKKhDcCF_ST43l4-D3Qj84qy3bOkbZqnrYov2jfiZiEINajO9AGMeKUqYCNKfBFJTOWu_fxNBEQY2D0g?expiry=1693785600000&hmac=YEP-F4gAPEwG3t6BCE4LGUAqhNERdihDJ6SPBI1RrrE)
 
-Playbooks are accompanied by a strategy. The strategy outlines expectations of team members who are assigned a task, and some playbooks also list the individuals responsible. The outlined expectations are accompanied by a plan. The plan dictates how the specific task outlined in the playbook must be completed.
+[[Playbook]]s are accompanied by a strategy. The strategy outlines expectations of team members who are assigned a task, and some playbooks also list the individuals responsible. The outlined expectations are accompanied by a plan. The plan dictates how the specific task outlined in the playbook must be completed.
 
-Playbooks should be treated as living documents, which means that they are frequently updated by security team members to address industry changes and new threats. Playbooks are generally managed as a collaborative effort, since security team members have different levels of expertise.
+[[Playbook]]s should be treated as living documents, which means that they are frequently updated by security team members to address industry changes and new threats. Playbooks are generally managed as a collaborative effort, since security team members have different levels of expertise.
 
 Updates are often made if:
 
@@ -68,11 +68,11 @@ Each organization has a different set of playbook tools, methodologies, protocol
 
 ### **Incident and vulnerability response playbooks**
 
-Incident and vulnerability response playbooks are commonly used by entry-level cybersecurity professionals. They are developed based on the goals outlined in an organization’s business continuity plan. A business continuity plan is an established path forward allowing a business to recover and continue to operate as normal, despite a disruption like a security breach.
+[[Incident and vulnerability response playbooks]] are commonly used by entry-level cybersecurity professionals. They are developed based on the goals outlined in an organization’s business continuity plan. A **[[business continuity plan]]** is an established path forward allowing a business to recover and continue to operate as normal, despite a disruption like a security breach.
 
 These two types of playbooks are similar in that they both contain predefined and up-to-date lists of steps to perform when responding to an incident. Following these steps is necessary to ensure that you, as a security professional, are adhering to legal and organizational standards and protocols. These playbooks also help minimize errors and ensure that important actions are performed within a specific timeframe.
 
-When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable. 
+When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the potential damage to its assets. A basic formula for determining the level of risk is that ***risk equals the likelihood of a threat***. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable. 
 
 Common steps included in incident and vulnerability playbooks include: 
 
@@ -98,3 +98,4 @@ Incident and vulnerability response playbooks are only two examples of the many 
 - [Japan Computer Emergency Response Team Coordination Center (JPCERT/CC) - Vulnerability Handling and related guidelines](https://www.jpcert.or.jp/english/vh/guidelines.html)
 - [Government of Canada - Ransomware Playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
 - [Scottish Government - Playbook Templates](https://www.gov.scot/publications/cyber-resilience-incident-management/)
+
