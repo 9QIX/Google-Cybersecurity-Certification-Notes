@@ -1,0 +1,1 @@
+- **[[Sensitive personally identifiable information (SPII)]]**: A specific type of PII that falls under stricter handling guidelines
