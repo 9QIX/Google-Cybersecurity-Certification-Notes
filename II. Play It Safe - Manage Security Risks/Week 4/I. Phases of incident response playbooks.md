@@ -99,3 +99,17 @@ Incident and vulnerability response playbooks are only two examples of the many 
 - [Government of Canada - Ransomware Playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
 - [Scottish Government - Playbook Templates](https://www.gov.scot/publications/cyber-resilience-incident-management/)
 
+# Identify: Phases of an incident response playbook
+
+- ### [[Preparation]]
+	- Before incidents occur, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users.
+- ### [[Detection and analysis]]
+	- Detect and analyze events by implementing defined processes and appropriate technology.
+- ### [[Containment]]
+	- Prevent further damage and reduce immediate impact of incidents.
+- ### [[Eradication and recovery]]
+	- Completely remove artifacts of the incident so that an organization can return to normal operations.
+- ### [[Post-incident activity]]
+	- Document the incident, inform organizational leadership, and apply lessons learned.
+- ### [[Coordination]]
+	- Report incidents and share information throughout the response process, based on established standards.

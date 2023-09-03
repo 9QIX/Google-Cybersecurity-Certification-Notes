@@ -1,3 +1,4 @@
 - ### **[[Coordination]]**
 	- Coordination involves ***reporting incidents and sharing information, throughout the incident response process***, based on the organization's established standards. 
 	- Coordination is important for many reasons. It ensures that organizations meet compliance requirements and it allows for coordinated response and resolution. 
+	- Report incidents and share information throughout the response process, based on established standards.
