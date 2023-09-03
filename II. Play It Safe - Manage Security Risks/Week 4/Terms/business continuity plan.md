@@ -1,0 +1,1 @@
+A **[[business continuity plan]]** is an established path forward allowing a business to recover and continue to operate as normal, despite a disruption like a security breach.
