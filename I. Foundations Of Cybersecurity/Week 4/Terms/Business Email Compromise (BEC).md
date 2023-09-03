@@ -1,0 +1,1 @@
+- **[[Business Email Compromise (BEC)]]**: A type of phishing attack where a threat actor impersonates a known source to obtain financial advantage
