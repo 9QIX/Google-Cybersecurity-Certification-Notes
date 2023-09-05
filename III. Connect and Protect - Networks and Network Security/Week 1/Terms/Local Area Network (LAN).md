@@ -1,0 +1,2 @@
+- ### [[Local Area Network (LAN)]]
+	- ***Spans a small area*** like an office building, a school, or a home. For example, when a personal device like your cell phone or tablet connects to the WIFI in your house, they form a LAN. The LAN then connects to the internet. 

@@ -1,0 +1,2 @@
+- ### **[[Log parsing]]**
+	- They're going to be times where you may need to figure out and debug what is going on in your program or application and these logs are there to help you and support you in finding the root issue and then resolve it from there. 

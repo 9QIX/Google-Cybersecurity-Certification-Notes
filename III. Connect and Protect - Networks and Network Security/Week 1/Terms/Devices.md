@@ -1,0 +1,1 @@
+**[[Devices]]** need to find each other on a network to establish communications. These devices will use unique addresses, or identifiers, to locate each other. The addresses will ensure that communications happens with the right device. These are called the ***IP and MAC addresses***. 
