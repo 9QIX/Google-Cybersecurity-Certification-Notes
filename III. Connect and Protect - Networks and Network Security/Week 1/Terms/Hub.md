@@ -1,0 +1,2 @@
+- ### **[[Hub]]**
+	- A hub is a network device that broadcasts information to every device on the network. Think of a hub like a radio tower that broadcasts a signal to any radio tuned to the correct frequency. 

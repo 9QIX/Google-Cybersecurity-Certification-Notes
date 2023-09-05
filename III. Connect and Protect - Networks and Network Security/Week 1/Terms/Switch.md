@@ -1,0 +1,2 @@
+- ### **[[Switch]]**
+	- A switch makes connections between specific devices on a network by sending and receiving data between them. A switch is more intelligent than a hub. It only passes data to the intended destination. This makes switches more secure than hubs, and enables them to control the flow of traffic and improve network performance. 

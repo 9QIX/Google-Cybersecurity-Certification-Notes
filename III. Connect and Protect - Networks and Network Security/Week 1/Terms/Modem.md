@@ -1,0 +1,6 @@
+- ### **[[Modem]]**
+	- A modem is a device that connects your router to the internet, and brings internet access to the LAN.
+	- For example, if a computer from one network wants to send information to a device on a network in a different geographic location, it would be transferred as follows: 
+		- The computer would send information to the router, and the router would then transfer the information through the modem to the internet. 
+		- The intended recipient's modem receives the information, and transfers it to the router. 
+		- Finally, the recipient's router forwards that information to the destination device.
