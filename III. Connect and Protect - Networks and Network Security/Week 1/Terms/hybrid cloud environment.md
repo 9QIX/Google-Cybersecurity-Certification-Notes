@@ -1,0 +1,1 @@
+When organizations use a CSP’s services in addition to their on-premise computers, networks, and storage, it is referred to as a **[[hybrid cloud environment]]**. 

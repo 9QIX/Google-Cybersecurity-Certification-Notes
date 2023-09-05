@@ -1,0 +1,1 @@
+When organizations use more than one CSP, it is called a [[multi-cloud environment]].

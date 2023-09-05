@@ -1,0 +1,1 @@
+Traditional networks are called **[[on-premise networks]]**, which means that all of the devices used for network operations are kept at a physical location owned by the company, like in an office building, for example.

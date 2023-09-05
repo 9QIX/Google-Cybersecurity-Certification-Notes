@@ -1,0 +1,1 @@
+**[[Platform as a service (PaaS)]]** refers to tools that application developers can use to design custom applications for their company. Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.

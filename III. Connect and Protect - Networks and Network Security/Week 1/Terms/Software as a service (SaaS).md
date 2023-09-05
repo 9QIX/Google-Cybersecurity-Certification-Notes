@@ -1,0 +1,1 @@
+**[[Software as a service (SaaS)]]** refers to software suites operated by the CSP that a company can use remotely without hosting the software. 
