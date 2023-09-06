@@ -33,3 +33,18 @@ TCP/IP stands for Transmission Control Protocol and Internet Protocol. TCP/IP is
 	- This is like sending a letter to a friend who lives in an apartment building. The mail delivery person not only knows how to find the building, but they also know exactly where to go in the building to find the apartment number where your friend lives. 
 	- **[[Data packets]]** include instructions that tell the receiving device what to do with the information. These instructions come in the form of a port number.
 	- **[[Port numbers]]** allow computers to split the network traffic and prioritize the operations they will perform with the data. Some common port numbers are: port 25, which is used for e-mail, port 443, which is used for secure internet communication, and port 20, for large file transfers.
+
+# The four layers of TCP/IP model
+
+The **[[TCP/IP model]]** is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. The four layers are: the network access layer, the internet layer, the transport layer, and the application layer. Knowing how the TCP/IP model organizes network activity allows security professionals to monitor and secure against risks.
+
+- ### [[Network Access Layer]]
+	- Layer one is the network access layer. The network access layer ***deals with creation of data packets and their transmission across a network***. 
+	- This includes ***hardware devices connected to physical cables and switches*** that direct data to its destination.
+- ### [[Internet Layer]]
+	- The internet layer is where ***IP addresses are attached to data packets to indicate the location of the sender and receiver***. 
+	- The internet layer also focuses on ***how networks connect to each other***. For example, data packets containing information that determine whether they will stay on the LAN or will be sent to a remote network, like the internet.
+- ### **[[Transport Layer]]**
+	- The transport layer includes ***protocols to control the flow of traffic across a network***. These protocols ***permit or deny communication*** with other devices and include information about the status of the connection. Activities of this layer include error control, which ensures data is flowing smoothly across the network.
+- ### **[[Application Layer]]**
+	- Finally, at the application layer, protocols ***determine how the data packets will interact with receiving devices***. Functions that are organized at application layer include file transfers and email services.
