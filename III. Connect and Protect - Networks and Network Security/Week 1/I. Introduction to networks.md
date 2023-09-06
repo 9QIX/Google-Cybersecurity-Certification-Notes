@@ -178,3 +178,8 @@ In this reading, you learned more about cloud computing and cloud networking. Yo
 ## Resources for more information
 
 For more information about cloud computing and the services offered, you can review [Google Cloud (GC)](https://cloud.google.com/).
+
+
+## Functions of network tools
+
+![[Pasted image 20230905192128.png]]
