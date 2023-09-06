@@ -15,3 +15,21 @@ Communication over a network happens when data is transferred from one point to 
 	- Security personnel are interested in network bandwidth and speed because if either are irregular, it could be an indication of an attack. 
 
 - **[[Packet sniffing]]** is the practice of ***capturing and inspecting data packets*** across the network. Communication on the network is important for sharing resources and data because it allows organizations to function effectively.
+
+# The TCP/IP model
+
+TCP/IP stands for Transmission Control Protocol and Internet Protocol. TCP/IP is the ***standard model used for network communication***.
+
+- ### **[[Transmission Control Protocol (TCP)]]**
+	- Transmission Control Protocol, is an internet communication protocol that ***allows two devices to form a connection and stream data***. 
+	- The protocol includes a set of instructions to organize data, so it can be sent across a network. It also ***establishes a connection between two devices and makes sure that packets reach their appropriate destination.***
+- ### **[[Internet Protocol (IP)]]**
+	- IP has a ***set of standards used for routing and addressing data*** packets as they travel between devices on a network. Included in the Internet Protocol (IP) is the IP address that functions as an address for each private network.
+
+## Ports
+
+- When data packets are sent and received across a network, they are assigned a port. Within the operating system of a network device, a **[[port]]** is a software-based location that ***organizes the sending and receiving of data*** between devices on a network. 
+	- **Ports** divide network traffic into segments based on the service they will perform between two devices. The computers sending and receiving these data segments know how to prioritize and process these segments based on their port number. 
+	- This is like sending a letter to a friend who lives in an apartment building. The mail delivery person not only knows how to find the building, but they also know exactly where to go in the building to find the apartment number where your friend lives. 
+	- **[[Data packets]]** include instructions that tell the receiving device what to do with the information. These instructions come in the form of a port number.
+	- **[[Port numbers]]** allow computers to split the network traffic and prioritize the operations they will perform with the data. Some common port numbers are: port 25, which is used for e-mail, port 443, which is used for secure internet communication, and port 20, for large file transfers.
