@@ -1,2 +1,4 @@
 - ### **[[Internet Protocol (IP)]]**
 	- IP has a ***set of standards used for routing and addressing data*** packets as they travel between devices on a network. Included in the Internet Protocol (IP) is the IP address that functions as an address for each private network.
+
+- **[[Internet Protocol (IP)]]**. IP sends the data packets to the correct destination and relies on the Transmission Control Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. IP packets allow communication between two networks. They are routed from the sending network to the receiving network. The TCP/UDP retransmits any data that is lost or corrupt.

@@ -36,7 +36,7 @@ TCP/IP stands for Transmission Control Protocol and Internet Protocol. TCP/IP is
 
 # The four layers of TCP/IP model
 
-The **[[TCP/IP model]]** is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. The four layers are: the network access layer, the internet layer, the transport layer, and the application layer. Knowing how the TCP/IP model organizes network activity allows security professionals to monitor and secure against risks.
+The **[[TCP-IP model]]** is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. The four layers are: the network access layer, the internet layer, the transport layer, and the application layer. Knowing how the TCP/IP model organizes network activity allows security professionals to monitor and secure against risks.
 
 - ### [[Network Access Layer]]
 	- Layer one is the network access layer. The network access layer ***deals with creation of data packets and their transmission across a network***. 
@@ -57,51 +57,64 @@ As a security professional, it's important that you understand the TCP/IP model 
 
 ## The TCP/IP model
 
-The **TCP/IP model** is a framework used to visualize how data is organized and transmitted across a network. This model helps network engineers and network security analysts conceptualize processes on the network and communicate where disruptions or security threats occur. 
+The **TCP/IP model** is a ***framework used to visualize how data is organized and transmitted across a network***. This model helps network engineers and network security analysts conceptualize processes on the network and communicate where disruptions or security threats occur. 
 
-The TCP/IP model has four layers: network access layer, internet layer, transport layer, and application layer. When troubleshooting issues on the network, security professionals can analyze and deduce which layer or layers an attack occurred based on what processes were involved in an incident.
+The TCP/IP model has four layers: [[network access layer]], [[internet layer]], [[transport layer]], and [[application layer]]. When troubleshooting issues on the network, security professionals can analyze and deduce which layer or layers an attack occurred based on what processes were involved in an incident.
 
 ![Les quatre couches du modèle TCP/IP sont la couche application, la couche transport, la couche Internet et la couche accès ré](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H9jj1YSsSDKlU8c8qzOgsQ_89f77799b50040b08911a8de1012e2f1_CS_R-210_S33G011-edited.png?expiry=1694131200000&hmac=aVxI-N5cwfKvCxR2cgxvi6I_9yzMyZP9OWKAQowRYDc)
 
 ## Network access layer 
 
-The **network access layer**, sometimes called the data link layer, organizes sending and receiving data frames within a single network. This layer corresponds to the physical hardware involved in network transmission. Hubs, modems, cables, and wiring are all considered part of this layer. The address resolution protocol (ARP) is part of the network access layer. ARP assists IP with directing data packets on the same physical network by mapping IP addresses to MAC addresses on the same physical network.
+The **[[network access layer]]**, sometimes called the ***data link layer***, organizes ***sending and receiving data frames within a single network***. This layer corresponds to the ***physical hardware*** involved in network transmission. 
+
+Hubs, modems, cables, and wiring are all considered part of this layer. The **[[address resolution protocol (ARP)]]** is part of the network access layer. ARP ***assists IP with directing data packets*** on the same physical network by ***mapping IP addresses to MAC addresses*** on the same physical network.
 
 ## Internet layer
 
-The **internet layer**, sometimes referred to as the network layer, is responsible for ensuring the delivery to the destination host, which potentially resides on a different network. The internet layer determines which protocol is responsible for delivering the data packets. Here are some of the common protocols that operate at the internet layer:
+The **[[internet layer]]**, sometimes referred to as the ***network layer***, is responsible for ***ensuring the delivery to the destination host***, which potentially resides on a different network. 
 
-- **Internet Protocol (IP)**. IP sends the data packets to the correct destination and relies on the Transmission Control Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. IP packets allow communication between two networks. They are routed from the sending network to the receiving network. The TCP/UDP retransmits any data that is lost or corrupt.
-    
-- **Internet Control Message Protocol (ICMP)**. The ICMP shares error information and status updates of data packets. This is useful for detecting and troubleshooting network errors. The ICMP reports information about packets that were dropped or that disappeared in transit, issues with network connectivity, and packets redirected to other routers.
-    
+The internet layer determines ***which protocol is responsible for delivering the data*** ***packets***. Here are some of the common protocols that operate at the internet layer:
+
+- **[[Internet Protocol (IP)]]**. IP sends the data packets to the correct destination and relies on the Transmission Control Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. 
+	- IP packets allow communication between two networks. They are routed from the sending network to the receiving network. The TCP/UDP retransmits any data that is lost or corrupt.
+- **[[Internet Control Message Protocol (ICMP)]]**. The ICMP shares error information and status updates of data packets. This is useful for detecting and troubleshooting network errors. 
+	- The ICMP reports information about packets that were dropped or that disappeared in transit, issues with network connectivity, and packets redirected to other routers.
 
 ## Transport layer
 
-The **transport layer** is responsible for reliably delivering data between two systems or networks. TCP and UDP are the two transport protocols that occur at this layer. 
+The **[[transport layer]]** is responsible for ***reliably delivering data between two systems or networks***. TCP and UDP are the two transport protocols that occur at this layer. 
 
 ### Transmission Control Protocol 
 
-The **TCP** ensures that data is reliably transmitted to the destination service. TCP contains the port number of the intended destination service, which resides in the TCP header of a TCP/IP packet.
+The **[[TCP]]** ensures that ***data is reliably transmitted to the destination service***. TCP contains the port number of the intended destination service, which resides in the TCP header of a TCP/IP packet.
 
 ### User Datagram Protocol
 
-The **UDP** is used by applications that are not concerned with the reliability of the transmission. Data sent over UDP is not tracked as extensively as data sent using TCP. Because UDP does not establish network connections, it is used mostly for performance sensitive applications that operate in real time, such as video streaming.
+The **[[UDP]]** is used by applications that are ***not concerned with the reliability of the transmission***. Data sent over UDP is ***not tracked as extensively*** as data sent using TCP. 
+
+Because UDP does not establish network connections, it is used mostly for performance sensitive applications that operate in real time, such as video streaming.
 
 ## Application layer
 
-The **application layer** in the TCP/IP model is similar to the application, presentation, and session layers of the OSI model. The application layer is responsible for making network requests or responding to requests. This layer defines which internet services and applications any user can access. Some common protocols used on this layer are: 
+The **[[application layer]]** in the TCP/IP model is similar to the application, presentation, and session layers of the OSI model. The application layer is responsible for making network requests or responding to requests. This layer defines which internet services and applications any user can access. Some common protocols used on this layer are: 
 
-- Hypertext transfer protocol (HTTP)
-    
-- Simple mail transfer protocol (SMTP)
-    
-- Secure shell (SSH)
-    
-- File transfer protocol (FTP)
-    
-- Domain name system (DNS)
-    
+1. **Hypertext Transfer Protocol (HTTP)**
+   - Port Number: 80
+   - Explanation: HTTP is the protocol used for transferring web pages on the internet. Port 80 is the default port for unencrypted web traffic.
+2. **Simple Mail Transfer Protocol (SMTP)**
+   - Port Number: 25
+   - Explanation: SMTP is used for sending email messages. Port 25 is the default port for outgoing mail servers.
+3. **Secure Shell (SSH)**
+   - Port Number: 22
+   - Explanation: SSH is a secure method for remotely accessing and managing servers. Port 22 is the default port for SSH connections.
+4. **File Transfer Protocol (FTP)**
+   - Port Numbers: 20 (for data transfer), 21 (for control)
+   - Explanation: FTP is used for transferring files between computers on a network. Port 21 is used for sending commands, and port 20 is used for actual data transfer.
+5. **Domain Name System (DNS)**
+   - Port Numbers: 53
+   - Explanation: DNS is responsible for translating human-readable domain names (like www.example.com) into IP addresses that computers can understand. Port 53 is used for DNS queries and responses.
+
+These port numbers help networked devices know which specific service or application they should communicate with when sending data over a network.
 
 Application layer protocols rely on underlying layers to transfer the data across the network.
 
