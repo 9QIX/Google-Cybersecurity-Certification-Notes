@@ -1,0 +1,2 @@
+- ### **[[Application Layer]]**
+	- Finally, at the application layer, protocols ***determine how the data packets will interact with receiving devices***. Functions that are organized at application layer include file transfers and email services.

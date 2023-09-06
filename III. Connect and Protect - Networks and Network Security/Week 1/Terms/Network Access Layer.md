@@ -1,0 +1,3 @@
+- ### [[Network Access Layer]]
+	- Layer one is the network access layer. The network access layer ***deals with creation of data packets and their transmission across a network***. 
+	- This includes ***hardware devices connected to physical cables and switches*** that direct data to its destination.

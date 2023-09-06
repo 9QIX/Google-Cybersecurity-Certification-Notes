@@ -1,0 +1,3 @@
+- ### [[Internet Layer]]
+	- The internet layer is where ***IP addresses are attached to data packets to indicate the location of the sender and receiver***. 
+	- The internet layer also focuses on ***how networks connect to each other***. For example, data packets containing information that determine whether they will stay on the LAN or will be sent to a remote network, like the internet.
