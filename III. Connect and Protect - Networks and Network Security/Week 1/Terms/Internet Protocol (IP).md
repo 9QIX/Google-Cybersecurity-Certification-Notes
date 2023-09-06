@@ -1,0 +1,2 @@
+- ### **[[Internet Protocol (IP)]]**
+	- IP has a ***set of standards used for routing and addressing data*** packets as they travel between devices on a network. Included in the Internet Protocol (IP) is the IP address that functions as an address for each private network.

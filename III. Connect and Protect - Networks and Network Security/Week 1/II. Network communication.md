@@ -28,7 +28,7 @@ TCP/IP stands for Transmission Control Protocol and Internet Protocol. TCP/IP is
 
 ## Ports
 
-- When data packets are sent and received across a network, they are assigned a port. Within the operating system of a network device, a **[[port]]** is a software-based location that ***organizes the sending and receiving of data*** between devices on a network. 
+- When data packets are sent and received across a network, they are assigned a port. Within the operating system of a network device, a **[[Port]]** is a software-based location that ***organizes the sending and receiving of data*** between devices on a network. 
 	- **Ports** divide network traffic into segments based on the service they will perform between two devices. The computers sending and receiving these data segments know how to prioritize and process these segments based on their port number. 
 	- This is like sending a letter to a friend who lives in an apartment building. The mail delivery person not only knows how to find the building, but they also know exactly where to go in the building to find the apartment number where your friend lives. 
 	- **[[Data packets]]** include instructions that tell the receiving device what to do with the information. These instructions come in the form of a port number.
