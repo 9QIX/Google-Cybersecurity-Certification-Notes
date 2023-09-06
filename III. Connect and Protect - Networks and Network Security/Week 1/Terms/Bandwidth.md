@@ -1,0 +1,2 @@
+- Network ***performance can be measured*** by bandwidth. **[[Bandwidth]]** refers to the ***amount of data a device receives every second***. 
+	- You can calculate bandwidth by dividing the quantity of data by the time in seconds. 
