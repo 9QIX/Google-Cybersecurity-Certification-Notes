@@ -98,19 +98,19 @@ Because UDP does not establish network connections, it is used mostly for perfor
 
 The **[[application layer]]** in the TCP/IP model is similar to the application, presentation, and session layers of the OSI model. The application layer is responsible for making network requests or responding to requests. This layer defines which internet services and applications any user can access. Some common protocols used on this layer are: 
 
-1. **Hypertext Transfer Protocol (HTTP)**
+1. **[[Hypertext Transfer Protocol (HTTP)]]**
    - Port Number: 80
    - Explanation: HTTP is the protocol used for transferring web pages on the internet. Port 80 is the default port for unencrypted web traffic.
-2. **Simple Mail Transfer Protocol (SMTP)**
+2. **[[Simple Mail Transfer Protocol (SMTP)]]**
    - Port Number: 25
    - Explanation: SMTP is used for sending email messages. Port 25 is the default port for outgoing mail servers.
-3. **Secure Shell (SSH)**
+3. **[[Secure Shell (SSH)]]**
    - Port Number: 22
    - Explanation: SSH is a secure method for remotely accessing and managing servers. Port 22 is the default port for SSH connections.
-4. **File Transfer Protocol (FTP)**
+4. **[[File Transfer Protocol (FTP)]]**
    - Port Numbers: 20 (for data transfer), 21 (for control)
    - Explanation: FTP is used for transferring files between computers on a network. Port 21 is used for sending commands, and port 20 is used for actual data transfer.
-5. **Domain Name System (DNS)**
+5. **[[Domain Name System (DNS)]]**
    - Port Numbers: 53
    - Explanation: DNS is responsible for translating human-readable domain names (like www.example.com) into IP addresses that computers can understand. Port 53 is used for DNS queries and responses.
 
@@ -122,7 +122,7 @@ Application layer protocols rely on underlying layers to transfer the data acros
 
 ![Le modèle TCP/IP comparé au modèle OSI.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/RbNt47PDRTGJZ6q_QtaNMg_9b9098ac04e84c2d8ad04b220c5456f1_CS_R-210_TCP-vs-OSI.png?expiry=1694131200000&hmac=z40uHVxxXPUlO5iG84dpfIZFzW2YcfQYadwyd5S4sxQ)
 
-The **OSI** visually organizes network protocols into different layers. Network professionals often use this model to communicate with each other about potential sources of problems or security threats when they occur.
+The **[[OSI]]** visually organizes network protocols into different layers. Network professionals often use this model to communicate with each other about potential sources of problems or security threats when they occur.
 
 The TCP/IP model combines multiple layers of the OSI model. There are many similarities between the two models. Both models define standards for networking and divide the network communication process into different layers. The TCP/IP model is a simplified version of the OSI model.
 
