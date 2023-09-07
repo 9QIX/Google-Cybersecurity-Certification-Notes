@@ -1,0 +1,23 @@
+## Terms and definitions from Course 3, Week 1
+
+- [[Bandwidth]]: The maximum data transmission capacity over a network, measured by bits per second
+- [[Cloud computing]]: The practice of using remote servers, application, and network services that are hosted on the internet instead of on local physical devices
+- [[Cloud network]]: A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
+- [[Data packet]]: A basic unit of information that travels from one device to another within a network
+- [[Hub]]: A network device that broadcasts information to every device on the network
+- [[Internet Protocol (IP)]]: A set of standards used for routing and addressing data packets as they travel between devices on a network
+- [[Internet Protocol (IP) address]]: A unique string of characters that identifies the location of a device on the internet
+- [[Local Area Network (LAN)]]: A network that spans small areas like an office building, a school, or a home
+- [[Media Access Control (MAC) address]]: A unique alphanumeric identifier that is assigned to each physical device on a network
+- [[Modem]]: A device that connects your router to the internet and brings internet access to the LAN
+- [[Network]]: A group of connected devices
+- [[Open systems interconnection (OSI) model]]: A standardized concept that describes the seven layers computers use to communicate and send data over the network
+- [[Packet sniffing]]: The practice of capturing and inspecting data packets across a network
+- [[Port]]: A software-based location that organizes the sending and receiving of data between devices on a network
+- [[Router]]: A network device that connects multiple networks together
+- [[Speed]]: The rate at which a device sends and receives data, measured by bits per second
+- [[Switch]]: A device that makes connections between specific devices on a network by sending and receiving data between them
+- [[TCP/IP model]]: A framework used to visualize how data is organized and transmitted across a network
+- [[Transmission Control Protocol (TCP)]]: An internet communication protocol that allows two devices to form a connection and stream data
+- [[User Datagram Protocol (UDP)]]: A connectionless protocol that does not establish a connection between devices before transmissions
+- [[Wide Area Network (WAN)]]: A network that spans a large geographic area like a city, state, or country
