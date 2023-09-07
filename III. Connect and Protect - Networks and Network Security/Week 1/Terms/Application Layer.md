@@ -24,3 +24,9 @@ The **[[application layer]]** in the TCP/IP model is similar to the application,
 These port numbers help networked devices know which specific service or application they should communicate with when sending data over a network.
 
 Application layer protocols rely on underlying layers to transfer the data across the network.
+
+## Layer 7: **[[Application layer]]**
+
+The application layer includes processes that ***directly involve the everyday user***. This layer includes all of the networking protocols that software applications use to connect a user to the internet. This characteristic is the identifying feature of the application layer—user connection to the network via applications and requests.
+
+An example of a type of communication that happens at the application layer is using a web browser. The internet browser uses HTTP or HTTPS to send and receive information from the website server. The email application uses simple mail transfer protocol (SMTP) to send and receive email information. Also, web browsers use the domain name system (DNS) protocol to translate website domain names into IP addresses which identify the web server that hosts the information for the website.
