@@ -1,0 +1,1 @@
+- **[[Version (VER)]]:** This 4-bit component tells receiving devices what protocol the packet is using. The packet used in the illustration above is an IPv4 packet.

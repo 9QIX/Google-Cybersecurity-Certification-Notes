@@ -1,0 +1,1 @@
+- **[[Type of Service (ToS)]]:** Routers prioritize packets for delivery to maintain quality of service on the network. The ToS field provides the router with this information.

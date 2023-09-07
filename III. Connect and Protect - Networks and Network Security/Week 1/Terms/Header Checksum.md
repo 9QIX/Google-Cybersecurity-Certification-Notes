@@ -1,0 +1,1 @@
+- **[[Header Checksum]]:** The header checksum field contains a checksum that can be used to detect corruption of the IP header in transit. Corrupted packets are discarded.

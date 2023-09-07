@@ -1,0 +1,1 @@
+- **[[IP Header Length (HLEN or IHL)]]:** HLEN is the packet’s header length. This value indicates where the packet header ends and the data segment begins.

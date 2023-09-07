@@ -1,0 +1,1 @@
+- **[[Fragmentation Offset]]:** The fragment offset field tells routing devices where in the original packet the fragment belongs.
