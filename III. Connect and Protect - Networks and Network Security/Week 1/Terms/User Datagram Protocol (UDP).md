@@ -1,0 +1,1 @@
+- [[User Datagram Protocol (UDP)]]: A connectionless protocol that does not establish a connection between devices before transmissions

@@ -1,0 +1,1 @@
+- [[Open systems interconnection (OSI) model]]: A standardized concept that describes the seven layers computers use to communicate and send data over the network

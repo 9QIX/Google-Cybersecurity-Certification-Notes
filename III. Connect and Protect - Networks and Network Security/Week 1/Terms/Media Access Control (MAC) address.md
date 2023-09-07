@@ -1,0 +1,1 @@
+- [[Media Access Control (MAC) address]]: A unique alphanumeric identifier that is assigned to each physical device on a network
