@@ -1,0 +1,2 @@
+- ### [[IP Version 6 (IPv6)]]
+	- IPv6 addresses are made up of 32 characters. The length of the IPv6 address will allow for more devices to be connected to the internet without running out of addresses as quickly as IPv4. 

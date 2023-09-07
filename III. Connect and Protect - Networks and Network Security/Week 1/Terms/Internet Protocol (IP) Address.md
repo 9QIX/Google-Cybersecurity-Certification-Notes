@@ -1,0 +1,1 @@
+An **[[Internet Protocol (IP) Address]]** is a unique string of characters that identifies a location of a device on the internet. Each device on the internet has a unique IP address, just like every house on a street has its own mailing address. 

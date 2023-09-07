@@ -1,0 +1,2 @@
+- ### [[IP Version 4 (IPv4)]]
+	- IPv4 addresses are written as four, 1, 2, or 3-digit numbers separated by a decimal point. In the early days of the internet, IP addresses were all IPV4. But as the use of the internet grew, all the IPv4 addresses started to get used up, so IPv6 was developed. 

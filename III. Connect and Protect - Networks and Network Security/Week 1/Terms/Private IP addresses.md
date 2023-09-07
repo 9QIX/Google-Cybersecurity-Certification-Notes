@@ -1,0 +1,1 @@
+**[[Private IP addresses]]** are only ***seen by other devices on the same local network***. This means that all the devices on your home network can communicate with each other using unique IP addresses that the rest of the internet can't see. 
