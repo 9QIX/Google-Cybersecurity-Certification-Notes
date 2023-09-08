@@ -1,0 +1,1 @@
+The **[[Hypertext Transfer Protocol Secure (HTTPS)]]**, is a network protocol that provides a secure method of ***communication between client and website servers***. It allows your web browser to ***securely send a request for a webpage*** to the Yummy Recipes For Me server and receive a webpage as a response.

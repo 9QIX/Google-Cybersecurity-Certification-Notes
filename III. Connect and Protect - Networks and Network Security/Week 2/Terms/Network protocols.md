@@ -1,0 +1,1 @@
+**[[Network protocols]]** are a set of rules used by two or more devices on a network to describe the order of delivery and the structure of the data. 
