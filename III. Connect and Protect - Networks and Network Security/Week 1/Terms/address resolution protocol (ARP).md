@@ -1,1 +1,3 @@
 Hubs, modems, cables, and wiring are all considered part of this layer. The **[[address resolution protocol (ARP)]]** is part of the network access layer. ARP ***assists IP with directing data packets*** on the same physical network by ***mapping IP addresses to MAC addresses*** on the same physical network.
+
+As data packets move across the network, they move between network devices such as routers. The **[[Address Resolution Protocol (ARP)]]**, is used to ***determine the MAC address*** of the next router or device on the path. This ensures that the data gets to the right place.
