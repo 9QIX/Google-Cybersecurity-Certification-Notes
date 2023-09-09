@@ -1,0 +1,1 @@
+- **[[Intrusion Protection]]**: NGFWs actively *identify and prevent intrusion attempts*. They can block traffic that exhibits patterns typical of known attacks.

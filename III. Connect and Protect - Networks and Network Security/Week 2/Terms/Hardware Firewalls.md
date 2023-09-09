@@ -1,0 +1,1 @@
+   - **[[Hardware Firewalls]]**: These are *physical devices dedicated to protecting a network*. Hardware firewalls carefully inspect each incoming data packet before permitting it into the network. They're often the first line of defense against threats.

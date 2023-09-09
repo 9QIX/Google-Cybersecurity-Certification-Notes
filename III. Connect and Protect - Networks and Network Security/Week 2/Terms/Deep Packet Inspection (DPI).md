@@ -1,0 +1,1 @@
+ - **[[Deep Packet Inspection (DPI)]]**: NGFWs *analyze the content of data packets*, not just the packet headers. They scrutinize the actual data within packets, making it more challenging for malicious content to pass through.

@@ -1,0 +1,1 @@
+ - **[[Integration with Threat Intelligence]]**: Some NGFWs *connect to cloud-based threat intelligence services*. These services provide real-time threat information, allowing NGFWs to quickly update their security policies to guard against emerging cyber threats.

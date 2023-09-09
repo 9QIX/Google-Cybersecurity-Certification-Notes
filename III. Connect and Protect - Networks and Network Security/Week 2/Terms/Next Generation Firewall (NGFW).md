@@ -1,0 +1,5 @@
+**[[Next Generation Firewall (NGFW)]]:**
+- An **NGFW (Next Generation Firewall)** represents an advanced evolution of traditional stateful firewalls. NGFWs *combine stateful inspection with additional, more sophisticated security features*. These features include:
+   - **[[Deep Packet Inspection (DPI)]]**: NGFWs *analyze the content of data packets*, not just the packet headers. They scrutinize the actual data within packets, making it more challenging for malicious content to pass through.
+   - **[[Intrusion Protection]]**: NGFWs actively *identify and prevent intrusion attempts*. They can block traffic that exhibits patterns typical of known attacks.
+   - **[[Integration with Threat Intelligence]]**: Some NGFWs *connect to cloud-based threat intelligence services*. These services provide real-time threat information, allowing NGFWs to quickly update their security policies to guard against emerging cyber threats.
