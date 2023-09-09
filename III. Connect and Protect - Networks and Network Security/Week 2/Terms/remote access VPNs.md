@@ -1,0 +1,1 @@
+Individual users use **[[remote access VPNs]]** to establish a connection between a personal device and a VPN server. Remote access VPNs encrypt data sent or received through a personal device. The connection between the user and the remote access VPN is established through the internet.
