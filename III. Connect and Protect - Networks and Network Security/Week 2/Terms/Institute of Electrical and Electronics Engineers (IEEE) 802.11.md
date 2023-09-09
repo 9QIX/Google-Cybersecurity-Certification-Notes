@@ -1,0 +1,1 @@
+**[[Institute of Electrical and Electronics Engineers (IEEE) 802.11]]**, commonly known as Wi-Fi, is a set of standards that ***define communications for wireless LANs***. 

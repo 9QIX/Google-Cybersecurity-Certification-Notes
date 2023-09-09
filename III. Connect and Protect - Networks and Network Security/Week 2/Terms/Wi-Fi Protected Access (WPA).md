@@ -1,0 +1,3 @@
+Wi-Fi protocols have adapted over the years to become more secure and reliable to provide the same level of security as a wired connection. In **2004**, a security protocol called the **[[Wi-Fi Protected Access (WPA)]]**, was introduced. 
+
+WPA is a ***wireless security protocol*** for devices to connect to the internet. Since then, WPA has evolved into newer versions, like **WPA2 and WPA3**,which include further security improvements, like more advanced encryption. 
