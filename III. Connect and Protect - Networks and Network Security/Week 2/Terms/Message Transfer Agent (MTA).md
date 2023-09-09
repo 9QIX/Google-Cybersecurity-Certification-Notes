@@ -1,0 +1,1 @@
+SMTP works with **[[Message Transfer Agent (MTA)]]** software, which searches DNS servers to resolve email addresses to IP addresses, to ensure emails reach their intended destination.

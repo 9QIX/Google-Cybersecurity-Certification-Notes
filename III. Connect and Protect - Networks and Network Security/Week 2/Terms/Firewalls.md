@@ -1,0 +1,1 @@
+**[[Firewalls]]** can filter out unwanted traffic based on port numbers. For example, an organization may configure a firewall to only allow access to TCP port 995 (POP3) by IP addresses belonging to the organization.
