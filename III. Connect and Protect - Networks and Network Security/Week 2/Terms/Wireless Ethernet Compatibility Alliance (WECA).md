@@ -1,0 +1,1 @@
+Many people today refer to wireless internet as Wi-Fi. **Wi-Fi** refers to a set of standards that define communication for wireless LANs. Wi-Fi is a marketing term commissioned by the **[[Wireless Ethernet Compatibility Alliance (WECA)]]**. WECA has since renamed their organization Wi-Fi Alliance. 
