@@ -124,7 +124,7 @@ Subnetting is a common security strategy used by organizations. Subnetting allow
 - When an external request to connect to the network arrives, the proxy server acts as the gatekeeper, assessing the safety of the connection request.
 - It uses a public IP address distinct from the internal network's IP addresses, effectively concealing the organization's network from potential threats on the internet.
 
-**Use of Proxy Serverss**:
+**Use of Proxy Servers**:
 - **[[Proxy servers]]** can obfuscate the IP addresses of an organization's web servers in responses, improving security.
 - They are employed to block access to unsafe websites, restricting user access based on an organization's policies.
 - To enhance performance and security, **[[Proxy Servers]]** cache frequently requested data temporarily, reducing the need for repeated access to internal servers.
@@ -140,3 +140,5 @@ Subnetting is a common security strategy used by organizations. Subnetting allow
 
 **Significance in Network Security**:
 - **[[Proxy Servers]]** play a pivotal role in network security by filtering both incoming and outgoing traffic. They remain vigilant for potential network attacks, adding an essential layer of protection against threats originating from the unsecured public network, commonly known as the internet.
+
+
