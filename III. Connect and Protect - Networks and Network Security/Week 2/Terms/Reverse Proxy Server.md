@@ -1,0 +1,1 @@
+- **[[Reverse Proxy Server]]**: The reverse proxy server is responsible for regulating and controlling external access to internal servers. It approves traffic from external sources and forwards it to internal servers, protecting them from exposing their IP addresses.

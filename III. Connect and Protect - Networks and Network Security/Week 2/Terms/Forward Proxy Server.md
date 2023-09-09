@@ -1,0 +1,1 @@
+- **[[Forward Proxy Server]]**: This type is primarily used to control and restrict internet access for individuals. It hides users' IP addresses and validates outgoing requests. In organizational settings, it processes outgoing traffic from employees and forwards it to the internet.

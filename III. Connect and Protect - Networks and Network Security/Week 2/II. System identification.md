@@ -127,7 +127,7 @@ Subnetting is a common security strategy used by organizations. Subnetting allow
 **Use of Proxy Servers**:
 - **[[Proxy servers]]** can obfuscate the IP addresses of an organization's web servers in responses, improving security.
 - They are employed to block access to unsafe websites, restricting user access based on an organization's policies.
-- To enhance performance and security, **[[Proxy Servers]]** cache frequently requested data temporarily, reducing the need for repeated access to internal servers.
+- To enhance performance and security, **[[Proxy servers]]** cache frequently requested data temporarily, reducing the need for repeated access to internal servers.
 
 **Types of Proxy Servers**:
 - **[[Forward Proxy Server]]**: This type is primarily used to control and restrict internet access for individuals. It hides users' IP addresses and validates outgoing requests. In organizational settings, it processes outgoing traffic from employees and forwards it to the internet.
@@ -136,9 +136,9 @@ Subnetting is a common security strategy used by organizations. Subnetting allow
 
 **Real-World Example - Email Proxy**:
 - A practical application of an email proxy server is illustrated. It was used at a large U.S. broadband ISP to implement robust anti-spam filtering, tagging a significant portion of incoming emails as spam before allowing them for delivery.
-- The use of **[[Proxy Servers]]** enabled efficient spam filtering without affecting the underlying email platform.
+- The use of **[[Proxy servers]]** enabled efficient spam filtering without affecting the underlying email platform.
 
 **Significance in Network Security**:
-- **[[Proxy Servers]]** play a pivotal role in network security by filtering both incoming and outgoing traffic. They remain vigilant for potential network attacks, adding an essential layer of protection against threats originating from the unsecured public network, commonly known as the internet.
+- **[[Proxy servers]]** play a pivotal role in network security by filtering both incoming and outgoing traffic. They remain vigilant for potential network attacks, adding an essential layer of protection against threats originating from the unsecured public network, commonly known as the internet.
 
 

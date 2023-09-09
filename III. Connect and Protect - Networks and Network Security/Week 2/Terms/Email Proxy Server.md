@@ -1,0 +1,1 @@
+- **[[Email Proxy Server]]**: An email proxy server is a valuable tool for filtering spam emails and verifying the authenticity of sender addresses. It reduces the risk of phishing attacks that impersonate individuals within the organization.
