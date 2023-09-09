@@ -113,3 +113,30 @@ Subnetting is one component of creating isolated subnetworks through physical is
 ## Key takeaways
 
 Subnetting is a common security strategy used by organizations. Subnetting allows organizations to create smaller networks within their private network. This improves the efficiency of the network and can be used to create security zones.
+
+# Proxy servers
+
+- A **[[Proxy Server]]** is a network security system that serves as an intermediary between a client and other servers on the internet.
+- It fulfills client requests by forwarding them to their intended destinations, enhancing security and privacy.
+- The proxy server is a dedicated server positioned between the internet and the organization's internal network.
+
+**Proxy Server's Role in Network Security**:
+- When an external request to connect to the network arrives, the proxy server acts as the gatekeeper, assessing the safety of the connection request.
+- It uses a public IP address distinct from the internal network's IP addresses, effectively concealing the organization's network from potential threats on the internet.
+
+**Use of Proxy Serverss**:
+- **[[Proxy servers]]** can obfuscate the IP addresses of an organization's web servers in responses, improving security.
+- They are employed to block access to unsafe websites, restricting user access based on an organization's policies.
+- To enhance performance and security, **[[Proxy Servers]]** cache frequently requested data temporarily, reducing the need for repeated access to internal servers.
+
+**Types of Proxy Servers**:
+- **[[Forward Proxy Server]]**: This type is primarily used to control and restrict internet access for individuals. It hides users' IP addresses and validates outgoing requests. In organizational settings, it processes outgoing traffic from employees and forwards it to the internet.
+- **[[Reverse Proxy Server]]**: The reverse proxy server is responsible for regulating and controlling external access to internal servers. It approves traffic from external sources and forwards it to internal servers, protecting them from exposing their IP addresses.
+- **[[Email Proxy Server]]**: An email proxy server is a valuable tool for filtering spam emails and verifying the authenticity of sender addresses. It reduces the risk of phishing attacks that impersonate individuals within the organization.
+
+**Real-World Example - Email Proxy**:
+- A practical application of an email proxy server is illustrated. It was used at a large U.S. broadband ISP to implement robust anti-spam filtering, tagging a significant portion of incoming emails as spam before allowing them for delivery.
+- The use of **[[Proxy Servers]]** enabled efficient spam filtering without affecting the underlying email platform.
+
+**Significance in Network Security**:
+- **[[Proxy Servers]]** play a pivotal role in network security by filtering both incoming and outgoing traffic. They remain vigilant for potential network attacks, adding an essential layer of protection against threats originating from the unsecured public network, commonly known as the internet.
