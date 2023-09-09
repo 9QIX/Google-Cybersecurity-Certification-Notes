@@ -1,0 +1,1 @@
+- **[[Stateless]]:** A class of firewall that operates based on predefined rules and does not keep track of information from data packets

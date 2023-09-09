@@ -1,0 +1,1 @@
+**[[Protocols]]** are the rules used by all network devices that provide a mutually agreed upon foundation for how to transfer data across a network.
