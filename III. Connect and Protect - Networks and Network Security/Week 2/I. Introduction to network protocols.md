@@ -168,12 +168,24 @@ As a security analyst, you will need to know about many of the protocols and por
 
 As a cybersecurity analyst, you will encounter various common protocols in your everyday work. The protocols covered in this reading include NAT, DHCP, ARP, Telnet, SSH, POP3, IMAP, and SMTP. It is equally important to understand where each protocol is structured in the TCP/IP model and which ports they occupy. 
 
-|**Protocol**|**Port**|
-|---|---|
-|DHCP|UDP port 67 (servers)<br><br>UDP port 68 (clients)|
-|ARP|none|
-|Telnet|TCP port 23|
-|SSH|TCP port 22|
-|POP3|TCP/UDP port 110 (unencrypted)<br><br>TCP/UDP port 995 (encrypted, SSL/TLS)|
-|IMAP|TCP port 143 (unencrypted)<br><br>TCP port 993 (encrypted, SSL/TLS)|
-|SMTP|TCP/UDP port 587 (encrypted, TLS)|
+| **Protocol** | **Port** |
+| ----------- | ------- |
+| DHCP        | UDP port 67 (servers)<br>UDP port 68 (clients) |
+| ARP         | none |
+| Telnet      | TCP port 23 |
+| SSH         | TCP port 22 |
+| POP3        | TCP/UDP port 110 (unencrypted)<br>TCP/UDP port 995 (encrypted, SSL/TLS) |
+| IMAP        | TCP port 143 (unencrypted)<br>TCP port 993 (encrypted, SSL/TLS) |
+| SMTP        | TCP/UDP port 587 (encrypted, TLS) |
+
+# Wireless protocols
+
+**[[Institute of Electrical and Electronics Engineers (IEEE) 802.11]]**, commonly known as Wi-Fi, is a set of standards that ***define communications for wireless LANs***. 
+
+IEEE is an organization that maintains Wi-Fi standards, and 802.11 is a suite of protocols used in wireless communications. 
+
+Wi-Fi protocols have adapted over the years to become more secure and reliable to provide the same level of security as a wired connection. In **2004**, a security protocol called the **[[Wi-Fi Protected Access (WPA)]]**, was introduced. 
+
+WPA is a ***wireless security protocol*** for devices to connect to the internet. Since then, WPA has evolved into newer versions, like **WPA2 and WPA3**,which include further security improvements, like more advanced encryption. 
+
+As a security analyst, you might be responsible for making sure that the wireless connections in your organization are secure. Let's learn more about security measures. 
