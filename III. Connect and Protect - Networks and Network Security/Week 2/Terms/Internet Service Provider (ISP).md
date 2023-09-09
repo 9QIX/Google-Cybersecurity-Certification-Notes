@@ -1,0 +1,1 @@
+When you connect to the internet, your **[[Internet Service Provider (ISP)]]** processes your network requests and directs them to the appropriate destination server.

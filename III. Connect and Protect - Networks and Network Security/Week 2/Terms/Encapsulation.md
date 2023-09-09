@@ -1,0 +1,5 @@
+**[[Encapsulation]]**:
+- VPN services use a process called **[[Encapsulation]]** to protect your data. This involves wrapping sensitive data within other data packets.
+- Data packets typically contain the MAC and IP addresses of the destination device in their header and footer. However, this presents a security risk, as it reveals the IP and virtual location of your private network.
+- While encrypting data can secure it, it poses a problem for network routers, as they won't be able to read the IP and MAC addresses necessary to route the data to its destination.
+- **[[Encapsulation]]** solves this issue by encrypting your data packets and encapsulating them in other data packets that routers can read. This ensures your network requests can reach their destination while keeping your personal data unreadable during transit.

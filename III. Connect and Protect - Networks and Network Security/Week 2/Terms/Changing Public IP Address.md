@@ -1,0 +1,1 @@
+**[[Changing Public IP Address]]**: It alters your public IP address, making it appear as if you are accessing the internet from a different location.
