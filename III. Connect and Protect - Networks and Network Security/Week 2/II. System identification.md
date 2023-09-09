@@ -52,8 +52,8 @@
 - Security zones are a fundamental aspect of **[[network segmentation]]**, a security technique that divides a network into segments, each with its own access permissions and security rules.
 - They control and regulate access to different segments of a network, acting as barriers that safeguard internal networks, maintain privacy within corporate groups, and prevent issues from spreading across the entire network.
 
-**[[Network Segmentation]]**:
-- **[[Network Segmentation]]** is a security practice that divides a network into segments, each with its own unique security controls and rules.
+**[[network segmentation]]**:
+- **[[network segmentation]]** is a security practice that divides a network into segments, each with its own unique security controls and rules.
 - These segments help enhance network security by controlling access and limiting the impact of security incidents.
 
 **Example of Network Segmentation**:

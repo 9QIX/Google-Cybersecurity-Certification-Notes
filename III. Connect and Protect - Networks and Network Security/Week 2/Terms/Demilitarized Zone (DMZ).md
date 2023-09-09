@@ -1,0 +1,1 @@
+ **[[Demilitarized Zone (DMZ)]]**: The DMZ contains public-facing services that can access the internet, such as web servers, proxy servers, DNS servers, email servers, and file servers for external communications.

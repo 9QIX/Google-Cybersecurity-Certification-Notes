@@ -1,0 +1,1 @@
+- **[[Internal Network]]**: This network houses private servers and sensitive data that the organization needs to protect.

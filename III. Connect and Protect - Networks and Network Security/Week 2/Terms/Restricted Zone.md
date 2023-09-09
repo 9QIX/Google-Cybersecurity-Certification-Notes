@@ -1,0 +1,1 @@
+ - **[[Restricted Zone]]**: The restricted zone safeguards highly confidential information and limits access to employees with specific privileges.

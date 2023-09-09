@@ -1,0 +1,3 @@
+- A **[[Security Zone]]** is a network security feature that acts as a segment of a network, protecting the internal network from external threats, particularly from the internet.
+- Security zones are a fundamental aspect of **[[network segmentation]]**, a security technique that divides a network into segments, each with its own access permissions and security rules.
+- They control and regulate access to different segments of a network, acting as barriers that safeguard internal networks, maintain privacy within corporate groups, and prevent issues from spreading across the entire network.
