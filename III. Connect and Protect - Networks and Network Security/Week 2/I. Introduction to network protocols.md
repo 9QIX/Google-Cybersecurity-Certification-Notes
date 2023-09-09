@@ -58,12 +58,12 @@ Network protocols can be divided into three main categories: **communication pro
 		- For example, one use of UDP is for internet gaming transmissions. In the TCP/IP model, UDP occurs at the **transport layer**.
 - **[[Hypertext Transfer Protocol (HTTP)]]** is an application layer protocol that provides a method of ***communication between clients and website*** servers. 
 	- HTTP uses port 80. HTTP is considered insecure, so it is being replaced on most websites by a secure version, called HTTPS. 
-	- However, there are still many websites that use the insecure HTTP protocol. In the TCP/IP model, HTTP occurs at the application layer.
+	- However, there are still many websites that use the insecure HTTP protocol. In the TCP/IP model, HTTP occurs at the **application layer**.
 	- Port 80
 - **[[Domain Name System (DNS)]]** is a protocol that ***translates internet domain names into IP addresses***. 
 	- When a client computer wishes to access a website domain using their internet browser, a query is sent to a dedicated DNS server. 
 	- The DNS server then looks up the IP address that corresponds to the website domain. DNS normally uses UDP on port 53. 
-	- However, if the DNS reply to a request is large, it will switch to using the TCP protocol. In the TCP/IP model, DNS occurs at the application layer.
+	- However, if the DNS reply to a request is large, it will switch to using the TCP protocol. In the TCP/IP model, DNS occurs at the **application layer**.
 	- Port 53
 
 ### **Management Protocols**
@@ -82,10 +82,17 @@ The next category of network protocols is **[[management protocols]]**. Manageme
 
 ### **Security Protocols**
 
-Security protocols are network protocols that ensure that data is sent and received securely across a network. Security protocols use encryption algorithms to protect data in transit. Below are some common security protocols.
+**[[Security protocols]]** are network protocols that ensure that ***data is sent and received securely*** across a network. Security protocols use encryption algorithms to protect data in transit. Below are some common security protocols.
 
-- **Hypertext Transfer Protocol Secure (HTTPS)** is a network protocol that provides a secure method of communication between clients and website servers. HTTPS is a secure version of HTTP that uses secure sockets layer/transport layer security (SSL/TLS) encryption on all transmissions so that malicious actors cannot read the information contained. HTTPS uses port 443. In the TCP/IP model, HTTPS occurs at the application layer.
-- **Secure File Transfer Protocol (SFTP)** is a secure protocol used to transfer files from one device to another over a network. SFTP uses secure shell (SSH), typically through TCP port 22. SSH uses Advanced Encryption Standard (AES) and other types of encryption to ensure that unintended recipients cannot intercept the transmissions. In the TCP/IP model, SFTP occurs at the application layer. SFTP is used often with cloud storage. Every time a user uploads or downloads a file from cloud storage, the file is transferred using the SFTP protocol.
+- **[[Hypertext Transfer Protocol Secure (HTTPS)]]** is a network protocol that provides a ***secure method of communication between clients and website*** servers. 
+	- HTTPS is a secure version of HTTP that uses secure sockets layer/transport layer security (SSL/TLS) encryption on all transmissions so that malicious actors cannot read the information contained. 
+	- HTTPS uses **port 443**. In the TCP/IP model, HTTPS occurs at the **application layer**.
+	- Port 443
+- **[[Secure File Transfer Protocol (SFTP)]]** is a ***secure protocol used to transfer files*** from one device to another over a network. 
+	- SFTP uses secure shell (SSH), typically through TCP **port 22**. SSH uses [[Advanced Encryption Standard (AES)]] and other types of encryption to ensure that unintended recipients cannot intercept the transmissions. 
+	- In the TCP/IP model, SFTP occurs at the **application layer**. 
+	- SFTP is used ***often with cloud storage***. Every time a user uploads or downloads a file from cloud storage, the file is transferred using the SFTP protocol.
+	- Port 22
 
 **Note:** The encryption protocols mentioned do not conceal the source or destination IP address of network traffic. This means a malicious actor can still learn some basic information about the network traffic if they intercept it. 
 
