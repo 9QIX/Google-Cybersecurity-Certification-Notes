@@ -1,0 +1,1 @@
+**[[IEEE 802.11 (Wi-Fi)]]**: A set of standards that define communication for wireless LANs.
