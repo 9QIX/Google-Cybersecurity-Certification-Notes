@@ -1,1 +1,8 @@
 **[[Firewalls]]** can filter out unwanted traffic based on port numbers. For example, an organization may configure a firewall to only allow access to TCP port 995 (POP3) by IP addresses belonging to the organization.
+
+**Firewall Types:**
+- **[[Firewalls]]** serve as crucial network security devices that *regulate and control traffic* to and from a network.
+- They come in different types:
+   - **[[Hardware Firewalls]]**: These are *physical devices dedicated to protecting a network*. Hardware firewalls carefully inspect each incoming data packet before permitting it into the network. They're often the first line of defense against threats.
+   - **[[Software Firewalls]]**: Unlike hardware firewalls, software firewalls are not physical devices. They are *programs installed on individual computers* or servers within a network. These firewalls analyze incoming and outgoing traffic for each specific device they are installed on, providing protection tailored to the host.
+   - **[[Cloud-Based Firewalls]]**: Cloud service providers offer **Firewalls as a Service (FaaS)** for organizations. These firewalls are *software-based and hosted by the cloud service provider*. They allow organizations to configure firewall rules through the cloud provider's interface. Cloud-based firewalls inspect all incoming traffic before it reaches the organization's onsite network. They also safeguard cloud-hosted assets and processes used by the organization.
