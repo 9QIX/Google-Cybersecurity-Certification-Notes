@@ -45,3 +45,42 @@
 **Benefits of VPNs**:
 - VPN services are user-friendly and provide robust protection when you're on the internet.
 - They offer the assurance that your data is encrypted, and your IP address and virtual location remain hidden from potential threats.
+
+# Security Zones
+
+- A **[[Security Zone]]** is a network security feature that acts as a segment of a network, protecting the internal network from external threats, particularly from the internet.
+- Security zones are a fundamental aspect of **[[network segmentation]]**, a security technique that divides a network into segments, each with its own access permissions and security rules.
+- They control and regulate access to different segments of a network, acting as barriers that safeguard internal networks, maintain privacy within corporate groups, and prevent issues from spreading across the entire network.
+
+**[[Network Segmentation]]**:
+- **[[Network Segmentation]]** is a security practice that divides a network into segments, each with its own unique security controls and rules.
+- These segments help enhance network security by controlling access and limiting the impact of security incidents.
+
+**Example of Network Segmentation**:
+- An example of network segmentation is a hotel offering both unsecured public Wi-Fi for guests and an encrypted network for hotel staff.
+- Organizations often use network segmentation to create subnetworks or subnets, maintaining privacy for various departments or groups within the organization.
+
+**Types of Security Zones**:
+- An organization's network is typically classified into two types of security zones: **[[Uncontrolled Zone]]** and **[[Controlled Zone]]**.
+- The **[[Uncontrolled Zone]]** refers to any network outside the organization's control, such as the internet.
+- The **[[Controlled Zone]]** consists of subnets that protect the internal network from the uncontrolled zone.
+
+**Components of the Controlled Zone**:
+- Within the **[[Controlled Zone]]**, there are several types of networks, including:
+   - **[[Demilitarized Zone (DMZ)]]**: The DMZ contains public-facing services that can access the internet, such as web servers, proxy servers, DNS servers, email servers, and file servers for external communications.
+   - **[[Internal Network]]**: This network houses private servers and sensitive data that the organization needs to protect.
+   - **[[Restricted Zone]]**: The restricted zone safeguards highly confidential information and limits access to employees with specific privileges.
+
+**Network Defense**:
+- In an ideal setup, the DMZ is positioned between two firewalls. One firewall filters traffic from outside the DMZ, while the other filters traffic entering the internal network.
+- This multilayered approach provides robust protection for the internal network, preventing attacks from spreading between zones.
+
+**Role of Security Analysts**:
+- Security analysts are responsible for regulating access control policies on these firewalls.
+- They can control and restrict traffic reaching the DMZ and the internal network by managing IP addresses and ports.
+- For instance, an analyst may ensure that only HTTPS traffic is allowed to access web servers in the DMZ.
+
+**Importance of Security Zones**:
+- Security zones play a vital role in securing networks, particularly in large organizations.
+- Understanding their function and implementation is essential for security analysts and professionals.
+- In the upcoming sections, we will delve into securing internal networks.
