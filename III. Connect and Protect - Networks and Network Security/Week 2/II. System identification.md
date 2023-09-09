@@ -83,4 +83,3 @@
 **Importance of Security Zones**:
 - Security zones play a vital role in securing networks, particularly in large organizations.
 - Understanding their function and implementation is essential for security analysts and professionals.
-- In the upcoming sections, we will delve into securing internal networks.
