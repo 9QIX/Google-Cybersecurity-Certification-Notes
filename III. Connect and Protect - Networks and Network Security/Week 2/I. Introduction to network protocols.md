@@ -8,19 +8,19 @@ Networks benefit from having rules. Rules ensure that data sent over the network
 
 Say you want to access your favorite recipe website. You go to the address bar at the top of your browser and type in the website's address For example: www.yummyrecipesforme.org. Before you gain access to the website, device will establish communications with a web server. That communication uses a protocol called the **[[Transmission Control Protocol (TCP)]]**. TCP is an internet communications protocol that ***allows two devices to form a connection and stream data***. 
 
-### Step 2:
+### Step 2: Port 6
 
 **[[TCP]]** also ***verifies both devices before allowing any further communications*** to take place. This is often referred to as a **[[handshake]]**. Once communication is established using a TCP handshake, a request is made to the network. Using our example, we have requested data from the Yummy Recipes For Me server. Their servers will respond to that request and send data packets back to your device so that you can view the web page. 
 
-### Step 3:
+### Step 3: Port 219
 
 As data packets move across the network, they move between network devices such as routers. The **[[Address Resolution Protocol (ARP)]]**, is used to ***determine the MAC address*** of the next router or device on the path. This ensures that the data gets to the right place. Now the communication has been established and the destination device is known, it's time to access the Yummy Recipes For Me website. 
 
-### Step 4:
+### Step 4: Port 443
 
 The **[[Hypertext Transfer Protocol Secure (HTTPS)]]**, is a network protocol that provides a secure method of ***communication between client and website servers***. It allows your web browser to ***securely send a request for a webpage*** to the Yummy Recipes For Me server and receive a webpage as a response.
 
-### Step 5:
+### Step 5: Port 53
 
 Next comes a protocol called the **[[Domain Name System (DNS)]]**, which is a network protocol that ***translate internet domain names into IP addresses***. 
 
@@ -35,22 +35,34 @@ In this section of the course, you learned about network protocols and how they 
 
 ## Overview of network protocols
 
-A **[[network protocol]]** is a set of rules used by two or more devices on a network to describe the order of delivery and the structure of data. Network protocols serve as instructions that come with the information in the data packet. These instructions tell the receiving device what to do with the data. Protocols are like a common language that allows devices all across the world to communicate with and understand each other.
+A **[[network protocol]]** is a ***set of rules used by two or more devices*** on a network to describe the order of delivery and the structure of data. Network protocols serve as ***instructions that come with the information*** in the data packet. These instructions tell the receiving device what to do with the data. **Protocols** are like a common language that allows devices all across the world to communicate with and understand each other.
 
 Even though network protocols perform an essential function in network communication, security analysts should still understand their associated security implications. Some protocols have vulnerabilities that malicious actors exploit. For example, a nefarious actor could use the Domain Name System (DNS) protocol, which resolves web addresses to IP addresses, to divert traffic from a legitimate website to a malicious website containing malware. You’ll learn more about this topic in upcoming course materials. 
 
 ## Three categories of network protocols
 
-Network protocols can be divided into three main categories: communication protocols, management protocols, and security protocols. There are dozens of different network protocols, but you don’t need to memorize all of them for an entry-level security analyst role. However, it’s important for you to know the ones listed in this reading. 
+Network protocols can be divided into three main categories: **communication protocols, management protocols, and security protocols**. There are dozens of different network protocols, but you don’t need to memorize all of them for an entry-level security analyst role. However, it’s important for you to know the ones listed in this reading. 
 
 ### **Communication protocols**
 
-Communication protocols govern the exchange of information in network transmission. They dictate how the data is transmitted between devices and the timing of the communication. They also include methods to recover data lost in transit. Here are a few of them.
+**[[Communication protocols]]** govern the ***exchange of information*** in network transmission. They dictate how the data is transmitted between devices and the timing of the communication. They also include methods to recover data lost in transit. Here are a few of them.
 
-- **Transmission Control Protocol (TCP)** is an internet communication protocol that allows two devices to form a connection and stream data. TCP uses a three-way handshake process. First, the device sends a synchronize (SYN) request to a server. Then the server responds with a SYN/ACK packet to acknowledge receipt of the device's request. Once the server receives the final ACK packet from the device, a TCP connection is established. In the TCP/IP model, TCP occurs at the transport layer.
-- **User Datagram Protocol (UDP)** is a connectionless protocol that does not establish a connection between devices before a transmission. This makes it less reliable than TCP. But it also means that it works well for transmissions that need to get to their destination quickly. For example, one use of UDP is for internet gaming transmissions. In the TCP/IP model, UDP occurs at the transport layer.
-- **Hypertext Transfer Protocol (HTTP)** is an application layer protocol that provides a method of communication between clients and website servers. HTTP uses port 80. HTTP is considered insecure, so it is being replaced on most websites by a secure version, called HTTPS. However, there are still many websites that use the insecure HTTP protocol. In the TCP/IP model, HTTP occurs at the application layer.
-- **Domain Name System (DNS)** is a protocol that translates internet domain names into IP addresses. When a client computer wishes to access a website domain using their internet browser, a query is sent to a dedicated DNS server. The DNS server then looks up the IP address that corresponds to the website domain. DNS normally uses UDP on port 53. However, if the DNS reply to a request is large, it will switch to using the TCP protocol. In the TCP/IP model, DNS occurs at the application layer.
+- **[[Transmission Control Protocol (TCP)]]** is an internet communication protocol that allows ***two devices to form a connection and stream data***. 
+	- TCP uses a three-way handshake process: 
+		- First, the device sends a synchronize (SYN) request to a server. 
+		- Then the server responds with a SYN/ACK packet to acknowledge receipt of the device's request. 
+		- Once the server receives the final ACK packet from the device, a TCP connection is established.
+		- In the TCP/IP model, TCP occurs at the **transport layer**.
+- **[[User Datagram Protocol (UDP)]]** is a connectionless protocol that ***does not establish a connection between devices*** before a transmission. 
+	- This makes it less reliable than TCP. But it also means that it works well for transmissions that need to get to their destination quickly. 
+		- For example, one use of UDP is for internet gaming transmissions. In the TCP/IP model, UDP occurs at the **transport layer**.
+- **[[Hypertext Transfer Protocol (HTTP)]]** is an application layer protocol that provides a method of ***communication between clients and website*** servers. 
+	- HTTP uses port 80. HTTP is considered insecure, so it is being replaced on most websites by a secure version, called HTTPS. 
+	- However, there are still many websites that use the insecure HTTP protocol. In the TCP/IP model, HTTP occurs at the application layer.
+- **[[Domain Name System (DNS)]]** is a protocol that ***translates internet domain names into IP addresses***. 
+	- When a client computer wishes to access a website domain using their internet browser, a query is sent to a dedicated DNS server. 
+	- The DNS server then looks up the IP address that corresponds to the website domain. DNS normally uses UDP on port 53. 
+	- However, if the DNS reply to a request is large, it will switch to using the TCP protocol. In the TCP/IP model, DNS occurs at the application layer.
 
 ### **Management Protocols**
 
