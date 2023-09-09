@@ -1,1 +1,3 @@
 - **[[Port numbers]]** allow computers to split the network traffic and prioritize the operations they will perform with the data. Some common port numbers are: port 25, which is used for e-mail, port 443, which is used for secure internet communication, and port 20, for large file transfers.
+
+Remember that **[[port numbers]]** are used by network devices to determine what should be done with the information contained in each data packet once they reach their destination.
