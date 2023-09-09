@@ -148,7 +148,7 @@ Unencrypted, plaintext authentication uses TCP/UDP port 110 and encrypted emails
 
 ## Internet Message Access Protocol (IMAP)
 
-**[[Internet Message Access Protocol (IMAP)]]** is used for incoming email. It downloads the headers of emails, but not the content. The content remains on the email server, which allows users to access their email from multiple devices. 
+**[[internet message access protocol (IMAP)]]** is used for incoming email. It downloads the headers of emails, but not the content. The content remains on the email server, which allows users to access their email from multiple devices. 
 
 IMAP uses TCP port 143 for unencrypted email and TCP port 993 over the TLS protocol. Using IMAP allows users to partially read email before it is finished downloading and to sync emails. However, IMAP is slower than POP3.
 
