@@ -59,4 +59,18 @@ As you’ve learned already, network attacks can have a significant negative imp
 
 ## Key takeaways
 
-Malicious actors are constantly looking for ways to exploit systems. They learn about new vulnerabilities as they arise and attempt to exploit every vulnerability in a system. Attackers leverage backdoor attack methods and network interception attacks to gain sensitive information they can use to exploit an organization or cause serious damage. These types of attacks can impact an organization financially, damage its reputation, and potentially put the public in danger.  It is important that security analysts stay educated in order to maintain network safety and reduce the likelihood and impact of these types of attacks. Securing networks has never been more important.
+**The 3Cs: Command, Control, and Communications**:
+- In incident management, the three crucial elements are Command, Control, and Communications.
+- **Command** means having a clear leader who takes charge of the situation and guides the response effectively.
+- **Control** involves organizing and directing all involved parties to ensure they are aligned and focused on achieving the mission.
+- **Communications** is vital for sharing information and updates promptly. Effective communication ensures that everyone is aware of the situation and can contribute to the response.
+
+**Proper Communications**:
+- Proper communication is emphasized as one of the most critical aspects of incident management.
+- It's essential for individuals to communicate their intentions and actions during an incident rather than acting independently.
+- Communicating intentions and contributions ensures that efforts are coordinated and efficient.
+
+**Advice for Aspiring Cybersecurity Professionals**:
+- Aspiring individuals are encouraged to pursue a career in cybersecurity if they have a genuine interest and passion for the field.
+- The industry values individuals who are curious, eager to learn, and dedicated to enhancing security for technology users.
+- Cybersecurity welcomes those who want to build better, ask questions, and contribute to making technology safer for everyone.
