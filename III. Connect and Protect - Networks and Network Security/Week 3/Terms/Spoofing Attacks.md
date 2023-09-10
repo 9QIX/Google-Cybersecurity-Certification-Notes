@@ -1,0 +1,1 @@
+- **[[Spoofing Attacks]]**: Spoofing attacks involve impersonating a legitimate entity or device to gain unauthorized access. Common forms include IP spoofing, DNS spoofing, and ARP spoofing. Attackers may use spoofing to bypass security measures.

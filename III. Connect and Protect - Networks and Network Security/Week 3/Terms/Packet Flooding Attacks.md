@@ -1,0 +1,1 @@
+- **[[Packet Flooding Attacks]]**: Packet flooding attacks overwhelm a network by flooding it with a high volume of traffic. Distributed Denial of Service (DDoS) attacks are a common form of packet flooding. These attacks disrupt network services, rendering them unavailable to legitimate users.

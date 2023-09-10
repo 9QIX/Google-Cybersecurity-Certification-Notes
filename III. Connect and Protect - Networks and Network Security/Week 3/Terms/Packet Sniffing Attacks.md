@@ -1,0 +1,1 @@
+- **[[Packet Sniffing Attacks]]**: Packet sniffing, or packet capturing, involves intercepting and analyzing data packets transmitted over a network. Attackers can capture sensitive information, such as login credentials or confidential data, leading to potential security breaches.
