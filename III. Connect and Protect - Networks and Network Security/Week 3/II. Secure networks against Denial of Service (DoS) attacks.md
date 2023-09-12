@@ -56,11 +56,11 @@ tcpdump prints the output of the command as the sniffed packets in the command l
 
 Some information you receive from a packet capture includes: 
 
-- **Timestamp**: The output begins with the timestamp, formatted as hours, minutes, seconds, and fractions of a second.  
-- **Source IP**: The packet’s origin is provided by its source IP address.
-- **Source port**: This port number is where the packet originated.
-- **Destination IP**: The destination IP address is where the packet is being transmitted to.
-- **Destination port**: This port number is where the packet is being transmitted to.
+- **[[Timestamp]]**: The output begins with the timestamp, formatted as hours, minutes, seconds, and fractions of a second.  
+- **[[Source IP]]**: The packet’s origin is provided by its source IP address.
+- **[[Source port]]**: This port number is where the packet originated.
+- **[[Destination IP]]**: The destination IP address is where the packet is being transmitted to.
+- **[[Destination port]]**: This port number is where the packet is being transmitted to.
 
 **Note:** By default, tcpdump will attempt to resolve host addresses to hostnames. It'll also replace port numbers with commonly associated services that use these ports.
 
