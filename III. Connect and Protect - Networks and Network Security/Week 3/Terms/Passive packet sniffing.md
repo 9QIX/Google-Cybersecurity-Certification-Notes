@@ -1,0 +1,1 @@
+**[[Passive packet sniffing]]** involves the unauthorized reading of data packets in transit, much like a postal worker reading someone's mail

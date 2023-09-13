@@ -1,0 +1,1 @@
+**[[Active packet sniffing]]** includes manipulating data packets in transit, which is akin to a neighbor changing the contents of a letter before delivering it.
