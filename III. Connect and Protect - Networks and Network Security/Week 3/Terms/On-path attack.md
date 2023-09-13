@@ -1,0 +1,1 @@
+- **[[On-path attack]]** - An attack where a malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit

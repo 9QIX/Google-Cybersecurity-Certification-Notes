@@ -1,0 +1,1 @@
+**[[Distributed denial of service attack (DDoS)]]** - A type of denial or service attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic

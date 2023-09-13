@@ -1,0 +1,1 @@
+- **[[IP spoofing]]** - A network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network
