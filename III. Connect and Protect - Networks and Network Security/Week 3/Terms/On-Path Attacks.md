@@ -1,1 +1,7 @@
 **[[On-Path Attacks]]:** On-path attacks involve the malicious actor positioning themselves between two devices engaged in an authorized connection. This intermediary position allows them to intercept and potentially modify data packets in transit. By sniffing packet information, attackers can learn the IP and MAC addresses of communicating devices, enabling them to impersonate either of these devices.
+
+### 1. **On-path attack**
+
+An **[[on-path attacks]]** happens when a hacker intercepts the communication between two devices or servers that have a trusted relationship. The transmission between these two trusted network devices could contain valuable information like usernames and passwords that the malicious actor can collect. An on-path attack is sometimes referred to as a **meddler-in-the middle attack** because the hacker is hiding in the middle of communications between two trusted parties.
+
+Or, it could be that the intercepted transmission contains a DNS system look-up. You’ll recall from an earlier video that a DNS server translates website domain names into IP addresses. If a malicious actor intercepts a transmission containing a DNS lookup, they could spoof the DNS response from the server and redirect a domain name to a different IP address, perhaps one that contains malicious code or other threats. The most important way to protect against an on-path attack is to encrypt your data in transit, e.g. using TLS.
