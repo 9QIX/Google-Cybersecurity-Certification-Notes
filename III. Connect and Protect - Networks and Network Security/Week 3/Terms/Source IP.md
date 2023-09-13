@@ -1,0 +1,1 @@
+- **[[Source IP]]**: The packet’s origin is provided by its source IP address.

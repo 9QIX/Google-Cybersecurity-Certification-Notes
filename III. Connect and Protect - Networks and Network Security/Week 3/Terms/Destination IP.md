@@ -1,0 +1,1 @@
+- **[[Destination IP]]**: The destination IP address is where the packet is being transmitted to.
