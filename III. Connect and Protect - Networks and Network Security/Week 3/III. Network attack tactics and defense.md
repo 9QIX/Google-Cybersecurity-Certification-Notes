@@ -84,3 +84,12 @@ As you’ve learned, once the malicious actor has sniffed the network traffic, t
 ## Key takeaways
 
 This reading covered several types of common IP spoofing attacks. You learned about how packet sniffing is performed and how gathering information from intercepting data transmissions can give malicious actors opportunities for IP spoofing. Whether it is an on-path attack, IP spoofing attack, or a smurf attack, analysts need to ensure that mitigation strategies are in place to limit the threat and prevent security breaches.
+
+# Identify: Network attacks
+
+- **[[Denial of service attack (DoS)]]** - A network attack that targets a network or server and floods it with network traffic
+- **[[Distributed denial of service attack (DDoS)]]** - A type of denial or service attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic
+- **[[SYN flood attack]]** - A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets
+- **[[Packet sniffing]]** - The practice of capturing and inspecting data packets across a network
+- **[[IP spoofing]]** - A network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network
+- **[[On-path attack]]** - An attack where a malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit
