@@ -50,7 +50,7 @@ tcpdump provides a brief packet analysis and *converts key information about net
 
 ## Interpreting output
 
-tcpdump prints the output of the command as the sniffed packets in the command line, and optionally to a log file, after a command is executed. The output of a packet capture contains many pieces of important information about the network traffic. 
+[[tcpdump]] prints the output of the command as the sniffed packets in the command line, and optionally to a log file, after a command is executed. The output of a packet capture contains many pieces of important information about the network traffic. 
 
 ![Tipos de información presentados en una captura de paquetes tcpdump.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/B-PaECh0ToSFgBWpFczYZg_4896abe8c06443f08eec4dc003dcf8f1_image.png?expiry=1694476800000&hmac=ElB0J6NaT5AvUNAgzQlLb5I0h1yiU3RF8qifY5Tpuhw)
 
