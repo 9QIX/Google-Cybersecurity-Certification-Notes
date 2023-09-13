@@ -1,0 +1,1 @@
+**[[Firewall Bypass]]:** By spoofing an authorized IP address, the attacker can circumvent firewall rules that might otherwise block their access to the network.

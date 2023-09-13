@@ -1,0 +1,1 @@
+**[[Smurf Attacks]]:** A smurf attack combines Distributed Denial of Service (DDoS) techniques with IP spoofing. Here, the attacker sniffs an authorized user's IP address and floods it with numerous packets. This overwhelming volume of traffic can effectively bring down a server or even an entire network.

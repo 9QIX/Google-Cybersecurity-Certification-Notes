@@ -1,0 +1,1 @@
+**[[Replay Attacks]]:** In a replay attack, the malicious actor intercepts a data packet in transit and either delays its transmission or repeats it at a later time. Delayed packets can disrupt connections between target computers. Alternatively, the attacker might replay a network transmission originally sent by an authorized user to impersonate that user.
