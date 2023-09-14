@@ -1,0 +1,1 @@
+**[[Ping of death]]**: A type of DoS attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB

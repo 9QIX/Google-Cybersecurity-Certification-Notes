@@ -1,0 +1,1 @@
+**[[Synchronize (SYN) flood attack]]**: A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets

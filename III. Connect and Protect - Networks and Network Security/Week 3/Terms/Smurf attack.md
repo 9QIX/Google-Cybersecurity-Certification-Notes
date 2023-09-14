@@ -1,0 +1,1 @@
+**[[Smurf attack]]**: A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets

@@ -1,0 +1,1 @@
+**[[Internet Control Message Protocol (ICMP) flood]]**: A type of DoS attack performed by an attacker repeatedly sending ICMP request packets to a network server
