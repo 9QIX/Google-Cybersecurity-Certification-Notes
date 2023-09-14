@@ -1,7 +1,8 @@
 ## Terms and definitions from Course 3, Module 3
 
 **[[Active packet sniffing]]**: A type of attack where data packets are manipulated in transit
-**[[Botnet]]**: A collection of computers infected by malware that are under the control of a single threat actor, known as the “bot-herder"
+
+**[[Botnet]]**: A collection of computers infected by malware that are under the control of a single threat actor, known as the “**bot-herder**"
 
 **[[Denial of service (DoS) attack]]**: An attack that targets a network or server and floods it with network traffic
 
