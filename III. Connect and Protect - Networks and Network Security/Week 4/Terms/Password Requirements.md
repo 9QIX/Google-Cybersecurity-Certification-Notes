@@ -1,0 +1,1 @@
+**[[Password Requirements]]:** Organizations can set specific password rules, such as a minimum length, the inclusion of uppercase letters, numbers, and symbols. These requirements make it harder for attackers to guess or crack passwords.

@@ -1,0 +1,1 @@
+**[[Baseline Configuration]]:** A baseline configuration is a documented set of specifications used as a reference for future system builds, releases, and updates. When an OS is updated, the newly configured system should be added to the baseline configuration. This ensures consistency and allows security teams to detect any unauthorized changes to the OS configuration.

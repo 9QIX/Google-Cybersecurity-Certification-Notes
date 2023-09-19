@@ -1,0 +1,3 @@
+# Operating System (OS) Hardening:
+
+In this video, we'll delve into the importance of **[[operating system (OS) hardening]]** and its role in ensuring the overall security of a network. The OS is a critical component of any computing device, serving as the intermediary between hardware and software. Securing the OS is paramount because a single vulnerable OS can compromise the entire network. Let's explore some key security hardening practices that are recommended to secure an OS.

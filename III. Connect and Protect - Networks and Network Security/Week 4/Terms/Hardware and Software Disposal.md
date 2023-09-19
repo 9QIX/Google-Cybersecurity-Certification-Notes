@@ -1,0 +1,1 @@
+**[[Hardware and Software Disposal]]:** Proper disposal of old hardware and software is a vital security measure. Old hardware should be securely wiped and disposed of to prevent data leakage. Additionally, unused software applications should be removed to minimize potential vulnerabilities.
