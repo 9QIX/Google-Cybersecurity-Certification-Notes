@@ -1,0 +1,1 @@
+2FA is similar to MFA, except it uses only two forms of verification.
