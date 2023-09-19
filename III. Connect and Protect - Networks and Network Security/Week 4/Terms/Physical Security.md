@@ -1,0 +1,1 @@
+**[[Physical Security]]:** Including measures such as security cameras and guards to protect physical spaces.

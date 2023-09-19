@@ -1,0 +1,1 @@
+**[[Hardware]]:** Securing physical devices to prevent unauthorized access.

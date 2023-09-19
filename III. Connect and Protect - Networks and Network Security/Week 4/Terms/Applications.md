@@ -1,0 +1,1 @@
+**[[Applications]]:** Configuring applications for enhanced security and vulnerability mitigation.
