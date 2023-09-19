@@ -1,0 +1,1 @@
+**Port Disabling:** Disabling unused ports on network devices reduces potential entry points for attackers.

@@ -1,0 +1,1 @@
+**[[Unused Application and Service Removal]]:** Removing or disabling unused applications and services reduces the potential attack surface. Attackers cannot exploit what is not present or active.

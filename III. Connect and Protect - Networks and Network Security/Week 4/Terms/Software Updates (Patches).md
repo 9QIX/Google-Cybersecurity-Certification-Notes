@@ -1,0 +1,1 @@
+**[[Software Updates (Patches)]]:** Regularly applying software updates or patches is a fundamental security hardening practice. These updates address security vulnerabilities and enhance system security.

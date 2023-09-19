@@ -1,0 +1,1 @@
+**[[Configuration Changes]]:** Security analysts may modify device and application configurations to increase security. For example, requiring longer passwords or more frequent password changes makes it harder for malicious actors to obtain login credentials.
