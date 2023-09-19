@@ -1,6 +1,10 @@
 # Security Hardening
 
-Security hardening is a crucial process employed by security analysts and organizations to proactively strengthen systems and reduce their vulnerability to cyberattacks. This practice aims to minimize the attack surface, which encompasses all potential vulnerabilities that a threat actor could exploit to compromise a system. To illustrate this concept, let's use an analogy comparing a network to a house. In this analogy, the attack surface represents all the doors and windows through which a burglar could gain access to the house. Similar to fortifying a house by installing locks on doors and windows, security hardening involves minimizing potential vulnerabilities to ensure network security.
+**Security hardening** is a crucial process employed by security analysts and organizations to *proactively strengthen systems and reduce their vulnerability* to cyberattacks. 
+
+This practice aims to *minimize the attack surface*, which encompasses all potential vulnerabilities that a threat actor could exploit to compromise a system. To illustrate this concept, let's use an analogy comparing a network to a house. 
+
+In this analogy, the attack surface represents all the doors and windows through which a burglar could gain access to the house. Similar to fortifying a house by installing locks on doors and windows, security hardening involves minimizing potential vulnerabilities to ensure network security.
 
 **Scope of Security Hardening:**
 Security hardening encompasses a wide range of activities and maintenance procedures performed by security analysts to maintain the security and optimal functionality of network devices and systems. It is applicable to various components, including:
