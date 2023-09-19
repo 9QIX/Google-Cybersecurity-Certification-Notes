@@ -6,14 +6,15 @@ This practice aims to *minimize the attack surface*, which encompasses all poten
 
 In this analogy, the attack surface represents all the doors and windows through which a burglar could gain access to the house. Similar to fortifying a house by installing locks on doors and windows, security hardening involves minimizing potential vulnerabilities to ensure network security.
 
-**Scope of Security Hardening:**
+## **Scope of Security Hardening:**
+
 Security hardening encompasses a wide range of activities and maintenance procedures performed by security analysts to maintain the security and optimal functionality of network devices and systems. It is applicable to various components, including:
-- **Hardware:** Securing physical devices to prevent unauthorized access.
-- **Operating Systems:** Implementing security measures to protect the underlying software.
-- **Applications:** Configuring applications for enhanced security and vulnerability mitigation.
-- **Computer Networks:** Safeguarding network infrastructure to prevent intrusions.
-- **Databases:** Applying security controls to protect sensitive data.
-- **Physical Security:** Including measures such as security cameras and guards to protect physical spaces.
+- **[[Hardware]]:** Securing physical devices to prevent unauthorized access.
+- **[[Operating Systems]]:** Implementing security measures to protect the underlying software.
+- **[[Applications]]:** Configuring applications for enhanced security and vulnerability mitigation.
+- **[[Computer Networks]]:** Safeguarding network infrastructure to prevent intrusions.
+- **[[Databases]]:** Applying security controls to protect sensitive data.
+- **[[Physical Security]]:** Including measures such as security cameras and guards to protect physical spaces.
 
 **Common Security Hardening Procedures:**
 1. **[[Software Updates (Patches)]]:** Regularly applying software updates or patches is a fundamental security hardening practice. These updates address security vulnerabilities and enhance system security.
