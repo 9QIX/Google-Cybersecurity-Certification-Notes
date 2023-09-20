@@ -1,0 +1,1 @@
+**[[Network Log Analysis]]:** The process of examining network logs to identify events of interest. Security teams use a log analyzer tool or a Security Information and Event Management (SIEM) tool for this purpose.

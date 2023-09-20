@@ -1,0 +1,3 @@
+A **[[SIEM tool]]** is an application that collects and analyzes log data to monitor critical activities in an organization. It gathers security data from a network and presents that data on a single dashboard. The dashboard interface is sometimes called a single pane of glass. 
+
+A SIEM helps analysts to inspect, analyze, and react to security events across the network based on their priority. Reports from the SIEM provide a list of new or ongoing network vulnerabilities and list them on a scale of priority from high to low, where high-priority vulnerabilities have a much shorter deadline for mitigation.

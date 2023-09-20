@@ -13,7 +13,7 @@ Some tasks that are regularly performed in network hardening are:
 - **[[Patch Updates]]:** Regularly updating network components and systems to address security vulnerabilities.
 - **[[Server Backups]]:** Creating and maintaining backups of critical network servers and data.
 
-Earlier, you learned that a log is a record of events that occur within an organization's systems. **[[Network log analysis]]** is the process of examining network logs to identify events of interest. Security teams use a log analyzer tool or a Security Information and Event Management tool, also known as a SIEM, to conduct network log analysis. 
+Earlier, you learned that a log is a record of events that occur within an organization's systems. **[[Network Log Analysis]]** is the process of examining network logs to identify events of interest. Security teams use a log analyzer tool or a Security Information and Event Management tool, also known as a SIEM, to conduct network log analysis. 
 
 A **[[SIEM tool]]** is an application that collects and analyzes log data to monitor critical activities in an organization. It gathers security data from a network and presents that data on a single dashboard. The dashboard interface is sometimes called a single pane of glass. 
 
