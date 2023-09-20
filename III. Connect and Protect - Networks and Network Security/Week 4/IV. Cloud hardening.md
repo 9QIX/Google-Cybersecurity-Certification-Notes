@@ -1,0 +1,16 @@
+# Cloud Network Security and Hardening:
+
+In recent years, the adoption of cloud services by organizations has become increasingly prevalent. This shift necessitates a comprehensive approach to security, where not only on-premises networks but also cloud networks must be safeguarded. In the preceding video, we gained an understanding of what constitutes a cloud network—an assembly of servers or computers that store resources and data within a remote data center accessible via the internet. These cloud servers enable organizations to host their data and applications through cloud computing, offering the advantages of on-demand storage, processing power, and data analytics. Just as traditional web servers require rigorous maintenance, cloud servers also demand careful attention through various security hardening procedures. It is important to emphasize that while cloud servers are hosted by cloud service providers, these providers cannot entirely shield the cloud from intrusions, especially those stemming from malicious actors, both internal and external to an organization.
+
+## Key Aspects of Cloud Network Security and Hardening:
+
+### 1. Server Baseline Image:
+A notable distinction between cloud network hardening and traditional network hardening lies in the utilization of a **server baseline image** for all server instances stored in the cloud. This practice involves creating a reference image that represents a securely configured server. By comparing the configuration of cloud servers to this baseline image, security analysts can identify any unauthorized or unverified changes. Any such alterations could potentially indicate an intrusion within the cloud network.
+### 2. Segmentation and Isolation:
+Similar to **[[OS hardening]]**, the principle of segmentation and isolation is applied to cloud networks. Data and applications within a cloud environment should be segregated based on their service category. For instance, older applications should be isolated from newer ones, and software handling internal functions should be separated from front-end applications accessible to users. This approach enhances security by minimizing the potential attack surface and limiting unauthorized access to critical resources.
+### 3. Shared Responsibility Model:
+In the context of cloud security, it is essential to understand the concept of a **shared responsibility model**. While cloud service providers bear responsibility for securing the underlying cloud infrastructure, organizations utilizing these services must also take proactive security measures. This shared responsibility encompasses aspects of cloud network operations, including access controls, data protection, and compliance with security best practices.
+
+## Conclusion:
+
+Securing cloud networks has become a paramount concern for organizations leveraging cloud services. Security analysts must adapt their practices to the unique characteristics of the cloud environment and implement robust security measures. Just as with traditional on-premises networks, the security of cloud networks is indispensable for protecting sensitive data, ensuring business continuity, and safeguarding against a wide range of security threats, both internal and external.
