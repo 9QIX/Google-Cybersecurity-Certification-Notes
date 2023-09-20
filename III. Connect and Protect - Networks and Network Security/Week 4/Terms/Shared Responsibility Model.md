@@ -1,0 +1,2 @@
+[[Shared Responsibility Model]]:
+In the context of cloud security, it is essential to understand the concept of a **shared responsibility model**. While cloud service providers bear responsibility for securing the underlying cloud infrastructure, organizations utilizing these services must also take proactive security measures. This shared responsibility encompasses aspects of cloud network operations, including access controls, data protection, and compliance with security best practices.

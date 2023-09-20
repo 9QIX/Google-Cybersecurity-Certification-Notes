@@ -1,0 +1,2 @@
+[[Segmentation and Isolation]]:
+Similar to **[[OS hardening]]**, the principle of segmentation and isolation is applied to cloud networks. Data and applications within a cloud environment should be segregated based on their service category. For instance, older applications should be isolated from newer ones, and software handling internal functions should be separated from front-end applications accessible to users. This approach enhances security by minimizing the potential attack surface and limiting unauthorized access to critical resources.

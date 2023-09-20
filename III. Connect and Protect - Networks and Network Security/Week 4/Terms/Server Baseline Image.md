@@ -1,0 +1,2 @@
+[[Server Baseline Image]]:
+A notable distinction between cloud network hardening and traditional network hardening lies in the utilization of a **server baseline image** for all server instances stored in the cloud. This practice involves creating a reference image that represents a securely configured server. By comparing the configuration of cloud servers to this baseline image, security analysts can identify any unauthorized or unverified changes. Any such alterations could potentially indicate an intrusion within the cloud network.
