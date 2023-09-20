@@ -1,0 +1,1 @@
+**[[Cloud service providers (CSPs)]]** offer numerous applications and services for organizations at a low cost. 

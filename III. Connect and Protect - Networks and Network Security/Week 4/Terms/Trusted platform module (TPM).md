@@ -1,0 +1,1 @@
+**[[Trusted platform module (TPM)]]**. TPM is a computer chip that can securely store passwords, certificates, and encryption keys.
