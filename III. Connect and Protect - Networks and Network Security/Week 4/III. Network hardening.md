@@ -47,7 +47,7 @@ Take note of where each tool is located on the network. Each tool has its own pl
 
 ## Firewall
 
-So far in this course, you learned about stateless firewalls, stateful firewalls, and next-generation firewalls (NGFWs), and the security advantages of each of them.
+So far in this course, you learned about **[[stateless firewalls]]**, **[[stateful firewalls]]**, and **[[next-generation firewalls (NGFWs)]]**, and the security advantages of each of them.
 
 Most firewalls are similar in their basic functions. Firewalls allow or block traffic based on a set of rules. As data packets enter a network, the packet header is inspected and allowed or denied based on its port number. NGFWs are also able to inspect packet payloads. Each system should have its own firewall, regardless of the network firewall.
 
