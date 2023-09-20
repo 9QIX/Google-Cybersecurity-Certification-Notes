@@ -1,1 +1,3 @@
 - **[[Port Filtering]]**: Firewalls often utilize port filtering to selectively permit or deny communication on specific port numbers. For instance, a firewall might allow only port 443 for secure HTTPS communication or port 25 for email, effectively blocking other ports to restrict unwanted access.
+
+**[[Port Filtering]]:** Port filtering is a firewall function that blocks or allows certain port numbers to limit unwanted communication. The basic principle is that only necessary ports should be allowed, and any unused ports should be disallowed to protect against vulnerabilities.
