@@ -1,0 +1,1 @@
+**[[Patch update]]:** A software and operating system update that addresses security vulnerabilities within a program or product.

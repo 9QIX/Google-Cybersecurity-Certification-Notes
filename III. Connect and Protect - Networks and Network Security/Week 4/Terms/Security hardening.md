@@ -1,0 +1,1 @@
+[[Security hardening]]: The process of strengthening a system to reduce its vulnerabilities and attack surface.

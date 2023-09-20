@@ -1,0 +1,1 @@
+**[[Baseline configuration (baseline image)]]:** A documented set of specifications within a system that is used as a basis for future builds, releases, and updates.
