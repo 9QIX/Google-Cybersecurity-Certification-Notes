@@ -106,14 +106,16 @@ CSPs are responsible for managing the hypervisor and other virtualization compon
 
 ## Cryptographic erasure
 
-**[[Cryptographic erasure]]** is a method of erasing the encryption key for the encrypted data. When destroying data in the cloud, more traditional methods of data destruction are not as effective. Crypto-shredding is a newer technique where the cryptographic keys used for decrypting the data are destroyed. This makes the data undecipherable and prevents anyone from decrypting the data. When crypto-shredding, all copies of the key need to be destroyed so no one has any opportunity to access the data in the future.
+**[[Cryptographic erasure]]** is a method of erasing the encryption key for the encrypted data. When destroying data in the cloud, more traditional methods of data destruction are not as effective.
+
+**[[Crypto-shredding]]** is a newer technique where the cryptographic keys used for decrypting the data are destroyed. This makes the data undecipherable and prevents anyone from decrypting the data. When crypto-shredding, all copies of the key need to be destroyed so no one has any opportunity to access the data in the future.
 
 ## Key Management
 
 Modern encryption relies on keeping the encryption keys secure. Below are the measures you can take to further protect your data when using cloud applications:
 
-- Trusted platform module (TPM). TPM is a computer chip that can securely store passwords, certificates, and encryption keys.
-- Cloud hardware security module (CloudHSM). CloudHSM is a computing device that provides secure storage for cryptographic keys and processes cryptographic operations, such as encryption and decryption.
+- **[[Trusted platform module (TPM)]]**. TPM is a computer chip that can securely store passwords, certificates, and encryption keys.
+- **[[Cloud hardware security module (CloudHSM)]]**. CloudHSM is a computing device that provides secure storage for cryptographic keys and processes cryptographic operations, such as encryption and decryption.
 
 Organizations and customers do not have access to the cloud service provider (CSP) directly, but they can request audits and security reports by contacting the CSP. Customers typically do not have access to the specific encryption keys that CSPs use to encrypt the customers’ data. However, almost all CSPs allow customers to provide their own encryption keys, depending on the service the customer is accessing. In turn, the customer is responsible for their encryption keys and ensuring the keys remain confidential. The CSP is limited in how they can help the customer if the customer’s keys are compromised or destroyed. One key benefit of the shared responsibility model is that the customer is not entirely responsible for maintenance of the cryptographic infrastructure. Organizations can assess and monitor the risk involved with allowing the CSP to manage the infrastructure by reviewing a CSPs audit and security controls. For federal contractors, FEDRAMP provides a list of verified CSPs.
 
