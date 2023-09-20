@@ -4,11 +4,11 @@ In recent years, the adoption of cloud services by organizations has become incr
 
 ## Key Aspects of Cloud Network Security and Hardening:
 
-### 1. Server Baseline Image:
+### 1. [[Server Baseline Image]]:
 A notable distinction between cloud network hardening and traditional network hardening lies in the utilization of a **server baseline image** for all server instances stored in the cloud. This practice involves creating a reference image that represents a securely configured server. By comparing the configuration of cloud servers to this baseline image, security analysts can identify any unauthorized or unverified changes. Any such alterations could potentially indicate an intrusion within the cloud network.
-### 2. Segmentation and Isolation:
+### 2. [[Segmentation and Isolation]]:
 Similar to **[[OS hardening]]**, the principle of segmentation and isolation is applied to cloud networks. Data and applications within a cloud environment should be segregated based on their service category. For instance, older applications should be isolated from newer ones, and software handling internal functions should be separated from front-end applications accessible to users. This approach enhances security by minimizing the potential attack surface and limiting unauthorized access to critical resources.
-### 3. Shared Responsibility Model:
+### 3. [[Shared Responsibility Model]]:
 In the context of cloud security, it is essential to understand the concept of a **shared responsibility model**. While cloud service providers bear responsibility for securing the underlying cloud infrastructure, organizations utilizing these services must also take proactive security measures. This shared responsibility encompasses aspects of cloud network operations, including access controls, data protection, and compliance with security best practices.
 
 ## Conclusion:
