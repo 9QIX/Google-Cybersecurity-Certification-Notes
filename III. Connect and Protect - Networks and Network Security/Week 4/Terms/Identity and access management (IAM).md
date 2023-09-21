@@ -1,0 +1,1 @@
+**[[Identity and access management (IAM)]]:** A collection of processes and technologies that helps organizations manage digital identities in their environment.

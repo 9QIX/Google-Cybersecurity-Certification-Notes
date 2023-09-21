@@ -1,0 +1,1 @@
+- **[[Bluetooth]]:** Used for wireless communication with nearby physical devices.
