@@ -64,6 +64,50 @@ O
 - **[[Open systems interconnection (OSI) model]]:** A standardized concept that describes the seven layers computers use to communicate and send data over the network.
 - **[[On-path attack]]:** An attack where a malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit.
 
+Certainly! Here are the important terms from your text:
+
 P
 - **[[Packet sniffing]]:** The practice of capturing and inspecting data packets across a network.
-- **[[Passive packet sniffing]]:** A type of attack where a malicious actor connects to a
+- **[[Passive packet sniffing]]:** A type of attack where a malicious actor connects to a network hub and looks at all traffic on the network.
+- **[[Patch update]]:** A software and operating system update that addresses security vulnerabilities within a program or product.
+- **[[Penetration testing]]:** A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.
+- **[[Ping of death]]:** A type of DoS attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB.
+- **[[Port]]:** A software-based location that organizes the sending and receiving of data between devices on a network.
+- **[[Port filtering]]:** A firewall function that blocks or allows certain port numbers to limit unwanted communication.
+- **[[Proxy server]]:** A server that fulfills the requests of its clients by forwarding them to other servers.
+
+R
+- **[[Replay attack]]:** A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time.
+- **[[Reverse proxy server]]:** A server that regulates and restricts the Internet's access to an internal server.
+- **[[Router]]:** A network device that connects multiple networks together.
+
+S
+- **[[Secure File Transfer Protocol (SFTP)]]:** A secure protocol used to transfer files from one device to another over a network.
+- **[[Secure shell (SSH)]]:** A security protocol used to create a shell with a remote system.
+- **[[Security hardening]]:** The process of strengthening a system to reduce its vulnerabilities and attack surface.
+- **[[Security information and event management (SIEM)]]:** An application that collects and analyzes log data to monitor critical activities for an organization.
+- **[[Security zone]]:** A segment of a company’s network that protects the internal network from the internet.
+- **[[Simple Network Management Protocol (SNMP)]]:** A network protocol used for monitoring and managing devices on a network.
+- **[[Smurf attack]]:** A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets.
+- **Speed:** The rate at which a device sends and receives data, measured by bits per second.
+- **[[Stateful]]:** A class of firewall that keeps track of information passing through it and proactively filters out threats.
+- **[[Stateless]]:** A class of firewall that operates based on predefined rules and that does not keep track of information from data packets.
+- **[[Subnetting]]:** The subdivision of a network into logical groups called subnets.
+- **[[Switch]]:** A device that makes connections between specific devices on a network by sending and receiving data between them.
+- **[[Synchronize (SYN) flood attack]]:** A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets.
+
+T
+- **[[TCP/IP model]]:** A framework used to visualize how data is organized and transmitted across a network.
+- **[[Transmission Control Protocol (TCP)]]:** An internet communication protocol that allows two devices to form a connection and stream data.
+- **[[Transmission control protocol (TCP) 3-way handshake]]:** A three-step process used to establish an authenticated connection between two devices on a network.
+
+U
+- **[[Uncontrolled zone]]:** The portion of the network outside the organization.
+- **[[User Datagram Protocol (UDP)]]:** A connectionless protocol that does not establish a connection between devices before transmissions.
+
+V
+- **[[Virtual Private Network (VPN)]]:** A network security service that changes your public IP address and masks your virtual location so that you can keep your data private when you are using a public network like the internet.
+
+W
+- **[[Wide Area Network (WAN)]]:** A network that spans a large geographic area like a city, state, or country.
+- **[[Wi-Fi Protected Access (WPA)]]:** A wireless security protocol for devices to connect to the internet.
