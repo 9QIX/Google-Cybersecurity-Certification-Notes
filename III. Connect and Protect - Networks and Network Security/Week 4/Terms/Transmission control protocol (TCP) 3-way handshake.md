@@ -1,0 +1,1 @@
+**[[Transmission control protocol (TCP) 3-way handshake]]:** A three-step process used to establish an authenticated connection between two devices on a network.
