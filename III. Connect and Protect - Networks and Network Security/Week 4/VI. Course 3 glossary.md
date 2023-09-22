@@ -64,8 +64,6 @@ O
 - **[[Open systems interconnection (OSI) model]]:** A standardized concept that describes the seven layers computers use to communicate and send data over the network.
 - **[[On-path attack]]:** An attack where a malicious actor places themselves in the middle of an authorized connection and intercepts or alters the data in transit.
 
-Certainly! Here are the important terms from your text:
-
 P
 - **[[Packet sniffing]]:** The practice of capturing and inspecting data packets across a network.
 - **[[Passive packet sniffing]]:** A type of attack where a malicious actor connects to a network hub and looks at all traffic on the network.
