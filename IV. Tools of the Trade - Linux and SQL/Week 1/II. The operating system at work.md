@@ -161,4 +161,4 @@ In addition to virtual machines, there are other forms of virtualization. Some o
 
 ## Key takeaways
 
-Virtual machines are virtual versions of physical computers and are one example of virtualization. Virtualization is a key technology in the security industry, and it’s important for security analysts to understand the basics. There are many benefits to using virtual machines, such as isolation of malware and other security risks. However, it’s important to remember there’s still a risk of malicious software escaping their virtualized environments.
+Virtual machines are virtual versions of physical computers and are one example of virtualization. **[[Virtualization]]** is a key technology in the security industry, and it’s important for security analysts to understand the basics. There are many benefits to using virtual machines, such as isolation of malware and other security risks. However, it’s important to remember there’s still a risk of malicious software escaping their virtualized environments.

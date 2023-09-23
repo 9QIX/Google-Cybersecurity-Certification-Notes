@@ -1,0 +1,1 @@
+**[[Virtualization]]** is the process of using software to create virtual representations of various physical machines. The term “virtual” refers to machines that don’t exist physically, but operate like they do because their software simulates physical hardware.
