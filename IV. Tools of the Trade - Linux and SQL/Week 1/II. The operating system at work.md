@@ -99,3 +99,22 @@ Previously, you explored how operating systems, applications, and hardware work 
 ## Key takeaways
 
 Although it operates in the background, the operating system is an essential part of the process of using a computer. The operating system connects applications and hardware to allow users to complete a task.
+
+# **Managing System Resources with Operating Systems**
+
+In this section, we'll explore how operating systems (OS) are responsible for efficiently managing a computer's resources. Much like managing energy for various tasks, an OS must balance and allocate resources effectively to ensure the computer runs smoothly.
+
+**The Energy Analogy:**
+Think of your computer as needing energy, much like a person does for different tasks. Some tasks demand more energy, while others require less. For instance, running a marathon demands more energy than watching TV. Similarly, an OS must allocate resources appropriately for different computer tasks.
+
+**The OS as the Orchestra Conductor:**
+Imagine your computer as an orchestra, with various instruments like violins, drums, and trumpets—all integral parts of the ensemble. The orchestra also has a conductor to guide the music's flow. In the computer world, the OS plays the role of the conductor. It manages resource and memory allocation, ensuring optimal utilization of the computer's limited capacity. Many programs, tasks, and processes vie for resources from the central processing unit (CPU), each with its own resource requirements. The OS is responsible for allocating and de-allocating resources efficiently, ensuring the computer functions smoothly even with multiple tasks running simultaneously.
+
+**Resource Management Behind the Scenes:**
+Much of this resource management is hidden from users, operating silently in the background.
+
+**Monitoring Resource Usage:**
+As a user, you can monitor resource usage through the task manager, which lists all ongoing tasks and their memory and CPU consumption.
+
+**Relevance for Security Analysts:**
+For security analysts, understanding resource allocation is valuable. It can aid in incident response and troubleshooting applications within a system. For instance, if a computer experiences slowdowns, an analyst might discover that resources are being allocated to malware. A foundational understanding of OS operations is crucial for comprehending the security concepts and skills covered in this program.
