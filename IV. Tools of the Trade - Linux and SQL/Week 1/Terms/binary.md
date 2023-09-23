@@ -1,0 +1,1 @@
+Computers inherently communicate in **[[binary]]**, a language composed of 0s and 1s. The OS functions as an interface, facilitating complex interactions between users and computers. It empowers users to interact with computers in ways that transcend the binary foundation, enabling intuitive and efficient communication.
