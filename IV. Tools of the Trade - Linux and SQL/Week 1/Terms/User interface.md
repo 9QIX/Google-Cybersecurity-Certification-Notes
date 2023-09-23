@@ -1,0 +1,1 @@
+**[[User interface]]:** A program that allows the user to control the functions of the operating system.
