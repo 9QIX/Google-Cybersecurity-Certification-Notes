@@ -6,3 +6,9 @@
 **[[Linux]]** is an open-source operating system that is widely used. It allows you to tailor the operating system to your needs using a command-line interface. An **operating system** is the interface between computer hardware and the user. It’s used to communicate with the hardware of a computer and manage software applications. 
 
 There are multiple versions of Linux that exist to accomplish specific tasks. Linux and its command-line interface will be discussed in detail, later in the certificate program. 
+
+### **Linux**
+
+The first version of **[[Linux]]** was released in 1991, and other major releases followed in the early 1990s. Linux is a *completely open-source operating system*, which means that anyone can access Linux and its source code. The open-source nature of Linux allows developers in the Linux community to collaborate.
+
+Linux is particularly important to the security industry. There are some distributions that are specifically designed for security. Later in this course, you’ll learn about Linux and its importance to the security industry.
