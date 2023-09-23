@@ -2,13 +2,13 @@
 
 In this section, we'll delve into the mechanics of operating systems (OS) and their role when you use a computer. An OS serves as a crucial intermediary between hardware and users, ensuring the smooth execution of various tasks. Let's explore what happens behind the scenes.
 
-**The Car Analogy:**
+### **The Car Analogy:**
 Consider driving a car—you press the gas pedal, and the car moves without needing to understand its internal mechanics. Similarly, when using a computer, you interact with the OS without needing to comprehend the intricate details that make it function.
 
-**The OS's Function:**
+### **The OS's Function:**
 The primary function of an OS is to facilitate the efficient execution of computer programs. It achieves this by managing the complexities of hardware control, allowing users to focus on their tasks.
 
-**The Booting Process:**
+### **The Booting Process:**
 When you power on your computer, a series of events occur:
 - Pressing the power button activates a microchip called BIOS (or UEFI in newer computers).
 - BIOS/UEFI contains booting instructions and initializes a bootloader.
@@ -16,7 +16,7 @@ When you power on your computer, a series of events occur:
 
 Understanding this process is valuable for security analysts. Vulnerabilities can emerge during booting, as BIOS is often not scanned by antivirus software, making it susceptible to malware.
 
-**User-System Interaction:**
+### **User-System Interaction:**
 The interaction process involves you, the user, and applications on your computer:
 - **[[Applications]]** are specialized programs for specific tasks.
 - When you use an application, it communicates with the OS.
@@ -24,7 +24,7 @@ The interaction process involves you, the user, and applications on your compute
 
 The hardware sends information back to the OS, which, in turn, relays it to the application. This bidirectional communication ensures task completion.
 
-**Illustrating the Process with a Calculator Example:**
+### **Illustrating the Process with a Calculator Example:**
 Consider using a calculator application on your computer:
 - You use your mouse to launch the calculator.
 - When you input a calculation, the application communicates with the OS.
@@ -34,7 +34,7 @@ Consider using a calculator application on your computer:
 
 Understanding this process is essential for security analysts when investigating security events. They must trace this flow to pinpoint potential security issues.
 
-**The Mechanic Analogy:**
+### **The Mechanic Analogy:**
 Much like a mechanic's in-depth knowledge of a car's inner workings exceeds that of an average driver, comprehending how OSs operate is fundamental for a security analyst. It empowers them to identify and address security concerns effectively.
 
 # Requests to the operating system
@@ -104,17 +104,17 @@ Although it operates in the background, the operating system is an essential par
 
 In this section, we'll explore how operating systems (OS) are responsible for efficiently managing a computer's resources. Much like managing energy for various tasks, an OS must balance and allocate resources effectively to ensure the computer runs smoothly.
 
-**The Energy Analogy:**
+### **The Energy Analogy:**
 Think of your computer as needing energy, much like a person does for different tasks. Some tasks demand more energy, while others require less. For instance, running a marathon demands more energy than watching TV. Similarly, an OS must allocate resources appropriately for different computer tasks.
 
-**The OS as the Orchestra Conductor:**
+### **The OS as the Orchestra Conductor:**
 Imagine your computer as an orchestra, with various instruments like violins, drums, and trumpets—all integral parts of the ensemble. The orchestra also has a conductor to guide the music's flow. In the computer world, the OS plays the role of the conductor. It manages resource and memory allocation, ensuring optimal utilization of the computer's limited capacity. Many programs, tasks, and processes vie for resources from the central processing unit (CPU), each with its own resource requirements. The OS is responsible for allocating and de-allocating resources efficiently, ensuring the computer functions smoothly even with multiple tasks running simultaneously.
 
-**Resource Management Behind the Scenes:**
+### **Resource Management Behind the Scenes:**
 Much of this resource management is hidden from users, operating silently in the background.
 
-**Monitoring Resource Usage:**
+### **Monitoring Resource Usage:**
 As a user, you can monitor resource usage through the task manager, which lists all ongoing tasks and their memory and CPU consumption.
 
-**Relevance for Security Analysts:**
+### **Relevance for Security Analysts:**
 For security analysts, understanding resource allocation is valuable. It can aid in incident response and troubleshooting applications within a system. For instance, if a computer experiences slowdowns, an analyst might discover that resources are being allocated to malware. A foundational understanding of OS operations is crucial for comprehending the security concepts and skills covered in this program.
