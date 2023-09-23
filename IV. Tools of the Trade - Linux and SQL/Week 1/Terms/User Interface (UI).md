@@ -1,0 +1,1 @@
+**[[User Interface (UI)]]:** A program that allows users to interact with the operating system and control its functions. Two common types of UI are the Graphical User Interface (GUI) and the Command-Line Interface (CLI).

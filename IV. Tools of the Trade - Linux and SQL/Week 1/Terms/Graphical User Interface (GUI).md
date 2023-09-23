@@ -1,0 +1,1 @@
+**[[Graphical User Interface (GUI)]]:** A user interface that utilizes icons, graphics, and menus on the screen to manage tasks on a computer. GUIs are commonly used in personal computers and smartphones. They include components like a start menu, taskbar, desktop icons, and shortcuts, making it user-friendly for executing tasks.

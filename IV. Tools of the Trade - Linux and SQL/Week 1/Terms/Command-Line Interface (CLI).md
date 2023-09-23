@@ -1,0 +1,1 @@
+**[[Command-Line Interface (CLI)]]:** A text-based user interface that relies on commands typed in by the user to interact with the operating system. CLI is more flexible and powerful than GUI, allowing for customization and multitasking. It resembles coding in a text-based language and is commonly used by security analysts for tasks like log analysis and user authentication.

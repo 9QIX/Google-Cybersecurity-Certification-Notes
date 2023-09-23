@@ -1,0 +1,1 @@
+**[[Multitasking]]:** The capability to execute multiple tasks concurrently, improving efficiency and productivity in computer operations.
