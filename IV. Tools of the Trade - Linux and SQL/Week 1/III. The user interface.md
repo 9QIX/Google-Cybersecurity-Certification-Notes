@@ -17,7 +17,7 @@ Previously, you explored graphical user interfaces (GUI) and command-line user i
 
 ## CLI vs. GUI
 
-A **graphical user** **interface (GUI)** is a user interface that uses icons on the screen to manage different tasks on the computer. A **command-line interface (CLI)** is a text-based user interface that uses commands to interact with the computer.
+A **[[graphical user interface (GUI)]]** is a user interface that uses icons on the screen to manage different tasks on the computer. A **[[command-line interface (CLI)]]** is a text-based user interface that uses commands to interact with the computer.
 
 ### Display
 
