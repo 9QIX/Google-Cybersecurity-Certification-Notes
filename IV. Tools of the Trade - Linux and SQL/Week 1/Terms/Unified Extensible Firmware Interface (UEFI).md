@@ -1,0 +1,1 @@
+The **[[Unified Extensible Firmware Interface (UEFI)]]** is a microchip that contains loading instructions for the computer and replaces BIOS on more modern systems.

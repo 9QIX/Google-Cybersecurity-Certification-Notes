@@ -1,0 +1,1 @@
+The **[[Basic Input-Output System (BIOS)]]** is a microchip that contains loading instructions for the computer and is prevalent in older systems.

@@ -1,0 +1,1 @@
+The **[[bootloader]]** is a software program that boots the operating system. Once the operating system has finished booting, your computer is ready for use.
