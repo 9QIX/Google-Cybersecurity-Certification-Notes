@@ -1,10 +1,10 @@
-# # Introduction to Linux
+# Introduction to Linux
 
-Linux, an open-source operating system, plays a pivotal role in the field of security. In this discussion, we'll explore Linux's history, unique attributes, and its relevance to security professionals.
+**[[Linux]]**, an open-source operating system, plays a pivotal role in the field of security. In this discussion, we'll explore Linux's history, unique attributes, and its relevance to security professionals.
 
 **The Genesis of Linux**:
-- Linux emerged from two independent projects in the early 1990s. Linus Torvalds, inspired by UNIX, aimed to create an open-source and accessible operating system. His introduction of the Linux kernel was groundbreaking.
-- Simultaneously, Richard Stallman worked on GNU, another UNIX-based operating system with a focus on freedom and accessibility. The missing piece for GNU was a kernel, and when combined with Torvalds' Linux kernel, it formed what we know as Linux today.
+- Linux emerged from two independent projects in the early **1990s**. **[[Linus Torvalds]]**, inspired by UNIX, aimed to create an open-source and accessible operating system. His introduction of the **Linux kernel** was groundbreaking.
+- Simultaneously, **[[Richard Stallman]]** worked on GNU, another UNIX-based operating system with a focus on freedom and accessibility. The missing piece for GNU was a kernel, and when combined with Torvalds' Linux kernel, it formed what we know as Linux today.
 
 **Unique Features of Linux**:
 - **Open Source Philosophy:** Linux is open source, granting free access to the operating system and its source code. Licensed under the GNU Public License, Linux allows users to use, share, and modify it freely, fostering a vibrant community of developers and collaborators.
