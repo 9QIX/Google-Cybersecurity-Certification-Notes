@@ -35,16 +35,16 @@ In the realm of security analysis, one Linux distribution that stands out is **[
 - **Snapshot Capability:** Virtualization not only ensures system safety but also offers the invaluable ability to create and revert to snapshots of your virtual machine. This feature allows security analysts to maintain a clean and stable system state for various testing scenarios and forensic investigations.
 
 **Applications in Penetration Testing**:
-- **Penetration Testing Definition:** Penetration testing, often referred to as pen testing, involves simulated attacks on systems, networks, applications, websites, and processes to identify vulnerabilities and weaknesses.
-- **Metasploit:** **[[KALI LINUX™]]** features the Metasploit tool, which is instrumental in identifying and exploiting vulnerabilities in target systems. Security professionals rely on Metasploit for comprehensive penetration testing.
-- **Burp Suite:** For assessing the security of web applications, **[[KALI LINUX™]]** includes Burp Suite, a versatile tool that aids in the detection of weaknesses in web-based systems.
-- **John the Ripper:** Password guessing is a crucial aspect of penetration testing, and **[[KALI LINUX™]]** incorporates John the Ripper, a password-cracking tool widely used to assess password security.
+- **Penetration Testing Definition:** **[[Penetration testing]]**, often referred to as pen testing, involves simulated attacks on systems, networks, applications, websites, and processes to identify vulnerabilities and weaknesses.
+- **[[Metasploit]]:** **[[KALI LINUX™]]** features the Metasploit tool, which is instrumental in identifying and exploiting vulnerabilities in target systems. Security professionals rely on Metasploit for comprehensive penetration testing.
+- **[[Burp Suite]]:** For assessing the security of web applications, **[[KALI LINUX™]]** includes Burp Suite, a versatile tool that aids in the detection of weaknesses in web-based systems.
+- **[[John the Ripper]]:** Password guessing is a crucial aspect of penetration testing, and **[[KALI LINUX™]]** incorporates John the Ripper, a password-cracking tool widely used to assess password security.
 
 **Applications in Digital Forensics**:
-- **Digital Forensics Defined:** Digital forensics involves the systematic collection, preservation, and analysis of digital data to ascertain events or activities that occurred after a security incident or attack.
-- **tcpdump:** **[[KALI LINUX™]]** includes tcpdump, a command-line packet analyzer that allows security professionals to capture and inspect network traffic, a fundamental component of digital forensics.
-- **Wireshark:** Wireshark, another vital tool in the security field, offers a graphical user interface for live and captured network traffic analysis. This tool is indispensable for detailed network forensics.
-- **Autopsy:** Autopsy is a forensic tool included with **[[KALI LINUX™]]**, enabling security analysts to conduct in-depth analysis of hard drives and smartphones, assisting in the reconstruction of digital events.
+- **[[Digital Forensics]] Defined:** Digital forensics involves the systematic collection, preservation, and analysis of digital data to ascertain events or activities that occurred after a security incident or attack.
+- **[[tcpdump]]:** **[[KALI LINUX™]]** includes tcpdump, a command-line packet analyzer that allows security professionals to capture and inspect network traffic, a fundamental component of digital forensics.
+- **[[Wireshark]]:** Wireshark, another vital tool in the security field, offers a graphical user interface for live and captured network traffic analysis. This tool is indispensable for detailed network forensics.
+- **[[Autopsy]]:** Autopsy is a forensic tool included with **[[KALI LINUX™]]**, enabling security analysts to conduct in-depth analysis of hard drives and smartphones, assisting in the reconstruction of digital events.
 
 **Rich Toolset for Security Professionals**:
 - **Vast Array of Tools:** **[[KALI LINUX™]]** boasts a vast array of tools specifically curated for conducting penetration testing, digital forensics, and security assessments. These tools empower security analysts to efficiently carry out their responsibilities in securing systems, networks, and data.

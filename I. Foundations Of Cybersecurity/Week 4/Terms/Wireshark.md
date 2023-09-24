@@ -1,0 +1,1 @@
+**[[Wireshark]]:** Wireshark, another vital tool in the security field, offers a graphical user interface for live and captured network traffic analysis. This tool is indispensable for detailed network forensics.
