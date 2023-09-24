@@ -1,0 +1,1 @@
+**[[John the Ripper]]:** Password guessing is a crucial aspect of penetration testing, and **[[KALI LINUX™]]** incorporates John the Ripper, a password-cracking tool widely used to assess password security.

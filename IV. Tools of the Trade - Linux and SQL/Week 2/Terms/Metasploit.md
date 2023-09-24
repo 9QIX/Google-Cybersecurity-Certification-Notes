@@ -1,0 +1,1 @@
+**[[Metasploit]]:** **[[KALI LINUX™]]** features the Metasploit tool, which is instrumental in identifying and exploiting vulnerabilities in target systems. Security professionals rely on Metasploit for comprehensive penetration testing.

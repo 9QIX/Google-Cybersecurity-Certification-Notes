@@ -1,0 +1,1 @@
+**[[Burp Suite]]:** For assessing the security of web applications, **[[KALI LINUX™]]** includes Burp Suite, a versatile tool that aids in the detection of weaknesses in web-based systems.

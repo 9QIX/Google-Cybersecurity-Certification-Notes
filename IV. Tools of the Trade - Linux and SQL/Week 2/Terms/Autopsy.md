@@ -1,0 +1,1 @@
+**[[Autopsy]]:** Autopsy is a forensic tool included with **[[KALI LINUX™]]**, enabling security analysts to conduct in-depth analysis of hard drives and smartphones, assisting in the reconstruction of digital events.

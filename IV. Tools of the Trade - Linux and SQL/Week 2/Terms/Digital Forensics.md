@@ -1,0 +1,1 @@
+**[[Digital Forensics]] Defined:** Digital forensics involves the systematic collection, preservation, and analysis of digital data to ascertain events or activities that occurred after a security incident or attack.
