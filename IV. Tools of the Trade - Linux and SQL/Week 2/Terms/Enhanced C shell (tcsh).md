@@ -1,0 +1,1 @@
+**[[Enhanced C shell (tcsh)]]:** Tcsh is an enhanced version of the C Shell (csh). It includes features like command-line editing, history, and programmable command-line completion, making it more user-friendly.

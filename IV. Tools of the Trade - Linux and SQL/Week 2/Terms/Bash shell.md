@@ -1,0 +1,1 @@
+Throughout this course, our focus will primarily center on the **[[Bash shell]]** (short for Bourne-Again Shell), which is widely used and versatile.

@@ -40,3 +40,25 @@ All Linux shells use common Linux commands, but they can differ in other feature
 
 **Key takeaways**
 Shells are a fundamental part of the Linux operating system. Shells allow you to give commands to the computer and receive responses from it. They can be thought of as a translator between you and your computer system. There are many different types of shells, but the **[[Bash]]** shell is the most commonly used shell in the cybersecurity profession. You’ll learn how to enter Linux commands through the **[[Bash]]** shell later in this course.
+
+# **Shell Communication: Input, Output, and Errors**
+
+Effective communication with the Linux shell is akin to a conversation with a friend. In this video, we'll delve into the nuances of interacting with the shell, understanding how it processes input, produces output, and handles errors.
+
+**Input: [[Standard Input]] (stdin)**:
+- **Requesting Information**: Standard input comprises the data conveyed to the operating system through the command line interface. Think of it as asking a question during a conversation; your keyboard provides input to the shell. When you issue a command, the shell translates it into a request for resources from the kernel to execute the task.
+	- **[[String data]]** - is data consisting of an ordered sequence of characters. In our example, we'll just have it output the string of: hello. So, as input, we'll type: echo hello into the shell. Later, when we press enter, we'll get the output.
+
+**Output: [[Standard Output]] (stdout)**:
+- **Receiving Responses**: Standard output represents the information the operating system returns through the shell, akin to receiving an answer from your friend. It is the computer's response to your input. For instance, if you issue the command `echo hello`, the output you receive is `hello`. Standard output delivers the results of your commands.
+
+**Errors: [[Standard Error]] (stderr)**:
+- **Handling Mistakes and Exceptions**: Standard error comprises error messages delivered by the operating system via the shell. Just as your friend might admit they can't answer a question, the system issues an error message when it encounters difficulties understanding or executing your command. This can occur due to misspelled commands, unknown command responses, or insufficient permissions.
+
+**Example: [[Echo Command]]**:
+- Let's consider the `echo` command, which outputs a specified string of text. In this case, we use the input `echo hello`. When you press Enter, the shell promptly returns the output `hello`.
+
+**Illustrating Errors**:
+- To emphasize the concept of standard error, let's take a different example: entering `eco hello` (a misspelling of `echo hello`) into the shell. Upon pressing Enter, an error message appears, indicating that the command is not recognized.
+
+Understanding standard input, standard output, and standard error is foundational for effective communication with the Linux shell. As we delve into commands essential for security analysts, you will become intimately familiar with these communication channels.

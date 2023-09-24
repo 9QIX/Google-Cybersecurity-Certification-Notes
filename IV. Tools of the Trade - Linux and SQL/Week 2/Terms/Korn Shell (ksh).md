@@ -1,0 +1,1 @@
+**[[Korn Shell (ksh)]]:** Korn Shell is another Unix shell with a focus on compatibility with both Bourne Shell (sh) and C Shell (csh). It offers advanced scripting features and is known for its efficiency.

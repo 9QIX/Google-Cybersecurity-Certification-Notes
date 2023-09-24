@@ -1,0 +1,1 @@
+At its core, the **[[shell]]** functions as a **[[command-line interpreter]]**. It acts as the intermediary between you, the user, and the operating system, facilitating communication via the command line interface (CLI). Commands issued through the CLI are interpreted by the **[[shell]]** and executed by the operating system.

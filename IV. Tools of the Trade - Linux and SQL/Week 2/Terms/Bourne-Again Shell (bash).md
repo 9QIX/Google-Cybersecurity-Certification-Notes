@@ -1,0 +1,1 @@
+**[[Bourne-Again Shell (bash)]]:** Bash is the default shell for most Linux distributions. It provides a command-line interface to interact with the operating system, offering scripting capabilities and a wide range of built-in commands.

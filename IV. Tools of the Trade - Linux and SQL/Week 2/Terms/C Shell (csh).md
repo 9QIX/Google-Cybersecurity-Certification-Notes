@@ -1,0 +1,1 @@
+**[[C Shell (csh)]]:** C Shell was one of the early Unix shells. It's known for its C-like syntax and command history. While it's less popular today, it's still used by some Unix users.

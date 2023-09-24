@@ -1,0 +1,1 @@
+**[[Z Shell (zsh)]]:** Zsh is a highly customizable shell with a focus on interactive use. It offers advanced features like context-sensitive tab completion, spell correction, and extensive customization through plugins and themes.
