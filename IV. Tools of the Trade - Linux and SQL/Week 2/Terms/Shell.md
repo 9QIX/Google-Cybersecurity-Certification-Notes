@@ -4,3 +4,5 @@
 # Introduction to the shell
 
 In the world of Linux, the **[[shell]]** takes center stage as your primary interface to the operating system, making it a pivotal component for security analysts. Let's delve into a comprehensive understanding of the Linux **[[shell]]** and its crucial role in your work:
+
+the **[[shell]]** functions as a **[[command-line interpreter]]**. It acts as the intermediary between you, the user, and the operating system, facilitating communication via the command line interface (CLI). Commands issued through the CLI are interpreted by the **[[shell]]** and executed by the operating system.
