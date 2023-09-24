@@ -1,0 +1,1 @@
+The **[[Central Processing Unit (CPU)]]** is a computer’s main processor, which is used to perform general computing tasks on a computer. The CPU executes the instructions provided by programs, which enables these programs to run. 

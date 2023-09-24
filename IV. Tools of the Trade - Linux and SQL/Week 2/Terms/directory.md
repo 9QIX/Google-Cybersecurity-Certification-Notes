@@ -1,0 +1,1 @@
+A **[[directory]]** is a file that organizes where other files are stored. Directories are sometimes called “folders,” and they can contain files or other directories. The **[[FHS]]** defines how directories, directory contents, and other storage are organized so the operating system knows where to find specific data. 

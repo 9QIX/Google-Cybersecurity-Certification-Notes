@@ -1,0 +1,1 @@
+A **[[package manager]]** is a tool that helps users install, manage, and remove packages or applications.

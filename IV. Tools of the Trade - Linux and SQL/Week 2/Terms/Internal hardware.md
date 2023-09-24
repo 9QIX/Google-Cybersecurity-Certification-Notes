@@ -1,0 +1,1 @@
+**[[Internal hardware]]** are the components required to run the computer. Internal hardware includes a main circuit board and all components attached to it. This main circuit board is also called the motherboard. Internal hardware includes the following: 
