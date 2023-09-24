@@ -205,26 +205,24 @@ If you complete a lab but your progress hasn’t been tracked on Coursera, you m
 The following contains a list of navigation tips and keyboard shortcuts you may find useful when completing your Linux labs. Your cursor must be in the terminal window to use these navigation tips and keyboard shortcuts.
 
 - CTRL + C: Terminates a command that is currently running; from the instructions portion of Qwiklabs, you can use CTRL + C to copy, but within the terminal, it will only terminate a command and if one isn't running, it will display ^C at the prompt
-    
 - CTRL + V: Pastes text
-    
 - clear: Clears the terminal screen; this can also be done by entering CTRL + L
-    
 - CTRL + A: Sets your cursor at the beginning of a command
-    
 - CTRL + E: Sets your cursor at the end of a command
-    
 - Left arrow **key**: Moves left within a command
-    
 - Right arrow **key**: Moves right within a command
-    
 - Up arrow **key**: Provides the last command you entered into the command line; can be entered multiple times to go through multiple commands from the command history
-    
 - Down arrow **key**: Provides the next command in the command history; must be after using the up arrow key
-    
 - Tab **key**: Provides available suggestions for completing your text
-    
 
 ## Key takeaways
 
 Knowing how to navigate Qwiklabs will be useful as you complete the labs throughout this course. These labs can help you practice what you’ve learned in an interactive environment.
+
+# Install software in a Linux distribution
+
+In this lab activity, you’ll use the Advanced Package Tool (APT) and `sudo` to install and uninstall applications in a Linux Bash shell.
+
+While installing Linux applications can be a complex task, the APT package manager manages most of this complexity for you and allows you to quickly and reliably manage the applications in a Linux environment.
+
+You'll use Suricata and tcpdump as an example. These are network security applications that can be used to capture and analyze network traffic.
