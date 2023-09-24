@@ -56,7 +56,7 @@ As we progress, we will explore additional Linux distributions that hold relevan
 Previously, you were introduced to different distributions of Linux. This included **[[KALI LINUX™]]**. (**[[KALI LINUX™]]** is a trademark of OffSec.) In addition to **[[KALI LINUX™]]**, there are multiple other Linux distributions that security analysts should be familiar with. In this reading, you’ll learn about additional Linux distributions.
 
 ### **KALI LINUX™**
-**[[KALI LINUX™]]** is an open-source distribution of Linux that is widely used in the security industry. This is because **[[KALI LINUX™]]**, which is Debian-based, is pre-installed with many useful tools for penetration testing and digital forensics. A penetration test is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes. Digital forensics is the practice of collecting and analyzing data to determine what has happened after an attack. These are key activities in the security industry.
+**[[KALI LINUX™]]** is an open-source distribution of Linux that is widely used in the security industry. This is because **[[KALI LINUX™]]**, which is Debian-based, is pre-installed with many useful tools for penetration testing and digital forensics. A [[penetration test]] is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes. [[Digital forensics]] is the practice of collecting and analyzing data to determine what has happened after an attack. These are key activities in the security industry.
 
 However, **[[KALI LINUX™]]** is not the only Linux distribution that is used in cybersecurity.
 
