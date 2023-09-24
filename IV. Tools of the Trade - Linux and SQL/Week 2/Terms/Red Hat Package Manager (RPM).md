@@ -1,0 +1,1 @@
+**[[Red Hat Package Manager (RPM)]]** can be used for Linux distributions derived from Red Hat

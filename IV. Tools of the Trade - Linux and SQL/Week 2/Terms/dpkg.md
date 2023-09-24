@@ -1,0 +1,1 @@
+package managers such as **[[dpkg]]** can be used for Linux distributions derived from Debian.

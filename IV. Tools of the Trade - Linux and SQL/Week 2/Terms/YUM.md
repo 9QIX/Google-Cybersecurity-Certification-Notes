@@ -1,0 +1,2 @@
+**Yellowdog Updater Modified (YUM)**
+**[[YUM]]** is a tool used with Red Hat-derived distributions. It is run from the command-line interface to manage, search, and install packages. **[[YUM]]** works with .rpm files.
