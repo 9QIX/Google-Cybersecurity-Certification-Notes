@@ -1,0 +1,2 @@
+**System Management**:
+- **[[Kernel]]:** The kernel is the core component of the **[[Linux OS]]**. It manages processes and memory and communicates with hardware to execute commands initiated by the user through the shell. **[[Drivers]]** are employed by the kernel to enable applications to interact with hardware efficiently.

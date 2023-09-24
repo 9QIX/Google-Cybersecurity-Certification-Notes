@@ -1,0 +1,1 @@
+**[[User]]:** The user is the person who interacts with the computer. In the **[[Linux architecture]]**, the user initiates tasks and commands that the operating system executes. Linux supports multiple users simultaneously, making it a multi-user system.

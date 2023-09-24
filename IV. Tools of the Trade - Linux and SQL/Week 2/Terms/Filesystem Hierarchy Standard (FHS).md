@@ -1,0 +1,2 @@
+**Data Organization**:
+- **[[Filesystem Hierarchy Standard (FHS)]]:** FHS is responsible for organizing and structuring data within the **[[Linux operating system]]**. Think of it as a filing cabinet for data, ensuring data is stored in an organized manner, making it easily accessible when needed.

@@ -1,0 +1,2 @@
+**Communication Interface**:
+- **[[Shell]]:** The shell is a vital element in the **[[Linux architecture]]**, serving as the command line interpreter. It processes user commands and provides the results. It corresponds to the Command-Line Interface (CLI) used to communicate with the system.

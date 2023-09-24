@@ -1,0 +1,1 @@
+Much like appreciating the architecture of a building, understanding the components that compose an operating system, in this case, **[[Linux]]**, is crucial for security professionals. In this discussion, we will delve into the various components that constitute the **[[Linux operating system architecture]]**.

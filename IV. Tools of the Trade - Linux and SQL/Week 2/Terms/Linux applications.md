@@ -1,0 +1,1 @@
+**[[Linux applications]]** are often distributed through package managers, simplifying the installation process.
