@@ -1,0 +1,2 @@
+**Input: [[Standard Input]] (stdin)**:
+- **Requesting Information**: Standard input comprises the data conveyed to the operating system through the command line interface. Think of it as asking a question during a conversation; your keyboard provides input to the shell. When you issue a command, the shell translates it into a request for resources from the kernel to execute the task.

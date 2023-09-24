@@ -1,0 +1,2 @@
+**Output: [[Standard Output]] (stdout)**:
+- **Receiving Responses**: Standard output represents the information the operating system returns through the shell, akin to receiving an answer from your friend. It is the computer's response to your input. For instance, if you issue the command `echo hello`, the output you receive is `hello`. Standard output delivers the results of your commands.

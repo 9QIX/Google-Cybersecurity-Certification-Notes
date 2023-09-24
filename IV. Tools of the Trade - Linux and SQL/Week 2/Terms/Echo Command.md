@@ -1,0 +1,2 @@
+**Example: [[Echo Command]]**:
+- Let's consider the `echo` command, which outputs a specified string of text. In this case, we use the input `echo hello`. When you press Enter, the shell promptly returns the output `hello`.
