@@ -1,0 +1,1 @@
+**[[File path]]:** The location of a file or directory

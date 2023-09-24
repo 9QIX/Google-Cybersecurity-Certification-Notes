@@ -1,0 +1,1 @@
+**[[Red Hat® Enterprise Linux® (also referred to simply as Red Hat in this course)]]:** A subscription-based distribution of Linux built for enterprise use
