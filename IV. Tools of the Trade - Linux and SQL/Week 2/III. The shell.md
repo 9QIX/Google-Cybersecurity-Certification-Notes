@@ -31,12 +31,12 @@ The many different types of Linux shells include the following:
 4. **[[Enhanced C shell (tcsh)]]:** Tcsh is an enhanced version of the C Shell (csh). It includes features like command-line editing, history, and programmable command-line completion, making it more user-friendly.
 5. **[[Z Shell (zsh)]]:** Zsh is a highly customizable shell with a focus on interactive use. It offers advanced features like context-sensitive tab completion, spell correction, and extensive customization through plugins and themes.
 
-All Linux shells use common Linux commands, but they can differ in other features. For example, **ksh** and **[[bash]]** use the dollar sign ($) to indicate where users type in their commands. Other shells, such as **zsh**, use the percent sign (%) for this purpose.
+All Linux shells use common Linux commands, but they can differ in other features. For example, **ksh** and **[[Bash]]** use the dollar sign ($) to indicate where users type in their commands. Other shells, such as **zsh**, use the percent sign (%) for this purpose.
 
-**Bash**
-**[[Bash]]** is the default shell in most Linux distributions. It’s considered a user-friendly shell. You can use **[[bash]]** for basic Linux commands as well as larger projects.
+### **Bash**
+**[[Bash]]** is the default shell in most Linux distributions. It’s considered a user-friendly shell. You can use **[[Bash]]** for basic Linux commands as well as larger projects.
 
-**[[Bash]]** is also the most popular shell in the cybersecurity profession. You’ll use **[[bash]]** throughout this course as you learn and practice Linux commands.
+**[[Bash]]** is also the most popular shell in the cybersecurity profession. You’ll use **[[Bash]]** throughout this course as you learn and practice Linux commands.
 
 **Key takeaways**
-Shells are a fundamental part of the Linux operating system. Shells allow you to give commands to the computer and receive responses from it. They can be thought of as a translator between you and your computer system. There are many different types of shells, but the **[[bash]]** shell is the most commonly used shell in the cybersecurity profession. You’ll learn how to enter Linux commands through the **[[bash]]** shell later in this course.
+Shells are a fundamental part of the Linux operating system. Shells allow you to give commands to the computer and receive responses from it. They can be thought of as a translator between you and your computer system. There are many different types of shells, but the **[[Bash]]** shell is the most commonly used shell in the cybersecurity profession. You’ll learn how to enter Linux commands through the **[[Bash]]** shell later in this course.
