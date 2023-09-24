@@ -1,0 +1,1 @@
+A [[penetration test]] is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.

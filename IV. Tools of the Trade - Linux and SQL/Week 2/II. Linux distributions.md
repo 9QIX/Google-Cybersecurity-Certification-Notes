@@ -78,3 +78,4 @@ However, **[[KALI LINUX™]]** is not the only Linux distribution that is used i
 
 #### **Key takeaways**
 **[[KALI LINUX™]], [[Ubuntu]], [[Parrot]], [[Red Hat® Enterprise Linux®]],** and **[[CentOS]]** are all widely used Linux distributions. It’s important for security analysts to be aware of these distributions that they might encounter in their career.
+

@@ -1,0 +1,1 @@
+**[[Red Hat]]** is not free, which is a major difference from the previously mentioned distributions. Because it’s built and supported for enterprise use, **[[Red Hat]]** also offers a dedicated support team for customers to call about issues.
