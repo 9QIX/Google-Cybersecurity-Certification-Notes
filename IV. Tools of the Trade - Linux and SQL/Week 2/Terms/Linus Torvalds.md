@@ -1,0 +1,1 @@
+Linux emerged from two independent projects in the early **1990s**. **[[Linus Torvalds]]**, inspired by UNIX, aimed to create an open-source and accessible operating system. His introduction of the **Linux kernel** was groundbreaking.

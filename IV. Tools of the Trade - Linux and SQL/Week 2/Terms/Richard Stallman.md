@@ -1,0 +1,1 @@
+Simultaneously, **[[Richard Stallman]]** worked on GNU, another UNIX-based operating system with a focus on freedom and accessibility. The missing piece for GNU was a kernel, and when combined with Torvalds' Linux kernel, it formed what we know as Linux today.
