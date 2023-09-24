@@ -16,3 +16,29 @@
 - **Specialized Distributions:** Linux offers specialized distributions designed for specific security tasks. For example, forensic tools are available for investigating security incidents, and penetration testing distributions aid in identifying vulnerabilities.
 
 Aspiring security professionals will find Linux to be a valuable skill in their arsenal. Its open-source nature, robust community, and adaptability to diverse security tasks make Linux an integral part of the security landscape. Understanding Linux is essential for those looking to excel in security-related roles.
+
+You've provided an informative overview of the architecture of the Linux operating system. Here's your text with key terms emphasized using double square brackets:
+
+# Linux architecture
+
+Much like appreciating the architecture of a building, understanding the components that compose an operating system, in this case, **[[Linux]]**, is crucial for security professionals. In this discussion, we will delve into the various components that constitute the **[[Linux operating system architecture]]**.
+
+**User Interaction**:
+- **[[User]]:** The user is the person who interacts with the computer. In the **[[Linux architecture]]**, the user initiates tasks and commands that the operating system executes. Linux supports multiple users simultaneously, making it a multi-user system.
+
+**Software Components**:
+- **[[Applications]]:** Applications, also known as programs, are software designed to perform specific tasks. For instance, a word processor or a calculator is considered an application. **[[Linux applications]]** are often distributed through package managers, simplifying the installation process.
+
+**Communication Interface**:
+- **[[Shell]]:** The shell is a vital element in the **[[Linux architecture]]**, serving as the command line interpreter. It processes user commands and provides the results. It corresponds to the Command-Line Interface (CLI) used to communicate with the system.
+
+**Data Organization**:
+- **[[Filesystem Hierarchy Standard (FHS)]]:** FHS is responsible for organizing and structuring data within the **[[Linux operating system]]**. Think of it as a filing cabinet for data, ensuring data is stored in an organized manner, making it easily accessible when needed.
+
+**System Management**:
+- **[[Kernel]]:** The kernel is the core component of the **[[Linux OS]]**. It manages processes and memory and communicates with hardware to execute commands initiated by the user through the shell. **[[Drivers]]** are employed by the kernel to enable applications to interact with hardware efficiently.
+
+**Hardware**:
+- **[[Hardware]]:** Hardware refers to the physical components of a computer, such as the Central Processing Unit (CPU), mouse, keyboard, and more. These components interact with the software applications and the kernel to execute tasks.
+
+Understanding the architecture of **[[Linux]]** is pivotal for security professionals as it forms the foundation for effectively analyzing and securing a **[[Linux-based system]]**. This knowledge equips security analysts with the insights needed to navigate and safeguard **[[Linux systems]]** effectively.
