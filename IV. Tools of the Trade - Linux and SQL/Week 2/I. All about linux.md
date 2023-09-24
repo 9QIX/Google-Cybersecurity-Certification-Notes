@@ -81,3 +81,14 @@ The **[[hardware]]** is the physical components of a computer. You might be fami
 
 **Key Takeaways**
 It’s important for **[[security analysts]]** to understand the **[[Linux architecture]]** and how these components are organized. The components of the **[[Linux architecture]]** are the **[[user]]**, **[[applications]]**, **[[shell]]**, **[[Filesystem Hierarchy Standard (FHS)]]**, **[[kernel]]**, and **[[hardware]]**. Each of these components is important in how **[[Linux]]** functions.
+
+## Explore: Components of the Linux OS
+
+### Trace the flow through Linux
+
+- **User** - The user decides to create a new file.
+- **Application** - The user opens the application for communicating with the shell.
+- **Shell** - The user enters commands in the shell to indicate they want to create a new file.
+- **Filesystem Hierarchy Standard (FHS)** - The shell creates the new file in the FHS.
+- **Kernel** - The contents and location of the new file are passed to the kernel.
+- **Hardware** - The kernel tells the hardware how and where to save this new file.
