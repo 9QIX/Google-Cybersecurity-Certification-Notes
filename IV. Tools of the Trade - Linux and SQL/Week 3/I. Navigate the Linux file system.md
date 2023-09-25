@@ -49,7 +49,7 @@ In this reading, you’ll review how to navigate the file system using Linux com
 
 ## Filesystem Hierarchy Standard (FHS)
 
-Previously, you learned that the **Filesystem Hierarchy Standard** **(FHS)** is the component of Linux that organizes data. The FHS is important because it defines how directories, directory contents, and other storage is organized in the operating system.
+Previously, you learned that the **[[Filesystem Hierarchy Standard (FHS)]]** is the component of Linux that organizes data. The FHS is important because it defines how directories, directory contents, and other storage is organized in the operating system.
 
 This diagram illustrates the hierarchy of relationships under the FHS:
 
@@ -57,9 +57,9 @@ This diagram illustrates the hierarchy of relationships under the FHS:
 
 Under the FHS, a file’s location can be described by a file path. A **file path** is the location of a file or directory. In the file path, the different levels of the hierarchy are separated by a forward slash (`/`).
 
-### **Root directory**
+### Root directory
 
-The **root directory** is the highest-level directory in Linux, and it’s always represented with a forward slash (`/`).  All subdirectories branch off the root directory. Subdirectories can continue branching out to as many levels as necessary.
+The **[[root directory]]** is the highest-level directory in Linux, and it’s always represented with a forward slash (`/`).  All subdirectories branch off the root directory. Subdirectories can continue branching out to as many levels as necessary.
 
 ### Standard FHS directories
 
@@ -79,7 +79,7 @@ Under `home` are subdirectories for specific users. In the diagram, these users 
 
 **Note:** When the path leads to a subdirectory below the user’s home directory, the user’s home directory can be represented as the tilde (`~`). For example, `/home/analyst/logs` can also be represented as `~/logs`.
 
-You can navigate to specific subdirectories using their absolute or relative file paths. The **absolute file path** is the full file path, which starts from the root. For example, `/home/analyst/projects` is an absolute file path. The **relative file path** is the file path that starts from a user's current directory.
+You can navigate to specific subdirectories using their absolute or relative file paths. The **[[absolute file path]]** is the full file path, which starts from the root. For example, `/home/analyst/projects` is an absolute file path. The **[[relative file path]]** is the file path that starts from a user's current directory.
 
 **Note:** Relative file paths can use a dot (`.`) to represent the current directory, or two dots (`..`) to represent the parent of the current directory. An example of a relative file path could be `../projects`.
 
@@ -87,7 +87,7 @@ You can navigate to specific subdirectories using their absolute or relative fil
 
 The following Linux commands can be used to navigate the file system: `pwd`, `ls`, and `cd`.
 
-### **pwd**
+### **[[pwd]]**
 
 The `pwd` command prints the working directory to the screen. Or in other words, it returns the directory that you’re currently in. 
 
@@ -95,13 +95,13 @@ The output gives you the absolute path to this directory. For example, if you’
 
 **Pro Tip**: To learn what your username is, use the `whoami` command. The `whoami` command returns the username of the current user. For example, if your username is `analyst`, entering `whoami` returns `analyst`.
 
-### **ls**
+### **[[ls]]**
 
 The `ls` command displays the names of the files and directories in the current working directory. For example, in the video, `ls` returned directories such as `logs`, and a file called `updates.txt`. 
 
 **Note**: If you want to return the contents of a directory that’s not your current working directory, you can add an argument after ls with the absolute or relative file path to the desired directory. For example, if you’re in the /home/analyst directory but want to list the contents of its `projects` subdirectory, you can enter `ls /home/analyst/projects` or just `ls projects`.
 
-### **cd**
+### **[[cd]]**
 
 The `cd` command navigates between directories. When you need to change directories, you should use this command.
 
