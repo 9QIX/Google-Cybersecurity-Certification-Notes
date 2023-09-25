@@ -4,7 +4,7 @@ In this section, we'll delve into the fundamental skills needed to communicate e
 
 ## **Understanding the [[Bash]] Shell**
 - **[[Bash]]**: **Bash** (Bourne Again Shell) is the default shell in most Linux distributions. While there are different shells available, the key Linux commands you'll learn in this section are applicable across most shells.
-- **Commands as Instructions**: In the shell, commands act as instructions that tell the computer what to do. These commands initiate various actions, from finding specific files to launching programs or outputting text.
+- **[[Commands as Instructions]]**: In the shell, commands act as instructions that tell the computer what to do. These commands initiate various actions, from finding specific files to launching programs or outputting text.
 
 ## **Exploring Commands and Arguments**
 - **[[Prompt and Dollar Sign]]**: When using the **[[Bash]]** shell, you'll notice a dollar sign ($) prompt before the cursor, indicating that you can input a new command.
