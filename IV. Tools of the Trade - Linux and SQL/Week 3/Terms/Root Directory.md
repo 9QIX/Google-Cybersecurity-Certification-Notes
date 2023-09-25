@@ -1,0 +1,1 @@
+**[[Root Directory]]**: The root directory is the highest-level directory in Linux, denoted by a single slash (/). All other directories branch out from the root directory in a hierarchical structure.

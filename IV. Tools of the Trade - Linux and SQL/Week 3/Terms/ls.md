@@ -1,0 +1,1 @@
+**[[ls (List)]]**: The `ls` command displays the names of files and directories in the current working directory.

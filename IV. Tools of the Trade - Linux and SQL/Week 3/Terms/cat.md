@@ -1,0 +1,1 @@
+The **[[cat]]** command displays the full content of a file, while the **[[head]]** command shows the beginning of a file (typically the first ten lines).

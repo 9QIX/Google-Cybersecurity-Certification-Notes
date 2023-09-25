@@ -1,0 +1,1 @@
+**[[cd (Change Directory)]]**: The `cd` command is used to navigate between directories. It allows you to change your working directory.
