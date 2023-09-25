@@ -1,0 +1,1 @@
+**[[FHS]]**: The **[[Filesystem Hierarchy Standard (FHS)]]** is a vital component of the Linux OS that organizes data. Everything in Linux is considered a file somewhere within the directory structure.
