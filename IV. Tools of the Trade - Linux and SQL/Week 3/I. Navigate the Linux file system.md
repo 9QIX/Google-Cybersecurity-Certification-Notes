@@ -113,37 +113,37 @@ You can also navigate to any specific directory by entering the absolute file pa
 
 ## Common commands for reading file content
 
-The following Linux commands are useful for reading file content: cat, head, tail, and less.
+The following Linux commands are useful for reading file content: `cat`, `head`, `tail`, and `less`.
 
 ### **cat**
 
-The cat command displays the content of a file. For example, entering cat updates.txt returns everything in the updates.txt file.
+The `cat` command displays the content of a file. For example, entering `cat updates.txt` returns everything in the `updates.txt` file.
 
 ### **head**
 
-The head command displays just the beginning of a file, by default 10 lines. The head command can be useful when you want to know the basic contents of a file but don’t need the full contents. Entering head updates.txt returns only the first 10 lines of the updates.txt file.
+The `head` command displays just the beginning of a file, by default 10 lines. The `head` command can be useful when you want to know the basic contents of a file but don’t need the full contents. Entering `head updates.txt` returns only the first 10 lines of the `updates.txt` file.
 
-**Pro Tip**: If you want to change the number of lines returned by head, you can specify the number of lines by including -n. For example, if you only want to display the first five lines of the updates.txt file, enter head -n 5 updates.txt.
+**Pro Tip**: If you want to change the number of lines returned by `head`, you can specify the number of lines by including `-n`. For example, if you only want to display the first five lines of the updates.txt file, enter `head -n 5 updates.txt`.
 
 ### **tail**
 
-The tail command does the opposite of head. This command can be used to display just the end of a file, by default 10 lines. Entering tail updates.txt returns only the last 10 lines of the updates.txt file.
+The `tail` command does the opposite of `head`. This command can be used to display just the end of a file, by default 10 lines. Entering `tail updates.txt` returns only the last 10 lines of the `updates.txt` file.
 
-**Pro Tip**: You can use tail to read the most recent information in a log file.
+**Pro Tip**: You can use `tail` to read the most recent information in a log file.
 
 ### **less**
 
-The less command returns the content of a file one page at a time. For example, entering less updates.txt changes the terminal window to display the contents of updates.txt one page at a time. This allows you to easily move forward and backward through the content. 
+The `less` command returns the content of a file one page at a time. For example, entering `less updates.txt` changes the terminal window to display the contents of `updates.txt` one page at a time. This allows you to easily move forward and backward through the content. 
 
-Once you’ve accessed your content with the less command, you can use several keyboard controls to move through the file:
+Once you’ve accessed your content with the `less` command, you can use several keyboard controls to move through the file:
 
-- Space bar: Move forward one page
-- b: Move back one page
-- Down arrow: Move forward one line
-- Up arrow: Move back one line
-- q: Quit and return to the previous terminal window
+- `Space bar`: Move forward one page
+- `b`: Move back one page
+- `Down arrow`: Move forward one line
+- `Up arrow`: Move back one line
+- `q`: Quit and return to the previous terminal window
 
 ## Key takeaways
 
-It’s important for security analysts to be able to navigate Linux and the file system of the FHS. Some key commands for navigating the file system include pwd, ls, and cd. Reading file content is also an important skill in the security profession. This can be done with commands such as cat, head, tail, and less.
+It’s important for security analysts to be able to navigate Linux and the file system of the FHS. Some key commands for navigating the file system include `pwd`, `ls`, and `cd`. Reading file content is also an important skill in the security profession. This can be done with commands such as `cat`, `head`, `tail`, and `less`.
 
