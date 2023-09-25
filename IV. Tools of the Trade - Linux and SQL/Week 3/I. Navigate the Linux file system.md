@@ -99,7 +99,7 @@ The output gives you the absolute path to this directory. For example, if you’
 
 The `ls` command displays the names of the files and directories in the current working directory. For example, in the video, `ls` returned directories such as `logs`, and a file called `updates.txt`. 
 
-**Note**: If you want to return the contents of a directory that’s not your current working directory, you can add an argument after ls with the absolute or relative file path to the desired directory. For example, if you’re in the /home/analyst directory but want to list the contents of its `projects` subdirectory, you can enter `ls /home/analyst/projects` or just `ls projects`.
+**Note**: If you want to return the contents of a directory that’s not your current working directory, you can add an argument after ls with the absolute or relative file path to the desired directory. For example, if you’re in the `/home/analyst` directory but want to list the contents of its `projects` subdirectory, you can enter `ls /home/analyst/projects` or just `ls projects`.
 
 ### **[[cd]]**
 
@@ -115,23 +115,23 @@ You can also navigate to any specific directory by entering the absolute file pa
 
 The following Linux commands are useful for reading file content: `cat`, `head`, `tail`, and `less`.
 
-### **cat**
+### **[[cat]]**
 
 The `cat` command displays the content of a file. For example, entering `cat updates.txt` returns everything in the `updates.txt` file.
 
-### **head**
+### **[[head]]**
 
 The `head` command displays just the beginning of a file, by default 10 lines. The `head` command can be useful when you want to know the basic contents of a file but don’t need the full contents. Entering `head updates.txt` returns only the first 10 lines of the `updates.txt` file.
 
 **Pro Tip**: If you want to change the number of lines returned by `head`, you can specify the number of lines by including `-n`. For example, if you only want to display the first five lines of the updates.txt file, enter `head -n 5 updates.txt`.
 
-### **tail**
+### **[[tail]]**
 
 The `tail` command does the opposite of `head`. This command can be used to display just the end of a file, by default 10 lines. Entering `tail updates.txt` returns only the last 10 lines of the `updates.txt` file.
 
 **Pro Tip**: You can use `tail` to read the most recent information in a log file.
 
-### **less**
+### **[[less]]**
 
 The `less` command returns the content of a file one page at a time. For example, entering `less updates.txt` changes the terminal window to display the contents of `updates.txt` one page at a time. This allows you to easily move forward and backward through the content. 
 
