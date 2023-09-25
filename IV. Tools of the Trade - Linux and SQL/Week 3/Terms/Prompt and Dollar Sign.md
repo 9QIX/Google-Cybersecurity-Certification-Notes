@@ -1,0 +1,1 @@
+**[[Prompt and Dollar Sign]]**: When using the **[[Bash]]** shell, you'll notice a dollar sign ($) prompt before the cursor, indicating that you can input a new command.

@@ -1,0 +1,1 @@
+**[[Providing Arguments]]**: To use the **[[echo]]** command effectively, you need to specify what text you want to display as output. This text is provided as an argument.

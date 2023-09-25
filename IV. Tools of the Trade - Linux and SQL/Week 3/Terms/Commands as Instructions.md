@@ -1,0 +1,1 @@
+**[[Commands as Instructions]]**: In the shell, commands act as instructions that tell the computer what to do. These commands initiate various actions, from finding specific files to launching programs or outputting text.

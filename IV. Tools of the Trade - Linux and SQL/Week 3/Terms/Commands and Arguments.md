@@ -1,0 +1,1 @@
+**[[Commands and Arguments]]**: A command is typically followed by arguments, which provide specific information required for the command's execution. Arguments help commands to perform their intended tasks.

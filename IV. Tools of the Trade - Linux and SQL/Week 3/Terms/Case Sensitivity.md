@@ -1,0 +1,1 @@
+**[[Case Sensitivity]]**: It's important to remember that all commands, arguments, file names, and directory names in Linux are case-sensitive. Precision in command input is crucial as you progress in your Linux proficiency.
