@@ -1,0 +1,1 @@
+The `touch` command creates a new file. This file won't have any content inside. If your current directory is `/home/analyst/reports`, entering `touch permissions.txt` creates a new file in the reports subdirectory called `permissions.txt`.

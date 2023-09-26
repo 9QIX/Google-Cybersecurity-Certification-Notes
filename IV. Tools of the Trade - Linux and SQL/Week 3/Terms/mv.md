@@ -1,0 +1,3 @@
+To move `permissions.txt` into the logs subdirectory, enter `mv permissions.txt /home/analyst/logs`. Moving a file removes the file from its original location. However, copying a file doesn't remove it from its original location. To copy `permissions.txt` into the logs subdirectory while also keeping it in its original location, enter `cp permissions.txt /home/analyst/logs`.
+
+*Note*: The `mv` command can also be used to rename files. To rename a file, pass the new name in as the second argument instead of the new location. For example, entering `mv permissions.txt perm.txt` renames the `permissions.txt` file to `perm.txt`.

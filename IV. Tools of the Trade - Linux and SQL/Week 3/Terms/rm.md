@@ -1,0 +1,1 @@
+The `rm` command removes, or deletes, a file. This command should be used carefully because it's not easy to recover files deleted with `rm`. To remove the permissions file you just created, enter `rm permissions.txt`.
