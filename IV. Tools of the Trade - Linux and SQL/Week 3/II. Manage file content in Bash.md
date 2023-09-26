@@ -45,7 +45,7 @@
 
 Filtering data efficiently is a crucial skill for a security analyst, and understanding these Linux commands and concepts enhances your ability to extract valuable information from the system effectively. Continue exploring the Linux command line to further develop your proficiency as a security professional.
 
-## Filter content in Linux
+# Filter content in Linux
 
 In this reading, you'll continue exploring Linux commands, which can help you filter for the information you need. You'll learn a new Linux command, `grep`, which can help you search files and directories for specific information.
 
@@ -59,7 +59,7 @@ The `grep` command searches a specified file and returns all lines in the file c
 
 For example, entering `grep OS updates.txt` returns all lines containing `OS` in the `updates.txt` file. In this example, `OS` is the specific string to search for, and `updates.txt` is the specific file to search through.
 
-## Piping
+### Piping
 
 The pipe commend is accessed using the pipe character (`|`). Piping senda the tenderd output of one command standard input to another command for further processing As a reminder, standard output is information returned by the DB through the shell, and standard input is information received by the OS is the command line
 
@@ -69,7 +69,7 @@ Wher with group, the pipe can help you find directories and files containing spe
 
 Note: Piping is a general form of redirection in Linux and can be used for multiple tasks other then filtering, you can think of piping es a general tool that you can use whenever you want the output of one command to become the input of another command
 
-## find
+### find
 
 The 2nd commend searches for directories and files that meet specified criteria. There's a wide range of criteria that can be specified with End For example, you can search for files and directories that
 
@@ -83,7 +83,7 @@ After this first argument, you need to indicate your criteria for the search, if
 
 Specifying criteria involves options Options modify the behavior of a command and commonly begin with a hyphen (`-`).
 
-**-name and -iname**
+### -name and -iname
 
 One key criteria analysts might use with `find` is to find file or directory names that contain a specific string. The specific string you're searching for must be entered in quotes after the `-name` or `-iname` options. The difference between these two options is that `-name` is case-sensitive, and `-iname` is not.
 
@@ -92,3 +92,14 @@ For example, you might want to find all files in the `projects` directory that c
 In these examples, the output would be all files in the `projects` directory that contain `log` surrounded by zero or more characters. The `"*log*"` portion of the command is the search criteria that indicates to search for the string "log". When `-name` is the option, files with names that include `Log` or `LOG`, for example, wouldn't be returned because this option is case-sensitive. However, they would be returned when `-iname` is the option.
 
 Note: An asterisk (`*`) is used as a wildcard to represent zero or more unknown characters.
+
+  
+### -mtime
+
+The `-mtime` option in the `find` command is used to search for files and directories that were modified within a certain number of days. The number of days is specified after the `-mtime` option. For example, `find /home/analyst/projects -mtime -3` would return all files and directories in the `projects` directory that were modified within the past three days.
+
+The `-mtime` option can be used with either a positive or negative number. A positive number indicates that the file or directory was modified more than the specified number of days ago. A negative number indicates that the file or directory was modified less than the specified number of days ago. For example, `find /home/analyst/projects -mtime +1` would return all files and directories in the `projects` directory that were modified more than one day ago, and `find /home/analyst/projects -mtime -1` would return all files and directories in the `projects` directory that were modified less than one day ago.
+
+The `-mtime` option can be used in conjunction with other `find` options to further refine the search results. For example, `find /home/analyst/projects -mtime -3 -type f` would return all regular files in the `projects` directory that were modified within the past three days.
+
+The `-mtime` option is a powerful tool for searching for files and directories based on their modification date. It is commonly used by security analysts to find files and directories that may have been modified by malicious actors.
