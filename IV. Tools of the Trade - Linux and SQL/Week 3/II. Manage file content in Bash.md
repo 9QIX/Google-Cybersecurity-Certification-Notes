@@ -104,9 +104,6 @@ The `-mtime `option search is based on days, so entering `-mtime +1` indicates a
 
 Filtering for information using Linux commands is an important skill for security analysts so that they can customize data to fit their needs. Three key Linux commands for this are `grep`, piping (`|`), and `find`. These commands can be used to navigate and filter for information in the file system.
 
-Certainly, here's the content with numbers removed:
-
-
 # Create and modify directories and files
    - **Concept**: In the context of the Linux file system, directories and subdirectories can be visualized as branches of a tree connected to the same root. This tree structure forms the directory hierarchy in Linux.
    - **Importance**: Organizing data within this tree structure is crucial for efficient data management and security.
@@ -167,7 +164,7 @@ Previously, you explored how to manage the file system using Linux commands. The
 
 ## Creating and modifying directories
 
-### **mkdir**
+### **[[mkdir]]**
 
 The `mkdir` command creates a new directory. Like all of the commands presented in this reading, you can either provide the new directory as the absolute file path, which starts from the root, or as a relative file path, which starts from your current directory.
 
@@ -175,7 +172,7 @@ For example, if you want to create a new directory called `network` in your `/ho
 
 *Pro Tip*: You can use the `ls` command to confirm the new directory was added.
 
-### **rmdir**
+### **[[rmdir]]**
 
 The `rmdir` command removes, or deletes, a directory. For example, entering `rmdir /home/analyst/logs/network` would remove this empty directory from the file system.
 
@@ -183,7 +180,7 @@ The `rmdir` command removes, or deletes, a directory. For example, entering `rmd
 
 ## Creating and modifying files
 
-### **touch and rm**
+### **[[touch]] and [[rm]]**
 
 The `touch` command creates a new file. This file won't have any content inside. If your current directory is `/home/analyst/reports`, entering `touch permissions.txt` creates a new file in the reports subdirectory called `permissions.txt`.
 
@@ -191,7 +188,7 @@ The `rm` command removes, or deletes, a file. This command should be used carefu
 
 *Pro Tip*: You can verify that `permissions.txt` was successfully created or removed by entering `ls`.
 
-### **mv and cp**
+### **[[mv]] and [[cp]]**
 
 You can also use `mv` and `cp` when working with files. The `mv` command moves a file or directory to a new location, and the `cp` command copies a file or directory into a new location. The first argument after `mv` or `cp` is the file or directory you want to move or copy, and the second argument is the location you want to move or copy it to.
 
@@ -199,7 +196,7 @@ To move `permissions.txt` into the logs subdirectory, enter `mv permissions.txt 
 
 *Note*: The `mv` command can also be used to rename files. To rename a file, pass the new name in as the second argument instead of the new location. For example, entering `mv permissions.txt perm.txt` renames the `permissions.txt` file to `perm.txt`.
 
-## nano text editor
+## [[nano]] text editor
 
 `nano` is a command-line file editor that is available by default in many Linux distributions. Many beginners find it easy to use, and it's widely used in the security profession. You can perform multiple basic tasks in `nano`, such as creating new files and modifying file contents.
 
