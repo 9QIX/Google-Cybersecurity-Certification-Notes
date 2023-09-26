@@ -51,21 +51,21 @@ In this reading, you'll continue exploring Linux commands, which can help you fi
 
 ### Filtering for information
 
-You previously explored how filtering for information is an important skill for security analysts. Filtering is selecting data that match a certain condition. For example, if you had a virus in your system that only affected the .txt files, you could use filtering to find these files quickly. Filtering allows you to search based on specific criteria, such as file extension or a string of text.
+You previously explored how filtering for information is an important skill for security analysts. **[[Filtering]]** is selecting data that match a certain condition. For example, if you had a virus in your system that only affected the .txt files, you could use filtering to find these files quickly. Filtering allows you to search based on specific criteria, such as file extension or a string of text.
 
-### grep
+### [[grep]]
 
 The `grep` command searches a specified file and returns all lines in the file containing a specified string. The `grep` command commonly takes two arguments: a specific string to search for and a specific file to search through.
 
 For example, entering `grep OS updates.txt` returns all lines containing `OS` in the `updates.txt` file. In this example, `OS` is the specific string to search for, and `updates.txt` is the specific file to search through.
 
-### Piping
+### [[Piping]]
 
-The pipe commend is accessed using the pipe character (`|`). Piping senda the tenderd output of one command standard input to another command for further processing As a reminder, standard output is information returned by the DB through the shell, and standard input is information received by the OS is the command line
+The pipe commend is accessed using the pipe character (`|`). **Piping** sends the **standard output** of one command as standard input to another command for further processing. As a reminder, **standard output** is information returned by the DB through the shell, and standard input is information received by the OS is the command line
 
-The pipe character (`|`) is located in various places on a keyboard. On many keyboards, it's located on the same key es thebeckalesh charecter (`\`). On some keyboards, the can look different and have e amell spece through the middle of the line if you can't find the `|`, search online for its location on your particular keyboard
+The pipe character (`|`) is located in various places on a keyboard. On many keyboards, it's located on the same key es the backslash character (`\`). On some keyboards, the can look different and have a small space through the middle of the line if you can't find the `|`, search online for its location on your particular keyboard
 
-Wher with group, the pipe can help you find directories and files containing specific word in their names. For example, `ls /home/analyst/reports | grep usaza` returns the file and directory names in the `reports` directory that contain `usaza`. Before the pipe, `ls` indicates to list the names of the flies and directories in `reports`. Then, it sends this output to the command after the pipe in this case, `grep usaza` returns all of the file or directory names containing `usura` from the input it received
+When used with `grep`, the pipe can help you find directories and files containing specific word in their names. For example, `ls /home/analyst/reports | grep users` returns the file and directory names in the `reports` directory that contain `users`. Before the pipe, `ls` indicates to list the names of the flies and directories in `reports`. Then, it sends this output to the command after the pipe in this case, `grep users` returns all of the file or directory names containing `users` from the input it received
 
 Note: Piping is a general form of redirection in Linux and can be used for multiple tasks other then filtering, you can think of piping es a general tool that you can use whenever you want the output of one command to become the input of another command
 
