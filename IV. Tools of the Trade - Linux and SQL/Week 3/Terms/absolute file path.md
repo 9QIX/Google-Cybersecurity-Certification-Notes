@@ -1,0 +1,1 @@
+The **[[absolute file path]]** is the full file path, which starts from the root. For example, `/home/analyst/projects` is an absolute file path.
