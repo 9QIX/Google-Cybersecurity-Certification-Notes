@@ -103,7 +103,6 @@ In Linux, permissions are represented with a 10-character string. Permissions in
 - **[[execute]]**: for files, this is the ability to execute the file if it’s a program; for directories, this is the ability to enter the directory and access its files
 
 These permissions are given to these types of owners:
-
 - **[[user]]**: the owner of the file
 - **[[group]]**: a larger group that the owner is a part of
 - **[[other]]**: all other users on the system
