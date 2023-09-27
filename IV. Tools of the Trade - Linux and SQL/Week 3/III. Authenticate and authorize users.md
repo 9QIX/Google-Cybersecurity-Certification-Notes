@@ -99,48 +99,48 @@ Previously, you explored file permissions and the commands that you can use to d
 
 In Linux, permissions are represented with a 10-character string. Permissions include:
 
-- `read`: for files, this is the ability to read the file contents; for directories, this is the ability to read all contents in the directory including both files and subdirectories
-- `write`: for files, this is the ability to make modifications on the file contents; for directories, this is the ability to create new files in the directory
-- `execute`: for files, this is the ability to execute the file if it's a program; for directories, this is the ability to enter the directory and access its files
+- **read**: for files, this is the ability to read the file contents; for directories, this is the ability to read all contents in the directory including both files and subdirectories
+- **write**: for files, this is the ability to make modifications on the file contents; for directories, this is the ability to create new files in the directory
+- **execute**: for files, this is the ability to execute the file if it’s a program; for directories, this is the ability to enter the directory and access its files
 
 These permissions are given to these types of owners:
 
-- `user`: the owner of the file
-- `group`: a larger group that the owner is a part of
-- `other`: all other users on the system
+- **user**: the owner of the file
+- **group**: a larger group that the owner is a part of
+- **other**: all other users on the system
 
 Each character in the 10-character string conveys different information about these permissions. The following table describes the purpose of each character:
 
 | Character | Example       | Meaning                 |
 |-----------|---------------|-------------------------|
-| 1st       | `drwxrwxrwx` | file type               |
+| 1st       | ***d***rwxrwxrwx | file type               |
 |           |               | `d` for directory       |
 |           |               | `-` for a regular file  |
-| 2nd       | `drwxrwxrwx` | read permissions for the user |
+| 2nd       | d***r***wxrwxrwx | read permissions for the user |
 |           |               | `r` if the user has read permissions |
 |           |               | `-` if the user lacks read permissions |
-| 3rd       | `drwxrwxrwx` | write permissions for the user |
+| 3rd       | dr***w***xrwxrwx | write permissions for the user |
 |           |               | `w` if the user has write permissions |
 |           |               | `-` if the user lacks write permissions |
-| 4th       | `drwxrwxrwx` | execute permissions for the user |
+| 4th       | drw***x***rwxrwx | execute permissions for the user |
 |           |               | `x` if the user has execute permissions |
 |           |               | `-` if the user lacks execute permissions |
-| 5th       | `drwxrwxrwx` | read permissions for the group |
+| 5th       | drwx***r***wxrwx | read permissions for the group |
 |           |               | `r` if the group has read permissions |
 |           |               | `-` if the group lacks read permissions |
-| 6th       | `drwxrwxrwx` | write permissions for the group |
+| 6th       | drwxr***w***xrwx | write permissions for the group |
 |           |               | `w` if the group has write permissions |
 |           |               | `-` if the group lacks write permissions |
-| 7th       | `drwxrwxrwx` | execute permissions for the group |
+| 7th       | drwxrw***x***rwx | execute permissions for the group |
 |           |               | `x` if the group has execute permissions |
 |           |               | `-` if the group lacks execute permissions |
-| 8th       | `drwxrwxrwx` | read permissions for other |
+| 8th       | drwxrwx***r***wx | read permissions for other |
 |           |               | `r` if the other owner type has read permissions |
 |           |               | `-` if the other owner type lacks read permissions |
-| 9th       | `drwxrwxrwx` | write permissions for other |
+| 9th       | drwxrwxr***w***x | write permissions for other |
 |           |               | `w` if the other owner type has write permissions |
 |           |               | `-` if the other owner type lacks write permissions |
-| 10th      | `drwxrwxrwx` | execute permissions for other |
+| 10th      | drwxrwxrw***x*** | execute permissions for other |
 |           |               | `x` if the other owner type has execute permissions |
 |           |               | `-` if the other owner type lacks execute permissions |
 
