@@ -195,8 +195,14 @@ The following table reviews how each character is used within the first argument
 
 *Note*: When there are permission changes to more than one owner type, commas are needed to separate changes for each owner type. You should not add spaces after those commas.
 
-**The principle of least privilege in action**
+### **The principle of least privilege in action**
 
 As a security analyst, you may encounter a situation like this one: There's a file called `bonuses.txt` within a `compensation` directory. The owner of this file is a member of the Human Resources department with a username of `hrrep1`. It has been decided that `hrrep1` needs access to this file. But, since this file contains confidential information, no one else in the `hr` group needs access.
 
-You run `ls -l` to check the permissions of files in
+You run `ls -l` to check the permissions of files in the `compensation` directory and discover that the permissions for `bonuses.txt` are `-rw-rw----`. The group owner type has read and write permissions that do not align with the principle of least privilege.
+
+To remedy the situation, you input `chmod g-rw bonuses.txt`. Now, only the user who needs to access this file to carry out their job responsibilities can access this file.
+
+**Key takeaways**
+
+Managing directory and file permissions may be a part of your work as a security analyst. Using `ls` with the `-l` and `-la` options allows you to investigate directory and file permissions. Using `chmod` allows you to change user permissions and ensure they are aligned with the principle of least privilege.
