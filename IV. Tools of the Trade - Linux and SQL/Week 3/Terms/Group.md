@@ -1,0 +1,1 @@
+- **[[Group]]**: Users are organized into groups, and files or directories can be assigned to specific groups.

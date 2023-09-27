@@ -1,0 +1,3 @@
+- **[[Execute Permissions]]**:
+  - On Files: Permits executing the file if it's an executable program.
+  - On Directories: Allows users to enter the directory and access its files.

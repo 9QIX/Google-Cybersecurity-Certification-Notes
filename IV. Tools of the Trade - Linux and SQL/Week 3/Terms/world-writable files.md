@@ -1,0 +1,1 @@
+Inappropriate permissions, such as **[[world-writable files]]**, can pose significant security risks.

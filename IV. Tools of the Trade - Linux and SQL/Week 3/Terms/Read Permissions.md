@@ -1,0 +1,3 @@
+- **[[Read Permissions]]**:
+  - On Files: Allows reading the contents of the file.
+  - On Directories: Permits listing the files within the directory.

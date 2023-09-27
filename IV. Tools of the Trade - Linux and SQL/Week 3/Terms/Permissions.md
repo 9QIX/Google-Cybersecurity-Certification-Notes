@@ -1,0 +1,1 @@
+**[[Permissions]]** in Linux refer to the type of access granted to files and directories. They are related to authorization, which controls access to specific resources in the system.
