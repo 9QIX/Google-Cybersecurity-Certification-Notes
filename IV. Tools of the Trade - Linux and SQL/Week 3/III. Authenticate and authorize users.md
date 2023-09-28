@@ -204,3 +204,45 @@ To remedy the situation, you input `chmod g-rw bonuses.txt`. Now, only the user 
 **Key takeaways**
 
 Managing directory and file permissions may be a part of your work as a security analyst. Using `ls` with the `-l` and `-la` options allows you to investigate directory and file permissions. Using `chmod` allows you to change user permissions and ensure they are aligned with the principle of least privilege.
+
+Certainly! Here's a detailed explanation of the concepts and commands covered in the video on adding and deleting users in Linux:
+
+# Add and delete users
+
+**Introduction to Authentication and User Management**
+- **Authentication**: Authentication is the process of verifying a user's identity within the system.
+- **Access Control**: Not all users should have unrestricted access to a system, and managing user access is essential for security.
+
+**Adding and Deleting Users**
+- **Adding Users**: New users may join an organization or be assigned to specific groups due to organizational changes.
+- **Deleting Users**: Users who leave the organization or change roles should be removed from the system to ensure they no longer have access.
+
+**Root User and Superuser Privileges**
+- **Root User**: The root user, also known as the superuser, has elevated privileges to modify the system. Regular users have limitations.
+- **Temporary Root Access**: Users who need to perform specific tasks can be temporarily granted root privileges.
+
+**Issues with Using the Root User**
+- **Security Risks**: The root account is a prime target for malicious attacks, and it's recommended to disable root logins.
+- **Risk of Mistakes**: Running commands as root can lead to irreversible mistakes, such as accidental file deletions.
+- **Accountability**: Running as root can make it challenging to track which user performed specific actions.
+
+**Introduction to `sudo`**
+- **`sudo`**: `sudo` (super-user-do) is a command that temporarily grants elevated permissions to specific users.
+- **Controlled Approach**: `sudo` offers controlled access to root privileges, unlike running every command as root.
+- **Password Authentication**: When using `sudo`, users are prompted to enter their own password.
+
+**Adding Users with `useradd`**
+- **`useradd`**: `useradd` is a command that adds a user to the system.
+- **Prerequisites**: Only the root user or users with sudo privileges can use `useradd`.
+- **Example**: To add a user named "salesrep7," use the command `sudo useradd salesrep7`.
+
+**Deleting Users with `userdel`**
+- **`userdel`**: `userdel` is a command to delete a user from the system.
+- **Root Permissions**: Similar to `useradd`, `userdel` requires root or sudo permissions.
+- **Example**: To delete a user, use the command `sudo userdel username`.
+
+**Responsibility and Security**
+- **Use of `sudo`**: Users with `sudo` privileges must exercise responsible use to maintain a secure system.
+- **Secure Practices**: Special privileges should be used judiciously to prevent security breaches or unintended damage to the system.
+
+Learning how to add and delete users, especially when combined with `sudo` for controlled access, is crucial for maintaining a secure and organized Linux system as a security analyst.
