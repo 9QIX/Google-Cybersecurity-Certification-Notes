@@ -1,0 +1,1 @@
+**[[Deleting Users]]**: Users who leave the organization or change roles should be removed from the system to ensure they no longer have access.

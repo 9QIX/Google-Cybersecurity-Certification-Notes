@@ -1,0 +1,1 @@
+**[[Access Control]]**: Not all users should have unrestricted access to a system, and managing user access is essential for security.

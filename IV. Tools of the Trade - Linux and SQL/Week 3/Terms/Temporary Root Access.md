@@ -1,0 +1,1 @@
+**[[Temporary Root Access]]**: Users who need to perform specific tasks can be temporarily granted root privileges.

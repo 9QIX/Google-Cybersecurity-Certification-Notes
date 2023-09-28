@@ -1,0 +1,1 @@
+**[[Root User]]**: The root user, also known as the superuser, has elevated privileges to modify the system. Regular users have limitations.
