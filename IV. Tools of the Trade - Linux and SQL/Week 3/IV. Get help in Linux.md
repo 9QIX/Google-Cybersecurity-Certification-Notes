@@ -29,3 +29,31 @@ In this video, you've learned about the valuable resources available to Linux us
 - **In-Command Support**: The video hints at an upcoming topic where you'll learn how to access support directly from the Linux command line itself.
 
 These resources serve as valuable aids for Linux users, providing a vast pool of knowledge and solutions for various Linux-related tasks and challenges.
+
+Certainly! Here's a detailed explanation of the concepts and commands covered in the video on using Linux command-line resources:
+
+# Man pages within the shell
+
+
+**Leveraging the Linux Community**
+- **Community Support**: Linux has a vast and active online community that shares information and solutions.
+- **Online Resources**: Users can find answers and solutions to everyday tasks by searching online forums and documentation.
+- **Troubleshooting Aid**: Troubleshooting tasks become easier when learning from others' experiences.
+  
+**The `man` Command**
+- **`man` Command**: `man` stands for "manual" and provides detailed documentation for other Linux commands.
+- **In-Depth Information**: It offers comprehensive explanations, including command descriptions, usage, and available options.
+- **Usage**: To access the manual for a specific command, use `man <command_name>`.
+
+**The `whatis` Command**
+- **`whatis` Command**: `whatis` provides a quick one-line description of a specified command.
+- **Quick Reference**: It helps users get a brief overview of a command's purpose without displaying extensive details.
+- **Usage**: To get a short description of a command, use `whatis <command_name>`.
+
+**The `apropos` Command**
+- **`apropos` Command**: `apropos` searches manual page descriptions for commands containing a specified keyword or string.
+- **Search Assistance**: It's useful when you're not sure which command to use for a particular task.
+- **Filtering Results**: By using the `-a` option and an additional string, you can narrow down search results.
+- **Usage**: To search for commands containing specific keywords, use `apropos <search_string>` or `apropos -a <string1> <string2>`.
+
+These commands provide valuable resources for Linux users to access documentation, find quick references, and search for commands effectively. As a security analyst, utilizing these resources helps in gaining proficiency in Linux command-line operations.
