@@ -1,0 +1,2 @@
+### **[[apropos]]**
+- `apropos`: The `apropos` command searches the man page descriptions for a specified string. Man pages can be lengthy and difficult to search through if you’re looking for a specific keyword. To use `apropos`, enter the keyword after `apropos`. You can also include the `-a` option to search for multiple words. For example, entering `apropos -a graph editor` outputs man pages that contain both the words “graph" and "editor” in their descriptions.

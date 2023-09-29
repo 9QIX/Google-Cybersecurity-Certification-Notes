@@ -1,0 +1,2 @@
+### **[[man]]**
+- `man`: The `man` command displays information on other commands and how they work. It’s short for “manual.” To search for information on a command, enter the command after `man`. For example, entering `man chown` returns detailed information about `chown`, including the various options you can use with it. The output of the `man` command is also called a “man page.”
