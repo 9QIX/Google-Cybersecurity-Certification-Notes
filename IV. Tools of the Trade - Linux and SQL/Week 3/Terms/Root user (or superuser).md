@@ -1,0 +1,1 @@
+**[[Root user (or superuser)]]**: A user with elevated privileges to modify the system.
