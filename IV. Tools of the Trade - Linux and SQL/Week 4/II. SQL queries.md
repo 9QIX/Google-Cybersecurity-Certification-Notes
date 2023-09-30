@@ -337,14 +337,12 @@ Note: You should place the semicolon (`;`) where the query ends. When you add a 
 ## Filtering for patterns
 
 You can also filter based on a pattern. For example, you can identify entries that start or end with a certain character or characters. Filtering for a pattern requires incorporating two more elements into your `WHERE` clause:
-
 - a wildcard
 - the `LIKE` operator
 
-**Wildcards**
+### **[[Wildcards]]**
 
 A wildcard is a special character that can be substituted with any other character. Two of the most useful wildcards are the percentage sign (`%`) and the underscore (`_`):
-
 - The percentage sign substitutes for any number of other characters.
 - The underscore symbol only substitutes for one other character.
 
@@ -362,7 +360,7 @@ Pattern | Results that could be returned
 `'%a%'` | `Again`, `back`, `a`
 `'_a_'` | `Car`, `ban`, `ea7`
 
-**LIKE**
+### **[[LIKE]]**
 
 To apply wildcards to the filter, you need to use the `LIKE` operator instead of an equals sign (=). `LIKE` is used with `WHERE` to search for a pattern in a column.
 
@@ -386,3 +384,6 @@ WHERE state LIKE 'N_';
 
 This returns all the records with state abbreviations that follow this pattern.
 
+## Key takeaways
+
+Filters are important when refining what your query returns. WHERE is an essential keyword for adding a filter to your query.  You can also filter for patterns by combining the LIKE operator with the percentage sign (`%`) and the underscore (`_`) wildcards.
