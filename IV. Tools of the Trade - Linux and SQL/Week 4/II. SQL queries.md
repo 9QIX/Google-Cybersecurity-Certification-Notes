@@ -124,7 +124,7 @@ ORDER BY city DESC;
 
 Now, cities at the end of the alphabet are listed first.
 
-**Sorting based on multiple columns**
+### **Sorting based on multiple columns**
 
 You can also choose multiple columns to order by. For example, you might first choose the `country` and then the `city` column. SQL then sorts the output by country, and for rows with the same country, it sorts them based on city. You can run this to explore how SQL displays this:
 
@@ -134,6 +134,6 @@ FROM customers
 ORDER BY country, city;
 ```
 
-**Key takeaways**
+## Key takeaways
 
 `SELECT` and `FROM` are important keywords in SQL queries. You use `SELECT` to indicate which columns to return and `FROM` to indicate which table to query. You can also include `ORDER BY` in your query to organize the output. These foundational SQL skills will support you as you move into more advanced queries.
