@@ -32,3 +32,24 @@ In this video, we performed our first SQL query to retrieve specific data from a
 Executing SQL queries is a foundational skill for security analysts, enabling them to extract valuable information from databases for analysis and decision-making.
 
 # Query a database
+
+Previously, you explored how SQL is an important tool in the world of cybersecurity and is essential when querying databases. You examined a few basic SQL queries and keywords used to extract needed information from a database. In this reading, you'll review those basic SQL queries and learn a new keyword that will help you organize your output. You'll also learn about the Chinook database, which this course uses for queries in readings and quizzes.
+
+**Basic SQL query**
+There are two essential keywords in any SQL query: `SELECT` and `FROM`. You will use these keywords every time you want to query a SQL database. Using them together helps SQL identify what data you need from a database and the table you are returning it from.
+
+The video demonstrated this SQL query:
+
+```sql
+SELECT employee_id, device_id
+FROM employees;
+```
+
+In readings and quizzes, this course uses a sample database called the Chinook database to run queries. The Chinook database includes data that might be created at a digital media company. A security analyst employed by this company might need to query this data. For example, the database contains eleven tables, including an `employees` table, a `customers` table, and an `invoices` table. These tables include data such as names and addresses.
+
+As an example, you can run this query to return data from the `customers` table of the Chinook database:
+
+```sql
+SELECT *
+FROM customers;
+```
