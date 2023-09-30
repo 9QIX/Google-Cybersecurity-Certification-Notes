@@ -233,7 +233,36 @@ ORDER BY country, city;
 ```
 Output:
 ```sql
-
+|------------|---------------------|----------------|
+| CustomerId | City                | Country        |
+|------------|---------------------|----------------|
+| 33         | Yellowknife         | Canada         |
+| 32         | Winnipeg            | Canada         |
+| 49         | Warsaw              | Poland         |
+| 7          | Vienne              | Austria        |
+| 15         | Vancouver           | Canada         |
+| 27         | Tucson              | USA            |
+| 29         | Toronto             | Canada         |
+| 10         | São Paulo           | Brazil         |
+| 11         | São Paulo           | Brazil         |
+| 1          | São José dos Campos | Brazil         |
+| 2          | Stuttgart           | Germany        |
+| 51         | Stockholm           | Sweden         |
+| 55         | Sidney              | Australia      |
+| 57         | Santiago            | Chile          |
+| 28         | Salt Lake City      | USA            |
+| 47         | Rome                | Italy          |
+| 12         | Rio de Janeiro      | Brazil         |
+| 21         | Reno                | USA            |
+| 17         | Redmond             | USA            |
+| 5          | Prague              | Czech Republic |
+| 6          | Prague              | Czech Republic |
+| 35         | Porto               | Portugal       |
+| 39         | Paris               | France         |
+| 40         | Paris               | France         |
+| 30         | Ottawa              | Canada         |
+|------------|---------------------|----------------|
+(Output limit exceeded, 25 of 59 total rows shown)
 ```
 
 ## Key takeaways
