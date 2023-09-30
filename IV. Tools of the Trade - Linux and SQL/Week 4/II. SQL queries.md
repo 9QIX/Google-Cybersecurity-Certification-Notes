@@ -115,7 +115,7 @@ SELECT *
 FROM customers;
 ```
 
-When you want to end the query here, you put a semicolon (;) at the end to tell SQL that this is the entire query.
+When you want to end the query here, you put a semicolon (`;`) at the end to tell SQL that this is the entire query.
 
 *Note*: Line breaks are not necessary in SQL queries, but are often used to make the query easier to understand. If you prefer, you can also write the previous query on one line as:
 
@@ -269,3 +269,38 @@ Output:
 ## Key takeaways
 
 `SELECT` and `FROM` are important keywords in SQL queries. You use `SELECT` to indicate which columns to return and `FROM` to indicate which table to query. You can also include `ORDER BY` in your query to organize the output. These foundational SQL skills will support you as you move into more advanced queries.
+
+In this video, we learned how to apply filters to SQL queries to retrieve specific data from a database. Here's a summary of the key concepts covered:
+
+### **Filtering Data in SQL**
+
+**Understanding Filtering**
+- Filtering in SQL involves selecting data that matches specific conditions, allowing us to choose only the data we want.
+- Analogous to selecting specific items (e.g., fresh apples) from a set (e.g., a fruit cart).
+
+**SQL Operators**
+- Operators are symbols or keywords used to represent operations in SQL.
+- Example: The equal to operator (=) is used to compare values for equality.
+- Operators allow us to define conditions for filtering data.
+
+**WHERE Clause**
+- The WHERE clause is used to apply conditions for filtering in SQL queries.
+- It follows the SELECT and FROM clauses and specifies the condition based on operators.
+- For example, to find all login attempts made in the United States, we use the condition "country = 'USA'" in the WHERE clause.
+
+**Filtering Based on Patterns with LIKE**
+- We can use the LIKE operator to filter data based on patterns rather than exact matches.
+- The percentage sign (%) acts as a wildcard for unspecified characters.
+- For example, "LIKE 'East%'" would match all values in the "office" column that start with "East."
+
+**Using the LIKE Operator**
+- The LIKE operator is used in a WHERE clause to search for patterns in a column.
+- It allows for more flexible filtering based on partial matches.
+- For example, "WHERE country LIKE 'US%'" would match entries with "US" or "USA" in the "country" column.
+
+**Conclusion**
+- Filtering data in SQL enables us to retrieve specific records that meet defined criteria.
+- We can use operators and conditions to create precise filters, allowing for tailored data retrieval.
+- SQL's filtering capabilities are valuable for security analysts to extract relevant information from databases efficiently.
+
+By mastering filtering in SQL, security analysts can efficiently extract and analyze data from databases to support various security-related tasks and decisions.
