@@ -275,21 +275,21 @@ In this video, we learned how to apply filters to SQL queries to retrieve specif
 ### **Filtering Data in SQL**
 
 **Understanding Filtering**
-- Filtering in SQL involves selecting data that matches specific conditions, allowing us to choose only the data we want.
+- **[[Filtering]]** in SQL involves selecting data that matches specific conditions, allowing us to choose only the data we want.
 - Analogous to selecting specific items (e.g., fresh apples) from a set (e.g., a fruit cart).
 
 **SQL Operators**
-- Operators are symbols or keywords used to represent operations in SQL.
+- **[[Operators]]** are symbols or keywords used to represent operations in SQL.
 - Example: The equal to operator (=) is used to compare values for equality.
 - Operators allow us to define conditions for filtering data.
 
 **WHERE Clause**
-- The WHERE clause is used to apply conditions for filtering in SQL queries.
+- The **[[WHERE]]** clause is used to apply conditions for filtering in SQL queries.
 - It follows the SELECT and FROM clauses and specifies the condition based on operators.
 - For example, to find all login attempts made in the United States, we use the condition "country = 'USA'" in the WHERE clause.
 
 **Filtering Based on Patterns with LIKE**
-- We can use the LIKE operator to filter data based on patterns rather than exact matches.
+- We can use the **[[LIKE]]** operator to filter data based on patterns rather than exact matches.
 - The percentage sign (%) acts as a wildcard for unspecified characters.
 - For example, "LIKE 'East%'" would match all values in the "office" column that start with "East."
 
