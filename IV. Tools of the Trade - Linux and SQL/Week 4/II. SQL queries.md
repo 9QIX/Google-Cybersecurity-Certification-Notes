@@ -53,8 +53,39 @@ As an example, you can run this query to return data from the `customers` table 
 SELECT customerid, city, country
 FROM customers;
 ```
-
-Here's the provided text with the SQL keywords and code formatted for better readability in Markdown:
+Output:
+```sql
+|------------|---------------------|----------------|
+| CustomerId | City                | Country        |
+|------------|---------------------|----------------|
+| 1          | São José dos Campos | Brazil         |
+| 2          | Stuttgart           | Germany        |
+| 3          | Montréal            | Canada         |
+| 4          | Oslo                | Norway         |
+| 5          | Prague              | Czech Republic |
+| 6          | Prague              | Czech Republic |
+| 7          | Vienna              | Austria        |
+| 8          | Brussels            | Belgium        |
+| 9          | Copenhagen          | Denmark        |
+| 10         | São Paulo           | Brazil         |
+| 11         | São Paulo           | Brazil         |
+| 12         | Rio de Janeiro      | Brazil         |
+| 13         | Brasília            | Brazil         |
+| 14         | Edmonton            | Canada         |
+| 15         | Vancouver           | Canada         |
+| 16         | Mountain View       | USA            |
+| 17         | Redmond             | USA            |
+| 18         | New York            | USA            |
+| 19         | Cupertino           | USA            |
+| 20         | Mountain View       | USA            |
+| 21         | Reno                | USA            |
+| 22         | Orlando             | USA            |
+| 23         | Boston              | USA            |
+| 24         | Chicago             | USA            |
+| 25         | Madison             | USA            |
+|------------|---------------------|----------------|
+(Output limit exceeded, 25 of 59 total rows shown)
+```
 
 ### **[[SELECT]]**
 
