@@ -7,8 +7,8 @@ In this video, we performed our first SQL query to retrieve specific data from a
 
 **SQL Keywords: SELECT and FROM**
 - SQL queries involve two essential keywords: SELECT and FROM.
-- SELECT is used to specify which columns to return in the query result.
-- FROM indicates the table from which the data should be retrieved.
+- **[[SELECT]]** is used to specify which columns to return in the query result.
+- **[[FROM]]** indicates the table from which the data should be retrieved.
 
 **SQL Syntax and Case Sensitivity**
 - SQL keywords are not case-sensitive, but they are commonly written in uppercase for clarity.
@@ -30,3 +30,5 @@ In this video, we performed our first SQL query to retrieve specific data from a
 - In the next video, we will explore adding filters to our SQL queries for more precise data retrieval.
 
 Executing SQL queries is a foundational skill for security analysts, enabling them to extract valuable information from databases for analysis and decision-making.
+
+# Query a database
