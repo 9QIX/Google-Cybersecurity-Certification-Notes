@@ -36,6 +36,7 @@ Executing SQL queries is a foundational skill for security analysts, enabling th
 Previously, you explored how SQL is an important tool in the world of cybersecurity and is essential when querying databases. You examined a few basic SQL queries and keywords used to extract needed information from a database. In this reading, you'll review those basic SQL queries and learn a new keyword that will help you organize your output. You'll also learn about the `Chinook` database, which this course uses for queries in readings and quizzes.
 
 ## Basic SQL query
+
 There are two essential keywords in any SQL query: `SELECT` and `FROM`. You will use these keywords every time you want to query a SQL database. Using them together helps SQL identify what data you need from a database and the table you are returning it from.
 
 The video demonstrated this SQL query:
@@ -89,7 +90,7 @@ Output:
 
 ### **[[SELECT]]**
 
-The `SELECT` keyword indicates which columns to return. For example, you can return the `customerid` column from the Chinook database with:
+The `SELECT` keyword indicates which columns to return. For example, you can return the `customerid` column from the `Chinook` database with:
 
 ```sql
 SELECT customerid
@@ -101,7 +102,7 @@ You can also select multiple columns by separating them with a comma. For exampl
 SELECT customerid, city
 ```
 
-If you want to return all columns in a table, you can follow the `SELECT` keyword with an asterisk (*). The first line in the query will be `SELECT *`.
+If you want to return all columns in a table, you can follow the `SELECT` keyword with an asterisk (`*`). The first line in the query will be `SELECT *`.
 
 *Note*: Although the tables you're querying in this course are relatively small, using `SELECT *` may not be advisable when working with large databases and tables; in those cases, the final output may be difficult to understand and might be slow to run.
 
