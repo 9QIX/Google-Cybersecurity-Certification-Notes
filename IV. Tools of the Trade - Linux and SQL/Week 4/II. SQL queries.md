@@ -382,7 +382,13 @@ WHERE title LIKE 'IT%';
 ```
 Output:
 ```sql
-
+|------------|-----------|-------------|-------------------------|
+|  LastName  | FirstName |    Title    |         Email           |
+|------------|-----------|-------------|-------------------------|
+|  Mitchell  |  Michael  | IT Manager  | michael@chinookcorp.com |
+|    King    |   Robert  |   IT Staff  | robert@chinookcorp.com  |
+|  Callahan  |   Laura   |   IT Staff  | laura@chinookcorp.com   |
+|------------|-----------|-------------|-------------------------|
 ```
 
 This query returns all records with values in the title column that start with the pattern of 'IT'. This means both 'IT Staff' and 'IT Manager' are returned.
@@ -393,6 +399,17 @@ As another example, if you want to search through the invoices table to find all
 SELECT firstname, lastname, state, country
 FROM customers
 WHERE state LIKE 'N_';
+```
+Output:
+```sql
+|-----------|----------|-------|---------|
+| FirstName | LastName | State | Country |
+|-----------|----------|-------|---------|
+| Michelle  | Brooks   | NY    | USA     |
+| Kathy     | Chase    | NV    | USA     |
+| Martha    | Silk     | NS    | Canada  |
+| Ellie     | Sullivan | NT    | Canada  |
+|-----------|----------|-------|---------|
 ```
 
 This returns all the records with state abbreviations that follow this pattern.
