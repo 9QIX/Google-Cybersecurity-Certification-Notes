@@ -73,7 +73,7 @@ After this, any commands typed in the command line will be directed to SQL inste
 
 Although both Linux and SQL allow you to filter through data, there are some differences that affect which one you should choose.
 
-### **Structure**
+### **[[Structure]]**
 
 SQL offers a lot more structure than Linux, which is more free-form and not as tidy.
 
@@ -81,7 +81,7 @@ For example, if you wanted to access a log of employee log-in attempts, SQL woul
 
 In terms of structure, SQL provides results that are more easily readable and that can be adjusted more quickly than when using Linux.
 
-### **Joining tables**
+### **[[Joining tables]]**
 
 Some security-related decisions require information from different tables. SQL allows the analyst to join multiple tables together when returning data. Linux doesn’t have that same functionality; it doesn’t allow data to be connected to other information on your computer. This is more restrictive for an analyst going through security logs.
 
