@@ -329,6 +329,15 @@ SELECT firstname, lastname, title, email
 FROM employees
 WHERE title = 'IT Staff';
 ```
+Output:
+```sql
+|-----------|----------|-----------|------------------------|
+| FirstName | LastName |   Title   |         Email          |
+|-----------|----------|-----------|------------------------|
+|  Robert   |   King   | IT Staff  | robert@chinookcorp.com |
+|   Laura   | Callahan | IT Staff  | laura@chinookcorp.com  |
+|-----------|----------|-----------|------------------------|
+```
 
 Rather than returning all records in the employees table, this `WHERE` clause instructs SQL to return only those that contain 'IT Staff' in the title column. It uses the equals sign (=) operator to set this condition.
 
@@ -343,8 +352,8 @@ You can also filter based on a pattern. For example, you can identify entries th
 ### **[[Wildcards]]**
 
 A wildcard is a special character that can be substituted with any other character. Two of the most useful wildcards are the percentage sign (`%`) and the underscore (`_`):
-- The percentage sign substitutes for any number of other characters.
-- The underscore symbol only substitutes for one other character.
+- The **percentage sign** substitutes for any number of other characters.
+- The **underscore symbol** only substitutes for one other character.
 
 These wildcards can be placed after a string, before a string, or in both locations depending on the pattern you’re filtering for.
 
@@ -370,6 +379,10 @@ For instance, if you want to email employees with a title of either 'IT Staff' o
 SELECT lastname, firstname, title, email
 FROM employees
 WHERE title LIKE 'IT%';
+```
+Output:
+```sql
+
 ```
 
 This query returns all records with values in the title column that start with the pattern of 'IT'. This means both 'IT Staff' and 'IT Manager' are returned.
