@@ -1,0 +1,1 @@
+**[[Foreign Key]]**: A foreign key is a column in one table that serves as a primary key in another table. It connects two tables and can have empty values or duplicates.

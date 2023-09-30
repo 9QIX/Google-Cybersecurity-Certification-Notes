@@ -1,0 +1,1 @@
+**[[Primary Key]]**: A primary key is a column with unique values for each row, ensuring that no duplicates or empty values exist. It uniquely identifies each row in the table.
