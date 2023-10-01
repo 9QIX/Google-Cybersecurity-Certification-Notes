@@ -135,3 +135,75 @@ In this video, we explored how to use SQL operators, specifically the AND, OR, a
 - Venn diagrams can be used to visualize the effects of operators. The filled-in portion outside a circle represents data that does not match the condition within that circle.
 
 By understanding how to use these operators in SQL queries, security analysts can create more complex and precise filters to retrieve the specific data needed for their analysis. In the next video, we'll explore how to combine and join tables together to further expand the types of queries that can be performed.
+
+# More on filters with AND, OR, and NOT
+
+Previously, you explored how to add filters containing the `AND`, `OR`, and `NOT` operators to your SQL queries. In this reading, you'll continue to explore how these operators can help you refine your queries.
+
+## Logical operators
+
+`AND`, `OR`, and `NOT` allow you to filter your queries to return the specific information that will help you in your work as a security analyst. They are all considered **[[logical operators]]**.
+
+### [[AND]]
+
+First, `AND` is used to filter on two conditions. `AND` specifies that both conditions must be met simultaneously. 
+
+As an example, a cybersecurity concern might affect only those customer accounts that meet both the condition of being handled by a support representative with an ID of 5 and the condition of being located in the USA. To find the names and emails of those specific customers, you should place the two conditions on either side of the `AND` operator in the `WHERE` clause:
+
+```sql
+SELECT firstname, lastname, email, country, supportrepid
+FROM customers
+WHERE supportrepid = 5 AND country = 'USA';
+```
+Output:
+```sql
+|-----------|----------|-------------------------|---------|--------------
+| FirstName | LastName | Email                   | Country | SupportRepId 
+|-----------|----------|-------------------------|---------|--------------
+| Jack      | Smith    | jacksmith@microsoft.com | USA     |            5 
+| Kathy     | Chase    | kachase@hotmail.com     | USA     |            5 
+| Victor    | Stevens  | vstevens@yahoo.com      | USA     |            5 
+| Julia     | Barnett  | jubarnett@gmail.com     | USA     |            5 |-----------|----------|-------------------------|---------|--------------
+```
+
+Running this query returns four rows of information about the customers. You can use this information to contact them about the security concern.
+
+### OR
+
+The `OR` operator also connects two conditions, but `OR` specifies that either condition can be met. It returns results where the first condition, the second condition, or both are met.
+
+For example, if you are responsible for finding all customers who are either in the USA or Canada so that you can communicate information about a security update, you can use an `OR` operator to find all the needed records. As the following query demonstrates, you should place the two conditions on either side of the `OR` operator in the `WHERE` clause:
+
+```sql
+SELECT firstname, lastname, email, country
+FROM customers
+WHERE country = 'Canada' OR country = 'USA';
+```
+Output:
+```sql
++-----------+------------+--------------------------+---------+
+| FirstName | LastName   | Email                    | Country |
++-----------+------------+--------------------------+---------+
+| François  | Tremblay   | ftremblay@gmail.com      | Canada  |
+| Mark      | Philips    | mphilips12@shaw.ca       | Canada  |
+| Jennifer  | Peterson   | jenniferp@rogers.ca      | Canada  |
+| Frank     | Harris     | fharris@google.com       | USA     |
+| Jack      | Smith      | jacksmith@microsoft.com  | USA     |
+| Michelle  | Brooks     | michelleb@aol.com        | USA     |
+| Tim       | Goyer      | tgoyer@apple.com         | USA     |
+| Dan       | Miller     | dmiller@comcast.com      | USA     |
+| Kathy     | Chase      | kachase@hotmail.com      | USA     |
+| Heather   | Leacock    | hleacock@gmail.com       | USA     |
+| John      | Gordon     | johngordon22@yahoo.com   | USA     |
+| Frank     | Ralston    | fralston@gmail.com       | USA     |
+| Victor    | Stevens    | vstevens@yahoo.com       | USA     |
+| Richard   | Cunningham | ricunningham@hotmail.com | USA     |
+| Patrick   | Gray       | patrick.gray@aol.com     | USA     |
+| Julia     | Barnett    | jubarnett@gmail.com      | USA     |
+| Robert    | Brown      | robbrown@shaw.ca         | Canada  |
+| Edward    | Francis    | edfrancis@yachoo.ca      | Canada  |
+| Martha    | Silk       | marthasilk@gmail.com     | Canada  |
+| Aaron     | Mitchell   | aaronmitchell@yahoo.ca   | Canada  |
+| Ellie     | Sullivan   | ellie.sullivan@shaw.ca   | Canada  |
++-----------+------------+--------------------------+---------+
+```
