@@ -1,4 +1,3 @@
-Certainly, here are the key terms with **[[ ]]** around them:
 
 **A**
 - **[[Absolute file path]]**: The full file path, which starts from the root
