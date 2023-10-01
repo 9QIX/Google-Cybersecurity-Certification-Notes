@@ -212,7 +212,7 @@ The query returns all customers in either the US or Canada.
 
 **Note:** Even if both conditions are based on the same column, you need to write out both full conditions. For instance, the query in the previous example contains the filter `WHERE country = 'Canada' OR country = 'USA'`.
 
-### NOT
+### [[NOT]]
 
 Unlike the previous two operators, the `NOT` operator only works on a single condition, and not on multiple ones. The `NOT` operator negates a condition. This means that SQL returns all records that don’t match the condition specified in the query. 
 
@@ -301,6 +301,6 @@ Output:
 (Output limit exceeded, 25 of 38 total rows shown)
 ```
 
-**## Key takeaways
+## Key takeaways
 
 Logical operators allow you to create more specific filters that target the security-related information you need. The AND operator requires two conditions to be true simultaneously, the OR operator requires either one or both conditions to be true, and the NOT operator negates a condition. Logical operators can be combined together to create even more specific queries.
