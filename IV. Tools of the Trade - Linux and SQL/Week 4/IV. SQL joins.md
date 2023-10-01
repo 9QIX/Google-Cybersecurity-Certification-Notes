@@ -198,7 +198,6 @@ Output:
 | NULL   | NULL      | NULL        | NULL       | NULL              | 105          | Ubuntu           |
 | NULL   | NULL      | NULL        | NULL       | NULL              | 106          | Windows 10       |
 +--------+-----------+-------------+------------+-------------------+--------------+-------------------+
-
 ```
 
 The results of a `FULL OUTER JOIN` query include all records from both tables. Similar to `INNER JOIN`, the order of tables does not change the results of the query.
