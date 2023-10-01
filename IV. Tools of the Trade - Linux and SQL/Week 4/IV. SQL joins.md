@@ -60,7 +60,7 @@ It only returns the rows where there is a match, but like other types of joins, 
 
 *Note: If a column exists in both of the tables, it is returned twice when `SELECT *` is used.*
 
-### The syntax of an inner join
+### The syntax of an **[[inner join]]**
 
 To write a query using `INNER JOIN`, you can use the following syntax:
 
@@ -96,24 +96,23 @@ INNER JOIN machines ON employees.device_id = machines.device_id;
 Output:
 ```sql
 +------------+-------------------+------------+
-| username   | operating_system | device_id  |
+| username   | operating_system  | device_id  |
 +------------+-------------------+------------+
-| johndoe    | Windows 10       | 101        |
-| janesmith  | macOS            | 102        |
-| alicej     | Windows 7        | 103        |
-| bobbrown   | Linux            | 104        |
-| carolw     | Windows 10       | 105        |
+| johndoe    | Windows 10        | 101        |
+| janesmith  | macOS             | 102        |
+| alicej     | Windows 7         | 103        |
+| bobbrown   | Linux             | 104        |
+| carolw     | Windows 10        | 105        |
 +------------+-------------------+------------+
-
 ```
 
 *Note: In the example query, `username` and `operating_system` only appear in one of the two tables, so they are written with just the column name. On the other hand, because `device_id` appears in both tables, it's necessary to indicate which one to return by specifying both the table and column name (`employees.device_id`).*
 
-**Outer joins**
+## Outer joins
 
 Outer joins expand what is returned from a join. Each type of outer join returns all rows from either one table or both tables.
 
-**Left joins**
+### Left joins
 
 When joining two tables, `LEFT JOIN` returns all the records of the first table, but only returns rows of the second table that match on a specified column.
 
