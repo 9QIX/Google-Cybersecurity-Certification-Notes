@@ -1,0 +1,1 @@
+In other words, the `>` operator is exclusive and the `>=` operator is inclusive.  An **[[exclusive operator]]** is an operator that does not include the value of comparison. An **[[inclusive operator]]** is an operator that includes the value of comparison.
