@@ -1,0 +1,1 @@
+- [[Wildcard]]: A special character that can be substituted with any other character.

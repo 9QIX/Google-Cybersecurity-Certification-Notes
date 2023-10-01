@@ -1,0 +1,1 @@
+ [[Operator]]: A symbol or keyword that represents an operation.
