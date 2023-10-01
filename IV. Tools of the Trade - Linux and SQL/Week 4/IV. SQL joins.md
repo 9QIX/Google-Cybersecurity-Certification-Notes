@@ -108,13 +108,15 @@ Output:
 
 *Note: In the example query, `username` and `operating_system` only appear in one of the two tables, so they are written with just the column name. On the other hand, because `device_id` appears in both tables, it's necessary to indicate which one to return by specifying both the table and column name (`employees.device_id`).*
 
-## Outer joins
+## [[Outer joins]]
 
 Outer joins expand what is returned from a join. Each type of outer join returns all rows from either one table or both tables.
 
-### Left joins
+### [[Left joins]]
 
 When joining two tables, `LEFT JOIN` returns all the records of the first table, but only returns rows of the second table that match on a specified column.
+
+![Diagramme de Venn proposant deux cercles étiquetés « left table » et « right table ». Le cercle de gauche et l'intersection s](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GsYCwSiOSMmymUqPUAQJ5w_5beed7e470c546fca088a83dfd9465f1_CS_R-080_Left-joins.png?expiry=1696291200000&hmac=x98Kto2G8eszozN5R-9MTdu9R4K9ORWbnGwuk5Y-WGA)
 
 **The syntax for using LEFT JOIN is demonstrated in the following query:**
 
@@ -123,12 +125,26 @@ SELECT *
 FROM employees
 LEFT JOIN machines ON employees.device_id = machines.device_id;
 ```
+Output:
+```sql
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| emp_id | username  | first_name  | last_name  | email             | device_id    | operating_system |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| 1      | johndoe   | John        | Doe        | johndoe@email.com | 101          | Windows 10       |
+| 2      | janesmith | Jane        | Smith      | janesmith@email.com| 102          | macOS            |
+| 3      | alicej    | Alice       | Johnson    | alicej@email.com  | 103          | Windows 7        |
+| 4      | bobbrown  | Bob         | Brown      | bobbrown@email.com| 104          | Linux            |
+| 5      | carolw    | Carol       | White      | carolw@email.com  | NULL         | NULL              |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+```
 
 As with all joins, you should specify the first or left table as the table that comes after `FROM` and the second or right table as the table that comes after `LEFT JOIN`. In the example query, because `employees` is the left table, all of its records are returned. Only records that match on the `device_id` column are returned from the right table, `machines`.
 
-**Right joins**
+### [[Right joins]]
 
 When joining two tables, `RIGHT JOIN` returns all of the records of the second table, but only returns rows from the first table that match on a specified column.
+
+![Diagramme de Venn proposant 2 cercles étiquetés « left table » et « right table ». Le cercle de droite et l'intersection s](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YHXRMOLiQheppUjthmM5yQ_cfb18a8315e34357bd1299f7eefafcf1_CS_R-080_Right-joins.png?expiry=1696291200000&hmac=RKesx0CmOOdsk8gO_mW3qwterQJ1JpVew8Z0eSS30-8)
 
 **The following query demonstrates the syntax for RIGHT JOIN:**
 
@@ -142,9 +158,11 @@ RIGHT JOIN machines ON employees.device_id = machines.device_id;
 
 *Note: You can use `LEFT JOIN` and `RIGHT JOIN` and return the exact same results if you use the tables in reverse order. All that you have to do is switch the order of the tables that appear before and after the keyword used for the join, and you will have swapped the left and right tables.*
 
-**Full outer joins**
+### [[Full outer joins]]
 
 `FULL OUTER JOIN` returns all records from both tables. You can think of it as a way of completely merging two tables.
+
+![Diagramme de Venn proposant 2 cercles étiquetés « left table » et « right table ». Les deux cercles sont en surbrillance.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/oRzF__GaTqSGMmUqXKbSrQ_92db9841a00244c2aa214e60bb07f1f1_CS_R-080_FULL-OUTER-JOIN.png?expiry=1696291200000&hmac=V-PFH71FklEvPZ2Dy0NjoaQpTVhR4qfcuLDHkoL4Sys)
 
 **You can review the syntax for using FULL OUTER JOIN in the following query:**
 
@@ -152,6 +170,21 @@ RIGHT JOIN machines ON employees.device_id = machines.device_id;
 SELECT *
 FROM employees
 FULL OUTER JOIN machines ON employees.device_id = machines.device_id;
+```
+Output:
+```sql
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| emp_id | username  | first_name  | last_name  | email             | device_id    | operating_system |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| 1      | johndoe   | John        | Doe        | johndoe@email.com | 101          | Windows 10       |
+| 2      | janesmith | Jane        | Smith      | janesmith@email.com| 102          | macOS            |
+| 3      | alicej    | Alice       | Johnson    | alicej@email.com  | 103          | Windows 7        |
+| 4      | bobbrown  | Bob         | Brown      | bobbrown@email.com| 104          | Linux            |
+| 5      | carolw    | Carol       | White      | carolw@email.com  | NULL         | NULL              |
+| NULL   | NULL      | NULL        | NULL       | NULL              | 105          | Ubuntu           |
+| NULL   | NULL      | NULL        | NULL       | NULL              | 106          | Windows 10       |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+
 ```
 
 The results of a `FULL OUTER JOIN` query include all records from both tables. Similar to `INNER JOIN`, the order of tables does not change the results of the query.
