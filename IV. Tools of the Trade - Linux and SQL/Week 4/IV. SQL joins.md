@@ -24,8 +24,6 @@
 
 By using INNER JOIN and understanding how to join tables in SQL, security analysts can combine data from multiple sources to perform more comprehensive analyses and gain deeper insights into their systems and networks. In the next video, we'll explore other types of joins that don't require an exact match between columns.
 
-In this video, we learned about different types of SQL joins, including LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN, which are used to combine data from two tables based on specified columns. Here's a summary of what we covered:
-
 ### **Types of SQL Joins**
 
 **[[LEFT JOIN]]:**
