@@ -14,7 +14,7 @@
 - In the example, an INNER JOIN between the `employees` and `machines` tables used the `employee_id` column as the common column to retrieve data from both tables.
 
 **Handling NULL Values**
-- NULL represents missing or unknown data in SQL.
+- **[[NULL]]** represents missing or unknown data in SQL.
 - In some cases, there may be NULL values, such as machines not assigned to any employee.
 - INNER JOIN does not include rows with NULL values in the joined column.
 
@@ -23,3 +23,31 @@
 - The common column should be fully qualified with the table name, such as `employees.employee_id` and `machines.employee_id`.
 
 By using INNER JOIN and understanding how to join tables in SQL, security analysts can combine data from multiple sources to perform more comprehensive analyses and gain deeper insights into their systems and networks. In the next video, we'll explore other types of joins that don't require an exact match between columns.
+
+In this video, we learned about different types of SQL joins, including LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN, which are used to combine data from two tables based on specified columns. Here's a summary of what we covered:
+
+### **Types of SQL Joins**
+
+**[[LEFT JOIN]]:**
+- Returns all records from the left (first) table and only the matching rows from the right (second) table.
+- If there is no match in the right table, columns from the right table contain NULL values.
+- Useful for situations where you want all records from one table and only matching records from the other.
+
+**[[RIGHT JOIN]]:**
+- Returns all records from the right (second) table and only the matching rows from the left (first) table.
+- If there is no match in the left table, columns from the left table contain NULL values.
+- Less commonly used than LEFT JOIN but still valuable when needed.
+
+**[[FULL OUTER JOIN]]:**
+- Returns all records from both tables.
+- If there is no match in one of the tables, columns from that table contain NULL values in the result.
+- Useful when you want all records from both tables and need to see unmatched rows from both.
+
+**Syntax for Joins:**
+- To implement LEFT JOIN, RIGHT JOIN, or FULL OUTER JOIN in SQL, you use the same structure as INNER JOIN.
+- Use the keywords LEFT JOIN, RIGHT JOIN, or FULL OUTER JOIN to specify the type of join.
+- The specified column(s) for the join condition determine which rows are matched.
+
+As a security analyst, understanding these different types of joins allows you to combine and analyze data from multiple sources effectively. Depending on your specific analytical needs, you can choose the appropriate type of join to retrieve the desired results.
+
+With this knowledge of joins, you've now covered important concepts that will be valuable in your role as a security analyst using SQL. Thank you for following along in this video!
