@@ -153,6 +153,20 @@ SELECT *
 FROM employees
 RIGHT JOIN machines ON employees.device_id = machines.device_id;
 ```
+Output:
+```sql
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| emp_id | username  | first_name  | last_name  | email             | device_id    | operating_system |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+| 1      | johndoe   | John        | Doe        | johndoe@email.com | 101          | Windows 10       |
+| 2      | janesmith | Jane        | Smith      | janesmith@email.com| 102          | macOS            |
+| 3      | alicej    | Alice       | Johnson    | alicej@email.com  | 103          | Windows 7        |
+| 4      | bobbrown  | Bob         | Brown      | bobbrown@email.com| 104          | Linux            |
+| NULL   | NULL      | NULL        | NULL       | NULL              | 105          | Ubuntu           |
+| NULL   | NULL      | NULL        | NULL       | NULL              | 106          | Windows 10       |
++--------+-----------+-------------+------------+-------------------+--------------+-------------------+
+
+```
 
 `RIGHT JOIN` has the same syntax as `LEFT JOIN`, with the only difference being the keyword `RIGHT JOIN` instructs SQL to produce different output. The query returns all records from `machines`, which is the second or right table. Only matching records are returned from `employees`, which is the first or left table.
 
