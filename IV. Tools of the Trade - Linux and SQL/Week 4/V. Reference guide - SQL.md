@@ -256,7 +256,7 @@ The following SQL keywords are used to join tables.
 
 The following SQL keywords are aggregate functions and are helpful when performing calculations.
 
-- **AVG:** Returns a single number that represents the average of the numerical data in a column; placed after `SELECT`.
+- **[[AVG]]:** Returns a single number that represents the average of the numerical data in a column; placed after `SELECT`.
 
   ```sql
   SELECT AVG(height)
@@ -264,7 +264,7 @@ The following SQL keywords are aggregate functions and are helpful when performi
 
   Returns the average height from all records that have a value in the height column.
 
-- **COUNT:** Returns a single number that represents the number of records returned from a query; placed after `SELECT`.
+- **[[COUNT]]:** Returns a single number that represents the number of records returned from a query; placed after `SELECT`.
 
   ```
   SELECT COUNT(firstname)
@@ -272,7 +272,7 @@ The following SQL keywords are aggregate functions and are helpful when performi
 
   Returns the number of records that have a value in the firstname column.
 
-- **SUM:** Returns a single number that represents the sum of the numerical data in a column; placed after `SELECT`.
+- **[[SUM]]:** Returns a single number that represents the sum of the numerical data in a column; placed after `SELECT`.
 
   ```
   SELECT SUM(cost)
