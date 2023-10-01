@@ -201,3 +201,7 @@ Output:
 ```
 
 The results of a `FULL OUTER JOIN` query include all records from both tables. Similar to `INNER JOIN`, the order of tables does not change the results of the query.
+
+## Key takeaways
+
+When working in SQL, there are multiple ways to join tables.  All joins return the records that match on a specified column. `INNER JOIN` will return only these records. Outer joins also return all other records from one or both of the tables. `LEFT JOIN` returns all records from the first or left table, `RIGHT JOIN` returns all records from the second or right table, and `FULL OUTER JOIN` returns all records from both tables.
