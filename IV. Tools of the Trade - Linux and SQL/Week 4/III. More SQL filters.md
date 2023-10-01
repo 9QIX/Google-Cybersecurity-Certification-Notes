@@ -1,12 +1,10 @@
-In this video, we learned about working with different data types (string, numeric, and date and time) in SQL queries and applying filters to these data types. Here's a summary of the key concepts covered:
-
-### **Working with Data Types in SQL**
+# Filter dates and numbers
 
 **Common Data Types in Databases**
 - Databases often contain data of three common types: string, numeric, and date and time.
-- **String Data**: Consists of an ordered sequence of characters, including numbers, letters, or symbols (e.g., user names like "analyst10").
-- **Numeric Data**: Comprises numbers that can be used in mathematical operations (e.g., counts of log-in attempts).
-- **Date and Time Data**: Represents dates and/or times (e.g., timestamps for log-in attempts or patch dates).
+- **[[String Data]]**: Consists of an ordered sequence of characters, including numbers, letters, or symbols (e.g., user names like "analyst10").
+- **[[Numeric Data]]**: Comprises numbers that can be used in mathematical operations (e.g., counts of log-in attempts).
+- **[[Date and Time Data]]**: Represents dates and/or times (e.g., timestamps for log-in attempts or patch dates).
 
 **Using Numeric and Date/Time Data in Queries**
 - As a security analyst, you may need to query numeric data (e.g., for counts) or date and time data (e.g., timestamps).
@@ -28,3 +26,4 @@ In this video, we learned about working with different data types (string, numer
 - To find patches installed between March 1st, 2021, and September 1st, 2021: `SELECT * FROM machines WHERE OS_patch_date BETWEEN '2021-03-01' AND '2021-09-01';`
 
 By understanding how to work with different data types and apply filters in SQL queries, security analysts can extract valuable insights from databases, enabling them to make informed decisions and identify potential security threats. In the next video, we'll explore how to use multiple conditions in a single query to further refine data retrieval.
+
