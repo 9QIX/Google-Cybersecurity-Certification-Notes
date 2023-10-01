@@ -1,21 +1,25 @@
 # Join tables in SQL
 
-**Using the AND Operator**
-- The **AND operator** in SQL specifies that both conditions must be met simultaneously.
-- It is used when you want to select data that satisfies multiple conditions at the same time.
-- For example, to find machines with both Operating System 1 and Email Client 1, you would use the AND operator: `SELECT * FROM machines WHERE operating_system = 'OS 1' AND email_client = 'Email Client 1';`
+**Table Column Qualification**
+- When working with multiple tables in SQL, you need to specify which table a column belongs to by using the syntax `table_name.column_name`.
+- This is necessary when the same column name exists in more than one table.
 
-**Using the OR Operator**
-- The **OR operator** in SQL specifies that either condition can be met.
-- It is used when you want to select data that satisfies at least one of the conditions.
-- For example, to find machines with either Operating System 1 or Operating System 3 (for patching purposes), you would use the OR operator: `SELECT * FROM machines WHERE operating_system = 'OS 1' OR operating_system = 'OS 3';`
+**Primary Key and Foreign Key**
+- To join tables, you typically use a primary key in one table and a foreign key in another table.
+- The primary key uniquely identifies each row in a table, and the foreign key in another table establishes a link between them.
 
-**Using the NOT Operator**
-- The **NOT operator** in SQL negates a condition, selecting data that does not match the specified condition.
-- It is used when you want to exclude certain data from the results.
-- For example, to update all devices in your company except those running Operating System 3, you would use the NOT operator: `SELECT * FROM machines WHERE NOT operating_system = 'OS 3';`
+**INNER JOIN**
+- An **[[INNER JOIN]]** in SQL returns rows that have matching values in a specified column in both tables.
+- It combines rows from two tables based on a common column.
+- In the example, an INNER JOIN between the `employees` and `machines` tables used the `employee_id` column as the common column to retrieve data from both tables.
 
-**Visualizing Operators with Venn Diagrams**
-- Venn diagrams can be used to visualize the effects of operators. The filled-in portion outside a circle represents data that does not match the condition within that circle.
+**Handling NULL Values**
+- NULL represents missing or unknown data in SQL.
+- In some cases, there may be NULL values, such as machines not assigned to any employee.
+- INNER JOIN does not include rows with NULL values in the joined column.
 
-By understanding how to use these operators in SQL queries, security analysts can create more complex and precise filters to retrieve the specific data needed for their analysis. In the next video, we'll explore how to combine and join tables together to further expand the types of queries that can be performed.
+**Querying Multiple Tables**
+- When performing an INNER JOIN, specify the tables to join, the common column, and the columns you want to retrieve in the SELECT statement.
+- The common column should be fully qualified with the table name, such as `employees.employee_id` and `machines.employee_id`.
+
+By using INNER JOIN and understanding how to join tables in SQL, security analysts can combine data from multiple sources to perform more comprehensive analyses and gain deeper insights into their systems and networks. In the next video, we'll explore other types of joins that don't require an exact match between columns.
