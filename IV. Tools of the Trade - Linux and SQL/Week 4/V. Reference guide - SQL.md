@@ -12,53 +12,53 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **[[ORDER BY]]:** Sequences the records returned by a query based on a specified column or columns.
 
-  ```
+  ```sql
   ORDER BY department
   ```
 
   Sorts the records in ascending order by the department column.
 
-  ```
+  ```sql
   ORDER BY city DESC
   ```
 
   Sorts the records in descending order by the city column.
 
-  ```
+  ```sql
   ORDER BY country, city
   ```
 
   Sorts the records in ascending order by multiple columns; first sorts the output by country, and for records with the same country, sorts them based on city.
 
-- **SELECT:** Indicates which columns to return; required to perform a query.
+- **[[SELECT]]:** Indicates which columns to return; required to perform a query.
 
-  ```
+  ```sql
   SELECT employee_id
   ```
 
   Returns the employee_id column.
 
-  ```
+  ```sql
   SELECT *
   ```
 
   Returns all columns in a table.
 
-**Apply filters to SQL queries**
+# Apply filters to SQL queries
 
 `WHERE` and the other SQL keywords and characters are used when applying filters to SQL queries.
 
-- **AND:** Specifies that both conditions must be met simultaneously in a filter that contains two conditions.
+- **[[AND]]:** Specifies that both conditions must be met simultaneously in a filter that contains two conditions.
 
-  ```
+  ```sql
   WHERE region = 5 AND country = 'USA'
   ```
 
   Returns all records with a value in the region column of 5 and a value in the country column of 'USA'.
 
-- **BETWEEN:** Filters for numbers or dates within a range.
+- **[[BETWEEN]]:** Filters for numbers or dates within a range.
 
-  ```
+  ```sql
   WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01'
   ```
 
@@ -66,7 +66,7 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **= (equal to):** Used in filters to return only the records that contain a value in a specified column that is equal to a particular value.
 
-  ```
+  ```sql
   WHERE birthdate = '1980-05-15'
   ```
 
@@ -74,7 +74,7 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **> (greater than):** Used in filters to return only the records that contain a value in a specified column that is greater than a particular value.
 
-  ```
+  ```sql
   WHERE birthdate > '1970-01-01'
   ```
 
@@ -82,7 +82,7 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **>= (greater than or equal to):** Used in filters to return only the records that contain a value in a specified column that is greater than or equal to a particular value.
 
-  ```
+  ```sql
   WHERE birthdate >= '1965-06-30'
   ```
 
@@ -90,7 +90,7 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **< (less than):** Used in filters to return only the records that contain a value in a specified column that is less than a particular value.
 
-  ```
+  ```sql
   WHERE date < '2023-01-31'
   ```
 
@@ -98,29 +98,29 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **<= (less than or equal to):** Used in filters to return only the records that contain a value in a specified column that is less than or equal to a particular value.
 
-  ```
+  ```sql
   WHERE date <= '2020-12-31'
   ```
 
   Returns all records with a value in the date column that is less than or equal to '2020-12-31'.
 
-- **LIKE:** Used with `WHERE` to search for a pattern in a column.
+- **[[LIKE]]:** Used with `WHERE` to search for a pattern in a column.
 
-  ```
+  ```sql
   WHERE title LIKE 'IT%'
   ```
 
   Returns all records with a value in the title column that matches the pattern of 'IT%'.
 
-  ```
+  ```sql
   WHERE state LIKE 'N_'
   ```
 
   Returns all records with a value in the state column that matches the pattern of 'N_'.
 
-- **NOT:** Negates a condition.
+- **[[NOT]]:** Negates a condition.
 
-  ```
+  ```sql
   WHERE NOT country = 'Mexico'
   ```
 
@@ -128,21 +128,21 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **<> (not equal to):** Used in filters to return only the records that contain a value in a specified column that is not equal to a particular value; `!=` also used as an operator for not equal to.
 
-  ```
+  ```sql
   WHERE date <> '2023-02-28'
   ```
 
   Returns all records with a value in the date column that is not equal to '2023-02-28'.
 
-  ```
+  ```sql
   WHERE date != '2023-05-14'
   ```
 
   Returns all records with a value in the date column that is not equal to '2023-05-14'.
 
-- **OR:** Specifies that either condition can be met in a filter that contains two conditions.
+- **[[OR]]:** Specifies that either condition can be met in a filter that contains two conditions.
 
-  ```
+  ```sql
   WHERE country = 'Canada' OR country = 'USA'
   ```
 
@@ -150,19 +150,19 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **% (percentage sign):** Substitutes for any number of other characters; used as a wildcard in a pattern that follows `LIKE`.
 
-  ```
+  ```sql
   'a%'
   ```
 
   Represents a pattern consisting of the letter 'a' followed by zero or more characters.
 
-  ```
+  ```sql
   '%a'
   ```
 
   Represents a pattern consisting of zero or more characters followed by the letter 'a'.
 
-  ```
+  ```sql
   '%a%'
   ```
 
@@ -170,31 +170,31 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
 - **_ (underscore):** Substitutes for one other character; used as a wildcard in a pattern that follows `LIKE`.
 
-  ```
+  ```sql
   'a_'
   ```
 
   Represents a pattern consisting of the letter 'a' followed by one character.
 
-  ```
+  ```sql
   'a__'
   ```
 
   Represents a pattern consisting of the letter 'a' followed by two characters.
 
-  ```
+  ```sql
   '_a'
   ```
 
   Represents a pattern consisting of one character followed by the letter 'a'.
 
-  ```
+  ```sql
   '_a_'
   ```
 
   Represents a pattern consisting of the letter 'a' surrounded by one character on each side.
 
-- **WHERE:** Indicates the condition for a filter; must be used to begin a filter.
+- **[[WHERE]]:** Indicates the condition for a filter; must be used to begin a filter.
 
   ```
   WHERE title = 'IT Staff'
@@ -202,13 +202,13 @@ The `SELECT`, `FROM`, and `ORDER BY` keywords are used when retrieving informati
 
   Returns all records that contain 'IT Staff' in the title column; `WHERE` is placed before the condition of `title = 'IT Staff'` to create the filter.
 
-**Join tables**
+# Join tables
 
 The following SQL keywords are used to join tables.
 
-- **FULL OUTER JOIN:** Returns all records from both tables; the column used to join the tables is specified following `FULL OUTER JOIN` with syntax that includes `ON` and equal to (`=`).
+- **[[FULL OUTER JOIN]]:** Returns all records from both tables; the column used to join the tables is specified following `FULL OUTER JOIN` with syntax that includes `ON` and equal to (=).
 
-  ```
+  ```sql
   SELECT *
   FROM employees
   FULL OUTER JOIN machines ON employees.device_id =
@@ -217,11 +217,11 @@ The following SQL keywords are used to join tables.
 
   Returns all records from the employees table and machines table; uses the device_id column to join the two tables.
 
-- **INNER JOIN:** Returns records matching on a specified column that exists in more than one table; the column used to join the tables
+- **[[INNER JOIN]]:** Returns records matching on a specified column that exists in more than one table; the column used to join the tables
 
- is specified following `INNER JOIN` with syntax that includes `ON` and equal to (`=`).
+ is specified following `INNER JOIN` with syntax that includes `ON` and equal to (=).
 
-  ```
+  ```sql
   SELECT *
   FROM employees
   INNER JOIN machines ON employees.device_id =
@@ -230,9 +230,9 @@ The following SQL keywords are used to join tables.
 
   Returns all records that have a value in the device_id column in the employees table that matches a value in the device_id column in the machines table.
 
-- **LEFT JOIN:** Returns all the records of the first table, but only returns records of the second table that match on a specified column; the first (or left) table appears directly after the keyword `FROM`; the column used to join the tables is specified following `LEFT JOIN` with syntax that includes `ON` and equal to (`=`).
+- **[[LEFT JOIN]]:** Returns all the records of the first table, but only returns records of the second table that match on a specified column; the first (or left) table appears directly after the keyword `FROM`; the column used to join the tables is specified following `LEFT JOIN` with syntax that includes `ON` and equal to =).
 
-  ```
+  ```sql
   SELECT *
   FROM employees
   LEFT JOIN machines ON employees.device_id =
@@ -241,9 +241,9 @@ The following SQL keywords are used to join tables.
 
   Returns all records from the employees table but only the records from the machines table that have a value in the device_id column that matches a value in the device_id column in the employees table.
 
-- **RIGHT JOIN:** Returns all of the records of the second table, but only returns records from the first table that match on a specified column; the second (or right) table appears directly after the `RIGHT JOIN` keyword; the column used to join the tables is specified following `RIGHT JOIN` with syntax that includes `ON` and equal to (`=`).
+- **[[RIGHT JOIN]]:** Returns all of the records of the second table, but only returns records from the first table that match on a specified column; the second (or right) table appears directly after the `RIGHT JOIN` keyword; the column used to join the tables is specified following `RIGHT JOIN` with syntax that includes `ON` and equal to (=).
 
-  ```
+  ```sql
   SELECT *
   FROM employees
   RIGHT JOIN machines ON employees.device_id =
@@ -252,13 +252,13 @@ The following SQL keywords are used to join tables.
 
   Returns all records from the machines table but only the records from the employees table that have a value in the device_id column that matches a value in the device_id column in the machines table.
 
-**Perform calculations**
+# Perform calculations
 
 The following SQL keywords are aggregate functions and are helpful when performing calculations.
 
 - **AVG:** Returns a single number that represents the average of the numerical data in a column; placed after `SELECT`.
 
-  ```
+  ```sql
   SELECT AVG(height)
   ```
 
