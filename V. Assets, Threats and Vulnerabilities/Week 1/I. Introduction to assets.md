@@ -122,7 +122,7 @@ By embracing the principles of asset management, organizations can proactively s
 
 # Common classification requirements
 
-**Asset management** is the process of tracking assets and the risks that affect them. The idea behind this process is simple: you can only protect what you know you have. 
+**[[Asset management]]** is the process of tracking assets and the risks that affect them. The idea behind this process is simple: you can only protect what you know you have. 
 
 Previously, you learned that identifying, tracking, and classifying assets are all important parts of asset management. In this reading, you’ll learn more about the purpose and benefits of asset classification, including common classification levels.
 
@@ -135,41 +135,29 @@ Keeping assets safe requires a workable system that helps businesses operate smo
 Organizations protect a variety of different assets. Some examples might include:
 
 - Digital assets such as customer data or financial records.
-    
 - Information systems that process data, like networks or software.
-    
 - Physical assets which can include facilities, equipment, or supplies.
-    
 - Intangible assets such as brand reputation or intellectual property.
-    
 
-Regardless of its type, every asset should be classified and accounted for. As you may recall, **asset classification** is the practice of labeling assets based on sensitivity and importance to an organization. Determining each of those two factors varies, but the sensitivity and importance of an asset typically requires knowing the following:
+Regardless of its type, every asset should be classified and accounted for. As you may recall, **[[asset classification]]** is the practice of labeling assets based on sensitivity and importance to an organization. Determining each of those two factors varies, but the sensitivity and importance of an asset typically requires knowing the following:
 
 - What you have
-    
 - Where it is
-    
 - Who owns it, and
-    
 - How important it is
-    
 
 An organization that classifies its assets does so based on these characteristics. Doing so helps them determine the sensitivity and value of an asset.
 
 ## Common asset classifications
 
-Asset classification helps organizations implement an effective risk management strategy. It also helps them prioritize security resources, reduce IT costs, and stay in compliance with legal regulations.
+[[Asset classification]] helps organizations implement an effective risk management strategy. It also helps them prioritize security resources, reduce IT costs, and stay in compliance with legal regulations.
 
 The most common classification scheme is: restricted, confidential, internal-only, and public.
 
-- **Restricted** is the highest level. This category is reserved for incredibly sensitive assets,  like need-to-know information.
-    
-- **Confidential** refers to assets whose disclosure may lead to a significant negative impact on an organization.
-    
-- **Internal-only** describes assets that are available to employees and business partners.
-    
-- **Public** is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
-    
+- **[[Restricted]]** is the highest level. This category is reserved for incredibly sensitive assets,  like need-to-know information.
+- **[[Confidential]]** refers to assets whose disclosure may lead to a significant negative impact on an organization.
+- **[[Internal-only]]** describes assets that are available to employees and business partners.
+- **[[Public]]** is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
 
 How this scheme is applied depends greatly on the characteristics of an asset. It might surprise you to learn that identifying an asset’s owner is sometimes the most complicated characteristic to determine.
 
