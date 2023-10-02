@@ -16,3 +16,10 @@ There are different factors that can affect the likelihood of a risk to an organ
 - **[[Legacy Systems]]:** Old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
 - **[[Multiparty Risk]]:** Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
 - **[[Software Compliance or Licensing]]:** Software that is not updated or in compliance, or patches that are not installed in a timely manner
+
+
+**Understanding [[Risk]] in Security**
+- Security teams play a crucial role in addressing risks. In security, risk encompasses anything that can impact the confidentiality, integrity, or availability of an asset.
+- The core focus of security practitioners is to uphold the three pillars of the CIA triad: Confidentiality, Integrity, and Availability.
+- Security risk planning serves as the initial step in safeguarding these foundational principles.
+
