@@ -85,3 +85,37 @@ For example, a _technical_ vulnerability can be misconfigured software that migh
 ## Key takeaways
 
 Risks, threats, and vulnerabilities have very specific meanings in security. Knowing the relationship between them can help you build a strong foundation as you grow essential skills and knowledge as a security analyst. This can help you gain credibility in the industry by demonstrating that you have working knowledge of the field. And it signals to your future colleagues that you’re a member of the global security community.
+
+In this section, we explored the crucial concept of asset management in the realm of security planning. Here's a structured summary of the key concepts covered:
+
+# Security starts with asset classification
+
+**Analogies to Everyday Life**
+- Everyone has experienced the stress of misplacing something important, like keys or a phone. Similarly, organizations face challenges related to safeguarding their valuable assets.
+
+**Scenario: Joining a Security Team**
+- Imagine joining the security team of a growing online retailer tasked with protecting numerous assets as the company expands. Each team member is responsible for safeguarding ten assets, highlighting the significance of asset management.
+
+**The Role of Asset Management**
+- Asset management is the process of tracking assets and assessing the associated risks. It forms the foundation of all security plans.
+- Assets encompass a wide array of items perceived as valuable to an organization, including equipment, data, and intellectual property.
+
+**Importance of Asset Inventory**
+- Asset management commences with the creation of an asset inventory, a comprehensive catalog of assets requiring protection.
+- An accurate asset inventory is pivotal in preventing the loss or misplacement of valuable assets and enables efficient resource allocation.
+- It serves as a proactive tool, providing alerts if assets go missing, similar to a shepherd tracking their sheep.
+
+**Asset Classification**
+- Asset classification is the practice of categorizing assets based on their sensitivity and importance to an organization.
+- Many organizations adopt a basic classification scheme, which typically includes the following categories:
+  - **Public**: Assets that can be shared with anyone.
+  - **Internal-Only**: Assets shareable within the organization but not externally.
+  - **Confidential**: Assets restricted to specific project teams.
+  - **Restricted**: Highly sensitive assets, considered "need-to-know," such as intellectual property or sensitive personal data.
+- Classification governs whether an asset can be disclosed, altered, or destroyed, providing clear guidelines for asset handling.
+
+**Continuous Asset Management**
+- Asset management is an ongoing process that helps identify potential security gaps and risks.
+- It ensures that all assets vital to an organization are well-tracked and protected, forming an integral part of security planning.
+
+By embracing the principles of asset management, organizations can proactively secure their valuable assets, mitigate risks, and maintain the confidentiality, integrity, and availability of critical information and systems.
