@@ -34,15 +34,15 @@ When security events occur, you’ll need to work in close coordination with oth
 
 Previously, you learned about three foundational security terms:
 
-- **Risk**: Anything that can impact the confidentiality, integrity, or availability of an asset
-- **Threat**: Any circumstance or event that can negatively impact assets
-- **Vulnerability**: A weakness that can be exploited by a threat
+- **[[Risk]]**: Anything that can impact the confidentiality, integrity, or availability of an asset
+- **[[Threat]]**: Any circumstance or event that can negatively impact assets
+- **[[Vulnerability]]**: A weakness that can be exploited by a threat
 
 These words tend to be used interchangeably in everyday life. But in security, they are used to describe very specific concepts when responding to and planning for security events. In this reading, you’ll identify what each term represents and how they are related.
 
 ## Security risk
 
-Security plans are all about how an organization defines risk. However, this definition can vary widely by organization. As you may recall, a **risk** is anything that can impact the confidentiality, integrity, or availability of an asset. Since organizations have particular assets that they value, they tend to differ in how they interpret and approach risk.
+Security plans are all about how an organization defines risk. However, this definition can vary widely by organization. As you may recall, a **[[risk]]** is anything that can impact the confidentiality, integrity, or availability of an asset. Since organizations have particular assets that they value, they tend to differ in how they interpret and approach risk.
 
 One way to interpret risk is to consider the potential effects that negative events can have on a business. Another way to present this idea is with this calculation:
 
@@ -72,13 +72,13 @@ Let’s apply this to the risk of being late to work. A threat would be a nail p
 
 ### **Categories of threat**
 
-**Threats** are circumstances or events that can negatively impact assets. There are many different types of threats. However, they are commonly categorized as two types: intentional and unintentional.
+**[[Threats]]** are circumstances or events that can negatively impact assets. There are many different types of threats. However, they are commonly categorized as two types: **intentional** and **unintentional**.
 
 For example, an _intentional_ threat might be a malicious hacker who gains access to sensitive information by targeting a misconfigured application. An _unintentional_ threat might be an employee who holds the door open for an unknown person and grants them access to a restricted area. Either one can cause an event that must be responded to.
 
 ### **Categories of vulnerability**
 
-**Vulnerabilities** are weaknesses that can be exploited by threats. There’s a wide range of vulnerabilities, but they can be grouped into two categories: technical and human.
+**[[Vulnerabilities]]** are weaknesses that can be exploited by threats. There’s a wide range of vulnerabilities, but they can be grouped into two categories: **technical** and **human**.
 
 For example, a _technical_ vulnerability can be misconfigured software that might give an unauthorized person access to important data. A _human_ vulnerability can be a forgetful employee who loses their access card in a parking lot. Either one can lead to risk.
 

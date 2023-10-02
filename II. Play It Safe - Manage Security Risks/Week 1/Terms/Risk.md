@@ -23,3 +23,12 @@ There are different factors that can affect the likelihood of a risk to an organ
 - The core focus of security practitioners is to uphold the three pillars of the CIA triad: Confidentiality, Integrity, and Availability.
 - Security risk planning serves as the initial step in safeguarding these foundational principles.
 
+
+One way to interpret risk is to consider the potential effects that negative events can have on a business. Another way to present this idea is with this calculation:
+# **Likelihood x Impact = Risk**
+
+In general, we calculate risk in this field to help:
+- Prevent costly and disruptive events
+- Identify improvements that can be made to systems and processes
+- Determine which risks can be tolerated
+- Prioritize the critical assets that require attention
