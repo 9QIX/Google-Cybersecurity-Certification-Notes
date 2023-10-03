@@ -139,7 +139,7 @@ Organizations protect a variety of different assets. Some examples might include
 - Physical assets which can include facilities, equipment, or supplies.
 - Intangible assets such as brand reputation or intellectual property.
 
-Regardless of its type, every asset should be classified and accounted for. As you may recall, **[[asset classification]]** is the practice of labeling assets based on sensitivity and importance to an organization. Determining each of those two factors varies, but the sensitivity and importance of an asset typically requires knowing the following:
+Regardless of its type, every asset should be classified and accounted for. As you may recall, **[[Asset classification]]** is the practice of labeling assets based on sensitivity and importance to an organization. Determining each of those two factors varies, but the sensitivity and importance of an asset typically requires knowing the following:
 
 - What you have
 - Where it is
