@@ -154,7 +154,7 @@ An organization that classifies its assets does so based on these characteristic
 
 The most common classification scheme is: restricted, confidential, internal-only, and public.
 
-- **[[Restricted]]** is the highest level. This category is reserved for incredibly sensitive assets,  like need-to-know information.
+- **[[Restricted]]** is the highest level. This category is reserved for incredibly sensitive assets, like need-to-know information.
 - **[[Confidential]]** refers to assets whose disclosure may lead to a significant negative impact on an organization.
 - **[[Internal-only]]** describes assets that are available to employees and business partners.
 - **[[Public]]** is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
