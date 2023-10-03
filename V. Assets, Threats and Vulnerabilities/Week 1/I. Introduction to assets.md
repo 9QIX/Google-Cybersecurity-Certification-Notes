@@ -156,7 +156,7 @@ The most common classification scheme is: restricted, confidential, internal-onl
 
 - **[[Restricted]]** is the highest level. This category is reserved for incredibly sensitive assets, like need-to-know information.
 - **[[Confidential]]** refers to assets whose disclosure may lead to a significant negative impact on an organization.
-- **[[Internal-only]]** describes assets that are available to employees and business partners.
+- **[[Internal-Only]]** describes assets that are available to employees and business partners.
 - **[[Public]]** is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
 
 How this scheme is applied depends greatly on the characteristics of an asset. It might surprise you to learn that identifying an asset’s owner is sometimes the most complicated characteristic to determine.
