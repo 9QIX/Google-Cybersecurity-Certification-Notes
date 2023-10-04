@@ -90,10 +90,10 @@ In cloud security, this concept is known as the shared responsibility model. Cli
 
 All service providers do their best to deliver secure products to their customers. Much of their success depends on preventing breaches and how well they can protect sensitive information. However, since data is stored in the cloud and accessed over the internet, several challenges arise:
 
-- **Misconfiguration** is one of the biggest concerns. Customers of cloud-based services are responsible for configuring their own security environment. Oftentimes, they use out-of-the-box configurations that fail to address their specific security objectives.
-- **Cloud-native breaches** are more likely to occur due to misconfigured services.
-- **Monitoring access might be difficult** depending on the client and level of service.
-- **Meeting regulatory standards** is also a concern, particularly in industries that are required by law to follow specific requirements such as HIPAA, PCI DSS, and GDPR.
+- **[[Misconfiguration]]** is one of the biggest concerns. Customers of cloud-based services are responsible for configuring their own security environment. Oftentimes, they use out-of-the-box configurations that fail to address their specific security objectives.
+- **[[Cloud-native breaches]]** are more likely to occur due to misconfigured services.
+- **[[Monitoring access might be difficult]]** depending on the client and level of service.
+- **[[Meeting regulatory standards]]** is also a concern, particularly in industries that are required by law to follow specific requirements such as HIPAA, PCI DSS, and GDPR.
 
 Many other challenges exist besides these. As more businesses adopt cloud-based services, there’s a growing need for cloud security professionals to meet a growing number of risks. Burning Glass, a leading labor market analytics firm, [ranks cloud security among the most in-demand skills in cybersecurity](https://www.burning-glass.com/wp-content/uploads/2020/10/Fastest_Growing_Cybersecurity_Skills_Report.pdf). 
 
