@@ -1,0 +1,1 @@
+**[[Misconfiguration]]** is one of the biggest concerns. Customers of cloud-based services are responsible for configuring their own security environment. Oftentimes, they use out-of-the-box configurations that fail to address their specific security objectives.
