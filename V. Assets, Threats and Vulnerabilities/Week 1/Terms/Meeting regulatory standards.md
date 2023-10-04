@@ -1,0 +1,1 @@
+- **[[Meeting regulatory standards]]** is also a concern, particularly in industries that are required by law to follow specific requirements such as HIPAA, PCI DSS, and GDPR.
