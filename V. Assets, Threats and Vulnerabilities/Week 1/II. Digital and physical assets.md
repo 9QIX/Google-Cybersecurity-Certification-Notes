@@ -53,11 +53,11 @@ There are three main categories of cloud-based services:
 - Platform as a service (PaaS)
 - Infrastructure as a service (IaaS)
 
-### **Software as a service (SaaS)**
+### **[[Software as a service (SaaS)]]**
 
 SaaS refers to front-end applications that users access via a web browser. The service providers host, manage, and maintain all of the back-end systems for those applications. Common examples of SaaS services include applications like Gmail™ email service, Slack, and Zoom software.
 
-### **Platform as a service (PaaS)**
+### **[[Platform as a service (PaaS)]]**
 
 PaaS refers to back-end application development tools that clients can access online. Developers use these resources to write code and build, manage, and deploy their own apps. Meanwhile, the cloud service providers host and maintain the back-end hardware and software that the apps use to operate. Some examples of PaaS services include Google App Engine™ platform, Heroku®, and VMware Cloud Foundry. 
 
