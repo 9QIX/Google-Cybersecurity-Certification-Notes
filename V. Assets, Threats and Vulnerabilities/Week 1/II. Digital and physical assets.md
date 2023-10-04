@@ -9,7 +9,7 @@
 - Effective data protection depends on the state of the data and its location.
 
 **States of Data and Information Security**
-- Information security (InfoSec) is the practice of safeguarding data in all its states from unauthorized access.
+- [[Information security (InfoSec)]] is the practice of safeguarding data in all its states from unauthorized access.
 - Security teams focus on protecting data in three primary states:
   1. **[[Data in Use]]**: Data actively being accessed by one or more users, such as reading an email or working on a document.
   2. **[[Data in Transit]]**: Data in the process of moving from one point to another, like sending an email or file over the internet.
