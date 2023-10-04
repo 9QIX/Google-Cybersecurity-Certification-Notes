@@ -7,12 +7,11 @@ Welcome to my repository for notes and resources related to the **Google Cyberse
 1. [Foundations of Cybersecurity](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/I.%20Foundations%20Of%20Cybersecurity) 🌐
 2. [Play It Safe: Manage Security Risks](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/II.%20Play%20It%20Safe%20-%20Manage%20Security%20Risks) 🔑
 3. [Connect and Protect: Networks and Network Security](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/III.%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security) 🌐🔌
-4. [Tools of the Trade: Linux and SQL]() 🛡️
-5. [Defensive Security]() 🛡️🛡️
-6. [Assets, Threats, and Vulnerabilities]() 🌍🔍
-7. [Sound the Alarm: Detection and Response]() 🚨🔥
-8. [Automate Cybersecurity Tasks with Python]() ⚙️🔐
-9. [Put It to Work: Prepare for Cybersecurity Jobs]() 🌟💡
+4. [Tools of the Trade: Linux and SQL](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/IV.%20Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL) 🛡️
+5. [Assets, Threats, and Vulnerabilities](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/V.%20Assets%2C%20Threats%20and%20Vulnerabilities) 🌍🔍
+6. [Sound the Alarm: Detection and Response]() 🚨🔥
+7. [Automate Cybersecurity Tasks with Python]() ⚙️🔐
+8. [Put It to Work: Prepare for Cybersecurity Jobs]() 🌟💡
 
 ## 📝 Notes
 
