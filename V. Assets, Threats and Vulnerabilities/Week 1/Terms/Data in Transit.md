@@ -1,0 +1,1 @@
+**[[Data in Transit]]**: Data in the process of moving from one point to another, like sending an email or file over the internet.
