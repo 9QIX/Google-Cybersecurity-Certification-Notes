@@ -1,0 +1,1 @@
+**[[Data in Use]]**: Data actively being accessed by one or more users, such as reading an email or working on a document.
