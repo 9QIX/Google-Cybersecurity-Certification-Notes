@@ -1,0 +1,1 @@
+[[Information security (InfoSec)]] is the practice of safeguarding data in all its states from unauthorized access.
