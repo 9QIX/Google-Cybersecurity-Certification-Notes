@@ -28,3 +28,4 @@
 - Understanding the three states of data (in use, in transit, at rest) enables security teams to assess risks and formulate asset management strategies for various scenarios.
 
 By comprehending the significance of data as a valuable asset and the different states in which data exists, security analysts can contribute to effective information security practices, ensuring the confidentiality, integrity, and availability of critical data.
+

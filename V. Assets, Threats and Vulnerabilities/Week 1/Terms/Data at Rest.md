@@ -1,0 +1,1 @@
+**[[Data at Rest]]**: Data that is not currently being accessed and is typically stored on physical devices, such as files stored on a laptop or server.
