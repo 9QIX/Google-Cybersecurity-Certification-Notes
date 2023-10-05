@@ -16,17 +16,17 @@
 - Factors contributing to risks can include physical damage, device malfunctions, attacks, human errors, and more.
 
 **Risk Mitigation Through Policies**
-- [[Policies]] within security plans are a set of rules aimed at reducing risk and protecting information.
+- **[[Policies]]** within security plans are a set of rules aimed at reducing risk and protecting information.
 - Policies establish the foundation of a security plan, providing guidance to individuals both inside and outside the organization.
 - They focus on the strategic aspects by defining the scope, objectives, and limitations of security measures.
 
 **Standards as Reference Points**
-- Standards in security serve as references to inform how policies should be implemented.
+- **[[Standards]]** in security serve as references to inform how policies should be implemented.
 - They create a point of reference for assessing the effectiveness of security measures.
-- For example, password management standards like those in NIST Special Publication 800-63B specify password length requirements.
+- For example, password management standards like those in **NIST Special Publication 800-63B** specify password length requirements.
 
 **Procedures for Actionable Guidance**
-- Procedures are step-by-step instructions for performing specific security tasks.
+- **[[Procedures]]** are step-by-step instructions for performing specific security tasks.
 - Organizations maintain various procedure documents used throughout the company, such as password creation or reset procedures.
 - Clear and actionable procedures promote accountability, consistency, and efficiency within the organization.
 
