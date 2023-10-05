@@ -1,0 +1,1 @@
+**[[The Core]]:** This core component identifies five main functions: identify, protect, detect, respond, and recover. It essentially serves as a security checklist.

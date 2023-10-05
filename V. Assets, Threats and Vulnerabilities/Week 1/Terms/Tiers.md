@@ -1,0 +1,1 @@
+**[[Tiers]]:** Tiers range from Level-1 (passive) to Level-4 (adaptive) and gauge the performance of each core function, helping organizations understand their security plan's effectiveness.
