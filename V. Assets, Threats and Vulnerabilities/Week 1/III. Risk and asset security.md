@@ -42,10 +42,15 @@ Understanding the structure and purpose of security plans, encompassing policies
 
 **[[Regulations]]:** These are rules established by government or authoritative bodies to oversee and control specific practices, typically on a larger scale to protect individuals and their information.
 
-**[[NIST Cybersecurity Framework]]:** This framework, provided by the National Institute of Standards and Technology (NIST), offers standards, guidelines, and best practices for managing cybersecurity risk.
+**[[NIST Cybersecurity Framework (CSF)]]:** This framework, provided by the National Institute of Standards and Technology (NIST), offers standards, guidelines, and best practices for managing cybersecurity risk.
 
 ## Components of NIST CSF
-- **[[The Core]]:** This core component identifies five main functions: identify, protect, detect, respond, and recover. It essentially serves as a security checklist.
+- **[[Core]]:** It essentially serves as a security checklist. This core component identifies five main functions: 
+	- **[[Identify]]:** Understand and manage cybersecurity risks.
+	- **[[Protect]]:** Implement safeguards for critical assets.
+	- **[[Detect]]:** Promptly identify cybersecurity events.
+	- **[[Respond]]:** Develop effective response strategies.
+	- **[[Recover]]:** Restore systems and data after incidents.
 - **[[Tiers]]:** Tiers range from Level-1 (passive) to Level-4 (adaptive) and gauge the performance of each core function, helping organizations understand their security plan's effectiveness.
 - **[[Profiles]]:** Profiles act like snapshots in time, providing insights into the current state of a security plan. They are useful for tracking changes and improvements.
 
