@@ -70,15 +70,15 @@ Originally released in 2014, NIST developed the Cybersecurity Framework to prote
 
 As you might recall, the framework consists of three main components: the _core_, _tiers_, and _profiles_. In the following sections, you'll learn more about each of these CSF components.
 
-### **Core**
+### **[[Core]]**
 
 The CSF core is a set of desired cybersecurity outcomes that help organizations customize their security plan. It consists of five functions, or parts: Identify, Protect, Detect, Respond, and Recover. These functions are commonly used as an informative reference to help organizations _identify_ their most important assets and _protect_ those assets with appropriate safeguards. The CSF core is also used to understand ways to _detect_ attacks and develop _response_ and _recovery_ plans should an attack happen.
 
-### **Tiers**
+### **[[Tiers]]**
 
 The CSF tiers are a way of measuring the sophistication of an organization's cybersecurity program. CSF tiers are measured on a scale of 1 to 4. Tier 1 is the lowest score, indicating that a limited set of security controls have been implemented. Overall, CSF tiers are used to assess an organization's security posture and identify areas for improvement.
 
-### **Profiles**
+### **[[Profiles]]**
 
 The CSF profiles are pre-made templates of the NIST CSF that are developed by a team of industry experts. CSF profiles are tailored to address the specific risks of an organization or industry. They are used to help organizations develop a baseline for their cybersecurity plans, or as a way of comparing their current cybersecurity posture to a specific industry standard.
 
@@ -95,13 +95,9 @@ Since its creation, many businesses have used the NIST CSF. However, CSF can be 
 In any scenario, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) provides detailed guidance that any organization can use to implement the CSF. This is a quick overview and summary of their recommendations:
 
 - **Create a current profile** of the security operations and outline the specific needs of your business.
-    
 - **Perform a risk assessment** to identify which of your current operations are meeting business and regulatory standards.
-    
 - **Analyze and prioritize existing gaps** in security operations that place the businesses assets at risk.
-    
 - **Implement a plan of action** to achieve your organization’s goals and objectives.
-    
 
 **Pro tip:** Always consider current risk, threat, and vulnerability trends when using the NIST CSF. 
 
