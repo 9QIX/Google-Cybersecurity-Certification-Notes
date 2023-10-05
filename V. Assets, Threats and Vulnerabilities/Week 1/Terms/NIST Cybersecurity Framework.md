@@ -1,0 +1,1 @@
+**[[NIST Cybersecurity Framework]]:** This framework, provided by the National Institute of Standards and Technology (NIST), offers standards, guidelines, and best practices for managing cybersecurity risk.
