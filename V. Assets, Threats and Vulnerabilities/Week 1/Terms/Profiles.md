@@ -1,0 +1,1 @@
+**[[Profiles]]:** Profiles act like snapshots in time, providing insights into the current state of a security plan. They are useful for tracking changes and improvements.
