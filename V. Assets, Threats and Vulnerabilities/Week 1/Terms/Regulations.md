@@ -1,0 +1,1 @@
+**[[Regulations]]:** These are rules established by government or authoritative bodies to oversee and control specific practices, typically on a larger scale to protect individuals and their information.
