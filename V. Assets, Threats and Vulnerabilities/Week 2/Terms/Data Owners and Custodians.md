@@ -1,0 +1,1 @@
+**[[Data Owners and Custodians]]:** Distinguishing between data owners (who control data access) and data custodians (entities responsible for secure data handling, transport, and storage) is crucial in security controls.
