@@ -1,0 +1,1 @@
+**[[Operational Controls]]:** Day-to-day security management activities, including awareness training and incident response, typically carried out by individuals.
