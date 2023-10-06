@@ -1,0 +1,1 @@
+**[[Managerial Controls]]:** Policies, standards, and procedures guide security efforts, with the organization's security policy outlining necessary controls.
