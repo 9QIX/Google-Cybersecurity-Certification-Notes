@@ -1,11 +1,11 @@
-Sure, here's a summary of the course outline using bullet points:
+# Security controls
 
 - **Security Controls:** Organizations face the challenge of safeguarding information in a data-rich environment. Security controls are essential for mitigating specific security risks and are employed before, during, and after security incidents.
 
-- **Types of Security Controls:**
-  - **Technical Controls:** These encompass various technologies (e.g., encryption, authentication systems) to protect assets.
-  - **Operational Controls:** Day-to-day security management activities, including awareness training and incident response, typically carried out by individuals.
-  - **Managerial Controls:** Policies, standards, and procedures guide security efforts, with the organization's security policy outlining necessary controls.
+- **Types of Security Controls:***
+	- **Technical Controls:** These encompass various technologies (e.g., encryption,  authentication systems) to protect assets.
+	- **Operational Controls:** Day-to-day security management activities, including awareness training and incident response, typically carried out by individuals.
+	- **Managerial Controls:** Policies, standards, and procedures guide security efforts, with the organization's security policy outlining necessary controls.
 
 - **Information Privacy:** Protecting data from unauthorized access and distribution is central to information privacy. Individuals and organizations have the right to control the sharing of their private information.
 
