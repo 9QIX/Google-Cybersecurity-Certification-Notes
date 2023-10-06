@@ -86,7 +86,7 @@ The CSF profiles are pre-made templates of the NIST CSF that are developed by a 
 
 ## Implementing the CSF
 
-As you might recall, compliance is an important concept in security. **Compliance** is the process of adhering to internal standards and external regulations. In other words, compliance is a way of measuring how well an organization is protecting their assets. The **NIST Cybersecurity Framework (CSF)** is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. Organizations may choose to use the CSF to achieve compliance with a variety of regulations.
+As you might recall, compliance is an important concept in security. **[[Compliance]]** is the process of adhering to internal standards and external regulations. In other words, compliance is a way of measuring how well an organization is protecting their assets. The **[[NIST Cybersecurity Framework (CSF)]]** is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. Organizations may choose to use the CSF to achieve compliance with a variety of regulations.
 
 **Note:** Regulations are rules that _must_ be followed, while frameworks are resources you can _choose_ to use.
 
