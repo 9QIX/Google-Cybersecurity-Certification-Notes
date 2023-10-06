@@ -70,7 +70,7 @@ Originally released in 2014, NIST developed the Cybersecurity Framework to prote
 
 As you might recall, the framework consists of three main components: the _core_, _tiers_, and _profiles_. In the following sections, you'll learn more about each of these CSF components.
 
-### **Core**
+### **[[Core]]**
 
 The CSF core is a set of desired cybersecurity outcomes that help organizations customize their security plan. It consists of five functions, or parts: Identify, Protect, Detect, Respond, and Recover. These functions are commonly used as an informative reference to help organizations _identify_ their most important assets and _protect_ those assets with appropriate safeguards. The CSF core is also used to understand ways to _detect_ attacks and develop _response_ and _recovery_ plans should an attack happen.
 
