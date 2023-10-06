@@ -10,3 +10,5 @@ The [[Principle of Least Privilege]] limits users' access to only the informatio
 The **[[principle of least privilege]]** is the concept of granting only the *minimal access and authorization required to complete a task or function*. In other words, users should not have privileges that are beyond what is necessary. Not following the principle of least privilege can create security risks.
 
 The `chmod` command can help you manage this authorization. The `chmod` command changes permissions on files and directories.
+
+**[[Principle of Least Privilege]]:** Security controls aim to limit access based on the user and situation, adhering to the principle of least privilege. Access should be granted only as needed for specific roles or tasks.
