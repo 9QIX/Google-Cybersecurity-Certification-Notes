@@ -1,0 +1,1 @@
+**[[Information Privacy]]:** Protecting data from unauthorized access and distribution is central to information privacy. Individuals and organizations have the right to control the sharing of their private information.
