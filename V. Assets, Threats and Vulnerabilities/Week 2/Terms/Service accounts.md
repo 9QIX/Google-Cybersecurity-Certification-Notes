@@ -1,0 +1,1 @@
+**[[Service accounts]]** are granted to applications or software that needs to interact with other software on the network
