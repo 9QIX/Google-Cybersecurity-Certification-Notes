@@ -1,0 +1,1 @@
+**[[Destroy]]:** At this final stage, data that is no longer needed or has reached the end of its retention period is permanently removed to reduce risk and ensure compliance with data protection regulations. Secure data destruction methods are applied to prevent unauthorized recovery.
