@@ -19,7 +19,7 @@ The course highlights the significance of security controls in information prote
 
 # Principle of least privilege
 
-Security controls are essential to keeping sensitive data private and safe. One of the most common controls is the principle of least privilege, also referred to as PoLP or least privilege. The **principle of least privilege** is a security concept in which a user is only granted the minimum level of access and authorization required to complete a task or function.
+**[[Security controls]]** are essential to keeping sensitive data private and safe. One of the most common controls is the principle of least privilege, also referred to as PoLP or least privilege. The **[[principle of least privilege]]** is a security concept in which a user is only granted the minimum level of access and authorization required to complete a task or function.
 
 Least privilege is a fundamental security control that supports the confidentiality, integrity, and availability (CIA) triad of information. In this reading, you'll learn how the principle of least privilege reduces risk, how it's commonly implemented, and why it should be routinely audited.
 
@@ -33,7 +33,7 @@ Every business needs to plan for the risk of data theft, misuse, or abuse. Imple
 
 Least privilege greatly reduces the likelihood of a successful attack by connecting specific resources to specific users and placing limits on what they can do. It's an important security control that should be applied to any asset. Clearly defining who or what your users are is usually the first step of implementing least privilege effectively.
 
-**Note:** Least privilege is closely related to another fundamental security principle, the _separation of duties—_a security concept that divides tasks and responsibilities among different users to prevent giving a single user complete control over critical business functions. You'll learn more about separation of duties in a different reading about identity and access management.
+**Note:** Least privilege is closely related to another fundamental security principle, the **[[separation of duties]]**—a security concept that divides tasks and responsibilities among different users to prevent giving a single user complete control over critical business functions. You'll learn more about separation of duties in a different reading about identity and access management.
 
 ## Determining access and authorization
 
