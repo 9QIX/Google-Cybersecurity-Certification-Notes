@@ -157,9 +157,7 @@ Previously, you learned how regulations and compliance reduce security risk. To 
 Security and privacy are two terms that often get used interchangeably outside of this field. Although the two concepts are connected, they represent specific functions:
 
 - **Information privacy** refers to the protection of unauthorized access and distribution of data.
-    
 - **Information security** (InfoSec) refers to the practice of keeping data in all states away from unauthorized users.
-    
 
 The key difference: Privacy is about providing people with control over their personal information and how it's shared. Security is about protecting people’s choices and keeping their information safe from potential threats.
 
@@ -186,11 +184,8 @@ Businesses are required to abide by certain laws to operate. As you might recall
 Three of the most influential industry regulations that every security professional should know about are:
 
 - General Data Protection Regulation (GDPR)
-    
 - Payment Card Industry Data Security Standard (PCI DSS)
-    
 - Health Insurance Portability and Accountability Act (HIPAA)
-    
 
 ### **GDPR**
 
@@ -217,9 +212,7 @@ Businesses should comply with important regulations in their industry. Doing so 
 Meeting compliance standards is usually a continual, two-part process of security audits and assessments:
 
 - A **security audit** is a review of an organization's security controls, policies, and procedures against a set of expectations.
-    
 - A **security assessment** is a check to determine how resilient current security implementations are against threats.
-    
 
 For example, if a regulation states that multi-factor authentication (MFA) must be enabled for all administrator accounts, an audit might be conducted to check those user accounts for compliance. After the audit, the internal team might perform a security assessment that determines many users are using weak passwords. Based on their assessment, the team could decide to enable MFA on all user accounts to improve their overall security posture.
 
