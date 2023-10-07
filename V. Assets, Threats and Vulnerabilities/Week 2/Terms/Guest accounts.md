@@ -1,0 +1,1 @@
+**[[Guest accounts]]** are provided to external users who need to access an internal network, like customers, clients, contractors, or business partners.
