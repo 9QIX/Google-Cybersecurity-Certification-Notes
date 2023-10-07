@@ -1,0 +1,1 @@
+**[[Privileged accounts]]** have elevated permissions or administrative access.
