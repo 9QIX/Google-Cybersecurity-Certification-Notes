@@ -46,10 +46,10 @@ Determining who the user is usually straightforward. A user can refer to a perso
 
 These are the most common types of user accounts:
 
-- **Guest accounts** are provided to external users who need to access an internal network, like customers, clients, contractors, or business partners.
-- **User accounts** are assigned to staff based on their job duties.
-- **Service accounts** are granted to applications or software that needs to interact with other software on the network
-- **Privileged accounts** have elevated permissions or administrative access.
+- **[[Guest accounts]]** are provided to external users who need to access an internal network, like customers, clients, contractors, or business partners.
+- **[[User accounts]]** are assigned to staff based on their job duties.
+- **[[Service accounts]]** are granted to applications or software that needs to interact with other software on the network
+- **[[Privileged accounts]]** have elevated permissions or administrative access.
 
 It's best practice to determine a baseline access level for each account type before implementing least privilege. However, the appropriate access level can change from one moment to the next. For example, a customer support representative should only have access to your information while they are helping you. Your data should then become inaccessible when the support agent starts working with another customer and they are no longer actively assisting you. Least privilege can only reduce risk if user accounts are routinely and consistently monitored.
 
