@@ -1,0 +1,1 @@
+**[[Data owner]]:** the person that decides who can access, edit, use, or destroy their information.
