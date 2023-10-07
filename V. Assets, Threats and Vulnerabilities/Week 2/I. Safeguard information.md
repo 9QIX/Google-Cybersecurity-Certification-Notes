@@ -67,15 +67,15 @@ There are three common approaches to auditing user accounts:
 
 As a security professional, you might be involved with any of these processes.
 
-### **Usage audits**
+### **[[Usage audits]]**
 
 When conducting a usage audit, the security team will review which resources each account is accessing and what the user is doing with the resource. Usage audits can help determine whether users are acting in accordance with an organization’s security policies. They can also help identify whether a user has permissions that can be revoked because they are no longer being used.
 
-### **Privilege audits**
+### **[[Privilege audits]]**
 
 Users tend to accumulate more access privileges than they need over time, an issue known as _privilege creep_. This might occur if an employee receives a promotion or switches teams and their job duties change. Privilege audits assess whether a user's role is in alignment with the resources they have access to.
 
-### **Account change audits**
+### **[[Account change audits]]**
 
 Account directory services keep records and logs associated with each user. Changes to an account are usually saved and can be used to audit the directory for suspicious activity, like multiple attempts to change an account password. Performing account change audits helps to ensure that all account changes are made by authorized users.
 
