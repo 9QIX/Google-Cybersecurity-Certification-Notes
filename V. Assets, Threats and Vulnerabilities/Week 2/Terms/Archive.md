@@ -1,0 +1,1 @@
+**[[Archive]]:** Data that is no longer in active use but still holds value for compliance, historical analysis, or reference purposes is archived. It is moved to long-term storage, which may involve different retention policies.

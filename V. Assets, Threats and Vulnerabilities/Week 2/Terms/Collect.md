@@ -1,0 +1,1 @@
+**[[Collect]]:** This stage involves gathering data from various sources or generating it within the organization, such as through customer interactions, sensors, or user inputs.
