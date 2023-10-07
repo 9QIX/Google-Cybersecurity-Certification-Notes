@@ -264,7 +264,7 @@ The following SQL keywords are aggregate functions and are helpful when performi
 
   Returns the average height from all records that have a value in the height column.
 
-- **[[COUNT]]:** Returns a single number that represents the number of records returned from a query; placed after `SELECT`.
+- **[[count]]:** Returns a single number that represents the number of records returned from a query; placed after `SELECT`.
 
   ```
   SELECT COUNT(firstname)
