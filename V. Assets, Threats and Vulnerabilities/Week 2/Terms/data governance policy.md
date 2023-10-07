@@ -1,0 +1,3 @@
+## Protecting data at every stage
+
+Most security plans include a specific policy that outlines how information will be managed across an organization. This is known as a **[[data governance policy]]**. These documents clearly define procedures that should be followed to participate in keeping data safe. They place limits on who or what can access data. Security professionals are important participants in data governance. As a data custodian, you will be responsible for ensuring that data isn’t damaged, stolen, or misused.

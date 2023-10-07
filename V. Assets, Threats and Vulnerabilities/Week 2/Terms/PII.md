@@ -1,0 +1,1 @@
+**[[PII]]** is any information used to infer an individual's identity. Personally identifiable information, or PII, refers to information that can be used to contact or locate someone.
