@@ -157,7 +157,7 @@ Previously, you learned how regulations and compliance reduce security risk. To 
 Security and privacy are two terms that often get used interchangeably outside of this field. Although the two concepts are connected, they represent specific functions:
 
 - **[[Information privacy]]** refers to the protection of unauthorized access and distribution of data.
-- **Information security** (InfoSec) refers to the practice of keeping data in all states away from unauthorized users.
+- **[[Information security (InfoSec)]]** refers to the practice of keeping data in all states away from unauthorized users.
 
 The key difference: Privacy is about providing people with control over their personal information and how it's shared. Security is about protecting people’s choices and keeping their information safe from potential threats.
 
