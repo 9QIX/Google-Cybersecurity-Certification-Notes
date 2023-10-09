@@ -11,7 +11,7 @@
 
 - **[[Principle of Least Privilege]]:** Security controls aim to limit access based on the user and situation, adhering to the principle of least privilege. Access should be granted only as needed for specific roles or tasks.
 
-- **[[Data Owners and Custodians]]:** Distinguishing between data owners (who control data access) and data custodians (entities responsible for secure data handling, transport, and storage) is crucial in security controls.
+- **[[Data Owners and Custodians]]:** Distinguishing between data owners (who control data access) and data custodians (entities responsible for secure data handling, transport, and storage) is crucial in security controls. 
 
 - **[[Data Classification]]:** Data is treated as an asset and requires proper classification and handling, similar to other assets, to ensure security.
 
