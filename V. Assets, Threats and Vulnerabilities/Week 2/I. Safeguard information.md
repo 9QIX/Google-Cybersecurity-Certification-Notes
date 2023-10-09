@@ -4,7 +4,7 @@
 
 - **Types of Security Controls:***
 	- **[[Technical Controls]]:** These encompass various technologies (e.g., encryption, authentication systems) to protect assets.
-	- **[[Operational Controls]]:** Day-to-day security management activities, including awareness training and incident response, typically carried out by individuals.
+	- **[[Operational Controls]]:** Day-to-day security management activities, including awareness training and incident response, are typically carried out by individuals.
 	- **[[Managerial Controls]]:** Policies, standards, and procedures guide security efforts, with the organization's security policy outlining necessary controls.
 
 - **[[Information Privacy]]:** Protecting data from unauthorized access and distribution is central to information privacy. Individuals and organizations have the right to control the sharing of their private information.
