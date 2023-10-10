@@ -104,7 +104,7 @@ In general, the data lifecycle has five stages. Each describe how data flows thr
 - **[[Archive]]:** Data that is no longer in active use but still holds value for compliance, historical analysis, or reference purposes is archived. It is moved to long-term storage, which may involve different retention policies.
 - **[[Destroy]]:** At this final stage, data that is no longer needed or has reached the end of its retention period is permanently removed to reduce risk and ensure compliance with data protection regulations. Secure data destruction methods are applied to prevent unauthorized recovery.
 
-![Five stages of the data lifecycle: collection, storage, usage, archival, and destruction.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Sx9FANHTQYK_Emc4x9cBsA_4dad354c13cc4354b9caef4a1b05d2f1_CS_R-091_ive-stages-of-the-data-lifecycle.png?expiry=1696809600000&hmac=u1ySMxiMguMjxgZlbUT5DYdMZ-X6v_xVeL3KfQN6zhE)
+![[Sx9FANHTQYK_Emc4x9cBsA_4dad354c13cc4354b9caef4a1b05d2f1_CS_R-091_ive-stages-of-the-data-lifecycle.png]]
 
 Protecting information at each stage of this process describes the need to keep it accessible and recoverable should something go wrong.
 
