@@ -150,8 +150,7 @@ Security and privacy have a close relationship. As you may recall, people have t
 
 Previously, you learned how regulations and compliance reduce security risk. To review, refer to [the reading about how security controls, frameworks, and compliance regulations](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance) are used together to manage security and minimize risk. In this reading, you will learn how information privacy regulations affect data handling practices. You'll also learn about some of the most influential security regulations in the world. 
 
-![Un diagrama de Venn de privacidad y seguridad.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/fDaKJmUlQGuh59KQM1Y0Nw_0ca1ff72e15643bcb40f8aaabf7078f1_S35G006-1-.png?expiry=1696809600000&hmac=AKwig0f78wNTpv2zz_y3F8_G-belB-Uml32dChpRCxU)
-
+![[fDaKJmUlQGuh59KQM1Y0Nw_0ca1ff72e15643bcb40f8aaabf7078f1_S35G006-1-.png]]
 ## Information security vs. information privacy
 
 Security and privacy are two terms that often get used interchangeably outside of this field. Although the two concepts are connected, they represent specific functions:
