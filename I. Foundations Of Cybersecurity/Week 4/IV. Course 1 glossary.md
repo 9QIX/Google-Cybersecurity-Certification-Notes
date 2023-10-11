@@ -82,7 +82,7 @@
 
 - **[[Password attack]]**: An attempt to access password secured devices, systems, networks, or data
 
-- **[[Personally identifiable information (PII)]]**: Any information used to infer an individual’s identity
+- **[[Personally Identifiable Information (PII)]]**: Any information used to infer an individual’s identity
 
 - **[[Phishing]]**: The use of digital communications to trick people into revealing sensitive data or deploying malicious software
 

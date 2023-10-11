@@ -1,0 +1,1 @@
+**[[Personally Identifiable Information (PII)]]:** PII refers to any data that can be used to deduce an individual's identity. Examples include names, medical and financial information, photos, emails, and fingerprints.
