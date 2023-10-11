@@ -1,0 +1,1 @@
+**[[Cipher]]:** In the context of cryptography, a cipher is an algorithm used to encrypt and decrypt information.

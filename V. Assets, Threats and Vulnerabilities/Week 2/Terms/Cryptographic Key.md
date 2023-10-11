@@ -1,0 +1,1 @@
+Cryptographic Key:** A cryptographic key is a mechanism that is used to decrypt ciphertext. It provides information about how the ciphertext was encrypted, such as the shift value in Caesar's Cipher.
