@@ -1,0 +1,11 @@
+# Fundamentals of cryptography
+
+- **Personally Identifiable Information (PII):** PII refers to any data that can be used to deduce an individual's identity. Examples include names, medical and financial information, photos, emails, and fingerprints.
+- **Cryptography:** Cryptography is the practice of converting data into an unreadable form (ciphertext) through encryption, and then back into its original, readable form (plaintext) using decryption. It is a fundamental security control for protecting information online.
+- **Caesar's Cipher:** An ancient cryptographic method attributed to Julius Caesar, which involves shifting letters in the Roman alphabet forward by a fixed number of spaces (a shift value) to encrypt a message. It is a simple algorithm used to keep messages private.
+- **Cipher:** In the context of cryptography, a cipher is an algorithm used to encrypt and decrypt information.
+- **Cryptographic Key:** A cryptographic key is a mechanism that is used to decrypt ciphertext. It provides information about how the ciphertext was encrypted, such as the shift value in Caesar's Cipher.
+- **Brute Force Attack:** A brute force attack is a trial-and-error method for discovering private information by systematically trying all possible combinations. In the context of Caesar's Cipher, it involves attempting all 26 shift values to decrypt the message.
+- **Key Management:** Properly managing cryptographic keys is a crucial part of security. Keys should be securely stored and separated from the information they decrypt to prevent unauthorized access.
+
+The course explores the historical use of Caesar's Cipher, emphasizing its simplicity and vulnerabilities, including its reliance on a single key and the limited character set of the Roman alphabet. It mentions the concept of brute force attacks and the importance of key management. The course also hints at the use of more complex modern algorithms to secure information online, which will likely be explored in later sections.
