@@ -210,8 +210,8 @@ Businesses should comply with important regulations in their industry. Doing so 
 
 Meeting compliance standards is usually a continual, two-part process of security audits and assessments:
 
-- A **security audit** is a review of an organization's security controls, policies, and procedures against a set of expectations.
-- A **security assessment** is a check to determine how resilient current security implementations are against threats.
+- A **[[security audit]]** is a review of an organization's security controls, policies, and procedures against a set of expectations.
+- A **[[security assessment]]** is a check to determine how resilient current security implementations are against threats.
 
 For example, if a regulation states that multi-factor authentication (MFA) must be enabled for all administrator accounts, an audit might be conducted to check those user accounts for compliance. After the audit, the internal team might perform a security assessment that determines many users are using weak passwords. Based on their assessment, the team could decide to enable MFA on all user accounts to improve their overall security posture.
 
