@@ -178,7 +178,7 @@ Many organizations became more concerned about the issues of data privacy. Busin
 
 ## Notable privacy regulations
 
-Businesses are required to abide by certain laws to operate. As you might recall, **regulations** are rules set by a government or another authority to control the way something is done. Privacy regulations in particular exist to protect a user from having their information collected, used, or shared without their consent. Regulations may also describe the security measures that need to be in place to keep private information away from threats.
+Businesses are required to abide by certain laws to operate. As you might recall, **[[regulations]]** are rules set by a government or another authority to control the way something is done. Privacy regulations in particular exist to protect a user from having their information collected, used, or shared without their consent. Regulations may also describe the security measures that need to be in place to keep private information away from threats.
 
 Three of the most influential industry regulations that every security professional should know about are:
 
