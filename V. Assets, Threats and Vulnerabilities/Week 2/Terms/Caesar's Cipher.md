@@ -1,0 +1,1 @@
+**[[Caesar's Cipher]]:** An ancient cryptographic method attributed to Julius Caesar, which involves shifting letters in the Roman alphabet forward by a fixed number of spaces (a shift value) to encrypt a message. It is a simple algorithm used to keep messages private.
