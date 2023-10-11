@@ -1,0 +1,1 @@
+**[[Privacy]]** is about providing people with control over their personal information and how it's shared.

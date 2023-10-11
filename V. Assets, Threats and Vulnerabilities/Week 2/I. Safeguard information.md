@@ -158,7 +158,7 @@ Security and privacy are two terms that often get used interchangeably outside o
 - **[[Information privacy]]** refers to the protection of unauthorized access and distribution of data.
 - **[[Information security (InfoSec)]]** refers to the practice of keeping data in all states away from unauthorized users.
 
-The key difference: Privacy is about providing people with control over their personal information and how it's shared. Security is about protecting people’s choices and keeping their information safe from potential threats.
+The key difference: **[[Privacy]]** is about providing people with control over their personal information and how it's shared. **[[Security]]** is about protecting people’s choices and keeping their information safe from potential threats.
 
 For example, a retail company might want to collect specific kinds of personal information about its customers for marketing purposes, like their age, gender, and location. How this private information will be used should be disclosed to customers before it's collected. In addition, customers should be given an option to opt-out if they decide not to share their data.
 
