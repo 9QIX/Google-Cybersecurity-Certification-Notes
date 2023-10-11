@@ -1,0 +1,1 @@
+A **[[security assessment]]** is a check to determine how resilient current security implementations are against threats.
