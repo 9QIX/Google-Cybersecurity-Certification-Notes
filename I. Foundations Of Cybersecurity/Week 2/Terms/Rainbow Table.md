@@ -1,1 +1,3 @@
 [[Rainbow Table]] - A precomputed table used to quickly reverse cryptographic hash functions and recover original passwords.
+
+A **[[rainbow table]]** is a file of pre-generated hash values and their associated plaintext. They’re like dictionaries of weak passwords. Attackers capable of obtaining an organization’s password database can use a rainbow table to compare them against all possible values.
