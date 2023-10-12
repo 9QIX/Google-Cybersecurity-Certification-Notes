@@ -1,0 +1,1 @@
+A _[[salt]]_ is a random string of characters that's added to data before it's hashed.
