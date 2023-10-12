@@ -1,0 +1,1 @@
+A **[[bit]]** is the smallest unit of data measurement on a computer.
