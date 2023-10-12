@@ -1,0 +1,1 @@
+_[[Digital Signature Algorithm (DSA)]]_ is a standard asymmetric algorithm that was introduced by NIST in the early 1990s. DSA also generates key lengths of 2,048 bits. This algorithm is widely used today as a complement to RSA in public key infrastructure.
