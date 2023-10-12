@@ -1,0 +1,3 @@
+- **[[Two-Step Process]]:** PKI involves a two-step process that begins with the exchange of encrypted information, employing either asymmetric encryption, symmetric encryption, or both.
+		- **[[Asymmetric Encryption]]:** Asymmetric encryption uses a pair of keys—a public key for adding items to a virtual "box" and a private key for unlocking the box to remove items. Public keys can be shared and copied for data exchange, while private keys are kept secret.
+		- **[[Symmetric Encryption]]:** In symmetric encryption, the same key is used to both lock and unlock the "box." This makes communication faster but is potentially less secure.

@@ -1,0 +1,1 @@
+**[[Symmetric Encryption]]:** In symmetric encryption, the same key is used to both lock and unlock the "box." This makes communication faster but is potentially less secure.
