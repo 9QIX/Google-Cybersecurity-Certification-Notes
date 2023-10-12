@@ -106,9 +106,9 @@ Hash functions are crucial for maintaining data integrity, detecting unauthorize
 
 # The evolution of hash functions
 
-Hash functions are important controls that are part of every company's security strategy. Hashing is widely used for authentication and **non-repudiation**, the concept that the authenticity of information can’t be denied.
+Hash functions are important controls that are part of every company's security strategy. Hashing is widely used for authentication and **[[non-repudiation]]**, the concept that the authenticity of information can’t be denied.
 
-Previously, you learned that **hash functions** are algorithms that produce a code that can't be decrypted. Hash functions convert information into a unique value that can then be used to determine its integrity. In this reading, you’ll learn about the origins of hash functions and how they’ve changed over time.
+Previously, you learned that **[[hash functions]]** are algorithms that produce a code that can't be decrypted. Hash functions convert information into a unique value that can then be used to determine its integrity. In this reading, you’ll learn about the origins of hash functions and how they’ve changed over time.
 
 ![El proceso del algoritmo de hashing. Una función hash convierte un documento de texto simple en texto con hash.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qISzBqG7RmukCvKmeU83mg_e0d4d256b3bb41be8504685b3338fcf1_CS_R-094_Hashing-algorithm.png?expiry=1697241600000&hmac=iADzLB8i7zYPc17AFe1xlzTohumI7V9PT0kSfl9sbJU)
 
@@ -130,7 +130,7 @@ Here is an example of how plaintext gets turned into hash values:
 
 One of the flaws in MD5 happens to be a characteristic of all hash functions. Hash algorithms map any input, regardless of its length, into a fixed-size value of letters and numbers. What’s the problem with that? Although there are an infinite amount of possible inputs, there’s only a finite set of available outputs!
 
-MD5 values are limited to 32 characters in length. Due to the limited output size, the algorithm is considered to be vulnerable to **hash collision**, an instance when different inputs produce the same hash value. Because hashes are used for authentication, a hash collision is similar to copying someone’s identity. Attackers can carry out collision attacks to fraudulently impersonate authentic data.
+MD5 values are limited to 32 characters in length. Due to the limited output size, the algorithm is considered to be vulnerable to **[[hash collision]]**, an instance when different inputs produce the same hash value. Because hashes are used for authentication, a hash collision is similar to copying someone’s identity. Attackers can carry out collision attacks to fraudulently impersonate authentic data.
 
 ## Next-generation hashing
 
@@ -141,15 +141,10 @@ The National Institute of Standards and Technology (NIST) approves each of these
 **Five functions make up the SHA family of algorithms:**
 
 - SHA-1
-    
 - SHA-224
-    
 - SHA-256
-    
 - SHA-384
-    
 - SHA-512
-    
 
 ## Secure password storage
 
