@@ -1,3 +1,5 @@
 **[[Multi-Factor Authentication (MFA)]]:** MFA is an advanced security measure that requires users to verify their identity through two or more authentication methods. These methods may include something the user knows (e.g., a password), something they have (e.g., an ID card), or something unique about them (e.g., a fingerprint). MFA significantly enhances security by adding an extra layer of authentication.
 
 MFA is a security measure which requires a user to verify their identity in two or more ways to access a system or network. This verification happens using a combination of authentication factors: a username and password, fingerprints, facial recognition, or a one-time password (OTP) sent to a phone number or email.
+
+**[[Multi-Factor Authentication (MFA)]]:** Multi-Factor Authentication is a security measure that requires users to verify their identity in two or more ways, combining multiple independent credentials (e.g., knowledge and ownership) to prove their identity. MFA enhances security by adding additional authentication layers.
