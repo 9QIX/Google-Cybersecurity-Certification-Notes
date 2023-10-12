@@ -1,0 +1,1 @@
+**[[Certificate Authority (CA)]]:** A certificate authority is a trusted entity that issues digital certificates. It verifies the identity of the certificate holder and creates digital certificates with its own digital signature to confirm their authenticity.

@@ -1,0 +1,1 @@
+**[[Digital Certificate]]:** A digital certificate is a file used to verify the identity of a public key holder. It serves as a form of trust between computers and networks, signaling the authenticity of the public key holder.

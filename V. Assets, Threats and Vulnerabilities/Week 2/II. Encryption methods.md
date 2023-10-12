@@ -22,6 +22,7 @@ The course explores the historical use of Caesar's Cipher, emphasizing its simpl
 - **Combination of Encryption Methods:** PKI utilizes both asymmetric and symmetric encryption based on the priorities of speed and security. Asymmetric encryption is used for secure initial connections, while symmetric encryption facilitates faster back-and-forth communication.
 - **Vulnerability and Trust:** Both encryption methods rely on key sharing, which can pose vulnerabilities if keys are misused, lost, or stolen. Establishing trust is a challenge in digital communication, unlike in face-to-face interactions.
 - **[[Digital Certificate]]:** A digital certificate is a file used to verify the identity of a public key holder. It serves as a form of trust between computers and networks, signaling the authenticity of the public key holder.
+![[Pasted image 20231012130707.png]]
 - **[[Certificate Authority (CA)]]:** A certificate authority is a trusted entity that issues digital certificates. It verifies the identity of the certificate holder and creates digital certificates with its own digital signature to confirm their authenticity.
 
 PKI combines asymmetric and symmetric encryption with digital certificates to establish trust and facilitate secure data exchange online. Digital certificates serve as digital ID badges, allowing or restricting access to information and enhancing security. The course demonstrates how PKI's two-step approach addresses trust issues and secures information exchange between trusted sources.
