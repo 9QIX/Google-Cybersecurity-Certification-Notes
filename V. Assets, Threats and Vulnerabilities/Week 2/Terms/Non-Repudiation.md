@@ -1,0 +1,1 @@
+**[[Non-Repudiation]]:** Non-repudiation is the concept that the authenticity of information cannot be denied. Hash functions play a key role in achieving non-repudiation by confirming data integrity.

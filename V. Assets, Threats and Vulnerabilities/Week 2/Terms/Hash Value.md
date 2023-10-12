@@ -1,0 +1,1 @@
+**[[Hash Value]]:** A hash value is a unique identifier produced by a hash function, representing the content of the data being hashed.

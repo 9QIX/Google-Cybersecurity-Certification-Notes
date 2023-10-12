@@ -1,0 +1,1 @@
+**[[VirusTotal]]:** VirusTotal is a popular tool used by security practitioners to analyze suspicious files, domains, IPs, and URLs by comparing their hash values with known online viruses in a database.

@@ -1,0 +1,1 @@
+**[[Hash Function]]:** A hash function is an algorithm that produces a code, known as a hash value or digest, which cannot be decrypted. Unlike encryption algorithms, hash functions are one-way processes and do not generate decryption keys.
