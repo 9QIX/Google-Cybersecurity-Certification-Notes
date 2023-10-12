@@ -1,0 +1,1 @@
+This technology became available in the mid-1990s as a way to combat _[[password fatigue]]_, which refers to people’s tendency to reuse passwords across services. Remembering many different passwords can be a challenge, but using the same password repeatedly is a major security risk. SSO solves this dilemma by shifting the burden of authentication away from the user.
