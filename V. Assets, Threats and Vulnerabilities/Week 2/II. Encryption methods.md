@@ -91,3 +91,15 @@ Using data encryption like this is increasingly required by law. Regulations lik
 ## Key takeaways
 
 Knowing the basics of encryption is important for all security professionals. Symmetric encryption relies on a single secret key to protect data. On the other hand, asymmetric uses a public and private key pair. Their encryption algorithms create different key sizes. Both types of encryption are used to meet compliance regulations and protect data online.
+
+# Non-repudiation and hashing
+
+- **Hash Function:** A hash function is an algorithm that produces a code, known as a hash value or digest, which cannot be decrypted. Unlike encryption algorithms, hash functions are one-way processes and do not generate decryption keys.
+- **Hash Value:** A hash value is a unique identifier produced by a hash function, representing the content of the data being hashed.
+- **Data Integrity:** Data integrity refers to the accuracy and consistency of information, ensuring that data remains unchanged and unaltered. Hash functions are essential for maintaining data integrity.
+- **Non-Repudiation:** Non-repudiation is the concept that the authenticity of information cannot be denied. Hash functions play a key role in achieving non-repudiation by confirming data integrity.
+- **Security Control:** Hash functions are important security controls used to determine the integrity of files and applications. Security analysts often employ them to compare hash values against known malicious files to detect alterations.
+- **VirusTotal:** VirusTotal is a popular tool used by security practitioners to analyze suspicious files, domains, IPs, and URLs by comparing their hash values with known online viruses in a database.
+- **Unique Hash Value:** Hash functions are designed to produce a unique hash value for each unique input. Even the slightest change in the input results in a completely different hash value.
+
+Hash functions are crucial for maintaining data integrity, detecting unauthorized changes, and ensuring non-repudiation. They serve as a quick and effective means for comparing input and output values to validate data integrity and detect alterations. The course demonstrates the significance of hash functions as a security control to protect against vulnerabilities in data storage and transmission.
