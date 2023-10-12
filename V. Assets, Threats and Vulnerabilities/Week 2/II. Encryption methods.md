@@ -31,9 +31,9 @@ PKI combines asymmetric and symmetric encryption with digital certificates to es
 
 Previously, you learned these terms: 
 
-- **Encryption**: the process of converting data from a readable format to an encoded format
-- **Public key infrastructure** (PKI):  an encryption framework that secures the exchange of online information
-- **Cipher**: an algorithm that encrypts information
+- **[[Encryption]]**: the process of converting data from a readable format to an encoded format
+- **[[Public key infrastructure (PKI)]]**:  an encryption framework that secures the exchange of online information
+- **[[Cipher]]**: an algorithm that encrypts information
 
 All digital information deserves to be kept private, safe, and secure. Encryption is one key to doing that! It is useful for transforming information into a form that unintended recipients cannot understand. In this reading, you’ll compare symmetric and asymmetric encryption and learn about some well-known algorithms for each.
 
@@ -41,8 +41,8 @@ All digital information deserves to be kept private, safe, and secure. Encryptio
 
 There are two main types of encryption:
 
-- **Symmetric encryption** is the use of a single secret key to exchange information. Because it uses one key for encryption and decryption, the sender and receiver must know the secret key to lock or unlock the cipher.
-- **Asymmetric encryption** is the use of a public and private key pair for encryption and decryption of data. It uses two separate keys: a public key and a private key. The public key is used to encrypt data, and the private key decrypts it. The private key is only given to users with authorized access.
+- **[[Symmetric encryption]]** is the use of a single secret key to exchange information. Because it uses one key for encryption and decryption, the sender and receiver must know the secret key to lock or unlock the cipher.
+- **[[Asymmetric encryption]]** is the use of a public and private key pair for encryption and decryption of data. It uses two separate keys: a public key and a private key. The public key is used to encrypt data, and the private key decrypts it. The private key is only given to users with authorized access.
 
 ## The importance of key length
 

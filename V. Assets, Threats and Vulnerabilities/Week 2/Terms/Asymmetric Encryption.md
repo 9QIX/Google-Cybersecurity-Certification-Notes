@@ -1,1 +1,3 @@
 **[[Asymmetric Encryption]]:** Asymmetric encryption uses a pair of keys—a public key for adding items to a virtual "box" and a private key for unlocking the box to remove items. Public keys can be shared and copied for data exchange, while private keys are kept secret.
+
+**[[Asymmetric encryption]]** is the use of a public and private key pair for encryption and decryption of data. It uses two separate keys: a public key and a private key. The public key is used to encrypt data, and the private key decrypts it. The private key is only given to users with authorized access.
