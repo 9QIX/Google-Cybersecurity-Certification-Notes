@@ -67,3 +67,18 @@ Requiring multiple forms of identification is an effective security measure, esp
 ## Key takeaways
 
 Implementing both SSO and MFA security controls improves security without sacrificing the user experience. Relying on passwords alone is a serious vulnerability. Implementing SSO means fewer points of entry, but that’s not enough. Combining SSO and MFA can be an effective way to protect information, so that users have a streamlined experience while unauthorized people are kept away from important information.
+
+# The mechanisms of authorization
+
+- **Authentication and Authorization:** Authentication validates the identity of users or systems, while authorization determines the actions or privileges they are allowed to access.
+- **Principle of Least Privilege:** Authorization is guided by the principle of least privilege, which means that access to information is granted only for the duration and extent needed for specific tasks.
+- **Separation of Duties:** Separation of duties is another fundamental security principle related to authorization. It involves ensuring that users do not have permissions that could lead to misuse or abuse of a system. This separation minimizes the risk of system failures and inappropriate behavior.
+- **Role-Based Authorization:** Authorization is often role-based, meaning that the level of access granted depends on a user's role within an organization.
+- **Access Controls:** When securing data over a network, two commonly used access control mechanisms are discussed: HTTP basic auth and OAuth.
+	- **HTTP Basic Auth:** HTTP basic authentication involves sending an identifier each time a user communicates with a web page. It is considered vulnerable as it transmits usernames and passwords openly over the network.
+	- **OAuth:** OAuth is an open-standard authorization protocol that shares designated access between applications using API tokens. It is more secure and doesn't involve transmitting sensitive credentials over the network.
+- **API Tokens:** API tokens are small blocks of encrypted code that contain user information, site permissions, and more. They serve as an additional layer of encryption and minimize the risks associated with unauthorized access.
+- **Security Principles in Authorization Tools:** Basic auth and OAuth, as well as other authorization tools, are designed with security principles like the principle of least privilege and separation of duties in mind.
+- **Monitoring Access:** In addition to controlling access, it is crucial to monitor access to detect and respond to potential security threats.
+
+Authorization is a pivotal component of access control systems that ensures that users and systems only have access to the resources and actions required for their roles and responsibilities. The course prepares for exploring the third and final part of the authentication, authorization, and accounting framework in the next video.
