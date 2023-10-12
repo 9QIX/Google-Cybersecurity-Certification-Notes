@@ -1,0 +1,1 @@
+**[[Access Controls]]:** Access controls are security measures that manage access, authorization, and accountability of information. They are crucial for maintaining data confidentiality, integrity, and availability.

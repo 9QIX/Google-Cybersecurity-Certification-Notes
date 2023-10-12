@@ -1,0 +1,1 @@
+**[[Characteristic]]:** Authentication by characteristic is based on something the user is, such as biometrics like fingerprint or facial scans.

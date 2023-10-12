@@ -1,0 +1,1 @@
+**[[Matching Credentials]]:** Authentication is successful when the information provided matches the information on file. If the credentials do not match, access is denied; if they match, access is granted.

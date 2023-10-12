@@ -1,0 +1,1 @@
+**[[Layered Defense]]:** Organizations often use Single Sign-On and Multi-Factor Authentication together to enhance the defense capabilities of authentication systems. This combination ensures both convenience and security in access control.

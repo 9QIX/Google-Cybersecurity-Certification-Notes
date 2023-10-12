@@ -1,0 +1,1 @@
+**[[Single Sign-On (SSO)]]:** Single Sign-On is a technology that combines various logins into a single login, reducing the need for users to authenticate repeatedly. SSO streamlines the authentication process, but it can pose vulnerabilities when used alone.

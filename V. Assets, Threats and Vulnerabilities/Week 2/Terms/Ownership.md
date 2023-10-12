@@ -1,0 +1,1 @@
+**[[Ownership]]:** Authentication by ownership pertains to something the user possesses, such as a one-time passcode (OTP) sent via text or email.
