@@ -1,0 +1,1 @@
+Role-Based Authorization]]:** Authorization is often role-based, meaning that the level of access granted depends on a user's role within an organization.

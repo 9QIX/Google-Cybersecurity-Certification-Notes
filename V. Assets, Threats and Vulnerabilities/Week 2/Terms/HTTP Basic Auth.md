@@ -1,0 +1,1 @@
+**[[HTTP Basic Auth]]:** HTTP basic authentication involves sending an identifier each time a user communicates with a web page. It is considered vulnerable as it transmits usernames and passwords openly over the network.

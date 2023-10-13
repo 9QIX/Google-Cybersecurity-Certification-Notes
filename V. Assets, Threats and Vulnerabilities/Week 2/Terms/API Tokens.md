@@ -1,0 +1,1 @@
+**[[API Tokens]]:** API tokens are small blocks of encrypted code that contain user information, site permissions, and more. They serve as an additional layer of encryption and minimize the risks associated with unauthorized access.

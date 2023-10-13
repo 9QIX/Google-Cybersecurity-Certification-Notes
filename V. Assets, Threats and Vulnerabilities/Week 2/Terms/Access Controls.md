@@ -1,1 +1,5 @@
 **[[Access Controls]]:** Access controls are security measures that manage access, authorization, and accountability of information. They are crucial for maintaining data confidentiality, integrity, and availability.
+
+- **[[Access Controls]]:** When securing data over a network, two commonly used access control mechanisms are discussed: HTTP basic auth and OAuth.
+	- **HTTP Basic Auth:** HTTP basic authentication involves sending an identifier each time a user communicates with a web page. It is considered vulnerable as it transmits usernames and passwords openly over the network.
+	- **OAuth:** OAuth is an open-standard authorization protocol that shares designated access between applications using API tokens. It is more secure and doesn't involve transmitting sensitive credentials over the network.
