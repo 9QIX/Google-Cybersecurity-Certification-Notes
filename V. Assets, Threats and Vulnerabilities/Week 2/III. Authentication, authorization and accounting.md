@@ -77,8 +77,19 @@ Implementing both SSO and MFA security controls improves security without sacrif
 - **[[Access Controls]]:** When securing data over a network, two commonly used access control mechanisms are discussed: HTTP basic auth and OAuth.
 	- **[[HTTP Basic Auth]]:** HTTP basic authentication involves sending an identifier each time a user communicates with a web page. It is considered vulnerable as it transmits usernames and passwords openly over the network.
 	- **[[OAuth]]:** OAuth is an open-standard authorization protocol that shares designated access between applications using API tokens. It is more secure and doesn't involve transmitting sensitive credentials over the network.
-	- **[[API Tokens]]:** API tokens are small blocks of encrypted code that contain user information, site permissions, and more. They serve as an additional layer of encryption and minimize the risks associated with unauthorized access.
+		- **[[API Tokens]]:** API tokens are small blocks of encrypted code that contain user information, site permissions, and more. They serve as an additional layer of encryption and minimize the risks associated with unauthorized access.
 - **Security Principles in Authorization Tools:** Basic auth and OAuth, as well as other authorization tools, are designed with security principles like the principle of least privilege and separation of duties in mind.
 - **Monitoring Access:** In addition to controlling access, it is crucial to monitor access to detect and respond to potential security threats.
 
 Authorization is a pivotal component of access control systems that ensures that users and systems only have access to the resources and actions required for their roles and responsibilities. The course prepares for exploring the third and final part of the authentication, authorization, and accounting framework in the next video.
+
+# Why we audit user activity
+
+- **Access Logs:** Access logs are records of sessions that capture information from the moment a user enters a system until they leave it. These logs are a valuable source of data for security analysts and are used to identify trends, such as failed login attempts, detect hackers who gain unauthorized access, and investigate security incidents like data breaches.
+- **Sessions:** When a user accesses a system, they initiate a session, which is a sequence of network requests and responses associated with the same user. Access logs essentially record these sessions.
+- **Session ID:** At the beginning of a session, a unique token known as a session ID is created to identify the user and their device while accessing the system. Session IDs remain attached to the user until they close their browser or the session times out.
+- **Session Cookies:** Another action that occurs at the start of a session is the exchange of session cookies between the server and the user's device. Session cookies are tokens used to validate a session and determine its duration. They make web sessions more secure and efficient.
+- **Session Hijacking:** While session cookies enhance security by not sharing sensitive information like usernames and passwords, attackers can still perform session hijacking if they steal a user's cookie. In session hijacking, cybercriminals impersonate the user using their session token, potentially causing harm such as theft of money or private data.
+- **Monitoring Session Logs:** Monitoring access logs, including session information, is crucial to identifying unusual activity that may indicate unauthorized access or data theft. It helps security professionals gain valuable insights to enhance information security.
+
+Accounting is a vital aspect of information security, as it helps detect and respond to security incidents, ensuring that systems and data remain safe. Monitoring and analyzing access logs are fundamental practices in this context.
