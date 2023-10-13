@@ -1,0 +1,1 @@
+**[[Session ID]]:** At the beginning of a session, a unique token known as a session ID is created to identify the user and their device while accessing the system. Session IDs remain attached to the user until they close their browser or the session times out.
