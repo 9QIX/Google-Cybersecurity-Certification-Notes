@@ -99,9 +99,7 @@ Accounting is a vital aspect of information security, as it helps detect and res
 Security is more than simply combining processes and technologies to protect assets. Instead, security is about ensuring that these processes and technologies are creating a secure environment that supports a defense strategy. A key to doing this is implementing two fundamental security principles that limit access to organizational resources:
 
 - The **principle of least privilege** in which a user is only granted the minimum level of access and authorization required to complete a task or function.
-    
 - **Separation of duties**, which is the principle that users should not be given levels of authorization that would allow them to misuse a system.
-    
 
 Both principles typically support each other. For example, according to least privilege, a person who needs permission to approve purchases from the IT department shouldn't have the permission to approve purchases from every department. Likewise, according to separation of duties, the person who can approve purchases from the IT department should be different from the person who can input new purchases.
 
@@ -121,16 +119,11 @@ Either model used by your organization is more than a single, clearly defined sy
 
 ## Authenticating users
 
-To ensure the right user is attempting to access a resource requires some form of proof that the user is who they claim to be. In a [video on authentication controls](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/item/r6XuB)
-
-, you learned that there are a few factors that can be used to authenticate a user:
+To ensure the right user is attempting to access a resource requires some form of proof that the user is who they claim to be. In a [video on authentication controls](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/item/r6XuB), you learned that there are a few factors that can be used to authenticate a user:
 
 - **Knowledge**, or something the user knows
-    
 - **Ownership**, or something the user possesses
-    
 - **Characteristic**, or something the user is
-    
 
 Authentication is mainly verified with login credentials. **Single sign-on** (SSO), a technology that combines several different logins into one, and **multi-factor authentication** (MFA), a security measure that requires a user to verify their identity in two or more ways to access a system or network, are other tools that organizations use to authenticate individuals and systems.
 
@@ -147,11 +140,8 @@ Back-end systems need to be able to verify whether the information provided by a
 If the right user has been authenticated, the network should ensure the right resources are made available. There are three common frameworks that organizations use to handle this step of IAM:
 
 - Mandatory access control (MAC)
-    
 - Discretionary access control (DAC)
-    
 - Role-based access control (RBAC)
-    
 
 ![Un administrador del sistema que decide conceder a los usuarios y a un sistema operativo acceso a los datos.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AxrWM2DLTSunrTWYAtwc4Q_49abc18d6b1c48748e222045153881f1_image3.png?expiry=1697328000000&hmac=7KNqUE7zZGdXmpEj7i2MLajEWwjs1sCGe8ub8wxutZY)
 
@@ -187,7 +177,4 @@ Controlling access requires a collection of systems and tools. IAM and AAA are c
 
 The identity and access management industry is growing at a rapid pace. As with other domains in security, it’s important to stay informed.
 
-- [IDPro](https://idpro.org/)
-    
-
-© is a professional organization dedicated to sharing essential IAM industry knowledge.
+- [IDPro](https://idpro.org/)© is a professional organization dedicated to sharing essential IAM industry knowledge.
