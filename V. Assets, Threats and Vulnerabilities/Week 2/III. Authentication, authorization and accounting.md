@@ -70,9 +70,9 @@ Implementing both SSO and MFA security controls improves security without sacrif
 
 # The mechanisms of authorization
 
-- **Authentication and Authorization:** Authentication validates the identity of users or systems, while authorization determines the actions or privileges they are allowed to access.
-- **Principle of Least Privilege:** Authorization is guided by the principle of least privilege, which means that access to information is granted only for the duration and extent needed for specific tasks.
-- **Separation of Duties:** Separation of duties is another fundamental security principle related to authorization. It involves ensuring that users do not have permissions that could lead to misuse or abuse of a system. This separation minimizes the risk of system failures and inappropriate behavior.
+- **Authentication and Authorization:** **[[Authentication]]** validates the identity of users or systems, while **[[authorization]]** determines the actions or privileges they are allowed to access.
+- **[[Principle of Least Privilege]]:** Authorization is guided by the principle of least privilege, which means that access to information is granted only for the duration and extent needed for specific tasks.
+- **[[Separation of Duties]]:** Separation of duties is another fundamental security principle related to authorization. It involves ensuring that users do not have permissions that could lead to misuse or abuse of a system. This separation minimizes the risk of system failures and inappropriate behavior.
 - **Role-Based Authorization:** Authorization is often role-based, meaning that the level of access granted depends on a user's role within an organization.
 - **Access Controls:** When securing data over a network, two commonly used access control mechanisms are discussed: HTTP basic auth and OAuth.
 	- **HTTP Basic Auth:** HTTP basic authentication involves sending an identifier each time a user communicates with a web page. It is considered vulnerable as it transmits usernames and passwords openly over the network.
