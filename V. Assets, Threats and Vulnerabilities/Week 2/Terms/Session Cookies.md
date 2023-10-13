@@ -1,0 +1,1 @@
+**[[Session Cookies]]:** Another action that occurs at the start of a session is the exchange of session cookies between the server and the user's device. Session cookies are tokens used to validate a session and determine its duration. They make web sessions more secure and efficient.
