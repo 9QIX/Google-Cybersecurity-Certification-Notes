@@ -98,8 +98,8 @@ Accounting is a vital aspect of information security, as it helps detect and res
 
 Security is more than simply combining processes and technologies to protect assets. Instead, security is about ensuring that these processes and technologies are creating a secure environment that supports a defense strategy. A key to doing this is implementing two fundamental security principles that limit access to organizational resources:
 
-- The **principle of least privilege** in which a user is only granted the minimum level of access and authorization required to complete a task or function.
-- **Separation of duties**, which is the principle that users should not be given levels of authorization that would allow them to misuse a system.
+- The **[[principle of least privilege]]** in which a user is only granted the minimum level of access and authorization required to complete a task or function.
+- **[[Separation of duties]]**, which is the principle that users should not be given levels of authorization that would allow them to misuse a system.
 
 Both principles typically support each other. For example, according to least privilege, a person who needs permission to approve purchases from the IT department shouldn't have the permission to approve purchases from every department. Likewise, according to separation of duties, the person who can approve purchases from the IT department should be different from the person who can input new purchases.
 
@@ -111,7 +111,7 @@ Previously, you learned about the authentication, authorization, and accounting 
 
 ## Identity and access management (IAM)
 
-As organizations become more reliant on technology, regulatory agencies have put more pressure on them to demonstrate that they’re doing everything they can to prevent threats. **Identity and access management** (IAM) is a collection of processes and technologies that helps organizations manage digital identities in their environment. Both AAA and IAM systems are designed to authenticate users, determine their access privileges, and track their activities within a system.
+As organizations become more reliant on technology, regulatory agencies have put more pressure on them to demonstrate that they’re doing everything they can to prevent threats. **[[Identity and access management (IAM)]]** is a collection of processes and technologies that helps organizations manage digital identities in their environment. Both AAA and IAM systems are designed to authenticate users, determine their access privileges, and track their activities within a system.
 
 Either model used by your organization is more than a single, clearly defined system. They each consist of a collection of security controls that ensure the _right user_ is granted access to the _right resources_ at the _right time_ and for the _right reasons_. Each of those four factors is determined by your organization's policies and processes.
 
@@ -121,9 +121,9 @@ Either model used by your organization is more than a single, clearly defined sy
 
 To ensure the right user is attempting to access a resource requires some form of proof that the user is who they claim to be. In a [video on authentication controls](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/item/r6XuB), you learned that there are a few factors that can be used to authenticate a user:
 
-- **Knowledge**, or something the user knows
-- **Ownership**, or something the user possesses
-- **Characteristic**, or something the user is
+- **[[Knowledge]]**, or something the user knows
+- **[[Ownership]]**, or something the user possesses
+- **[[Characteristic]]**, or something the user is
 
 Authentication is mainly verified with login credentials. **Single sign-on** (SSO), a technology that combines several different logins into one, and **multi-factor authentication** (MFA), a security measure that requires a user to verify their identity in two or more ways to access a system or network, are other tools that organizations use to authenticate individuals and systems.
 
