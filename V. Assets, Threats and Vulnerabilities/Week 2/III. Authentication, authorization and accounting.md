@@ -125,13 +125,13 @@ To ensure the right user is attempting to access a resource requires some form o
 - **[[Ownership]]**, or something the user possesses
 - **[[Characteristic]]**, or something the user is
 
-Authentication is mainly verified with login credentials. **Single sign-on** (SSO), a technology that combines several different logins into one, and **multi-factor authentication** (MFA), a security measure that requires a user to verify their identity in two or more ways to access a system or network, are other tools that organizations use to authenticate individuals and systems.
+**[[Authentication]]** is mainly verified with login credentials. **[[Single sign-on (SSO)]]**, a technology that combines several different logins into one, and **[[multi-factor authentication (MFA)]]**, a security measure that requires a user to verify their identity in two or more ways to access a system or network, are other tools that organizations use to authenticate individuals and systems.
 
 **Pro tip:** Another way to remember this authentication model is: something you know, something you have, and something you are.
 
 ### **User provisioning**
 
-Back-end systems need to be able to verify whether the information provided by a user is accurate. To accomplish this, users must be properly provisioned. **User provisioning** is the process of creating and maintaining a user's digital identity. For example, a college might create a new user account when a new instructor is hired. The new account will be configured to provide access to instructor-only resources while they are teaching. Security analysts are routinely involved with provisioning users and their access privileges.
+Back-end systems need to be able to verify whether the information provided by a user is accurate. To accomplish this, users must be properly provisioned. **[[User provisioning]]** is the process of creating and maintaining a user's digital identity. For example, a college might create a new user account when a new instructor is hired. The new account will be configured to provide access to instructor-only resources while they are teaching. Security analysts are routinely involved with provisioning users and their access privileges.
 
 **Pro tip:** Another role analysts have in IAM is to deprovision users. This is an important practice that removes a user's access rights when they should no longer have them.
 
@@ -145,19 +145,19 @@ If the right user has been authenticated, the network should ensure the right re
 
 ![Un administrador del sistema que decide conceder a los usuarios y a un sistema operativo acceso a los datos.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AxrWM2DLTSunrTWYAtwc4Q_49abc18d6b1c48748e222045153881f1_image3.png?expiry=1697328000000&hmac=7KNqUE7zZGdXmpEj7i2MLajEWwjs1sCGe8ub8wxutZY)
 
-### **Mandatory Access Control (MAC)**
+### **[[Mandatory Access Control (MAC)]]**
 
 MAC is the strictest of the three frameworks. Authorization in this model is based on a strict need-to-know basis. Access to information must be granted manually by a central authority or system administrator. For example, MAC is commonly applied in law enforcement, military, and other government agencies where users must request access through a chain of command. MAC is also known as non-discretionary control because access isn’t given at the discretion of the data owner.
 
 ![Un propietario de datos que decide conceder a determinados usuarios acceso a sus datos.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LHnKRh7ISfCc379NmCXMlw_5c65648b2a77437ab6998e6b978afcf1_image2.png?expiry=1697328000000&hmac=ZqwnuZTbcUgwtC3Zfhygx_3tQZZmH8FYZkx3l82VlZ4)
 
-### **Discretionary Access Control (DAC)**
+### **[[Discretionary Access Control (DAC)]]**
 
 DAC is typically applied when a data owner decides appropriate levels of access. One example of DAC is when the owner of a Google Drive folder shares editor, viewer, or commentor access with someone else.
 
 ![Un administrador del sistema que asigna usuarios a roles específicos que tienen niveles de acceso predefinidos.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/1EBo9jW3TGW_7Hulb3cUpA_16c10e1f1de94b3c95d88760722733f1_image1.png?expiry=1697328000000&hmac=lVQbREd1oU6JJ_7lOXejR0Cs61LEVxXYtf1AvyY0kPs)
 
-### **Role-Based Access Control (RBAC)**
+### **[[Role-Based Access Control (RBAC)]]**
 
 RBAC is used when authorization is determined by a user's role within an organization. For example, a user in the marketing department may have access to user analytics but not network administration.
 
