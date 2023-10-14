@@ -1,0 +1,1 @@
+**[[Hash table]]**: A data structure that's used to store and reference hash values
