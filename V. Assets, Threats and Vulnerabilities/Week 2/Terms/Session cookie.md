@@ -1,0 +1,1 @@
+**[[Session cookie]]**: A token that websites use to validate a session and determine how long that session should last
