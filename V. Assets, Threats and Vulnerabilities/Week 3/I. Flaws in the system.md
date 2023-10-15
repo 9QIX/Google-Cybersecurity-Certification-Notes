@@ -35,7 +35,7 @@ The video's analogy of the castle helps illustrate how Defense in Depth works, w
 
 # Common vulnerabilities and exposures
 
-- **Global Effort:** Cybersecurity is not just the responsibility of a single security team within an organization; it's a global effort. A wide range of individuals and organizations work together to enhance cybersecurity.
+- **[[Global Effort]]:** Cybersecurity is not just the responsibility of a single security team within an organization; it's a global effort. A wide range of individuals and organizations work together to enhance cybersecurity.
 - **Vulnerabilities and Exposures:** Vulnerabilities are weaknesses within a system, while exposures are mistakes that can be exploited by threats. For example, documents are vulnerable to being misplaced, but laying a document near an open window exposes it to being blown away.
 - **CVE List:** The Common Vulnerabilities and Exposures (CVE) list is one of the most popular libraries for documenting known vulnerabilities and exposures. It's an openly accessible dictionary of such issues and serves as a valuable resource for many organizations looking to enhance their defenses.
 - **Creation and Purpose of CVE:** The CVE list was created by the MITRE Corporation in 1999. MITRE is a non-profit research and development center sponsored by the US government, with a focus on improving security technologies worldwide. The primary purpose of the CVE list is to provide a standardized way of identifying and categorizing known vulnerabilities and exposures.
