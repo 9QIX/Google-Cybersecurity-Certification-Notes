@@ -11,7 +11,7 @@
 		- Preparing defenses against threats
 		- Evaluating the effectiveness of these defenses.
 	- **Continuous Cycle:** Vulnerability management is an ongoing, cyclical process because new vulnerabilities constantly emerge. Security teams must remain vigilant and regularly update their defenses.
-- **Zero-Day Exploits:** Zero-day exploits refer to vulnerabilities and exploits that are previously unknown. These pose significant risks as they represent unanticipated threats for which there is "zero" time to prepare. 
+- **[[Zero-Day Exploits]]:** Zero-day exploits refer to vulnerabilities and exploits that are previously unknown. These pose significant risks as they represent unanticipated threats for which there is "zero" time to prepare. 
 - **Importance of Identifying Vulnerabilities:** The most crucial step in vulnerability management is identifying vulnerabilities, as it is the foundation for developing effective security measures.
 
 Overall, the video emphasizes the importance of understanding vulnerabilities, anticipating potential exploits, and proactively addressing security weaknesses to protect assets effectively.
