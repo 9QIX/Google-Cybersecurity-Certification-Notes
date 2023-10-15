@@ -32,3 +32,18 @@ Overall, the video emphasizes the importance of understanding vulnerabilities, a
 - **Business Applications:** Many businesses design their security systems using the Defense in Depth model to provide a comprehensive and robust security framework.
 
 The video's analogy of the castle helps illustrate how Defense in Depth works, with each layer providing a unique challenge for potential attackers. By implementing this layered approach, organizations can significantly reduce the risk of security breaches and protect their valuable assets.
+
+# Common vulnerabilities and exposures
+
+- **Global Effort:** Cybersecurity is not just the responsibility of a single security team within an organization; it's a global effort. A wide range of individuals and organizations work together to enhance cybersecurity.
+- **Vulnerabilities and Exposures:** Vulnerabilities are weaknesses within a system, while exposures are mistakes that can be exploited by threats. For example, documents are vulnerable to being misplaced, but laying a document near an open window exposes it to being blown away.
+- **CVE List:** The Common Vulnerabilities and Exposures (CVE) list is one of the most popular libraries for documenting known vulnerabilities and exposures. It's an openly accessible dictionary of such issues and serves as a valuable resource for many organizations looking to enhance their defenses.
+- **Creation and Purpose of CVE:** The CVE list was created by the MITRE Corporation in 1999. MITRE is a non-profit research and development center sponsored by the US government, with a focus on improving security technologies worldwide. The primary purpose of the CVE list is to provide a standardized way of identifying and categorizing known vulnerabilities and exposures.
+- **Reporting and Review Process:** Vulnerabilities and exposures are reported to a CVE Numbering Authority (CNA) for review. CNAs are organizations that volunteer to analyze and distribute information on eligible CVEs. The reported issues go through a rigorous testing process.
+- **CVE ID Criteria:** Vulnerabilities must meet specific criteria before they are assigned a CVE ID. These criteria include being independent of other issues, recognized as a security risk, submitted with supporting evidence, and affecting only one codebase.
+- **Additional Testing:** Vulnerabilities added to the CVE list are often reviewed by other online vulnerability databases, such as the NIST National Vulnerabilities Database. These organizations subject vulnerabilities to additional testing to determine their significance and potential threat.
+- **Common Vulnerability Scoring System (CVSS):** The NIST National Vulnerabilities Database uses the Common Vulnerability Scoring System (CVSS) to score the severity of vulnerabilities. CVSS is a measurement system that calculates the impact and urgency of addressing a vulnerability. Scores range from 0 to 10, with lower scores considered low risk and higher scores indicating critical risk.
+- **Use in Vulnerability Management:** Security teams often use the CVE list and CVSS scores as part of their vulnerability management strategy. They rely on these references to prioritize security fixes and determine how quickly a vulnerability should be patched.
+- **Diverse Global Perspectives:** The contributions to online libraries like the CVE list come from diverse perspectives worldwide. The collaboration of different individuals and organizations in this effort is a fundamental aspect of the cybersecurity field.
+
+The video emphasizes the role of the global cybersecurity community in sharing information and collectively addressing vulnerabilities and exposures to protect vital assets and data.
