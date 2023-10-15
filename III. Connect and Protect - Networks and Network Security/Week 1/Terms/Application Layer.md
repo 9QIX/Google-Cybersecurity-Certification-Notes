@@ -30,3 +30,5 @@ Application layer protocols rely on underlying layers to transfer the data acros
 The application layer includes processes that ***directly involve the everyday user***. This layer includes all of the networking protocols that software applications use to connect a user to the internet. This characteristic is the identifying feature of the application layer—user connection to the network via applications and requests.
 
 An example of a type of communication that happens at the application layer is using a web browser. The internet browser uses HTTP or HTTPS to send and receive information from the website server. The email application uses simple mail transfer protocol (SMTP) to send and receive email information. Also, web browsers use the domain name system (DNS) protocol to translate website domain names into IP addresses which identify the web server that hosts the information for the website.
+
+**[[Application Layer]]:** At this layer, security measures are integrated into applications themselves. Multi-factor authentication is one example of a security control implemented at this layer.
