@@ -1,0 +1,1 @@
+**[[Perimeter Layer]]:** This layer is focused on user authentication and filtering external access. It includes technologies like usernames and passwords to allow access only to trusted entities.

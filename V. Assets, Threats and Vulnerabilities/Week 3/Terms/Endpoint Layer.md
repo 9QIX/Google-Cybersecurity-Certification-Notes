@@ -1,0 +1,1 @@
+**[[Endpoint Layer]]:** This layer is responsible for securing the devices (endpoints) with network access, such as laptops, desktops, and servers. Technologies like anti-virus software are used for protection.
