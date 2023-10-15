@@ -1,0 +1,1 @@
+**[[Data Layer]]:** The final layer focuses on protecting critical data, such as personally identifiable information (PII). Asset classification is a key control in this layer.

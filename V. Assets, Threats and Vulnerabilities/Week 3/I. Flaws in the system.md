@@ -27,7 +27,7 @@ Overall, the video emphasizes the importance of understanding vulnerabilities, a
 	3. **[[Endpoint Layer]]:** This layer is responsible for securing the devices (endpoints) with network access, such as laptops, desktops, and servers. Technologies like anti-virus software are used for protection.
 	4. **[[Application Layer]]:** At this layer, security measures are integrated into applications themselves. Multi-factor authentication is one example of a security control implemented at this layer.
 	5. **[[Data Layer]]:** The final layer focuses on protecting critical data, such as personally identifiable information (PII). Asset classification is a key control in this layer.
-- **Data Flow:** Information passes through each of these five layers when it's exchanged over a network, ensuring comprehensive protection.
+- **[[Data Flow]]:** Information passes through each of these five layers when it's exchanged over a network, ensuring comprehensive protection.
 - **Variety of Security Controls:** The Defense in Depth model includes a wide range of security controls beyond the few mentioned in the video. These controls are implemented to protect important assets.
 - **Business Applications:** Many businesses design their security systems using the Defense in Depth model to provide a comprehensive and robust security framework.
 
