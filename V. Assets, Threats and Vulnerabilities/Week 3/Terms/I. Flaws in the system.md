@@ -9,7 +9,7 @@
 		- Identifying vulnerabilities 
 		- Considering potential exploits
 		- Preparing defenses against threats
-		- Evaluating the effectiveness of these defenses.
+		- Evaluating the effectiveness of these defenses
 	- **Continuous Cycle:** Vulnerability management is an ongoing, cyclical process because new vulnerabilities constantly emerge. Security teams must remain vigilant and regularly update their defenses.
 - **[[Zero-Day Exploits]]:** Zero-day exploits refer to vulnerabilities and exploits that are previously unknown. These pose significant risks as they represent unanticipated threats for which there is "zero" time to prepare. 
 - **Importance of Identifying Vulnerabilities:** The most crucial step in vulnerability management is identifying vulnerabilities, as it is the foundation for developing effective security measures.
@@ -44,7 +44,7 @@ The video's analogy of the castle helps illustrate how Defense in Depth works, w
 			- Independent of other issues
 			- Recognized as a security risk
 			- Submitted with supporting evidence
-			- Affecting only one codebase.
+			- Affecting only one codebase
 		- **Additional Testing:** Vulnerabilities added to the CVE list are often reviewed by other online vulnerability databases, such as the NIST National Vulnerabilities Database. These organizations subject vulnerabilities to additional testing to determine their significance and potential threat.
 - **Common Vulnerability Scoring System (CVSS):** The **[[NIST National Vulnerabilities Database]]** uses the **[[Common Vulnerability Scoring System (CVSS)]]** to score the severity of vulnerabilities. CVSS is a measurement system that calculates the impact and urgency of addressing a vulnerability. Scores range from 0 to 10, with lower scores considered low risk and higher scores indicating critical risk.
 	- **Use in Vulnerability Management:** Security teams often use the CVE list and CVSS scores as part of their vulnerability management strategy. They rely on these references to prioritize security fixes and determine how quickly a vulnerability should be patched.
@@ -136,7 +136,7 @@ The terms intelligence and information are often used interchangeably, making it
 
 _[[Information]]_ refers to the collection of raw data or facts about a specific subject. _[[Intelligence]]_, on the other hand, refers to the analysis of information to produce knowledge or insights that can be used to support decision-making.
 
-	For example, new information might be released about an update to the operating system (OS) that's installed on your organization's workstations. Later, you might find that new cyber threats have been linked to this new update by researching multiple cybersecurity news resources. The analysis of this information can be used as intelligence to guide your organization's decision about installing the OS updates on employee workstations.
+For example, new information might be released about an update to the operating system (OS) that's installed on your organization's workstations. Later, you might find that new cyber threats have been linked to this new update by researching multiple cybersecurity news resources. The analysis of this information can be used as intelligence to guide your organization's decision about installing the OS updates on employee workstations.
 
 In other words, intelligence is derived from information through the process of analysis, interpretation, and integration. Gathering information and intelligence are both important aspects of cybersecurity.
 
