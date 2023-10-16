@@ -1,0 +1,1 @@
+The **[[Common Vulnerabilities and Exposures (CVE) list]]** is one of the most popular libraries for documenting known vulnerabilities and exposures. It's an openly accessible dictionary of such issues and serves as a valuable resource for many organizations looking to enhance their defenses.
