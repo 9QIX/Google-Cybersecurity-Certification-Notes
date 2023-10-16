@@ -1,0 +1,1 @@
+**[[Exposures]]** are mistakes that can be exploited by threats. For example, documents are vulnerable to being misplaced, but laying a document near an open window exposes it to being blown away.

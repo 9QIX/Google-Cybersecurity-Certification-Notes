@@ -1,0 +1,1 @@
+**Reporting and Review Process:** Vulnerabilities and exposures are reported to a **[[CVE Numbering Authority (CNA)]]** for review. CNAs are organizations that volunteer to analyze and distribute information on eligible CVEs. The reported issues go through a rigorous testing process.
