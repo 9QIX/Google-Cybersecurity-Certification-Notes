@@ -108,11 +108,11 @@ Software and data integrity failures are instaThird parties are likely to become
 
 A famous example of a supply chain attack is the [SolarWinds cyber attack (2020)](https://www.gao.gov/blog/solarwinds-cyberattack-demands-significant-federal-and-private-sector-response-infographic)where hackers injected malicious code into software updates that the company unknowingly released to their customers.
 
-### **Security logging and monitoring failures**
+### **[[Security logging and monitoring failures]]**
 
 In security, it’s important to be able to log and trace back events. Having a record of events like user login attempts is critical to finding and fixing problems. Sufficient monitoring and incident response is equally important.
 
-### **Server-side request forgery**
+### **[[Server-side request forgery]]**
 
 Companies have public and private information stored on web servers. When you use a hyperlink or click a button on a website, a request is sent to a server that should validate who you are, fetch the appropriate data, and then return it to you.
 
