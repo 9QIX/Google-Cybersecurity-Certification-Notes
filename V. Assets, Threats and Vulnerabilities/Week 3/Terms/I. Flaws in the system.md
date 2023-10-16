@@ -136,7 +136,7 @@ The terms intelligence and information are often used interchangeably, making it
 
 _[[Information]]_ refers to the collection of raw data or facts about a specific subject. _[[Intelligence]]_, on the other hand, refers to the analysis of information to produce knowledge or insights that can be used to support decision-making.
 
-For example, new information might be released about an update to the operating system (OS) that's installed on your organization's workstations. Later, you might find that new cyber threats have been linked to this new update by researching multiple cybersecurity news resources. The analysis of this information can be used as intelligence to guide your organization's decision about installing the OS updates on employee workstations.
+	For example, new information might be released about an update to the operating system (OS) that's installed on your organization's workstations. Later, you might find that new cyber threats have been linked to this new update by researching multiple cybersecurity news resources. The analysis of this information can be used as intelligence to guide your organization's decision about installing the OS updates on employee workstations.
 
 In other words, intelligence is derived from information through the process of analysis, interpretation, and integration. Gathering information and intelligence are both important aspects of cybersecurity.
 

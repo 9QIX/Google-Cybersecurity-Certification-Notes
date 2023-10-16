@@ -1,0 +1,1 @@
+_[[Information]]_ refers to the collection of raw data or facts about a specific subject.
