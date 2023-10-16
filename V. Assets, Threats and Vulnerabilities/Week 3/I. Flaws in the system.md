@@ -128,7 +128,7 @@ Staying informed and maintaining awareness about the latest cybersecurity trends
 
 Cyber attacks can sometimes be prevented with the right information, which starts with knowing where your systems are vulnerable. Previously, you learned that the CVE® list and scanning tools are two useful ways of finding weaknesses. But, there are other ways to identify vulnerabilities and threats.
 
-In this reading, you’ll learn about open-source intelligence, commonly known as OSINT. OSINT is the collection and analysis of information from publicly available sources to generate usable intelligence. It's commonly used to support cybersecurity activities, like identifying potential threats and vulnerabilities. You'll learn why open-source intelligence is gathered and how it can improve cybersecurity. You’ll also learn about commonly used resources and tools for gathering information and intelligence.
+In this reading, you’ll learn about **[[open-source intelligence]]**, commonly known as OSINT. OSINT is the collection and analysis of information from publicly available sources to generate usable intelligence. It's commonly used to support cybersecurity activities, like identifying potential threats and vulnerabilities. You'll learn why open-source intelligence is gathered and how it can improve cybersecurity. You’ll also learn about commonly used resources and tools for gathering information and intelligence.
 
 ## Information vs intelligence
 
@@ -151,13 +151,9 @@ For example, a company's InfoSec team is responsible for protecting their networ
 Here are some of the ways OSINT can be used to generate intelligence:
 
 - To provide insights into cyber attacks
-    
 - To detect potential data exposures
-    
 - To evaluate existing defenses
-    
 - To identify unknown vulnerabilities
-    
 
 Collecting intelligence is sometimes part of the vulnerability management process. Security teams might use OSINT to develop profiles of potential targets and make data driven decisions on improving their defenses.
 
@@ -166,13 +162,9 @@ Collecting intelligence is sometimes part of the vulnerability management proces
 There's an enormous amount of open-source information online. Finding relevant information that can be used to gather intelligence is a challenge. Information can be gathered from a variety of sources, such as search engines, social media, discussion boards, blogs, and more. Several tools also exist that can be used in your intelligence gathering process. Here are just a few examples of tools that you can explore:
 
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) is a service that allows anyone to analyze suspicious files, domains, URLs, and IP addresses for malicious content.
-    
 - [MITRE ATT&CK®](https://attack.mitre.org/) is a knowledge base of adversary tactics and techniques based on real-world observations.
-    
 - [OSINT Framework](https://osintframework.com/) is a web-based interface where you can find OSINT tools for almost any kind of source or platform.
-    
 - [Have I been Pwned](https://haveibeenpwned.com/) is a tool that can be used to search for breached email accounts.
-    
 
 There are numerous other OSINT tools that can be used to find specific types of information. Remember, information can be gathered from a variety of sources. Ultimately, it's your responsibility to thoroughly research any available information that's relevant to the problem you’re trying to solve.
 
