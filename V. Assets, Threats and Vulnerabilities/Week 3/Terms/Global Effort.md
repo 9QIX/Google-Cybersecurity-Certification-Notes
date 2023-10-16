@@ -1,0 +1,1 @@
+**[[Global Effort]]:** Cybersecurity is not just the responsibility of a single security team within an organization; it's a global effort. A wide range of individuals and organizations work together to enhance cybersecurity.

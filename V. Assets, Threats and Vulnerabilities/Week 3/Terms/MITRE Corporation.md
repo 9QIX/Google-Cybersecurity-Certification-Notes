@@ -1,0 +1,1 @@
+**Creation and Purpose of CVE:** The CVE list was created by the **[[MITRE Corporation]]** in 1999. MITRE is a non-profit research and development center sponsored by the US government, with a focus on improving security technologies worldwide. The primary purpose of the CVE list is to provide a standardized way of identifying and categorizing known vulnerabilities and exposures.
