@@ -122,6 +122,4 @@ Server-side request forgeries (SSRFs) are when attackers manipulate the normal o
 
 ## Key takeaways
 
-Staying informed and maintaining awareness about the latest cybersecurity trends can be a useful way to help defend against attacks and prepare for future risks in your security career. [OWASP’s Top 10](https://owasp.org/www-project-top-ten/)
-
-is a useful resource where you can learn more about these vulnerabilities.
+Staying informed and maintaining awareness about the latest cybersecurity trends can be a useful way to help defend against attacks and prepare for future risks in your security career. [OWASP’s Top 10](https://owasp.org/www-project-top-ten/)is a useful resource where you can learn more about these vulnerabilities.
