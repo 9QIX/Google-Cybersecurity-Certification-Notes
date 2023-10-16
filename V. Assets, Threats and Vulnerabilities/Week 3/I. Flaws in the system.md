@@ -104,7 +104,7 @@ Identification is the keyword in this vulnerability category. When applications 
 
 ### **[[Software and data integrity failures]]**
 
-Software and data integrity failures are instaThird parties are likely to become infected if a single system is compromised, an event known as a **[[supply chain attack]]**.nces when updates or patches are inadequately reviewed before implementation. Attackers might exploit these weaknesses to deliver malicious software. When that occurs, there can be serious downstream effects. Third parties are likely to become infected if a single system is compromised, an event known as a **[[supply chain attack]]**.
+Software and data integrity failures are instances when updates or patches are inadequately reviewed before implementation. Attackers might exploit these weaknesses to deliver malicious software. When that occurs, there can be serious downstream effects. Third parties are likely to become infected if a single system is compromised, an event known as a **[[supply chain attack]]**.
 
 A famous example of a supply chain attack is the [SolarWinds cyber attack (2020)](https://www.gao.gov/blog/solarwinds-cyberattack-demands-significant-federal-and-private-sector-response-infographic)where hackers injected malicious code into software updates that the company unknowingly released to their customers.
 
