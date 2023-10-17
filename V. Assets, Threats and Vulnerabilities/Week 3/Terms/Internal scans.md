@@ -1,0 +1,1 @@
+_[[Internal scans]]_ start from the opposite end by examining an organization's internal systems. For example, this type of scan might analyze application software for weaknesses in how it handles user input.
