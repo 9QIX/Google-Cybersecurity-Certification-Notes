@@ -1,0 +1,1 @@
+_[[Limited scans]]_ analyze particular devices on a network, like searching for misconfigurations on a firewall.
