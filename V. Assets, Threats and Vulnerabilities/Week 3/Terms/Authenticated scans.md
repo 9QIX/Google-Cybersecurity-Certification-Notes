@@ -1,0 +1,1 @@
+_[[Authenticated scans]]_ might test a system by logging in with a real user account or even with an admin account. These service accounts are used to check for vulnerabilities, like broken access controls.
