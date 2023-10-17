@@ -1,0 +1,1 @@
+**[[Red team tests]]** _simulate attacks_ to identify vulnerabilities in systems, networks, or applications.
