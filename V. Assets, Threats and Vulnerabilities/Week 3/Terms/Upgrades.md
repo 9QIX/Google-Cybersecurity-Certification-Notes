@@ -1,0 +1,1 @@
+_[[Upgrades]]_ refer to completely new versions of hardware or software that can be purchased.
