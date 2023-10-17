@@ -149,9 +149,9 @@ For example, the cybersecurity team at a financial company might simulate an att
 
 These authorized attacks are performed by pen testers who are skilled in programming and network architecture. Depending on their objectives, organizations might use a few different approaches to penetration testing:
 
-- Red team tests _simulate attacks_ to identify vulnerabilities in systems, networks, or applications.
-- Blue team tests focus on _defense_ _and incident response_ to validate an organization's existing security systems.
-- Purple team tests are _collaborative_, focusing on improving the security posture of the organization by combining elements of red and blue team exercises.
+- **[[Red team tests]]** _simulate attacks_ to identify vulnerabilities in systems, networks, or applications.
+- **[[Blue team tests]]** focus on _defense_ _and incident response_ to validate an organization's existing security systems.
+- **[[Purple team tests]]** are _collaborative_, focusing on improving the security posture of the organization by combining elements of red and blue team exercises.
 
 Red team tests are commonly performed by independent pen testers who are hired to evaluate internal systems. Although, cybersecurity teams may also have their own pen testing experts. Regardless of the approach, penetration testers must make an important decision before simulating an attack: _How much access and information do I need?_
 
@@ -160,11 +160,8 @@ Red team tests are commonly performed by independent pen testers who are hired t
 There are three common penetration testing strategies: 
 
 - **Open-box testing** is when the tester has the same privileged access that an internal developer would have—information like system architecture, data flow, and network diagrams. This strategy goes by several different names, including internal, full knowledge, white-box, and clear-box penetration testing.
-    
 - **Closed-box testing** is when the tester has little to no access to internal systems—similar to a malicious hacker. This strategy is sometimes referred to as external, black-box, or zero knowledge penetration testing.
-    
 - **Partial knowledge testing** is when the tester has limited access and knowledge of an internal system—for example, a customer service representative. This strategy is also known as gray-box testing.
-    
 
 Closed box testers tend to produce the most accurate simulations of a real-world attack. Nevertheless, each strategy produces valuable results by demonstrating how an attacker might infiltrate a system and what information they could access.
 
