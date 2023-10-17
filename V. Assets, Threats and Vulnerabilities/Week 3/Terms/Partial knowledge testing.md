@@ -1,0 +1,1 @@
+**[[Partial knowledge testing]]** is when the tester has limited access and knowledge of an internal system—for example, a customer service representative. This strategy is also known as gray-box testing.
