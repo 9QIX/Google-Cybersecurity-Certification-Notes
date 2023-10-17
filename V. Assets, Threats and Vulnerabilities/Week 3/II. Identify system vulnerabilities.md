@@ -86,9 +86,9 @@ In a video, you learned that updates fit into every security team’s remediatio
 
 An outdated computer is a lot like a house with unlocked doors. Malicious actors use these gaps in security the same way, to gain unauthorized access. Software updates are similar to locking the doors to keep them out.
 
-A **patch update** is a software and operating system update that addresses security vulnerabilities within a program or product. Patches usually contain bug fixes that address common security vulnerabilities and exposures.
+A **[[patch update]]** is a software and operating system update that addresses security vulnerabilities within a program or product. Patches usually contain bug fixes that address common security vulnerabilities and exposures.
 
-**Note:** Ideally, patches address common vulnerabilities and exposures before malicious hackers find them. However, patches are sometimes developed as a result of a **zero-day**, which is an exploit that was previously unknown.
+**Note:** Ideally, patches address common vulnerabilities and exposures before malicious hackers find them. However, patches are sometimes developed as a result of a **[[zero-day]]**, which is an exploit that was previously unknown.
 
 ## Common update strategies
 
@@ -99,7 +99,7 @@ When software updates become available, clients and users have two installation 
 
 As you’ll learn, each strategy has both benefits and disadvantages.
 
-### **Manual updates**
+### **[[Manual updates]]**
 
 A manual deployment strategy relies on IT departments or users obtaining updates from the developers. Home office or small business environments might require you to find, download, and install updates yourself. In enterprise settings, the process is usually handled with a configuration management tool. These tools offer a range of options to deploy updates, like to all clients on your network or a select group of users.  
 
@@ -107,7 +107,7 @@ A manual deployment strategy relies on IT departments or users obtaining updates
 
 **Disadvantage:** A drawback to manual update deployments is that critical updates can be forgotten or disregarded entirely.
 
-### **Automatic updates**
+### **[[Automatic updates]]**
 
 An automatic deployment strategy takes the opposite approach. With this option, finding, downloading, and installing updates can be done by the system or application.
 
@@ -121,13 +121,11 @@ Certain permissions need to be enabled by users or IT groups before updates can 
 
 ## End-of-life software
 
-Sometimes updates are not available for a certain type of software known as end-of-life (EOL) software. All software has a lifecycle. It begins when it’s produced and ends when a newer version is released. At that point, developers must allocate resources to the newer versions, which leads to EOL software. While the older software is still useful, the manufacturer no longer supports it. 
+Sometimes updates are not available for a certain type of software known as **[[end-of-life (EOL) software]]**. All software has a lifecycle. It begins when it’s produced and ends when a newer version is released. At that point, developers must allocate resources to the newer versions, which leads to EOL software. While the older software is still useful, the manufacturer no longer supports it. 
 
-**Note:** Patches and updates are very different from upgrades. _Upgrades_ refer to completely new versions of hardware or software that can be purchased.
+**Note:** Patches and updates are very different from upgrades. _[[Upgrades]]_ refer to completely new versions of hardware or software that can be purchased.
 
-[CISA recommends discontinuing the use of EOL software](https://www.cisa.gov/news-events/news/understanding-patches-and-software-updates)
-
-because it poses an unfixable risk to systems. But, this recommendation is not always followed. Replacing EOL technology can be costly for businesses and individual users.
+[CISA recommends discontinuing the use of EOL software](https://www.cisa.gov/news-events/news/understanding-patches-and-software-updates)because it poses an unfixable risk to systems. But, this recommendation is not always followed. Replacing EOL technology can be costly for businesses and individual users.
 
 The risks that EOL software presents continues to grow as more connected devices enter the marketplace. For example, there are billions of Internet of Things (IoT) devices, like smart light bulbs, connected to home and work networks. In some business settings, all an attacker needs is a single unpatched device to gain access to the network and cause problems.
 
