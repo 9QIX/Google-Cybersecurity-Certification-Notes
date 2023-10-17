@@ -159,9 +159,9 @@ Red team tests are commonly performed by independent pen testers who are hired t
 
 There are three common penetration testing strategies: 
 
-- **Open-box testing** is when the tester has the same privileged access that an internal developer would have—information like system architecture, data flow, and network diagrams. This strategy goes by several different names, including internal, full knowledge, white-box, and clear-box penetration testing.
-- **Closed-box testing** is when the tester has little to no access to internal systems—similar to a malicious hacker. This strategy is sometimes referred to as external, black-box, or zero knowledge penetration testing.
-- **Partial knowledge testing** is when the tester has limited access and knowledge of an internal system—for example, a customer service representative. This strategy is also known as gray-box testing.
+- **[[Open-box testing]]** is when the tester has the same privileged access that an internal developer would have—information like system architecture, data flow, and network diagrams. This strategy goes by several different names, including internal, full knowledge, white-box, and clear-box penetration testing.
+- **[[Closed-box testing]]** is when the tester has little to no access to internal systems—similar to a malicious hacker. This strategy is sometimes referred to as external, black-box, or zero knowledge penetration testing.
+- **[[Partial knowledge testing]]** is when the tester has limited access and knowledge of an internal system—for example, a customer service representative. This strategy is also known as gray-box testing.
 
 Closed box testers tend to produce the most accurate simulations of a real-world attack. Nevertheless, each strategy produces valuable results by demonstrating how an attacker might infiltrate a system and what information they could access.
 
@@ -170,17 +170,11 @@ Closed box testers tend to produce the most accurate simulations of a real-world
 Penetration testers are in-demand in the fast growing field of cybersecurity. All of the skills you’re learning in this program can help you advance towards a career in pen testing:
 
 - Network and application security
-    
 - Experience with operating systems, like Linux
-    
 - Vulnerability analysis and threat modeling
-    
 - Detection and response tools
-    
 - Programming languages, like Python and BASH
-    
 - Communication skills
-    
 
 Programming skills are very helpful in penetration testing because it's often performed on software and IT systems. With enough practice and dedication, cybersecurity professionals at any level can develop the skills needed to be a pen tester.
 
