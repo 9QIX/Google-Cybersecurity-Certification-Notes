@@ -1,0 +1,1 @@
+**[[Risk Assessment]]:** Vulnerabilities are assigned scores based on the severity of their potential impact and the likelihood of exploitation. Risk assessments help prioritize resources for addressing vulnerabilities.

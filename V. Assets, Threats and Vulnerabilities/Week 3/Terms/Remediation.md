@@ -1,0 +1,1 @@
+**[[Remediation]]:** This step involves addressing vulnerabilities based on their severity scores. It is a collaborative effort between security staff and IT teams to devise effective solutions, which may include enforcing new security procedures, updating systems, or implementing patches.
