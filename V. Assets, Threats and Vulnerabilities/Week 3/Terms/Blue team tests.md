@@ -1,0 +1,1 @@
+**[[Blue team tests]]** focus on _defense_ _and incident response_ to validate an organization's existing security systems.

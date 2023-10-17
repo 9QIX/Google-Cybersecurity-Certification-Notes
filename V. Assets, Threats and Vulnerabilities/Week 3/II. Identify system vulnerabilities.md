@@ -182,9 +182,7 @@ Programming skills are very helpful in penetration testing because it's often pe
 
 Organization’s commonly run bug bounty programs which offer freelance pen testers financial rewards for finding and reporting vulnerabilities in their products. Bug bounties are great opportunities for amateur security professionals to participate and grow their skills. 
 
-**Pro tip:** [HackerOne](https://hackerone.com/bug-bounty-programs)
-
-is a community of ethical hackers where you can find active bug bounties to participate in.
+**Pro tip:** [HackerOne](https://hackerone.com/bug-bounty-programs)is a community of ethical hackers where you can find active bug bounties to participate in.
 
 ## Key takeaways
 
