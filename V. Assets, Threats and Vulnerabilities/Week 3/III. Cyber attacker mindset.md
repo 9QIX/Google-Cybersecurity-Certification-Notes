@@ -143,7 +143,7 @@ It’s equally important to recognize the ways in which a threat actor might gai
 	- **Educating Users:** Educating users about security vulnerabilities, particularly those tied to specific events like new phishing exploits, is one way to defend against attack vectors.
 	- **Applying the Principle of Least Privilege:** Applying the principle of least privilege, which restricts access rights to what's required to perform a task, helps close security holes within an organization's attack surface.
 	- **Using the Right Security Controls and Tools:** The right security controls and tools, such as antivirus software, can be instrumental in defending against attack vectors, reducing the risk of human error.
-- **Building a Diverse Security Team:** Building a diverse security team with varied perspectives is crucial for reducing the risk of attack vectors and preventing future attacks. Diverse perspectives enhance the team's ability to apply an attacker's mindset and stay ahead of potential threats.
+	- **Building a Diverse Security Team:** Building a diverse security team with varied perspectives is crucial for reducing the risk of attack vectors and preventing future attacks. Diverse perspectives enhance the team's ability to apply an attacker's mindset and stay ahead of potential threats.
 - **Stay Informed:** The video encourages individuals in the field of cybersecurity to keep themselves informed as staying updated is important in this domain.
 
 Understanding attack vectors and adopting an attacker mindset are fundamental for organizations to effectively protect against a wide range of threats in the digital landscape. This approach helps identify vulnerabilities, develop security controls, and prioritize resources for defense.
