@@ -1,0 +1,1 @@
+**[[Shadow IT]]** refers to individuals who use technologies that lack IT governance. A common example is when an employee uses their personal email to send work-related communications.

@@ -1,0 +1,1 @@
+For example, there are hackers with limited skills who can’t write their own malicious software, sometimes called _[[script kiddies]]_**.**
