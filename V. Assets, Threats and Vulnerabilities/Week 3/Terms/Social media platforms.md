@@ -1,0 +1,1 @@
+**[[Social media platforms]]** that are used for communication and content sharing
