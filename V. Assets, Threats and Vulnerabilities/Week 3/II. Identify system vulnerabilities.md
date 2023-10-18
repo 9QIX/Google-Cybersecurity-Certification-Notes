@@ -190,10 +190,6 @@ A major risk for organizations is malicious hackers breaking into their systems.
 
 ## NIST SP 800-30 Rev. 1
 
-## 
-
----
-
 ### **Guide to assessing risk**
 
 NIST SP 800-30 is a publication that provides guidance on performing risk assessments. It outlines strategies for identifying, analyzing, and remediating risks. Organizations use NIST SP 800-30 to gain insights into the potential likelihood and severity of risks—helping them make informed decisions about allocating resources, implementing controls, and prioritizing remediation efforts.
