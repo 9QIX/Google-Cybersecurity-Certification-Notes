@@ -1,0 +1,1 @@
+They also include external security vendors and freelance hackers that some companies incentivize to find and report vulnerabilities, a practice called **[[bug bounty]]** programs.

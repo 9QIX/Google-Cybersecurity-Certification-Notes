@@ -1,0 +1,1 @@
+**[[Competitors]]** refers to rival companies who pose a threat because they might benefit from leaked information.
