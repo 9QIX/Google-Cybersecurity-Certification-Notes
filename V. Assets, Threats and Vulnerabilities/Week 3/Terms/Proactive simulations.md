@@ -1,0 +1,1 @@
+_[[Proactive simulations]]_ assume the role of an attacker by exploiting vulnerabilities and breaking through defenses. This is sometimes called a red team exercise.

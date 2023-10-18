@@ -1,0 +1,1 @@
+_[[Reactive simulations]]_ assume the role of a defender responding to an attack. This is sometimes called a blue team exercise.
