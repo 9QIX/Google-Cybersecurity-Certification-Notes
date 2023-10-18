@@ -1,0 +1,1 @@
+Besides access credentials, encrypted information can sometimes be brute forced using a technique known as _[[exhaustive key search]]_.
