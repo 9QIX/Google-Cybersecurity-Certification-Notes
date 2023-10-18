@@ -1,0 +1,1 @@
+**[[Criminal syndicates]]** refer to organized groups of people who make money from criminal activity.
