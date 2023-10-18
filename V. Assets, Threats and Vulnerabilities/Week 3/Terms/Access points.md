@@ -13,3 +13,9 @@ For the most part, threat actors gain access through one of these attack vector 
 - **[[Supply chains]]** like third-party vendors that can present a backdoor into systems
 
 Any of these attack vectors can provide access to a system. Recognizing a threat actor’s intentions can help you determine which access points they might target and what ultimate goals they could have. For example, remote workers are more likely to present a threat via email than a direct access threat.
+
+## Key takeaways
+
+Defending an attack surface starts with thinking like a threat actor. As a security professional, it’s important to understand _why_ someone would pose a threat to organizational assets. This includes recognizing that every threat actor isn’t intentionally out to cause harm.
+
+It’s equally important to recognize the ways in which a threat actor might gain access to a system. Matching intentions with attack vectors is an invaluable skill as you continue to develop an attacker mindset.
