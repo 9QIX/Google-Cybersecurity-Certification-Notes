@@ -1,1 +1,3 @@
 _[[Simple brute force attacks]]._ When attackers try to guess a user's login credentials, it’s considered a simple brute force attack. They might do this by entering any combination of usernames and passwords that they can think of until they find the one that works.
+
+_[[Simple brute force attacks]]_ are an approach in which attackers guess a user's login credentials. They might do this by entering any combination of username and password that they can think of until they find the one that works.

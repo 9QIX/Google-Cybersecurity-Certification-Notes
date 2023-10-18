@@ -11,3 +11,7 @@ For example, a database containing passwords might have several hashed entries f
 ![Entrada del usuario introduciendo una función hash. Se agrega un conjunto aleatorio de caracteres al proceso de hash.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VJFA9qhuRvan1_hRvGhSpg_70858cdbe6d94ad29538d1915f0e05f1_CS_R-094_Salting.png?expiry=1697241600000&hmac=pUx8oAxfiEhS43nT8XbGjH2XlG2aHyyrN454nYZKqI0)
 
 For this reason, salting has become increasingly common when storing passwords and other types of sensitive data. The length and uniqueness of a salt is important. Similar to hash values, the longer and more complex a salt is, the harder it is to crack.
+
+### **Hashing and salting**
+
+**[[Hashing]]** converts information into a unique value that can then be used to determine its integrity. **[[Salting]]** is an additional safeguard that’s used to strengthen hash functions. It works by adding random characters to data, like passwords. This increases the length and complexity of hash values, making them harder to brute force and less susceptible to dictionary attacks.

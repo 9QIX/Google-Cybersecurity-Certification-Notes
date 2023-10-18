@@ -9,3 +9,7 @@ MFA is a security measure which requires a user to verify their identity in two 
 **[[Multi-factor authentication (MFA)]]** requires a user to verify their identity in two or more ways to access a system or network. In a sense, MFA is similar to using an ATM to withdraw money from your bank account. First, you insert a debit card into the machine as one form of identification. Then, you enter your PIN number as a second form of identification. Combined, both steps, or factors, are used to verify your identity before authorizing you to access the account.
 
 ![La ecuación muestra que el inicio de sesión del usuario más dispositivos biométricos o físicos dan por resultado el acceso.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hNHsmtDZRI28CtisHKRAew_cedbe22c98dc4ef095d8b8884cf689f1_CS_R-095_mfa-equation.png?expiry=1697241600000&hmac=z2eQV_3Mtqzrbi_lkxO0ITJFXKxECdljVyhpAUez4dA)
+
+### **Multi-factor authentication (MFA)**
+
+**[[Multi-factor authentication (MFA)]]** is a security measure that requires a user to verify their identity in two or more ways to access a system or network. MFA is a layered approach to protecting information. MFA limits the chances of brute force attacks because unauthorized users are unlikely to meet each authentication requirement even if one credential becomes compromised.

@@ -160,12 +160,12 @@ One way of opening a closed lock is trying as many combinations as possible. Thr
 
 Attackers use a variety of tactics to find their way into a system:
 
-- _Simple brute force attacks_ are an approach in which attackers guess a user's login credentials. They might do this by entering any combination of username and password that they can think of until they find the one that works.
-- _Dictionary attacks_ are a similar technique except in these instances attackers use a list of commonly used credentials to access a system. This list is similar to matching a definition to a word in a dictionary.
-- _Reverse brute force attacks_ are similar to dictionary attacks, except they start with a single credential and try it in various systems until a match is found.
-- _Credential stuffing_ is a tactic in which attackers use stolen login credentials from previous data breaches to access user accounts at another organization. A specialized type of credential stuffing is called _pass the hash_. These attacks reuse stolen, unsalted hashed credentials to trick an authentication system into creating a new authenticated user session on the network.
+- _[[Simple brute force attacks]]_ are an approach in which attackers guess a user's login credentials. They might do this by entering any combination of username and password that they can think of until they find the one that works.
+- _[[Dictionary attacks]]_ are a similar technique except in these instances attackers use a list of commonly used credentials to access a system. This list is similar to matching a definition to a word in a dictionary.
+- _[[Reverse brute force attacks]]_ are similar to dictionary attacks, except they start with a single credential and try it in various systems until a match is found.
+- _[[Credential stuffing]]_ is a tactic in which attackers use stolen login credentials from previous data breaches to access user accounts at another organization. A specialized type of credential stuffing is called _[[pass the hash]]_. These attacks reuse stolen, unsalted hashed credentials to trick an authentication system into creating a new authenticated user session on the network.
 
-**Note:** Besides access credentials, encrypted information can sometimes be brute forced using a technique known as _exhaustive key search_.
+**Note:** Besides access credentials, encrypted information can sometimes be brute forced using a technique known as _[[exhaustive key search]]_.
 
 Each of these methods involve a lot of guess work. Brute forcing your way into a system can be a tedious and time consuming process—especially when it’s done manually. That’s why threat actors often use tools to conduct their attacks.
 
@@ -175,11 +175,11 @@ There are so many combinations that can be used to create a single set of login 
 
 Instead of dedicating the time to do this, attackers often use software to do the guess work for them. These are some common brute forcing tools:
 
-- Aircrack-ng
-- Hashcat 
-- John the Ripper
-- Ophcrack
-- THC Hydra
+- **Aircrack-ng**: Tests the security of wireless networks, particularly for cracking Wi-Fi passwords.
+- **Hashcat**: A powerful tool for cracking hashed passwords.
+- **John the Ripper**: A tool known for its speed and effectiveness in cracking passwords.
+- **Ophcrack**: Specifically designed for cracking Windows passwords.
+- **THC Hydra**: A versatile and fast password-cracking tool that supports various protocols and services.
 
 Sometimes, security professionals use these tools to test and analyze their own systems. They each serve different purposes. For example, you might use Aircrack-ng to test a Wi-Fi network for vulnerabilities to brute force attack.
 
@@ -196,15 +196,15 @@ Technologies, like multi-factor authentication (MFA), reinforce each login attem
 
 ### **Hashing and salting**
 
-Hashing converts information into a unique value that can then be used to determine its integrity. **Salting** is an additional safeguard that’s used to strengthen hash functions. It works by adding random characters to data, like passwords. This increases the length and complexity of hash values, making them harder to brute force and less susceptible to dictionary attacks.
+**[[Hashing]]** converts information into a unique value that can then be used to determine its integrity. **[[Salting]]** is an additional safeguard that’s used to strengthen hash functions. It works by adding random characters to data, like passwords. This increases the length and complexity of hash values, making them harder to brute force and less susceptible to dictionary attacks.
 
 ### **Multi-factor authentication (MFA)**
 
-**Multi-factor authentication** (MFA) is a security measure that requires a user to verify their identity in two or more ways to access a system or network. MFA is a layered approach to protecting information. MFA limits the chances of brute force attacks because unauthorized users are unlikely to meet each authentication requirement even if one credential becomes compromised.
+**[[Multi-factor authentication (MFA)]]** is a security measure that requires a user to verify their identity in two or more ways to access a system or network. MFA is a layered approach to protecting information. MFA limits the chances of brute force attacks because unauthorized users are unlikely to meet each authentication requirement even if one credential becomes compromised.
 
 ### **CAPTCHA**
 
-CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. It is known as a challenge-response authentication system. CAPTCHA asks users to complete a simple test that proves they are human and not software that’s trying to brute force a password.
+**[[CAPTCHA]]** stands for Completely Automated Public Turing test to tell Computers and Humans Apart. It is known as a challenge-response authentication system. CAPTCHA asks users to complete a simple test that proves they are human and not software that’s trying to brute force a password.
 
 Here are common CAPTCHA examples:
 
@@ -214,7 +214,7 @@ There are two types of CAPTCHA tests. One scrambles and distorts a randomly gene
 
 ### **Password policy**
 
-Organizations use these managerial controls to standardize good password practices across their business. For example, one of these policies might require users to create passwords that are at least 8 characters long and feature a letter, number, and symbol. Other common requirements can include password lockout policies. For example, a password lockout can limit the number of login attempts before access to an account is suspended and require users to create new, unique passwords after a certain amount of time.
+**[[Password Policies]]** is where organizations use these managerial controls to standardize good password practices across their business. For example, one of these policies might require users to create passwords that are at least 8 characters long and feature a letter, number, and symbol. Other common requirements can include password lockout policies. For example, a password lockout can limit the number of login attempts before access to an account is suspended and require users to create new, unique passwords after a certain amount of time.
 
 The purpose of each of these requirements is to create more possible password combinations. This lengthens the amount of time it takes an attacker to find one that will work. The [National Institute of Standards and Technology (NIST) Special Publication 800-63B](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf) provides detailed guidance that organizations can reference when creating their own password policies.
 
