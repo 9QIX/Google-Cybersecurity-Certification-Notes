@@ -7,3 +7,5 @@ A **[[Hacker]]** is any person who uses computers to gain access to computer sys
 [[Threat actor]] and [[Hacker]] are technically skilled individuals. Understanding their motivations and intentions will help you be better prepared to protect your organization and the people it serves from malicious attacks carried out by some of these individuals and groups. 
 
 **[[Hacker]]:** Any person who uses computers to gain access to computer systems, networks, or data
+
+In the digital attack surface, these threat actors often gain unauthorized access by hacking into systems. By definition, a **[[hacker]]** is any person who uses computers to gain access to computer systems, networks, or data. Similar to the term threat actor, hacker is also an umbrella term. When used alone, the term fails to capture a threat actor’s intentions.
