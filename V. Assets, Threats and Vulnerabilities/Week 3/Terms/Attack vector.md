@@ -1,0 +1,1 @@
+**[[Attack vector]]**: The pathways attackers use to penetrate security defenses

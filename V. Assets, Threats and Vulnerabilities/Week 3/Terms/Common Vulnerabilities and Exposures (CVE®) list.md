@@ -1,0 +1,1 @@
+**[[Common Vulnerabilities and Exposures (CVE®) list]]**: An openly accessible dictionary of known vulnerabilities and exposures
