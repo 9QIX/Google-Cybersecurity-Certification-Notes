@@ -14,7 +14,7 @@ Understanding the concept of an attack surface is essential for security teams a
 
 Cybersecurity is a continuously changing field. It's a fast-paced environment where new threats and innovative technologies can disrupt your plans at a moment's notice. As a security professional, it’s up to you to be prepared by anticipating change.
 
-This all starts with identifying vulnerabilities. In a video, you learned about the importance of **vulnerability assessments,** the internal review process of an organization's security systems. In this reading, you will learn how you can use the findings of a vulnerability assessment proactively by analyzing them from the perspective of an attacker.
+This all starts with identifying vulnerabilities. In a video, you learned about the importance of **[[vulnerability assessments]],** the internal review process of an organization's security systems. In this reading, you will learn how you can use the findings of a vulnerability assessment proactively by analyzing them from the perspective of an attacker.
 
 ## Being prepared for anything
 
@@ -28,8 +28,8 @@ Applying an attacker mindset is a lot like conducting an experiment. It's about 
 
 One method of applying an attacker mindset is using attack simulations. These activities are normally performed in one of two ways: _proactively_ and _reactively_. Both approaches share a common goal, which is to make systems safer.
 
-- _Proactive simulations_ assume the role of an attacker by exploiting vulnerabilities and breaking through defenses. This is sometimes called a red team exercise.
-- _Reactive simulations_ assume the role of a defender responding to an attack. This is sometimes called a blue team exercise.
+- _[[Proactive simulations]]_ assume the role of an attacker by exploiting vulnerabilities and breaking through defenses. This is sometimes called a red team exercise.
+- _[[Reactive simulations]]_ assume the role of a defender responding to an attack. This is sometimes called a blue team exercise.
 
 Each kind of simulation is a team effort that you might be involved with as an analyst.
 
@@ -39,14 +39,14 @@ On the other hand, reactive teams dedicate their efforts to gathering informatio
 
 ## Scanning for trouble
 
-You might recall that a **vulnerability scanner** is software that automatically compares existing common vulnerabilities and exposures against the technologies on the network. Vulnerability scanners are frequently used in the field. Security teams employ a variety of scanning techniques to uncover weaknesses in their defenses. Reactive simulations often rely on the results of a scan to weigh the risks and determine ways to remediate a problem.
+You might recall that a **[[vulnerability scanner]]** is software that automatically compares existing common vulnerabilities and exposures against the technologies on the network. Vulnerability scanners are frequently used in the field. Security teams employ a variety of scanning techniques to uncover weaknesses in their defenses. Reactive simulations often rely on the results of a scan to weigh the risks and determine ways to remediate a problem.
 
 For example, a team conducting a reactive simulation might perform an external vulnerability scan of their network. The entire exercise might follow the steps you learned in a video about vulnerability assessments:
 
-- **Identification:** A vulnerable server is flagged because it's running an outdated operating system (OS).
-- **Vulnerability analysis:** Research is done on the outdated OS and its vulnerabilities.
-- **Risk assessment:** After doing your due diligence, the severity of each vulnerability is scored and the impact of not fixing it is evaluated.
-- **Remediation**: Finally, the information that you’ve gathered can be used to address the issue.
+- **[[Identification]]:** A vulnerable server is flagged because it's running an outdated operating system (OS).
+- **[[Vulnerability analysis]]:** Research is done on the outdated OS and its vulnerabilities.
+- **[[Risk assessment]]:** After doing your due diligence, the severity of each vulnerability is scored and the impact of not fixing it is evaluated.
+- **[[Remediation]]**: Finally, the information that you’ve gathered can be used to address the issue.
 
 During an activity like this, you’ll often produce a report of your findings. These can be brought to the attention of service providers or your supervisors. Clearly communicating the results of these exercises to others is an important skill to develop as a security professional.
 
