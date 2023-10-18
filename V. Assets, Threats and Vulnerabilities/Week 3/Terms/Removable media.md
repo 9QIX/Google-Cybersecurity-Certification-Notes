@@ -1,0 +1,1 @@
+**[[Removable media]]**, which includes portable hardware, like USB flash drives
