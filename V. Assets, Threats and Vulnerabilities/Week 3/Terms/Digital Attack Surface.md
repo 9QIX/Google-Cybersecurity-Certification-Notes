@@ -1,0 +1,6 @@
+**[[Digital Attack Surface]]:** The digital attack surface encompasses all the elements beyond an organization's firewall, including everything that connects to the organization online. Unlike the physical attack surface, hardening the digital attack surface can be more challenging.
+
+
+- **[[Digital Attack Surface]]:** The digital attack surface encompasses all the elements beyond an organization's firewall, including everything that connects to the organization online. Unlike the physical attack surface, hardening the digital attack surface can be more challenging.
+	- **Impact of Cloud Computing:** With the advent of cloud computing, organizations store their data in distributed locations, often outside their premises. This expansion of the digital attack surface allows information to be accessed from anywhere in the world, which offers greater convenience but also exposes organizations to threats from various entry points.
+		- **Challenges Ahead:** The video hints at exploring why securing the expanded digital attack surface is a significant challenge, which may be addressed in the next part of the discussion.

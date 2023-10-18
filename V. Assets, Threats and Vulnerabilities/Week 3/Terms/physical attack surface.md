@@ -1,0 +1,1 @@
+The **[[physical attack surface]]** includes people and their devices, which can be targeted from both inside and outside the organization. For example, an unattended laptop in a public space can be vulnerable to external threats, such as competitors or internal threats, like disgruntled employees.
