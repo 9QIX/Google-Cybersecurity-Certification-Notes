@@ -75,15 +75,10 @@ A **threat actor** is any person or group who presents a security risk. This bro
 Threat actors are normally divided into five categories based on their motivations:
 
 - **Competitors** refers to rival companies who pose a threat because they might benefit from leaked information.
-    
 - **State actors** are government intelligence agencies.
-    
 - **Criminal syndicates** refer to organized groups of people who make money from criminal activity.
-    
 - **Insider threats** can be any individual who has or had authorized access to an organization’s resources. This includes employees who accidentally compromise assets or individuals who purposefully put them at risk for their own benefit.
-    
 - **Shadow IT** refers to individuals who use technologies that lack IT governance. A common example is when an employee uses their personal email to send work-related communications.
-    
 
 In the digital attack surface, these threat actors often gain unauthorized access by hacking into systems. By definition, a **hacker** is any person who uses computers to gain access to computer systems, networks, or data. Similar to the term threat actor, hacker is also an umbrella term. When used alone, the term fails to capture a threat actor’s intentions.
 
@@ -94,11 +89,8 @@ In the digital attack surface, these threat actors often gain unauthorized acces
 Because the formal definition of a hacker is broad, the term can be a bit ambiguous. In security, it applies to three types of individuals based on their intent:
 
 1. Unauthorized hackers 
-    
 2. Authorized, or ethical, hackers
-    
 3. Semi-authorized hackers
-    
 
 An unauthorized hacker, or unethical hacker, is an individual who uses their programming skills to commit crimes. Unauthorized hackers are also known as malicious hackers. Skill level ranges widely among this category of hacker. For example, there are hackers with limited skills who can’t write their own malicious software, sometimes called _script kiddies_**.** Unauthorized hackers like this carry out attacks using pre-written code that they obtain from other, more skilled hackers.
 
@@ -121,19 +113,12 @@ Each threat actor has a unique motivation for targeting an organization's assets
 For the most part, threat actors gain access through one of these attack vector categories:
 
 - **Direct access**, referring to instances when they have physical access to a system
-    
 - **Removable media**, which includes portable hardware, like USB flash drives
-    
 - **Social media platforms** that are used for communication and content sharing
-    
 - **Email**, including both personal and business accounts
-    
 - **Wireless networks** on premises
-    
 - **Cloud services** usually provided by third-party organizations
-    
 - **Supply chains** like third-party vendors that can present a backdoor into systems
-    
 
 Any of these attack vectors can provide access to a system. Recognizing a threat actor’s intentions can help you determine which access points they might target and what ultimate goals they could have. For example, remote workers are more likely to present a threat via email than a direct access threat.
 
