@@ -161,13 +161,9 @@ One way of opening a closed lock is trying as many combinations as possible. Thr
 Attackers use a variety of tactics to find their way into a system:
 
 - _Simple brute force attacks_ are an approach in which attackers guess a user's login credentials. They might do this by entering any combination of username and password that they can think of until they find the one that works.
-    
 - _Dictionary attacks_ are a similar technique except in these instances attackers use a list of commonly used credentials to access a system. This list is similar to matching a definition to a word in a dictionary.
-    
 - _Reverse brute force attacks_ are similar to dictionary attacks, except they start with a single credential and try it in various systems until a match is found.
-    
 - _Credential stuffing_ is a tactic in which attackers use stolen login credentials from previous data breaches to access user accounts at another organization. A specialized type of credential stuffing is called _pass the hash_. These attacks reuse stolen, unsalted hashed credentials to trick an authentication system into creating a new authenticated user session on the network.
-    
 
 **Note:** Besides access credentials, encrypted information can sometimes be brute forced using a technique known as _exhaustive key search_.
 
@@ -180,15 +176,10 @@ There are so many combinations that can be used to create a single set of login 
 Instead of dedicating the time to do this, attackers often use software to do the guess work for them. These are some common brute forcing tools:
 
 - Aircrack-ng
-    
 - Hashcat 
-    
 - John the Ripper
-    
 - Ophcrack
-    
 - THC Hydra
-    
 
 Sometimes, security professionals use these tools to test and analyze their own systems. They each serve different purposes. For example, you might use Aircrack-ng to test a Wi-Fi network for vulnerabilities to brute force attack.
 
@@ -197,13 +188,9 @@ Sometimes, security professionals use these tools to test and analyze their own 
 Organizations defend against brute force attacks with a combination of technical and managerial controls. Each make cracking defense systems through brute force less likely:
 
 - Hashing and salting
-    
 - Multi-factor authentication (MFA)
-    
 - CAPTCHA
-    
 - Password policies
-    
 
 Technologies, like multi-factor authentication (MFA), reinforce each login attempt by requiring a second or third form of identification. Other important tools are CAPTCHA and effective password policies.
 
