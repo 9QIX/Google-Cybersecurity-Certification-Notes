@@ -1,0 +1,1 @@
+**[[Email phishing]]** is a type of attack sent via email in which threat actors send messages pretending to be a trusted person or entity.
