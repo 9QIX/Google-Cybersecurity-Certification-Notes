@@ -1,0 +1,1 @@
+**[[Injection Attacks]]:** Injection attacks involve the insertion of malicious code into a vulnerable application, often running unnoticed in the background. Applications are vulnerable because they receive data inputs, such as user-entered information, which they should validate and handle correctly.

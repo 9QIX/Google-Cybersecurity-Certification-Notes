@@ -1,0 +1,1 @@
+**[[Reflected XSS]]:** Malicious script is sent to the server and activated during the server's response, often delivered through deceptive web links.
