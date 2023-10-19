@@ -1,0 +1,1 @@
+A **[[botnet]]**, short for “robot network,” is a collection of computers infected by malware that are under the control of a single threat actor, known as the “**[[bot-herder]]**.” 

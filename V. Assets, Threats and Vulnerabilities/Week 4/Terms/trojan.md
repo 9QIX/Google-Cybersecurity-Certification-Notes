@@ -1,0 +1,3 @@
+## Trojan
+
+A **[[trojan]]**, also called a **[[Trojan horse]]**, is malware that looks like a legitimate file or program. This characteristic relates to how trojans are spread. Similar to viruses, attackers deliver this type of malware hidden in file and application downloads. Attackers rely on tricking unsuspecting users into believing they’re downloading a harmless file, when they’re actually infecting their own device with malware that can be used to spy on them, grant access to other devices, and more.

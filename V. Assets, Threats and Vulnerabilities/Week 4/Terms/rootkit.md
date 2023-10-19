@@ -1,0 +1,1 @@
+A **[[rootkit]]** is malware that provides remote, administrative access to a computer. Most attackers use rootkits to open a backdoor to systems, allowing them to install other forms of malware or to conduct network security attacks.

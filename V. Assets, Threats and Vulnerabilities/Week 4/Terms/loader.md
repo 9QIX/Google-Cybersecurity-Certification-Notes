@@ -1,0 +1,1 @@
+Multi-staged malware attacks, where multiple packets of malicious code are deployed, commonly use a variation called a loader. A **[[loader]]** is a type of malware that downloads strains of malicious code from an external source and installs them onto a target system. Attackers might use loaders for different purposes, such as to set up another type of malware---a botnet.
