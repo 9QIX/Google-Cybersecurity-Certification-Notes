@@ -85,7 +85,8 @@ Here are two additional resources to review that will help you continue developi
 - **Preventive Measures:** Organizations adopt several security measures to prevent phishing attacks, including:
 	- **Anti-phishing policies** to raise awareness, 
 	- **Employee training resources** to educate staff about identifying suspicious emails
-	- **Email filters** or securing email inboxes through filters and intrusion prevention systems.
+	- **Email filters** or securing email inboxes through filters  
+	- **Intrusion prevention systems** to look for unusual patterns in email traffic
 - **Costly Data Breaches:** Even a single compromised password can lead to a costly data breach. Understanding the tools employed by attackers equips individuals and organizations to recognize and prevent phishing attacks effectively.
 
 The video underscores the importance of being vigilant against phishing attacks, given their popularity and potential for significant harm. By understanding the tools and tactics employed by cybercriminals, individuals and organizations can better protect themselves from these malicious activities.
