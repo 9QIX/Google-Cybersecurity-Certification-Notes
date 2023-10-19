@@ -1,0 +1,1 @@
+**[[Worm]]:** Worms are self-replicating malware that can spread across systems independently. Unlike viruses, they don't require user actions to duplicate and infect other devices on a network.

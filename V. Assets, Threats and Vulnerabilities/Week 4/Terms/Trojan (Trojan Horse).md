@@ -1,0 +1,1 @@
+**[[Trojan (Trojan Horse)]]:** Trojans are malware that appear as legitimate files or programs. They are often disguised as harmless applications to trick users into installing them. Trojans are commonly used to gain access to a system and install other malware, such as ransomware.
