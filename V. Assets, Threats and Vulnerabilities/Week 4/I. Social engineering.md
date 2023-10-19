@@ -73,24 +73,19 @@ Here are two additional resources to review that will help you continue developi
 # Phishing for information
 
 - **Preference for High-Impact, Low-Effort Attacks:** Cybercriminals often favor attacks that maximize damage with minimal effort. Phishing attacks are a prime example of such attacks.
-
-- **Definition of Phishing:** Phishing is a form of social engineering that leverages digital communications, primarily emails, to deceive individuals into divulging sensitive information or deploying malicious software.
-
-- **Organizational Impact:** Phishing attacks are not limited to individuals; they can also harm organizations. A single employee falling victim to a phishing attack can provide malicious actors with access to systems and sensitive data.
-
-- **Use of Phishing Kits:** Cybercriminals employ phishing kits, which are collections of software tools required to launch phishing campaigns. These kits are designed to be user-friendly and evade detection.
-
-- **Components of Phishing Kits:** Phishing kits typically contain three main tools:
-	1. **Malicious Attachments:** These are infected files that can harm an organization's systems.
-	2. **Fake Data Collection Forms:** These forms mimic legitimate surveys but request sensitive information not typically sought in email communications.
-	3. **Fraudulent Web Links:** These links lead to malicious web pages designed to mimic trusted brands and steal information, such as login credentials.
-
+- **Definition of Phishing:** **[[Phishing]]** is a form of social engineering that leverages digital communications, primarily emails, to deceive individuals into divulging sensitive information or deploying malicious software.
+	- **Organizational Impact:** Phishing attacks are not limited to individuals; they can also harm organizations. A single employee falling victim to a phishing attack can provide malicious actors with access to systems and sensitive data.
+	- **Use of Phishing Kits:** Cybercriminals employ **[[phishing kits]]**, which are collections of software tools required to launch phishing campaigns. These kits are designed to be user-friendly and evade detection.
+		- **Components of Phishing Kits:** Phishing kits typically contain three main tools:
+			1. **[[Malicious Attachments]]:** These are infected files that can harm an organization's systems.
+			2. **[[Fake Data-Collection Forms]]:** These forms mimic legitimate surveys but request sensitive information not typically sought in email communications.
+			3. **[[Fraudulent Web Links]]:** These links lead to malicious web pages designed to mimic trusted brands and steal information, such as login credentials.
 - **Variability in Phishing Forms:** Cybercriminals employ these tools to launch phishing attacks through various communication methods, with malicious emails being the most common. However, smishing (via text messages) and vishing (via voice calls) are also becoming popular.
-
-- **Smishing and Vishing:** Smishing involves using text messages to deceive individuals into revealing sensitive information or impersonating trusted sources. Attackers may use local area codes or impersonate friends and family to appear legitimate. Vishing relies on phone calls to impersonate known sources, such as company representatives, to extract sensitive information.
-
-- **Preventive Measures:** Organizations adopt several security measures to prevent phishing attacks, including anti-phishing policies to raise awareness, employee training resources to educate staff about identifying suspicious emails, and securing email inboxes through filters and intrusion prevention systems.
-
+- **Smishing and Vishing:** **[[Smishing]]** involves using text messages to deceive individuals into revealing sensitive information or impersonating trusted sources. Attackers may use local area codes or impersonate friends and family to appear legitimate. **[[Vishing]]** relies on phone calls to impersonate known sources, such as company representatives, to extract sensitive information.
+- **Preventive Measures:** Organizations adopt several security measures to prevent phishing attacks, including:
+	- **Anti-phishing policies** to raise awareness, 
+	- **Employee training resources** to educate staff about identifying suspicious emails
+	- **Email filters** or securing email inboxes through filters and intrusion prevention systems.
 - **Costly Data Breaches:** Even a single compromised password can lead to a costly data breach. Understanding the tools employed by attackers equips individuals and organizations to recognize and prevent phishing attacks effectively.
 
 The video underscores the importance of being vigilant against phishing attacks, given their popularity and potential for significant harm. By understanding the tools and tactics employed by cybercriminals, individuals and organizations can better protect themselves from these malicious activities.
