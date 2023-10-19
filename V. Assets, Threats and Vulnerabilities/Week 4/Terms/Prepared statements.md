@@ -1,1 +1,3 @@
 **Defense Against SQL Injection:** The best defense against SQL injection is proper input sanitization. Developers can write code that looks for specific SQL characters, ensuring that inputs are handled correctly. **[[Prepared statements]]**, a coding technique that executes SQL statements before database execution, are an effective way to guard against SQL injection, especially when user input is unknown.
+
+**[[Prepared statements]]**: a coding technique that executes SQL statements before passing them on to a database
