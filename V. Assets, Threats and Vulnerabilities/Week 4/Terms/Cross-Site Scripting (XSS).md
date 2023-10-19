@@ -1,0 +1,5 @@
+- **[[Cross-Site Scripting (XSS)]]:** XSS is a dangerous type of injection attack that inserts code into a vulnerable website or web application, often exploiting HTML and JavaScript. This provides cybercriminals with access to various data, including session cookies, geolocation, webcams, and microphones.
+	- **Types of XSS Attacks:** Three main types of XSS attacks are discussed:
+		1. **[[Reflected XSS]]:** Malicious script is sent to the server and activated during the server's response, often delivered through deceptive web links.
+		2. **[[Stored XSS]]:** Malicious script is directly injected on the server, targeting elements served to users, and can infect the site without user awareness.
+		3. **[[DOM-Based XSS]]:** Malicious script exists within the web page's source code, requiring no interaction with the server to activate.

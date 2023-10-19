@@ -1,0 +1,1 @@
+**[[DOM-Based XSS]]:** Malicious script exists within the web page's source code, requiring no interaction with the server to activate.
