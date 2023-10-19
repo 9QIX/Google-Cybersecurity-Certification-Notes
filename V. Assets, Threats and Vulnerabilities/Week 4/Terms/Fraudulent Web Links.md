@@ -1,0 +1,1 @@
+**[[Fraudulent Web Links]]:** These links lead to malicious web pages designed to mimic trusted brands and steal information, such as login credentials.

@@ -1,0 +1,1 @@
+**Use of Phishing Kits:** Cybercriminals employ **[[phishing kits]]**, which are collections of software tools required to launch phishing campaigns. These kits are designed to be user-friendly and evade detection.

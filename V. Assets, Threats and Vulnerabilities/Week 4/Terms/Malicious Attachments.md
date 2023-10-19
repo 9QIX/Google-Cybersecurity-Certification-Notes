@@ -1,0 +1,1 @@
+**[[Malicious Attachments]]:** These are infected files that can harm an organization's systems.
