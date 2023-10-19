@@ -1,0 +1,1 @@
+**[[Input sanitization]]**: programming that removes user input which could be interpreted as code.

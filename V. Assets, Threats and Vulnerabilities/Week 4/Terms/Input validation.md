@@ -1,0 +1,1 @@
+**[[Input validation]]**: programming that ensures user input meets a system's expectations.
