@@ -21,3 +21,9 @@ Some of the most common types of social engineering attacks today include:
 	- **Establish trust** 
 	- **Use persuasive tactics**
 	- **Disconnect from the target**
+
+# Social engineering tactics
+
+Social engineering attacks are a popular choice among threat actors. That’s because it’s often easier to trick people into providing them with access, information, or money than it is to exploit a software or network vulnerability.
+
+As you might recall, **[[social engineering]]** is a manipulation technique that exploits human error to gain private information, access, or valuables. It's an umbrella term that can apply to a broad range of attacks. Each technique is designed to capitalize on the trusting nature of people and their willingness to help. In this reading, you will learn about specific social engineering tactics to watch out for. You’ll also learn ways that organizations counter these threats.
