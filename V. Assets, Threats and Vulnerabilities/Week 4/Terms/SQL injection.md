@@ -1,0 +1,7 @@
+**SQL Injection Attacks:** **[[SQL injection]]** is a type of attack that exploits vulnerabilities in web applications, primarily in areas designed to accept user input. These vulnerabilities arise due to a lack of input sanitization.
+
+- **SQL Injection Attacks:** **[[SQL injection]]** is a type of attack that exploits vulnerabilities in web applications, primarily in areas designed to accept user input. These vulnerabilities arise due to a lack of input sanitization.
+	- **Injection Points:** Common injection points include forms, such as login forms, where user input is directly incorporated into SQL statements.
+	- **Injection Mechanism:** Attackers insert additional SQL code into input fields, which can manipulate the server into executing unintended or malicious database queries.
+	- **Impact of SQL Injection:** Malicious hackers can exploit SQL injection to access sensitive information, modify database tables, and even gain administrative privileges.
+- **Defense Against SQL Injection:** The best defense against SQL injection is proper input sanitization. Developers can write code that looks for specific SQL characters, ensuring that inputs are handled correctly. **[[Prepared statements]]**, a coding technique that executes SQL statements before database execution, are an effective way to guard against SQL injection, especially when user input is unknown.
