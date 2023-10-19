@@ -1,0 +1,1 @@
+**[[Increased CPU usage]]:** Cryptojacking software typically consumes a significant portion of the CPU's resources.

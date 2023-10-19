@@ -1,0 +1,1 @@
+**Challenges of Detection:** Cryptojacking is challenging to detect, but security professionals can utilize tools like **[[intrusion detection systems (IDS)]]** to monitor system activity and identify possible intrusions. However, these systems have limitations in detecting new forms of malware.
