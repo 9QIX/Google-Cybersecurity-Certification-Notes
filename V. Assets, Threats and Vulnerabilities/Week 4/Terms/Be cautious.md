@@ -1,0 +1,1 @@
+**[[Be cautious]]** about sharing information, especially over social media. Threat actors often search these platforms for any information they can use to their advantage.

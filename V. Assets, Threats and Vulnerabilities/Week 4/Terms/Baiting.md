@@ -1,0 +1,1 @@
+**[[Baiting]]** is a social engineering tactic that tempts people into compromising their security. A common example is USB baiting that relies on someone finding an infected USB drive and plugging it into their device.
