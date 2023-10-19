@@ -51,12 +51,9 @@ Attackers might use any of these techniques to gain unauthorized access to an or
 
 Spreading awareness usually starts with comprehensive security training. When it comes to social engineering, there are three main areas to focus on when teaching others:
 
-- **Stay alert** of suspicious communications and unknown people, especially when it comes to email. For example, look out for spelling errors and double-check the sender's name and email address.
-    
-- **Be cautious** about sharing information, especially over social media. Threat actors often search these platforms for any information they can use to their advantage.
-    
-- **Control curiosity** when something seems too good to be true. This can include wanting to click on attachments or links in emails and advertisements.
-    
+- **[[Stay alert]]** of suspicious communications and unknown people, especially when it comes to email. For example, look out for spelling errors and double-check the sender's name and email address.
+- **[[Be cautious]]** about sharing information, especially over social media. Threat actors often search these platforms for any information they can use to their advantage.
+- **[[Control curiosity]]** when something seems too good to be true. This can include wanting to click on attachments or links in emails and advertisements.
 
 **Pro tip:** Implementing technologies like firewalls, multi-factor authentication (MFA), block lists, email filtering, and others helps layers the defenses should someone make a mistake.
 
@@ -70,11 +67,5 @@ People’s willingness to help one another and their trusting nature is what mak
 
 Here are two additional resources to review that will help you continue developing your understanding of social engineering trends and security practices: 
 
-- [OUCH!](https://www.sans.org/newsletters/ouch/)
-    
-
-- is a free monthly newsletter from the SANS Institute that reports on social engineering trends and other security topics.
-    
-- [Scamwatch](https://www.scamwatch.gov.au/)
-    
-is a resource for news and tools for recognizing, avoiding, and reporting social engineering scams.
+- [OUCH!](https://www.sans.org/newsletters/ouch/)is a free monthly newsletter from the SANS Institute that reports on social engineering trends and other security topics.
+- [Scamwatch](https://www.scamwatch.gov.au/)is a resource for news and tools for recognizing, avoiding, and reporting social engineering scams.
