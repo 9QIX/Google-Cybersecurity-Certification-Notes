@@ -1,0 +1,1 @@
+**[[Stay alert]]** of suspicious communications and unknown people, especially when it comes to email. For example, look out for spelling errors and double-check the sender's name and email address.

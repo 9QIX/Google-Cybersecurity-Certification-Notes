@@ -1,0 +1,1 @@
+**[[Tailgating]]** is a social engineering tactic in which unauthorized people follow an authorized person into a restricted area. This technique is also sometimes referred to as *piggybacking*.

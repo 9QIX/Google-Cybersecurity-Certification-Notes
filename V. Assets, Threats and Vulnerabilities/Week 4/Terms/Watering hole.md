@@ -1,0 +1,1 @@
+**[[Watering hole]]** is a type of attack when a threat actor compromises a website frequently visited by a specific group of users. Oftentimes, these watering hole sites are infected with malicious software. An example is the _Holy Water attack of 2020_ that infected various religious, charity, and volunteer websites.
