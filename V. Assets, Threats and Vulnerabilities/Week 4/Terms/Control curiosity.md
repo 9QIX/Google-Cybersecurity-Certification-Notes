@@ -1,0 +1,1 @@
+**[[Control curiosity]]** when something seems too good to be true. This can include wanting to click on attachments or links in emails and advertisements.
