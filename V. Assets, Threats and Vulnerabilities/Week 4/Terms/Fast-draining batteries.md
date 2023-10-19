@@ -1,0 +1,1 @@
+**[[Fast-draining batteries]]:** The resource-intensive process of crypto mining can quickly drain a device's battery.

@@ -1,0 +1,1 @@
+**Introduction to Cryptojacking:** **[[Cryptojacking]]** is a relatively recent form of malware. It entails the installation of software on compromised devices for the unauthorized mining of cryptocurrencies. Cryptocurrencies are digital currencies with real-world value, acquired through the crypto mining process.
