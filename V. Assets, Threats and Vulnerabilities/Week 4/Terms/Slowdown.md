@@ -1,0 +1,1 @@
+**[[Slowdown]]:** One of the most significant signs of cryptojacking infection is a decrease in the device's performance.

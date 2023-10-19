@@ -1,0 +1,1 @@
+**[[Sudden system crashes]]:** Malware, including cryptojacking, can destabilize a system, leading to crashes.

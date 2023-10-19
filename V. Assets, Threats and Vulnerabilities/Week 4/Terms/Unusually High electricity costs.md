@@ -1,0 +1,1 @@
+**[[Unusually High electricity costs]]:** Running the mining software may result in unusually high electricity bills due to the device's constant processing.
