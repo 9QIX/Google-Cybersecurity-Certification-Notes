@@ -1,1 +1,3 @@
 - **[[SQL (Structured Query Language)]]**: A programming language used to create, interact with, and request information from a database
+
+**SQL in Web Applications:** **[[SQL (Structured Query Language)]]** is a programming language used for creating, interacting with, and retrieving data from databases. Most web applications, including online shopping websites, employ SQL to manage their databases.
