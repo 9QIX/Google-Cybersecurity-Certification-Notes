@@ -1,0 +1,1 @@
+**[[Identify Threats]]:** Define potential threat actors, characterizing them as internal or external. Threat actors could be employees, hackers, or competing businesses.

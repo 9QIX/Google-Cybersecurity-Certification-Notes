@@ -1,0 +1,1 @@
+**[[Mitigate Risk]]:** Create a defense plan to mitigate threats, which may involve avoiding, transferring, reducing, or accepting risk.
