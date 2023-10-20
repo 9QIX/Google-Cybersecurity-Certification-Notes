@@ -1,0 +1,1 @@
+**[[Define Business and Security Objectives]]:** The first stage involves setting clear goals for the threat modeling exercise. In the example of the fitness company's mobile app, the main objective is protecting customer data.

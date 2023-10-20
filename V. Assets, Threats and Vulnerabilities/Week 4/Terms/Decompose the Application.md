@@ -1,0 +1,1 @@
+**[[Decompose the Application]]:** The team works on breaking down the application by identifying existing controls and producing a data flow diagram. This diagram helps visualize how data flows from users' devices to the company's database.
