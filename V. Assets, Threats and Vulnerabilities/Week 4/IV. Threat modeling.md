@@ -21,12 +21,12 @@ The video provides an overview of the threat modeling process and highlights tha
 
 - **PASTA Framework:** PASTA stands for "Process for Attack Simulation and Threat Analysis," and it is a widely used threat modeling framework in various industries.
 - **Seven Stages of PASTA:**
-	1. **Define Business and Security Objectives:** The first stage involves setting clear goals for the threat modeling exercise. In the example of the fitness company's mobile app, the main objective is protecting customer data.
-	2. **Define Technical Scope:** In this stage, the focus is on identifying the components of the application that need evaluation, including the attack surface, such as network protocols and security controls.
-	3. **Decompose the Application:** The team works on breaking down the application by identifying existing controls and producing a data flow diagram. This diagram helps visualize how data flows from users' devices to the company's database.
-	4. **Threat Analysis:** The team collects up-to-date information on the types of attacks relevant to the application, considering various attack vectors used in mobile apps.
-	5. **Vulnerability Analysis:** This stage involves a deeper investigation of potential vulnerabilities by addressing their root causes.
-	6. **Attack Modeling:** The team simulates attacks based on the vulnerabilities analyzed in the previous stage. They create attack trees to map out attack vectors that need testing and validation.
-	7. **Analyze Risk and Impact:** In the final stage, the team consolidates all the gathered information from the previous stages to make informed risk management recommendations to business stakeholders, aligning with the defined objectives.
+	1. **[[Define Business and Security Objectives]]:** The first stage involves setting clear goals for the threat modeling exercise. In the example of the fitness company's mobile app, the main objective is protecting customer data.
+	2. **[[Define Technical Scope]]:** In this stage, the focus is on identifying the components of the application that need evaluation, including the attack surface, such as network protocols and security controls.
+	3. **[[Decompose the Application]]:** The team works on breaking down the application by identifying existing controls and producing a data flow diagram. This diagram helps visualize how data flows from users' devices to the company's database.
+	4. **[[Threat Analysis]]:** The team collects up-to-date information on the types of attacks relevant to the application, considering various attack vectors used in mobile apps.
+	5. **[[Vulnerability Analysis]]:** This stage involves a deeper investigation of potential vulnerabilities by addressing their root causes.
+	6. **[[Attack Modeling]]:** The team simulates attacks based on the vulnerabilities analyzed in the previous stage. They create attack trees to map out attack vectors that need testing and validation.
+	7. **[[Analyze Risk and Impact]]:** In the final stage, the team consolidates all the gathered information from the previous stages to make informed risk management recommendations to business stakeholders, aligning with the defined objectives.
 
 The video successfully demonstrates how to apply the PASTA framework to assess and mitigate threats to a mobile app, ensuring the protection of customer data. This comprehensive threat modeling process aids organizations in enhancing their security measures effectively.

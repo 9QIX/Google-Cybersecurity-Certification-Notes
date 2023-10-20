@@ -1,0 +1,1 @@
+**[[Analyze Risk and Impact]]:** In the final stage, the team consolidates all the gathered information from the previous stages to make informed risk management recommendations to business stakeholders, aligning with the defined objectives.

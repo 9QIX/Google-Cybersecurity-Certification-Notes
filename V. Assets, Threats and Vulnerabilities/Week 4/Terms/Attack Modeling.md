@@ -1,0 +1,1 @@
+**[[Attack Modeling]]:** The team simulates attacks based on the vulnerabilities analyzed in the previous stage. They create attack trees to map out attack vectors that need testing and validation.
