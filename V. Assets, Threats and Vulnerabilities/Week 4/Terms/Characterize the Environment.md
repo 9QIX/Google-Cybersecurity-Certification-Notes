@@ -1,0 +1,1 @@
+**[[Characterize the Environment]]:** Adopt an attacker's perspective to understand how customers, employees, external partners, and vendors interact with the environment.

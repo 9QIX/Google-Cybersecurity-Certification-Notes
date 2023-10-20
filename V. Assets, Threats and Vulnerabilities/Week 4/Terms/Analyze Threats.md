@@ -1,0 +1,1 @@
+**[[Analyze Threats]]:** Examine existing protections and identify gaps, ranking threats based on their risk scores.
