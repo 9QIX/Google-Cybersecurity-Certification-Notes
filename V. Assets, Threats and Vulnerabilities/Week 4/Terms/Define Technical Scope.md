@@ -1,0 +1,1 @@
+**[[Define Technical Scope]]:** In this stage, the focus is on identifying the components of the application that need evaluation, including the attack surface, such as network protocols and security controls.

@@ -1,0 +1,1 @@
+**[[Threat Analysis]]:** The team collects up-to-date information on the types of attacks relevant to the application, considering various attack vectors used in mobile apps.
