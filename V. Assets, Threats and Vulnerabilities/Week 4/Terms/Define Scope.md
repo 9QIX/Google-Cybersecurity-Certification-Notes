@@ -1,0 +1,1 @@
+**[[Define Scope]]:** Determine the scope of the model by creating an inventory of assets and classifying them.
