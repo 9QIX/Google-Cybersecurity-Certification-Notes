@@ -7,7 +7,7 @@
 	- Detection and analysis
 	- Containment, eradication and recovery
 	- Post-incident activity
-- Importantly, this lifecycle is cyclical, allowing for overlapping steps as new information emerges.
+- Importantly, this lifecycle is ***cyclical***, allowing for overlapping steps as new information emerges.
 - **Understanding Incidents:** The video provides a definition of an incident according to NIST. An **[[incident]]** is an occurrence that threatens the confidentiality, integrity, or availability of information or an information system without lawful authority. It can also involve violations or imminent threats to security policies, procedures, or acceptable use policies.
 	- **Events vs. Security Incidents:** **[[Events]]** are observable occurrences, whereas security incidents involve unlawful actions, policy violations, or actions that threaten information systems' security. The video illustrates the difference with an example involving password resets.
 - **[[Incident Investigation]]:** Just as detectives carefully handle and document evidence in a case, security analysts must do the same when investigating security incidents. 
