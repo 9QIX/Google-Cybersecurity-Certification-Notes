@@ -1,0 +1,1 @@
+**[[Incident Handler's Journal]]:** To facilitate organized documentation of incident details, the video recommends using an incident handler's journal. This journal helps security analysts record vital information during incident response and investigation.
