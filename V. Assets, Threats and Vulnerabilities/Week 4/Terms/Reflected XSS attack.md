@@ -1,0 +1,1 @@
+**[[Reflected XSS attack]]**: An instance when malicious script is sent to a server and activated during the server’s response
