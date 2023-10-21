@@ -1,0 +1,1 @@
+**[[PASTA Framework]]:** PASTA stands for "Process for Attack Simulation and Threat Analysis," and it is a widely used threat modeling framework in various industries.
