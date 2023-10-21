@@ -1,0 +1,1 @@
+**Events vs. Security Incidents:** **[[Events]]** are observable occurrences, whereas security incidents involve unlawful actions, policy violations, or actions that threaten information systems' security. The video illustrates the difference with an example involving password resets.

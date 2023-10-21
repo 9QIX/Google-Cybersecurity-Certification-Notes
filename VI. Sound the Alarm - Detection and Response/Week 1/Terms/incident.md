@@ -1,0 +1,1 @@
+**Understanding Incidents:** The video provides a definition of an incident according to NIST. An **[[incident]]** is an occurrence that threatens the confidentiality, integrity, or availability of information or an information system without lawful authority. It can also involve violations or imminent threats to security policies, procedures, or acceptable use policies.
