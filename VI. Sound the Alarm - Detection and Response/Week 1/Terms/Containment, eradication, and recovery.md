@@ -1,0 +1,4 @@
+- ### [[Containment, eradication, and recovery]]: the minimize and mitigate process
+	- Security professionals and stakeholders collaborate to minimize the impact of the incident and mitigate any operational disruption.
+		- Communicate with sender to confirm the origin of the voice message
+		- Provide employees with an easy way to report and contain suspicious messages
