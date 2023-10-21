@@ -1,0 +1,1 @@
+**[[Prepared statement]]**: A coding technique that executes SQL statements before passing them onto the database
