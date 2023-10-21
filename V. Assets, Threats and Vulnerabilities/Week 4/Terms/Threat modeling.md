@@ -1,4 +1,5 @@
 - **Threat Modeling Definition:** **[[Threat modeling]]** is the process of identifying assets, their vulnerabilities, and the ways they are exposed to threats. It is a comprehensive security-related activity that can be applied to systems, applications, or business processes.
+	- Threat modeling is a process that security teams use to anticipate attacks.
 	- **Complex and Advanced Skill:** Creating threat models is a detailed and advanced security activity that usually involves a team of experienced professionals. It's considered an advanced skill in the field of cybersecurity.
 	- **Threat Modeling Frameworks:** Several threat modeling frameworks are used in the industry, with each being more suitable for certain aspects of security, such as network security, information security, or application development.
 - **Six Steps of Threat Modeling:**
