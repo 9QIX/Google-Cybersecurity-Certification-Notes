@@ -1,0 +1,6 @@
+- **[[NIST Incident Response Lifecycle]]:** The NIST incident response lifecycle consists of several phases, which include 
+	- Preparation
+	- Detection and analysis
+	- Containment, eradication and recovery
+	- Post-incident activity
+- Importantly, this lifecycle is cyclical, allowing for overlapping steps as new information emerges.
