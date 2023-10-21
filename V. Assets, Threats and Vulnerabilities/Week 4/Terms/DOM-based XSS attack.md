@@ -1,0 +1,1 @@
+**[[DOM-based XSS attack]]**: An instance when malicious script exists in the webpage a browser loads
