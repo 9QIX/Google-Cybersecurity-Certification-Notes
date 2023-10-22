@@ -10,4 +10,4 @@
 - **Variability in CSIRT Titles and Focus:** Not all CSIRTs have the same title or focus. Depending on the organization, they may be referred to as Incident Handling Teams (IHT) or Security Incident Response Teams (SIRT). Some teams might have a broader or specialized focus. For example, crisis management teams might have a specific role within incident response.
 - **Common Goal:** Regardless of their title or focus, all incident response teams share the same objective of managing and responding to security incidents.
 
-The video emphasizes the collaborative nature of incident response teams and their role in effectively managing and responding to security incidents. It also highlights the flexibility in team titles and focuses, while underscoring their shared goal of incident management.
+The video emphasizes the collaborative nature of incident response teams and their role in effectively managing and responding to security incidents. It also highlights the flexibility in team titles and focuses, while underscoring their shared goal of incident management
