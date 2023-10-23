@@ -1,0 +1,1 @@
+**[[System Information]]:** Information about the organization's systems, including network diagrams, data flow diagrams, logging, and asset inventory details.
