@@ -4,3 +4,13 @@ A [[Security Analyst]] or [[Cybersecurity Analyst]] focuses on monitoring networ
 
 - **CSIRT Functions:**
 	1. **[[Security Analyst]]:** Investigates security alerts to determine if an incident has occurred. Assesses the criticality of the incident and remediates some incidents directly.
+
+### **Security analyst**
+
+The job of the **[[security analyst]]** is to continuously monitor an environment for any security threats. This includes: 
+
+- Analyzing and triaging alerts
+- Performing root-cause investigations
+- Escalating or resolving alerts 
+
+If a critical threat is identified, then analysts escalate it to the appropriate team lead, such as the technical lead.

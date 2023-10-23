@@ -14,30 +14,30 @@ The video emphasizes the collaborative nature of incident response teams and the
 
 # Roles in response
 
-So far, you've been introduced to the **National Institute of Standards and Technology (NIST) Incident Response Lifecycle**, which is a framework for incident response consisting of four phases:
+So far, you've been introduced to the **[[National Institute of Standards and Technology (NIST) Incident Response Lifecycle]]**, which is a framework for incident response consisting of four phases:
 
 - Preparation
 - Detection and Analysis
 - Containment, Eradication, and Recovery
 - Post-incident activity
 
-As a security professional, you'll work on a team to monitor, detect, and respond to incidents. Previously, you learned about a **computer security incident response team (CSIRT)** and a **security operations center (SOC)**. This reading explains the different functions, roles, and responsibilities that make up CSIRTs and SOCs.
+As a security professional, you'll work on a team to monitor, detect, and respond to incidents. Previously, you learned about a **[[computer security incident response team (CSIRT)]]** and a **[[security operations center (SOC)]]**. This reading explains the different functions, roles, and responsibilities that make up CSIRTs and SOCs.
 
 Understanding the composition of incident response teams will help you navigate an organization’s hierarchy, openly collaborate and communicate with others, and work cohesively to respond to incidents. You may even discover specific roles that you’re interested in pursuing as you begin your security career!
 
 ## Command, control, and communication
 
-A **computer security incident response team (CSIRT)** is a specialized group of security professionals that are trained in incident management and response. During incident response, teams can encounter a variety of different challenges. For incident response to be effective and efficient, there must be clear command, control, and communication of the situation to achieve the desired goal.
+A **[[computer security incident response team (CSIRT)]]** is a specialized group of security professionals that are trained in incident management and response. During incident response, teams can encounter a variety of different challenges. For incident response to be effective and efficient, there must be clear command, control, and communication of the situation to achieve the desired goal.
 
-- **Command** refers to having the appropriate leadership and direction to oversee the response.
-- **Control** refers to the ability to manage technical aspects during incident response, like coordinating resources and assigning tasks.
-- **Communication** refers to the ability to keep stakeholders informed.
+- **[[Command]]** refers to having the appropriate leadership and direction to oversee the response.
+- **[[Control]]** refers to the ability to manage technical aspects during incident response, like coordinating resources and assigning tasks.
+- **[[Communication]]** refers to the ability to keep stakeholders informed.
 
 Establishing a CSIRT organizational structure with clear and distinctive roles aids in achieving an effective and efficient response.
 
 ## Roles in CSIRTs 
 
-CSIRTs are organization dependent, so they can vary in their structure and operation. Structurally, they can exist as a separate, dedicated team or as a task force that meets when necessary. CSIRTs involve both nonsecurity and security professionals. Nonsecurity professionals are often consulted to offer their expertise on the incident. These professionals can be from external departments, such as human resources, public relations, management, IT, legal, and others. Security professionals involved in a CSIRT typically include three key security related roles: 
+CSIRTs are organization dependent, so they can vary in their structure and operation. Structurally, they can exist as a separate, dedicated team or as a task force that meets when necessary. CSIRTs involve both non-security and security professionals. Non-security professionals are often consulted to offer their expertise on the incident. These professionals can be from external departments, such as human resources, public relations, management, IT, legal, and others. Security professionals involved in a CSIRT typically include three key security related roles: 
 
 1. **Security analyst**
 2. **Technical lead**
@@ -45,7 +45,7 @@ CSIRTs are organization dependent, so they can vary in their structure and opera
 
 ### **Security analyst**
 
-The job of the **security** **analyst** is to continuously monitor an environment for any security threats. This includes: 
+The job of the **[[security analyst]]** is to continuously monitor an environment for any security threats. This includes: 
 
 - Analyzing and triaging alerts
 - Performing root-cause investigations
