@@ -1,0 +1,1 @@
+**[[Forensic investigators]]**: Forensic investigators are commonly L2s and L3s who collect, preserve, and analyze digital evidence related to security incidents to determine what happened.
