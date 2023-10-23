@@ -1,0 +1,1 @@
+security professionals who are responsible for defending against all security threats and attacks at an organization.
