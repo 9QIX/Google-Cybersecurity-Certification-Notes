@@ -134,16 +134,13 @@ Here are some resources if you’d like to learn more about SOC organization or 
 # Incident response plans
 
 - **Need for Incident Response Plans:** Incidents, such as cyberattacks, can potentially cause significant damage to organizations. Regulatory requirements may mandate reporting incidents within specific timeframes. Therefore, organizations must have formal incident response plans in place to ensure a prepared and consistent process for responding to incidents promptly.
-
-- **Components of Incident Response Plans:** Incident response plans consist of three basic elements: policies, standards, and procedures. These plans provide step-by-step instructions on how to respond to incidents and help ensure a well-organized response.
-
-- **Customization of Plans:** Organizations tailor their incident response plans to meet their unique requirements, considering factors such as their mission, size, culture, industry, and structure. Some may include the incident response plan within their security plan, while others keep them as separate documents.
-
+- **[[Incident Response Plan]]**: A document that outlines the procedures to take in each step of incident response.
+	- **Components of Incident Response Plans:** Incident response plans consist of three basic elements: policies, standards, and procedures. These plans provide step-by-step instructions on how to respond to incidents and help ensure a well-organized response.
+	- **Customization of Plans:** Organizations tailor their incident response plans to meet their unique requirements, considering factors such as their mission, size, culture, industry, and structure. Some may include the incident response plan within their security plan, while others keep them as separate documents.
 - **Common Elements in Incident Plans:** While plans can vary, they typically include common elements, such as:
-  1. **Incident Response Procedures:** Detailed instructions on how to respond to incidents.
-  2. **System Information:** Information about the organization's systems, including network diagrams, data flow diagrams, logging, and asset inventory details.
-  3. **Other Documents:** Contact lists, forms, and templates that facilitate incident response.
-
+	1. **[[Incident Response Procedures]]:** Detailed instructions on how to respond to incidents.
+	2. **[[System Information]]:** Information about the organization's systems, including network diagrams, data flow diagrams, logging, and asset inventory details.
+	3. **[[Other Documents]]:** Contact lists, forms, and templates that facilitate incident response.
 - **Continuous Improvement:** Incident response plans are not static and should be subject to regular review and testing. Exercises like tabletops or simulations help familiarize team members with the response plan and identify gaps in the process for improvement. Some organizations may also be required to conduct specific exercises for regulatory compliance.
 
 The video emphasizes the importance of having a well-structured incident response plan tailored to an organization's needs. It underlines the need for continuous improvement through testing and reviews to ensure that teams are well-prepared to respond to incidents effectively.
