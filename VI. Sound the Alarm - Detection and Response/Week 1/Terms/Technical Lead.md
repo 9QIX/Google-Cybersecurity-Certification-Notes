@@ -1,0 +1,1 @@
+**[[Technical Lead]]:** Takes over highly critical incidents, providing technical leadership throughout the incident's lifecycle.
