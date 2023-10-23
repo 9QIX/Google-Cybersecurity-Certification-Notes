@@ -1,0 +1,1 @@
+**[[Threat hunters]]**: Threat hunters are typically L3s who work to detect, analyze, and defend against new and advanced cybersecurity threats using threat intelligence.
