@@ -1,0 +1,1 @@
+**[[Incident Coordinator]]:** Tracks and manages the activities of the CSIRT and other teams involved in the response effort. Ensures that incident response processes are followed, and teams are updated on the incident's status.
