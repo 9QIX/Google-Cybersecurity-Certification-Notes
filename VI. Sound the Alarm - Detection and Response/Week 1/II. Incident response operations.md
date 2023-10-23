@@ -135,7 +135,7 @@ Here are some resources if you’d like to learn more about SOC organization or 
 
 - **Need for Incident Response Plans:** Incidents, such as cyberattacks, can potentially cause significant damage to organizations. Regulatory requirements may mandate reporting incidents within specific timeframes. Therefore, organizations must have formal incident response plans in place to ensure a prepared and consistent process for responding to incidents promptly.
 - **[[Incident Response Plan]]**: A document that outlines the procedures to take in each step of incident response.
-	- **Components of Incident Response Plans:** Incident response plans consist of three basic elements: policies, standards, and procedures. These plans provide step-by-step instructions on how to respond to incidents and help ensure a well-organized response.
+	- **Components of Incident Response Plans:** Incident response plans consist of three basic elements: ***policies, standards, and procedures***. These plans provide step-by-step instructions on how to respond to incidents and help ensure a well-organized response.
 	- **Customization of Plans:** Organizations tailor their incident response plans to meet their unique requirements, considering factors such as their mission, size, culture, industry, and structure. Some may include the incident response plan within their security plan, while others keep them as separate documents.
 - **Common Elements in Incident Plans:** While plans can vary, they typically include common elements, such as:
 	1. **[[Incident Response Procedures]]:** Detailed instructions on how to respond to incidents.
