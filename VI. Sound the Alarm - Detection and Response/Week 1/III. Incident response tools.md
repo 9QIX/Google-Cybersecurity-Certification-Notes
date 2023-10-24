@@ -29,7 +29,7 @@ The video underscores the critical role of documentation in incident response, e
 # Intrusion detection systems
 
 - **Home Intrusion Security System Analogy:** The video starts with an analogy of a home intrusion security system, where sensors detect intrusions by sending out sound waves and triggering alerts when something disrupts these waves.
-- **[[Intrusion Detection System (IDS)]]:** An IDS is introduced as a system that functions similarly to home intrusion sensors. It monitors system and network activity, collecting and analyzing data for signs of abnormal activities. If unusual activities are detected, the IDS generates alerts to notify relevant personnel and channels.
+- **[[Intrusion Detection System (IDS)]]:** An IDS is introduced as a system that functions similarly to home intrusion sensors. It ***monitors*** system and network activity, collecting and analyzing data for signs of abnormal activities. If unusual activities are detected, the IDS generates alerts to notify relevant personnel and channels.
 - **[[Intrusion Prevention System (IPS)]]:** The video uses an analogy of a jewelry storefront with a window sensor to explain IPS. An IPS, like an IDS, monitors system activity for intrusions but has additional capabilities to take action and prevent intrusions from happening.
 - **Tools with IDS and IPS Functions:** Several tools are mentioned that can perform the functions of both IDS and IPS. Some popular tools highlighted include Snort, Zeek, Kismet, Sagan, and Suricata, with a promise to explore Suricata in upcoming lessons.
 - **Alert Notifications Management:** The video hints at managing alert notifications using security information and event management (SIEM) tools, suggesting that this topic will be covered in future lessons.
@@ -104,7 +104,7 @@ In this video, the use and functionality of **[[Security Information and Event M
 	- This **data is then normalized** to remove non-essential attributes and create consistency in log records. 
 	- After normalization, the **data is analyzed** against configured rules to detect security incidents, which are categorized and reported as alerts for security analysts to review.
 - **SIEM Data Collection:** SIEM tools can collect a huge volume of raw data from multiple sources, which may not all be relevant for security analysis. Data normalization helps clean up and make data consistent for analysis.
-- **SOAR Introduction:** Security Orchestration, Automation, and Response (SOAR) is introduced as a collection of applications, tools, and workflows that use automation to respond to security events and incidents. SOAR can also be used for tracking and managing cases, where multiple incidents form a case, and SOAR centralizes the management of these incidents.
+- **SOAR Introduction:** Security Orchestration, Automation, and Response (SOAR) is introduced as a collection of applications, tools, and workflows that use automation to ***respond to security events and incidents***. SOAR can also be used for tracking and managing cases, where multiple incidents form a case, and SOAR centralizes the management of these incidents.
 
 The video provides a clear understanding of how SIEM tools work to monitor and analyze security-related data and introduces SOAR as a tool for automating analysis and response to security events and incidents. The car dashboard analogy makes the concept more relatable and understandable for learners.
 
