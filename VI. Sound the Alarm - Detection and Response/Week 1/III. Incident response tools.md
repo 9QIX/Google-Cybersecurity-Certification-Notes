@@ -107,3 +107,29 @@ In this video, the use and functionality of **[[Security Information and Event M
 - **SOAR Introduction:** Security Orchestration, Automation, and Response (SOAR) is introduced as a collection of applications, tools, and workflows that use automation to respond to security events and incidents. SOAR can also be used for tracking and managing cases, where multiple incidents form a case, and SOAR centralizes the management of these incidents.
 
 The video provides a clear understanding of how SIEM tools work to monitor and analyze security-related data and introduces SOAR as a tool for automating analysis and response to security events and incidents. The car dashboard analogy makes the concept more relatable and understandable for learners.
+
+# Overview of SIEM technology
+
+Previously, you learned about the SIEM process. In this reading, you'll explore more about this process and why SIEM tools are an important part of incident detection and response. As a refresher, a **security information and event management** (**SIEM**) tool is an application that collects and analyzes log data to monitor critical activities in an organization. You might recall that SIEM tools help security analysts perform **log analysis** which is the process of examining logs to identify events of interest.
+
+## SIEM advantages
+
+SIEM tools collect and manage security-relevant data that can be used during investigations. This is important because SIEM tools provide awareness about the activity that occurs between devices on a network. The information SIEM tools provide can help security teams quickly investigate and respond to security incidents. SIEM tools have many advantages that can help security teams effectively respond to and manage incidents. Some of the advantages are:
+
+- **Access to event data:** SIEM tools provide access to the event and activity data that happens on a network, including real-time activity. Networks can be connected to hundreds of different systems and devices. SIEM tools have the ability to ingest all of this data so that it can be accessed.
+- **Monitoring, detecting, and alerting:** SIEM tools continuously monitor systems and networks in real-time. They then analyze the collected data using detection rules to detect malicious activity. If an activity matches the rule, an alert is generated and sent out for security teams to assess.
+- **Log storage:** SIEM tools can act as a system for data retention, which can provide access to historical data. Data can be kept or deleted after a period depending on an organization's requirements. 
+
+## The SIEM process
+
+The SIEM process consists of three critical steps:
+
+1. **Collect and aggregate data**
+2. **Normalize data** 
+3. **Analyze data**
+
+By understanding these steps, organizations can utilize the power of SIEM tools to gather, organize, and analyze security event data from different sources. Organizations can later use this information to improve their ability to identify and mitigate potential threats.
+
+### **Collect and aggregate data**
+
+SIEM tools require data for them to be effectively used. During the first step, the SIEM collects event data from various sources like firewalls, servers, routers, and more. This data, also known as logs, contains event details like timestamps, IP addresses, and more. **Logs** are a record of events that occur within an organization’s systems. After all of this log data is collected, it gets aggregated in one location. Aggregation refers to the process of consolidating log data into a centralized place. Through collection and aggregation, SIEM tools eliminate the need for manually reviewing and analyzing event data by accessing individual data sources. Instead, all event data is accessible in one location—the SIEM.
