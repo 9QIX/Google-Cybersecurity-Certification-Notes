@@ -1,0 +1,1 @@
+A part of the analysis process includes correlation. _[[Correlation]]_ involves the comparison of multiple log events to identify common patterns that indicate potential security threats.
