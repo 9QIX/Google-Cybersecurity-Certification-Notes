@@ -110,7 +110,7 @@ The video provides a clear understanding of how SIEM tools work to monitor and a
 
 # Overview of SIEM technology
 
-Previously, you learned about the SIEM process. In this reading, you'll explore more about this process and why SIEM tools are an important part of incident detection and response. As a refresher, a **security information and event management (SIEM)** tool is an application that collects and analyzes log data to monitor critical activities in an organization. You might recall that SIEM tools help security analysts perform **log analysis** which is the process of examining logs to identify events of interest.
+Previously, you learned about the SIEM process. In this reading, you'll explore more about this process and why SIEM tools are an important part of incident detection and response. As a refresher, a **security information and event management (SIEM)** tool is an application that collects and analyzes log data to monitor critical activities in an organization. You might recall that SIEM tools help security analysts perform **[[log analysis]]** which is the process of examining logs to identify events of interest.
 
 ## SIEM advantages
 
@@ -130,13 +130,13 @@ The SIEM process consists of three critical steps:
 
 By understanding these steps, organizations can utilize the power of SIEM tools to gather, organize, and analyze security event data from different sources. Organizations can later use this information to improve their ability to identify and mitigate potential threats.
 
-### **Collect and aggregate data**
+### **[[Collect and aggregate data]]**
 
-SIEM tools require data for them to be effectively used. During the first step, the SIEM collects event data from various sources like firewalls, servers, routers, and more. This data, also known as logs, contains event details like timestamps, IP addresses, and more. **Logs** are a record of events that occur within an organization’s systems. After all of this log data is collected, it gets aggregated in one location. Aggregation refers to the process of consolidating log data into a centralized place. Through collection and aggregation, SIEM tools eliminate the need for manually reviewing and analyzing event data by accessing individual data sources. Instead, all event data is accessible in one location—the SIEM.
+SIEM tools require data for them to be effectively used. During the first step, the SIEM collects event data from various sources like firewalls, servers, routers, and more. This data, also known as logs, contains event details like timestamps, IP addresses, and more. **Logs** are a record of events that occur within an organization’s systems. After all of this log data is collected, it gets aggregated in one location. **[[Aggregation]]** refers to the process of consolidating log data into a centralized place. Through collection and aggregation, SIEM tools eliminate the need for manually reviewing and analyzing event data by accessing individual data sources. Instead, all event data is accessible in one location—the SIEM.
 
 ![[Pasted image 20231024220633.png]]
 
-Parsing can occur during the first step of the SIEM process when data is collected and aggregated. _Parsing_ maps data according to their fields and their corresponding values. For example, the following log example contains fields with values. At first, it might be difficult to interpret information from this log based on its format:
+Parsing can occur during the first step of the SIEM process when data is collected and aggregated. _[[Parsing]]_ maps data according to their fields and their corresponding values. For example, the following log example contains fields with values. At first, it might be difficult to interpret information from this log based on its format:
 
 `April 3 11:01:21 server sshd[1088]: Failed password for user nuhara from 218.124.14.105 port 5023`
 
@@ -148,26 +148,26 @@ In a parsed format, the fields and values are extracted and paired making them e
 - source ip = `218.124.14.105`
 - source port = `5023`
 
-### **Normalize data**
+### **[[Normalize data]]**
 
 SIEM tools collect data from many different sources. This data must be transformed into a single format so that it can be easily processed by the SIEM. However, each data source is different and data can be formatted in many different ways. For example, a firewall log can be formatted differently than a server log.
 
 ![[Pasted image 20231024222403.png]]
 
-Collected event data should go through the process of normalization. _Normalization_ converts data into a standard, structured format that is easily searchable. 
+Collected event data should go through the process of normalization. _[[Normalization]]_ converts data into a standard, structured format that is easily searchable. 
 
-### **Analyze data**
+### **[[Analyze data]]**
 
 After log data has been collected, aggregated, and normalized, the SIEM must do something useful with all of the data to enable security teams to investigate threats. During this final step in the process, SIEM tools analyze the data. Analysis can be done with some type of detection logic such as a set of rules and conditions. SIEM tools then apply these rules to the data, and if any of the log activity matches a rule, alerts are sent out to cybersecurity teams.
 
-**Note**: A part of the analysis process includes correlation. _Correlation_ involves the comparison of multiple log events to identify common patterns that indicate potential security threats.
+**Note**: A part of the analysis process includes correlation. _[[Correlation]]_ involves the comparison of multiple log events to identify common patterns that indicate potential security threats.
 
 ## SIEM tools 
 
 There are many SIEM tools. The following are some SIEM tools commonly used in the cybersecurity industry:
 
 - AlienVault® OSSIM™
-- Chronicl
+- Chronicle
 - Elastic
 - Exabeam
 - IBM QRadar® Security Intelligence Platform

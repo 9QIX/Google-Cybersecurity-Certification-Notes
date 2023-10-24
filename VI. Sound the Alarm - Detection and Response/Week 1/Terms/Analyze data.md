@@ -1,0 +1,3 @@
+After log data has been collected, aggregated, and normalized, the SIEM must do something useful with all of the data to enable security teams to investigate threats. During this final step in the process, SIEM tools analyze the data. Analysis can be done with some type of detection logic such as a set of rules and conditions. SIEM tools then apply these rules to the data, and if any of the log activity matches a rule, alerts are sent out to cybersecurity teams.
+
+**Note**: A part of the analysis process includes correlation. _Correlation_ involves the comparison of multiple log events to identify common patterns that indicate potential security threats.
