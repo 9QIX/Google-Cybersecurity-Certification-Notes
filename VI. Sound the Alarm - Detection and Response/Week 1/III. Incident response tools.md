@@ -20,7 +20,7 @@ The video underscores the need for security analysts to adapt and keep their ski
 		- Plans
 		- Final reports
 	- The video highlights that there's no industry-standard for documentation, and organizations often customize their documentation practices based on their specific needs and legal requirements.
-- **Importance of Effective Documentation:** Effective documentation plays a crucial role in reducing uncertainty and confusion, particularly during security incidents when urgency is paramount. Clear, consistent, and accurate documentation enables security professionals to respond swiftly and decisively.
+- **Importance of Effective Documentation:** Effective documentation plays a crucial role in reducing uncertainty and confusion, particularly during security incidents when urgency is paramount. ***Clear, consistent, and accurate documentation*** enables security professionals to respond swiftly and decisively.
 - **Documentation Tools:** Various tools and software can be employed for documentation, such as word processors (e.g., Google Docs, OneNote, Evernote, Notepad++), ticketing systems (e.g., Jira), Google Sheets, audio recorders, cameras, and handwritten notes.
 - **Ongoing Discussion:** The video concludes by mentioning that the discussion on documentation has just begun, and learners will soon apply their documentation skills using their incident handler's journal.
 
