@@ -1,0 +1,1 @@
+**[[Incident handler’s journal]]**: A form of documentation used in incident response
