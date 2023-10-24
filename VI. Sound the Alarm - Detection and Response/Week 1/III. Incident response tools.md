@@ -69,13 +69,9 @@ Examples of IDS tools include Zeek, Suricata, Snort®, and Sagan. 
 As a security analyst, you will investigate alerts that an IDS generates. There are four types of detection categories you should be familiar with:
 
 1. **A true positive** is an alert that correctly detects the presence of an attack.
-    
 2. **A true negative** is a state where there is no detection of malicious activity. This is when no malicious activity exists and no alert is triggered. 
-    
 3. **A false positive** is an alert that incorrectly detects the presence of a threat. This is when an IDS identifies an activity as malicious, but it isn't. False positives are an inconvenience for security teams because they spend time and resources investigating an illegitimate alert. 
-    
 4. **A false negative** is a state where the presence of a threat is not detected. This is when malicious activity happens but an IDS fails to detect it. False negatives are dangerous because security teams are left unaware of legitimate attacks that they can be vulnerable to. 
-    
 
 ## Overview of IPS tools
 
