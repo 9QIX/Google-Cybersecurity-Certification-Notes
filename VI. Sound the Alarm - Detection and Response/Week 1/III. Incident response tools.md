@@ -96,10 +96,13 @@ Organizations deploy detection tools to gain awareness into the activity happeni
 
 # Alert and event management with SIEM and SOAR tools
 
-In this video, the use and functionality of Security Information and Event Management (SIEM) tools are explained, followed by an introduction to Security Orchestration, Automation, and Response (SOAR) tools. Here are the key points covered in the video:
+In this video, the use and functionality of **[[Security Information and Event Management (SIEM)]]** tools are explained, followed by an introduction to **[[Security Orchestration, Automation, and Response (SOAR)]]** tools. Here are the key points covered in the video:
 
 - **SIEM Overview:** SIEM stands for Security Information and Event Management. It is a tool that collects and analyzes log data to monitor critical activities within an organization's network. The analogy of a car dashboard is used to explain how SIEM tools provide a high-level overview of network activities, similar to how a car dashboard gives a driver information about the car's components.
-- **SIEM Process:** SIEM tools collect and aggregate data from various sources, such as IDS/IPS, databases, firewalls, and applications. This data is then normalized to remove non-essential attributes and create consistency in log records. After normalization, the data is analyzed against configured rules to detect security incidents, which are categorized and reported as alerts for security analysts to review.
+- **SIEM Process:** 
+	- SIEM **tools collect and aggregate data** from various sources, such as IDS/IPS, databases, firewalls, and applications. 
+	- This **data is then normalized** to remove non-essential attributes and create consistency in log records. 
+	- After normalization, the **data is analyzed** against configured rules to detect security incidents, which are categorized and reported as alerts for security analysts to review.
 - **SIEM Data Collection:** SIEM tools can collect a huge volume of raw data from multiple sources, which may not all be relevant for security analysis. Data normalization helps clean up and make data consistent for analysis.
 - **SOAR Introduction:** Security Orchestration, Automation, and Response (SOAR) is introduced as a collection of applications, tools, and workflows that use automation to respond to security events and incidents. SOAR can also be used for tracking and managing cases, where multiple incidents form a case, and SOAR centralizes the management of these incidents.
 
