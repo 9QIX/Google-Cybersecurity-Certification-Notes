@@ -1,0 +1,1 @@
+**[[False negative]]**: A state where the presence of a threat is not detected
