@@ -1,0 +1,1 @@
+**[[True positive]]**: An alert that correctly detects the presence of an attack

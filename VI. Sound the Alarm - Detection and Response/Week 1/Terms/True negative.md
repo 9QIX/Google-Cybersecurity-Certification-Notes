@@ -1,0 +1,1 @@
+**[[True negative]]**: A state where there is no detection of malicious activity
