@@ -1,0 +1,1 @@
+_[[Parsing]]_ maps data according to their fields and their corresponding values. For example, the following log example contains fields with values. At first, it might be difficult to interpret information from this log based on its format:
