@@ -9,6 +9,6 @@ The IDS is configured to detect known attacks. IDS systems often sniff data pack
 
 The limitations to IDS systems are that they can only scan for known attacks or obvious anomalies. New and sophisticated attacks might not be caught. The other limitation is that the IDS doesn’t actually stop the incoming traffic if it detects something awry. It’s up to the network administrator to catch the malicious activity before it does anything damaging to the network. 
 
-![Un IDS rodeado sobre la imagen de un conmutador, que se encuentra entre un firewall y la red.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5hPelJ74TwaKusUY4ZEkkQ_bcd56306ce904397a352cfe37e28b6f1_CS_R-055_IDS.png?expiry=1695340800000&hmac=hril3T2xjWZJzfii_SRfrdSK5yHJ3eydoNnntWilG-k)
-
 When combined with a firewall, an IDS adds another layer of defense. The IDS is placed behind the firewall and before entering the LAN, which allows the IDS to analyze data streams after network traffic that is disallowed by the firewall has been filtered out. This is done to reduce noise in IDS alerts, also referred to as false positives.
+
+**[[Intrusion Detection System (IDS)]]:** An IDS is introduced as a system that functions similarly to home intrusion sensors. It monitors system and network activity, collecting and analyzing data for signs of abnormal activities. If unusual activities are detected, the IDS generates alerts to notify relevant personnel and channels.
