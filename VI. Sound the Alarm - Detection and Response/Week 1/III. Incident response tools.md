@@ -25,3 +25,13 @@ The video underscores the need for security analysts to adapt and keep their ski
 - **Ongoing Discussion:** The video concludes by mentioning that the discussion on documentation has just begun, and learners will soon apply their documentation skills using their incident handler's journal.
 
 The video underscores the critical role of documentation in incident response, ensuring that security professionals can effectively manage and respond to security incidents with clarity and accuracy.
+
+# Intrusion detection systems
+
+- **Home Intrusion Security System Analogy:** The video starts with an analogy of a home intrusion security system, where sensors detect intrusions by sending out sound waves and triggering alerts when something disrupts these waves.
+- **Intrusion Detection System (IDS):** An IDS is introduced as a system that functions similarly to home intrusion sensors. It monitors system and network activity, collecting and analyzing data for signs of abnormal activities. If unusual activities are detected, the IDS generates alerts to notify relevant personnel and channels.
+- **Intrusion Prevention System (IPS):** The video uses an analogy of a jewelry storefront with a window sensor to explain IPS. An IPS, like an IDS, monitors system activity for intrusions but has additional capabilities to take action and prevent intrusions from happening.
+- **Tools with IDS and IPS Functions:** Several tools are mentioned that can perform the functions of both IDS and IPS. Some popular tools highlighted include Snort, Zeek, Kismet, Sagan, and Suricata, with a promise to explore Suricata in upcoming lessons.
+- **Alert Notifications Management:** The video hints at managing alert notifications using security information and event management (SIEM) tools, suggesting that this topic will be covered in future lessons.
+
+The video provides a clear and relatable explanation of IDS and IPS by using everyday analogies, making it easier for learners to understand the basic concepts of intrusion detection and prevention systems.
