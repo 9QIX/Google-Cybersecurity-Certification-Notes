@@ -1,0 +1,1 @@
+**[[Detection and Management Tools]]:** These tools help monitor system activity and identify events that require investigation.
