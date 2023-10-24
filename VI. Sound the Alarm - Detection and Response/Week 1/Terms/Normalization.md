@@ -1,0 +1,1 @@
+Collected event data should go through the process of normalization. _[[Normalization]]_ converts data into a standard, structured format that is easily searchable. 
