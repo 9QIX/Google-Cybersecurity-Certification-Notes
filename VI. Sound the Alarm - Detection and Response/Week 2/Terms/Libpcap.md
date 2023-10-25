@@ -1,0 +1,1 @@
+**[[Libpcap]]** is a packet capture library designed to be used by Unix-like systems, like Linux and MacOS®. Tools like tcpdump use Libpcap as the default packet capture file format. 
