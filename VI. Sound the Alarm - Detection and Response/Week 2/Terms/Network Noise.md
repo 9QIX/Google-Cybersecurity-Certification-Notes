@@ -1,0 +1,1 @@
+**[[Network Noise]]:** Networks are often busy and noisy, with a high volume of communications between devices. This can result in packet captures containing a large amount of network traffic, which can be challenging and time-consuming to analyze.
