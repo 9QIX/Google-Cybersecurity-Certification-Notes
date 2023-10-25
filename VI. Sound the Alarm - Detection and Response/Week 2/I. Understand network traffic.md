@@ -71,14 +71,14 @@ Monitoring and protecting networks from intrusions and attacks are key responsib
 
 - **Attacker's Perspective:**
 	1. **Initial Access:** Attackers typically gain initial access to a network and computer system through methods like social engineering, such as phishing attacks.
-	2. **Maintaining Access:** Once inside, attackers aim to maintain their access and avoid detection, often by performing lateral movement to explore the network and access other systems.
+	2. **Maintaining Access:** Once inside, attackers aim to maintain their access and avoid detection, often by performing lateral movement to explore the network and access other systems. A tactic called ***lateral movement, or pivoting***.
 	3. **Identifying Valuable Assets:** Attackers search for valuable assets, such as sensitive data like proprietary code, personally identifiable information, or financial records.
 	4. **Data Preparation:** They collect and prepare the stolen data for exfiltration, often by reducing the data size to bypass security controls.
 	5. **Data Exfiltration:** Finally, attackers exfiltrate the data to their chosen destination, which can involve various methods, such as emailing the stolen data using a compromised account.
 - **Organization's Defense:***
 	1. **Prevent Attacker Access:** Organizations can defend against data exfiltration attacks by preventing attacker access through methods like requiring multi-factor authentication to protect against phishing attempts.
 	2. **Monitor Network Activity:** Security teams must monitor network activity for suspicious behavior that could indicate a compromise, such as multiple logins from outside IP addresses.
-	3. **Asset Inventory and Security Controls:** All assets should be cataloged in an asset inventory, and the appropriate security controls must be applied to protect them from unauthorized access.
+	3. **Protect Assets:** Asset inventory and security controls. All assets should be cataloged in an asset inventory, and the appropriate security controls must be applied to protect them from unauthorized access.
 	4. **Detect and Stop Exfiltration:** In case of a successful attack, security teams need to detect and stop data exfiltration. Indicators of unusual data collection, such as large file transfers and unexpected file writes, can be identified through network monitoring using SIEM tools. Once detected, security teams can take actions like blocking IP addresses associated with the attacker using firewall rules.
 
 The video effectively outlines the attacker's process and how organizations can defend against data exfiltration attacks through prevention, monitoring, and detection. This information is valuable for security professionals in protecting their organizations from such threats.
