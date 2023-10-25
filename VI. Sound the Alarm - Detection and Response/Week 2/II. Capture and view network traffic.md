@@ -1,6 +1,9 @@
 # Packets and packet captures
 
-- **Network Packets:** Network communications are divided into packets, which contain delivery information, including sender and receiver IP addresses, packet type, and more. Each packet consists of a header, payload (actual data), and footer.
+- **[[Network Packets]]:** Network communications are divided into packets, which contain delivery information, including sender and receiver IP addresses, packet type, and more. Each packet consists of a 
+	- **[[Header]]**: which includes information like the type of network protocol and port being used. Imagine this as being the name and mailing address located on an envelope. Network protocols are a set of rules that determine the transmission of data between devices on a network. Ports are non-physical locations on a computer that organize data transmission between devices on a network. The header also contains the packet's source and destination IP address. We'll explore more information contained in the header in a later section.
+	- **[[Payload]]**: which contains the actual data that's being delivered. This is like the content of a letter inside of an envelope. And there's the footer, which signifies the end of the packet.
+	- **[[Footer]]**: signifies the end of the packet.
 - **Packet Sniffers:** Packet sniffers, also known as network protocol analyzers, are tools designed to capture and analyze data traffic within a network. Security analysts use packet sniffers to inspect packets for indicators of compromise.
 - **Packet Captures:** Through packet sniffing, detailed snapshots of packets that travel over a network are captured in the form of a packet capture (P-cap) file. These captures are files containing intercepted data packets, much like intercepting an envelope in the mail.
 - **Incident Investigation:** Packet captures are invaluable during incident investigations. They allow security professionals to access and observe the communications happening between devices over a network. This information helps in understanding network interactions and building a storyline to determine the events that occurred.

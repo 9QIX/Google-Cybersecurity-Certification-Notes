@@ -4,3 +4,5 @@
 		- It also includes a **[[protocol number]]** that tells the receiving device what to do with the information in the packet. 
 		- Then there's the **[[body]]** of the packet, which contains the message that needs to be transmitted to the receiving device. 
 		- Finally, at the end of the packet, there's a **[[footer]]**, similar to a signature on a letter, the footer signals to the receiving device that the packet is finished.
+
+**[[Header]]**: which includes information like the type of network protocol and port being used. Imagine this as being the name and mailing address located on an envelope. Network protocols are a set of rules that determine the transmission of data between devices on a network. Ports are non-physical locations on a computer that organize data transmission between devices on a network. The header also contains the packet's source and destination IP address. We'll explore more information contained in the header in a later section.

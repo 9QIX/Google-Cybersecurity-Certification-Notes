@@ -4,3 +4,5 @@
 		- It also includes a **[[protocol number]]** that tells the receiving device what to do with the information in the packet. 
 		- Then there's the **[[body]]** of the packet, which contains the message that needs to be transmitted to the receiving device. 
 		- Finally, at the end of the packet, there's a **[[footer]]**, similar to a signature on a letter, the footer signals to the receiving device that the packet is finished.
+
+**[[Footer]]**: signifies the end of the packet.
