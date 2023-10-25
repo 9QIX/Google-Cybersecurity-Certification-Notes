@@ -9,13 +9,13 @@ The video effectively explains the concept of network traffic analysis and its r
 
 # Maintain awareness with network monitoring
 
-Network communication can be noisy! Events like sending an email, streaming a video, or visiting a website all produce network communications in the form of network traffic and network data. As a reminder, **network traffic** is the amount of data that moves across a network. It can also include the type of data that is transferred, such as HTTP. **Network** **data** is the data that's transmitted between devices on a network.
+Network communication can be noisy! Events like sending an email, streaming a video, or visiting a website all produce network communications in the form of network traffic and network data. As a reminder, **[[network traffic]]** is the amount of data that moves across a network. It can also include the type of data that is transferred, such as HTTP. **[[Network data]]** is the data that's transmitted between devices on a network.
 
 Network monitoring is essential in maintaining situational awareness of any activity on a network. By collecting and analyzing network traffic, organizations can detect suspicious network activity. But before networks can be monitored, you must know exactly what to monitor. In this reading, you'll learn more about the importance of network monitoring, ways to monitor your network, and network monitoring tools.
 
 ## Know your network
 
-As you’ve learned, networks connect devices, and devices then communicate and exchange data using network protocols. Network communications provide information about connections such as source and destination IP addresses, amount of data transferred, date and time, and more. This information can be valuable for security professionals when developing a **baseline** of normal or expected behavior.
+As you’ve learned, networks connect devices, and devices then communicate and exchange data using network protocols. Network communications provide information about connections such as source and destination IP addresses, amount of data transferred, date and time, and more. This information can be valuable for security professionals when developing a **[[baseline]]** of normal or expected behavior.
 
 ![[Pasted image 20231025192856.png]]
 
