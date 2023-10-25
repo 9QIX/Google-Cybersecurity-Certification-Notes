@@ -1,0 +1,1 @@
+Observing network traffic helps identify **[[Indicators of Compromise (IoC)]]**, which are observable evidence suggesting signs of a potential security incident.
