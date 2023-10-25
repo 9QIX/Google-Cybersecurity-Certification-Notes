@@ -61,16 +61,16 @@ Network protocol analyzers use both software and hardware capabilities to captur
 
 ### **Capturing packets**
 
-**Packet sniffing** is the practice of capturing and inspecting data packets across a network. A **packet capture (p-cap)** is a file containing data packets intercepted from an interface or network. Packet captures can be viewed and further analyzed using network protocol analyzers. For example, you can filter packet captures to only display information that's most relevant to your investigation, such as packets sent from a specific IP address.
+**[[Packet sniffing]]** is the practice of capturing and inspecting data packets across a network. A **[[packet capture (p-cap)]]** is a file containing data packets intercepted from an interface or network. Packet captures can be viewed and further analyzed using network protocol analyzers. For example, you can filter packet captures to only display information that's most relevant to your investigation, such as packets sent from a specific IP address.
 
 **Note**: Using network protocol analyzers to intercept and examine private network communications without permission is considered illegal in many places.
 
 P-cap files can come in many formats depending on the packet capture library that’s used. Each format has different uses and network tools may use or support specific packet capture file formats by default. You should be familiar with the following libraries and formats:
 
-1. **Libpcap** is a packet capture library designed to be used by Unix-like systems, like Linux and MacOS®. Tools like tcpdump use Libpcap as the default packet capture file format. 
-2. **WinPcap** is an open-source packet capture library designed for devices running Windows operating systems. It’s considered an older file format and isn’t predominantly used.
-3. **Npcap** is a library designed by the port scanning tool Nmap that is commonly used in Windows operating systems.
-4. **PCAPng** is a modern file format that can simultaneously capture packets and store data. Its ability to do both explains the “ng,” which stands for “next generation.”
+1. **[[Libpcap]]** is a packet capture library designed to be used by Unix-like systems, like Linux and MacOS®. Tools like tcpdump use Libpcap as the default packet capture file format. 
+2. **[[WinPcap]]** is an open-source packet capture library designed for devices running Windows operating systems. It’s considered an older file format and isn’t predominantly used.
+3. **[[Npcap]]** is a library designed by the port scanning tool Nmap that is commonly used in Windows operating systems.
+4. **[[PCAPng]]** is a modern file format that can simultaneously capture packets and store data. Its ability to do both explains the “ng,” which stands for “next generation.”
 
 **Pro tip:** Analyzing your home network can be a good way to practice using these tools.
 
