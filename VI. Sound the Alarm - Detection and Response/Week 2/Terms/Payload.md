@@ -1,0 +1,1 @@
+**[[Payload]]**: which contains the actual data that's being delivered. This is like the content of a letter inside of an envelope. And there's the footer, which signifies the end of the packet.
