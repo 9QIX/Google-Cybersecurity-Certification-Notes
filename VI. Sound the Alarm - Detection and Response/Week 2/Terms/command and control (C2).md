@@ -1,0 +1,1 @@
+However, malicious actors can use protocols and ports that are not commonly associated to maintain communications between the compromised system and their own machine. These communications are what’s known as **[[command and control (C2)]]**, which are the techniques used by malicious actors to maintain communications with compromised systems.
