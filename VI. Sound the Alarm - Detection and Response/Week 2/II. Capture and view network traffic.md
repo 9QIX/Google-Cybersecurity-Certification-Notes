@@ -92,3 +92,22 @@ This Infosec article describes the risks of [packet crafting](https://resources.
 The video underscores the importance of efficient packet analysis for security professionals, highlighting the use of network analyzer tools and filtering to quickly identify suspicious network activity and indicators of compromise. The video also teases upcoming exploration of packet fields, with a specific focus on IP headers, which are key components of packet analysis.
 
 # Reexamine the fields of a packet header
+
+- **TCP/IP Model:** The TCP/IP model consists of four layers that help visualize how data is organized and transmitted across a network.
+- **Internet Layer and IP:** The Internet layer is responsible for accepting and delivering packets in the network. It is where the Internet Protocol (IP) operates as the foundation for internet communications. IP determines the best route for packets to reach their intended destinations.
+- **IP Headers:** IP packets contain headers that contain data fields crucial for data transfer. Different protocols use different headers.
+- **IPv4 and IPv6:** There are two versions of the Internet Protocol: IPv4 and IPv6. IPv4 is still the most widely used, and the video focuses on examining the fields of an IPv4 header.
+- **Fields in an IPv4 Header:** The video provides an overview of various fields in an IPv4 header, including:
+	- Version: Specifies the IP version (IPv4 or IPv6).
+	- IHL (Internet Header Length): Indicates the length of the IP header plus any options.
+	- ToS (Type of Service): Specifies if certain packets should be treated differently.
+	- Total Length: Identifies the length of the entire packet.
+	- Identification, Flags, and Fragment Offset: Deal with fragmentation and reassembly of IP packets.
+	- TTL (Time to Live): Determines how long a packet can live before it gets dropped.
+	- Protocol: Specifies the protocol used.
+	- Header Checksum: Stores a checksum value for error detection.
+	- Source Address and Destination Address: Specify the source and destination IP addresses.
+	- Options: An optional field used for network troubleshooting.
+	- Data: Where the packet's actual data resides.
+
+The video provides an informative overview of these IP header fields, using analogies like postal mail to make it easier to understand. It prepares the viewers for the upcoming opportunity to examine these packet fields in more detail.
