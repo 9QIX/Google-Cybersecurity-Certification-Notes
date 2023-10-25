@@ -33,11 +33,11 @@ However, malicious actors can use protocols and ports that are not commonly asso
 
 For example, malicious actors can use HTTPS protocol over port 8088 as opposed to its commonly associated port 443 to communicate with compromised systems. Organizations must know which ports should be open and approved for connections, and watch out for any mismatches between ports and their associated protocols.
 
-### **Packet payload information**
+### **[[Packet payload information]]**
 
 Network packets contain components related to the transmission of the packet. This includes details like source and destination IP address, and the packet payload information, which is the actual data that’s transmitted. Often, this data is encrypted and requires decryption for it to be readable. Organizations can monitor the payload information of packets to uncover unusual activity, such as sensitive data transmitting outside of the network, which could indicate a possible data exfiltration attack.
 
-### **Temporal patterns**
+### **[[Temporal patterns]]**
 
 Network packets contain information relating to time. This information is useful in understanding time patterns. For example, a company operating in North America experiences bulk traffic flows between 9 a.m. to 5 p.m., which is the baseline of normal network activity. If large volumes of traffic are suddenly outside of the normal hours of network activity, then this is considered _off baseline_ and should be investigated.
 
@@ -45,18 +45,18 @@ Through network monitoring, organizations can promptly detect network intrusions
 
 ## Protect your network
 
-In this program, you’ve learned about **security operations centers** (**SOC**) and their role in monitoring systems against security threats and attacks. Organizations may deploy a **network operations center** (**NOC**), which is an organizational unit that monitors the performance of a network and responds to any network disruption, such as a network outage. While a SOC is focused on maintaining the security of an organization through detection and response, a NOC is responsible for maintaining network performance, availability, and uptime. 
+In this program, you’ve learned about **[[security operations center (SOC)]]** and their role in monitoring systems against security threats and attacks. Organizations may deploy a **[[network operations center (NOC)]]**, which is an organizational unit that monitors the performance of a network and responds to any network disruption, such as a network outage. While a SOC is focused on maintaining the security of an organization through detection and response, a NOC is responsible for maintaining network performance, availability, and uptime. 
 
-![Une analyste surveille l'activité du système sur plusieurs écrans d'ordinateur.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JC9h-84YTn-cwOHf6MXVMg_b307457feef74f0e88f8664100b395f1_JqtN_UgxVYbwkx1IjuMN31PoUM5XlHpZ0M-Z2hBqScuHUv62R7AvZcqAGJGuoDUpYu6MnQiCL0FPB8tspDaKzNRvL6CxZv3oMo5cZfNfql0to1vR8Qt9Zam2ETRZLp_2w66Ah-JzQAF70EQdzN10PqSMOHbomP8LWvk5cigov8vPptnVpNVkzZAcaB_V7Q?expiry=1698364800000&hmac=slfBWLwb7PD6OKzzDrjHtymbB9vTYiJzCPBmv4_mVds)
+![[Pasted image 20231025193917.png]]
 
-Security analysts monitor networks to identify any signs of potential security incidents known as **indicators of compromise** (**IoC**) and  protect networks from threats or attacks. To do this, they must understand the environment that network communications travel through so that they can identify deviations in network traffic. 
+Security analysts monitor networks to identify any signs of potential security incidents known as **[[indicators of compromise (IoC)]]** and protect networks from threats or attacks. To do this, they must understand the environment that network communications travel through so that they can identify deviations in network traffic. 
 
 ### **Network monitoring tools**
 
 Network monitoring can be automated or performed manually. Some common network monitoring tools can include: 
 
-- **Intrusion detection systems** (**IDS**) monitor system activity and alert on possible intrusions. An IDS will detect and alert on the deviations you’ve configured it to detect. Most commonly, IDS tools will monitor the content of packet payload to detect patterns associated with threats such as malware or phishing attempts.
-- **Network protocol analyzers**, also known as packet sniffers, are tools designed to capture and analyze data traffic within a network. They can be used to analyze network communications manually in detail. Examples include tools such as tcpdump and Wireshark, which can be used by security professionals to record network communications through packet captures. Packet captures can then be investigated to identify potentially malicious activity.
+- **[[Intrusion detection system (IDS)]]** monitors system activity and alert on possible intrusions. An IDS will detect and alert on the deviations you’ve configured it to detect. Most commonly, IDS tools will monitor the content of packet payload to detect patterns associated with threats such as malware or phishing attempts.
+- **[[Network protocol analyzers]]**, also known as ***packet sniffers***, are tools designed to capture and analyze data traffic within a network. They can be used to analyze network communications manually in detail. Examples include tools such as tcpdump and Wireshark, which can be used by security professionals to record network communications through packet captures. Packet captures can then be investigated to identify potentially malicious activity.
 
 ## Key takeaways
 
