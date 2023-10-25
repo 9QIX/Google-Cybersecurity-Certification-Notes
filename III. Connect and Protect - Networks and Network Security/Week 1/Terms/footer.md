@@ -6,3 +6,7 @@
 		- Finally, at the end of the packet, there's a **[[footer]]**, similar to a signature on a letter, the footer signals to the receiving device that the packet is finished.
 
 **[[Footer]]**: signifies the end of the packet.
+
+The footer, also known as the trailer, is located at the end of a packet. The Ethernet protocol uses footers to provide error-checking information to determine if data has been corrupted. In addition, Ethernet network packets that are analyzed might not display footer information due to network configurations.
+
+**Note:** Most protocols, such as the Internet Protocol (IP), _do not_ use footers.
