@@ -81,3 +81,12 @@ Network protocol analyzers are helpful investigative tools that provide you with
 ## Resources for more information
 
 This Infosec article describes the risks of [packet crafting](https://resources.infosecinstitute.com/topic/packet-crafting-a-serious-crime/), a technique used to test a network’s structure.
+
+# Interpret network communications with packets
+
+- **Network Noise:** Networks are often busy and noisy, with a high volume of communications between devices. This can result in packet captures containing a large amount of network traffic, which can be challenging and time-consuming to analyze.
+- **Efficient Analysis:** Security professionals must work efficiently to protect networks and systems from potential attacks. Analyzing network evidence, such as packet captures, is essential for identifying indicators of compromise. To do this, the ability to filter network traffic using packet sniffers is crucial.
+- **Filtering Packet Captures:** Network analyzer tools, such as tcpdump and Wireshark, can be used to filter packet captures. This allows security analysts to sort and identify specific events or patterns in the network traffic. For example, filtering can help in quickly identifying events associated with data exfiltration, such as large amounts of data leaving a database.
+- **Network Analyzer Tools:** Two examples of network analyzer tools mentioned are tcpdump, which is command-line-based, and Wireshark, which has a graphical user interface (GUI). Both tools are valuable for security analysts, and the video suggests that viewers will have the opportunity to explore and use both tools.
+
+The video underscores the importance of efficient packet analysis for security professionals, highlighting the use of network analyzer tools and filtering to quickly identify suspicious network activity and indicators of compromise. The video also teases upcoming exploration of packet fields, with a specific focus on IP headers, which are key components of packet analysis.
