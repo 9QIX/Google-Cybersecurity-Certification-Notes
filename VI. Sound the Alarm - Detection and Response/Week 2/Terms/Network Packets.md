@@ -1,0 +1,1 @@
+**[[Network Packets]]:** Network communications are divided into packets, which contain delivery information, including sender and receiver IP addresses, packet type, and more. Each packet consists of a header, payload (actual data), and footer.

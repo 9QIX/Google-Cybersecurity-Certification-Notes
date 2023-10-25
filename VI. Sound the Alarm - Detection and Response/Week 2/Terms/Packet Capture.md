@@ -1,0 +1,1 @@
+**[[Packet Capture]]:** Through packet sniffing, detailed snapshots of packets that travel over a network are captured in the form of a packet capture (P-cap) file. These captures are files containing intercepted data packets, much like intercepting an envelope in the mail.

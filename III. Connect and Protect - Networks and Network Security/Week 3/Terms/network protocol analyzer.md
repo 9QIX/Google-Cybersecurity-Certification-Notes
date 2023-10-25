@@ -7,3 +7,5 @@ A **[[network protocol analyzer]]**, sometimes called a **packet sniffer or a pa
 - Azure Network Watcher
 - Wireshark
 - tcpdump
+
+**Packet Sniffers:** Packet sniffers, also known as **[[network protocol analyzer]]**, are tools designed to capture and analyze data traffic within a network. Security analysts use packet sniffers to inspect packets for indicators of compromise.
