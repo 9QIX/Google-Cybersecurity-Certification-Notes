@@ -1,0 +1,8 @@
+# Packets and packet captures
+
+- **Network Packets:** Network communications are divided into packets, which contain delivery information, including sender and receiver IP addresses, packet type, and more. Each packet consists of a header, payload (actual data), and footer.
+- **Packet Sniffers:** Packet sniffers, also known as network protocol analyzers, are tools designed to capture and analyze data traffic within a network. Security analysts use packet sniffers to inspect packets for indicators of compromise.
+- **Packet Captures:** Through packet sniffing, detailed snapshots of packets that travel over a network are captured in the form of a packet capture (P-cap) file. These captures are files containing intercepted data packets, much like intercepting an envelope in the mail.
+- **Incident Investigation:** Packet captures are invaluable during incident investigations. They allow security professionals to access and observe the communications happening between devices over a network. This information helps in understanding network interactions and building a storyline to determine the events that occurred.
+
+The video emphasizes the importance of packet analysis in network security and how packet captures provide security analysts with a powerful tool to investigate incidents and analyze network activities. This knowledge is vital for security professionals looking to defend against threats and monitor network traffic effectively.
