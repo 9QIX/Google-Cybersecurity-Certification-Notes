@@ -1,0 +1,1 @@
+**[[WinPcap]]** is an open-source packet capture library designed for devices running Windows operating systems. It’s considered an older file format and isn’t predominantly used.

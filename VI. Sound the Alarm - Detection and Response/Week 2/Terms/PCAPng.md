@@ -1,0 +1,1 @@
+**[[PCAPng]]** is a modern file format that can simultaneously capture packets and store data. Its ability to do both explains the “ng,” which stands for “next generation.”
