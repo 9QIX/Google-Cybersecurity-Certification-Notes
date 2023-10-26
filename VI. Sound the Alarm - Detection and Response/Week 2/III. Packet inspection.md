@@ -55,13 +55,13 @@ With tcpdump, you can apply options, also known as flags, to the end of commands
 
 Using the `-w` flag, you can write or save the sniffed network packets to a packet capture file instead of just printing it out in the terminal. This is very useful because you can refer to this saved file for later analysis. In this command, tcpdump is capturing network traffic from all network interfaces and saving it to a packet capture file named `packetcapture.pcap`:
 
-### `sudo tcpdump -i any -w packetcapture.pcap`
+ `sudo tcpdump -i any -w packetcapture.pcap`
 
 ### **-r**
 
 Using the `-r` flag, you can read a packet capture file by specifying the file name as a parameter. Here is an example of a tcpdump command that reads a file called `packetcapture.pcap`:
 
-### `sudo tcpdump -r packetcapture.pcap`
+ `sudo tcpdump -r packetcapture.pcap`
 
 ### **-v**
 
@@ -69,13 +69,13 @@ As you’ve learned, packets contain a lot of information. By default, tcpdump w
 
 There are three levels of verbosity you can use depending on how much packet information you want tcpdump to print out. The levels are `-v`, `-vv`, and `-vvv`. The level of verbosity increases with each added v. The verbose option can be helpful if you’re looking for packet information like the details of a packet’s IP header fields. Here’s an example of a tcpdump command that reads the packetcapture.pcap file with verbosity:
 
-### `sudo tcpdump -r packetcapture.pcap -v`
+ `sudo tcpdump -r packetcapture.pcap -v`
 
 ### **-c**
 
 The `-c` option stands for count. This option lets you control how many packets tcpdump will capture. For example, specifying `-c 1` will only print out one single packet, whereas `-c 10` prints out 10 packets. This example is telling tcpdump to only capture the first three packets it sniffs from `any` network interface:
 
-### `sudo tcpdump -i any -c 3`
+ `sudo tcpdump -i any -c 3`
 
 ### **-n**  
 
@@ -85,44 +85,39 @@ Additionally, name resolution uses what’s known as a reverse DNS lookup. A rev
 
 Using the `-n` flag disables this automatic mapping of numbers to names and is considered to be best practice when sniffing or analyzing traffic. Using `-n` will not resolve hostnames, whereas `-nn` will not resolve _both_ hostnames or ports. Here’s an example of a tcpdump command that reads the `packetcapture.pcap` file with verbosity and disables name resolution:
 
-### `sudo tcpdump -r packetcapture.pcap -v -`n
+ `sudo tcpdump -r packetcapture.pcap -v -n`
 
-**Pro tip:** You can combine options together. For example, -v and -n can be combined as -vn. But, if an option accepts a parameter right after it like -c 1 or -r capture.pcap then you can’t combine other options to it.
+**Pro tip:** You can combine options together. For example, `-v` and `-n` can be combined as `-vn`. But, if an option accepts a parameter right after it like `-c 1` or `-r capture.pcap` then you can’t combine other options to it.
 
 ## Expressions
 
 Using filter expressions in tcpdump commands is also optional, but knowing how and when to use filter expressions can be helpful during packet analysis. There are many ways to use filter expressions. 
 
-If you want to specifically search for network traffic by protocol, you can use filter expressions to isolate network packets. For example, you can filter to find only IPv6 traffic using the filter expression ip6.
+If you want to specifically search for network traffic by protocol, you can use filter expressions to isolate network packets. For example, you can filter to find only IPv6 traffic using the filter expression `ip6`.
 
-You can also use boolean operators like and, or, or not to further filter network traffic for specific IP addresses, ports, and more. The example below reads the packetcapture.pcap file and combines two expressions ip and port 80 using the and boolean operator:
+You can also use boolean operators like `and`, `or`, or `not` to further filter network traffic for specific IP addresses, ports, and more. The example below reads the `packetcapture.pcap` file and combines two expressions `ip and port 80` using the `and` boolean operator:
 
-sudo tcpdump -r packetcapture.pcap -n 'ip and port 80'
+ `sudo tcpdump -r packetcapture.pcap -n 'ip and port 80'`
 
-**Pro tip:** You can use single or double quotes to ensure that tcpdump executes all of the expressions. You can also use parentheses to group and prioritize different expressions. Grouping expressions is helpful for complex or lengthy commands. For example, the command ip and (port 80 or port 443) tells tcpdump to prioritize executing the filters enclosed in the parentheses before filtering for IPv4.
+**Pro tip:** You can use single or double quotes to ensure that tcpdump executes all of the expressions. You can also use parentheses to group and prioritize different expressions. Grouping expressions is helpful for complex or lengthy commands. For example, the command `ip and (port 80 or port 443)` tells tcpdump to prioritize executing the filters enclosed in the parentheses before filtering for IPv4.
 
 ## Interpreting output
 
 Once you run a command to capture packets, tcpdump will print the output of the command as the sniffed packets. In the output, tcpdump prints one line of text for each packet with each line beginning with a timestamp. Here’s an example of a command and output for a single TCP packet: 
 
-sudo tcpdump -i any -v -c 1
+`sudo tcpdump -i any -v -c 1`
 
-This command tells tcpdump to capture packets on -i any network interface. The option -v prints out the packet with detailed information and the option -c 1 prints out only one packet. Here is the output of this command: 
+This command tells tcpdump to capture packets on `-i any` network interface. The option `-v` prints out the packet with detailed information and the option `-c 1` prints out only one packet. Here is the output of this command: 
 
-![Sortie d'une commande tcpdump avec des étiquettes pour l'horodatage, l'adresse IP source, le port source, l'adresse IP de des](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/3LnHDkkeQ2-a-KjHKXkBCQ_940eb009d1674c7595f8361adf48c1f1_89by7cw_y0GWsyGI4iK19PqNyVHpVO4reyeIO0v-xYeZDBID0JG0PzpqRSA7fWjmD88HKjaZ8PhlONjdsKMLrUlx0lM9lPGBVSNqO87rZPPHt00BahLIQmfBNpRTyBAgjUklW2nn3hCB5Z-x_0HC56AKW7g2hk4tXgWyjInXVJYMosY9D4pyuX2VzerrhA?expiry=1698451200000&hmac=Zb_PDBtDVfXJVaADL-09T-0exm07NA1tP0nWIeIpbZU)
+![[Pasted image 20231026201326.png]]
 
 1. **Timestamp**: The output begins with the timestamp, which starts with hours, minutes, seconds, and fractions of a second. 
-    
 2. **Source IP:** The packet’s origin is provided by its source IP address.
-    
 3. **Source port:** This port number is where the packet originated.
-    
 4. **Destination IP:** The destination IP address is where the packet is being transmitted to.
-    
 5. **Destination port:** This port number is where the packet is being transmitted to.
-    
 
-The remaining output contains details of the TCP connection including flags and sequence number. The options information is additional packet information that the  -v option has provided.
+The remaining output contains details of the TCP connection including flags and sequence number. The `options` information is additional packet information that the  `-v` option has provided.
 
 ## Key takeaways
 
@@ -131,5 +126,4 @@ In security, you’ll likely encounter using network protocol analyzer tools lik
 ## Resources for more information
 
 - Learn more with tcpdump's [tutorials and guides](https://www.tcpdump.org/), which includes additional educational resources.
-    
 - Learn more about using expressions to filter traffic with this [tcpdump tutorial by Daniel Miessler](https://danielmiessler.com/p/tcpdump/).
