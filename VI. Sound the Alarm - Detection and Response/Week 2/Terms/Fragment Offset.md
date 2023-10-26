@@ -1,0 +1,1 @@
+- **[[Fragment Offset]]**: This field is used to identify the correct sequence of fragments.
