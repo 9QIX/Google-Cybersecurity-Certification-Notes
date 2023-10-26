@@ -1,1 +1,2 @@
 - **[[Total Length]]:** This field communicates the total length of the entire IP packet, including the header and data. The maximum size of an IPv4 packet is 65,535 bytes.
+- **[[Total Length]]**: This field specifies the total length of the entire IP packet including the header and the data.
