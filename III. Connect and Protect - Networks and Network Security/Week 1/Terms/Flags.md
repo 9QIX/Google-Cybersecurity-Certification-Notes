@@ -1,1 +1,2 @@
 - **[[Flags]]:** This field provides the routing device with more information about whether the original packet has been fragmented and if there are more fragments in transit.
+- **[[Flags]]**: This field provides information about packet fragmentation including whether the original packet has been fragmented and if there are more fragments in transit.

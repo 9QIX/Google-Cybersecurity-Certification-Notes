@@ -3,3 +3,5 @@
 - **[[Identification]]:** For IPv4 packets that are larger than 65,535 bytes, the packets are divided, or fragmented, into smaller IP packets. The identification field provides a unique identifier for all the fragments of the original IP packet so that they can be reassembled once they reach their destination.
 
 **[[Identification]]:** In this step, scanning tools and manual testing are used to discover vulnerabilities. The goal is to gain an understanding of the current state of the security system.
+
+**[[Identification]]**: Packets that are too large to send are fragmented into smaller pieces. This field specifies a unique identifier for fragments of an original IP packet so that they can be reassembled once they reach their destination.

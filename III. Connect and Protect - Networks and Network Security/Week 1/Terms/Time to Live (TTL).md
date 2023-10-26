@@ -1,1 +1,2 @@
 - **[[Time to Live (TTL)]]:** TTL prevents data packets from being forwarded by routers indefinitely. It contains a counter that is set by the source. The counter is decremented by one as it passes through each router along its path. When the TTL counter reaches zero, the router currently holding the packet will discard the packet and return an ICMP Time Exceeded error message to the sender.
+- **[[Time to Live (TTL)]]**: This field limits how long a packet can be circulated in a network, preventing packets from being forwarded by routers indefinitely.
