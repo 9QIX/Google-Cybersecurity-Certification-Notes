@@ -1,0 +1,1 @@
+**[[Hop Limit]]**: This field is similar to the IPv4 Time to Live field. The Hop Limit limits how long a packet can travel in a network before being discarded.
