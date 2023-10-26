@@ -146,7 +146,7 @@ IPv4 is the most commonly used version of IP. There are thirteen fields in the h
 - **[[Options]]**: This field is optional and can be used to apply security options to a packet.
 ![[Pasted image 20231025220542.png]]
 
-### **IPv6**
+### **[[IPv6]]**
 
 IPv6 adoption has been increasing because of its large address space. There are eight fields in the header:
 
