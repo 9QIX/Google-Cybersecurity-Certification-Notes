@@ -126,4 +126,4 @@ In security, you’ll likely encounter using network protocol analyzer tools lik
 ## Resources for more information
 
 - Learn more with tcpdump's [tutorials and guides](https://www.tcpdump.org/), which includes additional educational resources.
-- Learn more about using expressions to filter traffic with this [tcpdump tutorial by Daniel Miessler](https://danielmiessler.com/p/tcpdump/).
+- Learn more about using expressions to filter traffic with this [tcpdump tutorial by Daniel Miessler](https://danielmiessler.com/p/tcpdump/). 
