@@ -1,0 +1,1 @@
+**[[Traffic Class]]**: This field is similar to the IPv4 Type of Service field. The Traffic Class field provides information about the packet's priority or class to help with packet delivery.
