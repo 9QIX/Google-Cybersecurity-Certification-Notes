@@ -19,9 +19,7 @@ The video concludes by encouraging viewers to try using tcpdump themselves, emph
 As a security analyst, you’ll use network protocol analyzers to help defend against any network intrusions. Previously, you learned the following terms related to network monitoring and analysis: 
 
 - A **network protocol analyzer (packet sniffer)** is a tool designed to capture and analyze data traffic within a network.
-    
 - **Packet sniffing** is the practice of capturing and inspecting data packets across a network. 
-    
 
 In this reading, you'll learn more about tcpdump, a network protocol analyzer that can be used to capture and view network communications. 
 
@@ -37,16 +35,13 @@ Tcpdump is used to capture network traffic. This traffic can be saved to a **pac
 
 Previously in this program, you learned that a Linux **root user (or superuser)** has elevated privileges to modify the system. You also learned that the **sudo** command temporarily grants elevated permissions to specific users in Linux. Like many other packet sniffing tools, you’ll need to have administrator-level privileges to capture network traffic using tcpdump. This means you will need to either be logged in as the root user or have the ability to use the sudo command. Here is a breakdown of the tcpdump syntax for capturing packets:
 
-sudo tcpdump [-i interface] [option(s)] [expression(s)]
+`sudo tcpdump [-i interface] [option(s)] [expression(s)]`
 
-- The sudo tcpdump command begins running tcpdump using elevated permissions as sudo. 
-    
-- The -i parameter specifies the network interface to capture network traffic. You must specify a network interface to capture from to begin capturing packets. For example, if you specify -i any you’ll sniff traffic from all network interfaces on the system. 
-    
-- The option(s) are optional and provide you with the ability to alter the execution of the command. The expression(s) are a way to further filter network traffic packets so that you can isolate network traffic. You’ll learn more about option(s) and expression(s) in the next section.
-    
+- The `sudo tcpdump` command begins running tcpdump using elevated permissions as sudo.
+- The `-i` parameter specifies the network interface to capture network traffic. You must specify a network interface to capture from to begin capturing packets. For example, if you specify -i any you’ll sniff traffic from all network interfaces on the system. 
+- The `option(s)` are optional and provide you with the ability to alter the execution of the command. The `expression(s)` are a way to further filter network traffic packets so that you can isolate network traffic. You’ll learn more about `option(s)` and `expression(s)` in the next section.
 
-**Note**: Before you can begin capturing network traffic, you must identify which network interface you'll want to use to capture packets from. You can use the -D flag to list the network interfaces available on a system.
+**Note**: Before you can begin capturing network traffic, you must identify which network interface you'll want to use to capture packets from. You can use the `-D` flag to list the network interfaces available on a system.
 
 ## Options
 
