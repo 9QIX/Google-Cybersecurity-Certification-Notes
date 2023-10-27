@@ -1,0 +1,1 @@
+**[[Impossible to detect everything]]**: Detecting every potential security incident is challenging. Even excellent detection tools have limitations, and automated tools might not be fully deployed across an organization due to resource constraints. Some incidents are simply unavoidable, underscoring the importance of having an incident response plan in place.

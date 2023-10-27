@@ -1,0 +1,1 @@
+**[[High volumes of alerts]]**: Security analysts often face a high volume of alerts during their shifts, sometimes numbering in the thousands. This can occur due to misconfigured alert settings, such as overly broad alert rules that lead to false positives, or legitimate alerts triggered by malicious actors exploiting vulnerabilities.
