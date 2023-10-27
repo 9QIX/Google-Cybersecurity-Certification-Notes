@@ -45,7 +45,7 @@ Previously in this program, you learned that a Linux **root user (or superuser)*
 
 ## Options
 
-With tcpdump, you can apply options, also known as flags, to the end of commands to filter network traffic. Short options are abbreviated and represented by a hyphen and a single character like `-i`. Long options are spelled out using a double hyphen like `--interfac`e. Tcpdump has over fifty options that you can explore using [the manual page](https://www.tcpdump.org/manpages/tcpdump.1.html). Here, you’ll examine a couple of essential tcpdump options including how to write and read packet capture files.
+With tcpdump, you can apply options, also known as flags, to the end of commands to filter network traffic. Short options are abbreviated and represented by a hyphen and a single character like `-i`. Long options are spelled out using a double hyphen like `--interface`. Tcpdump has over fifty options that you can explore using [the manual page](https://www.tcpdump.org/manpages/tcpdump.1.html). Here, you’ll examine a couple of essential tcpdump options including how to write and read packet capture files.
 
 **Note**: Options are case sensitive. For example, a lowercase `-w` is a separate option with a different use than the option with an uppercase `-W`.
 
@@ -61,7 +61,7 @@ Using the `-w` flag, you can write or save the sniffed network packets to a pack
 
 Using the `-r` flag, you can read a packet capture file by specifying the file name as a parameter. Here is an example of a tcpdump command that reads a file called `packetcapture.pcap`:
 
- `sudo tcpdump -r packetcapture.pcap`
+`sudo tcpdump -r packetcapture.pcap`
 
 ### **-v**
 
@@ -69,7 +69,7 @@ As you’ve learned, packets contain a lot of information. By default, tcpdump w
 
 There are three levels of verbosity you can use depending on how much packet information you want tcpdump to print out. The levels are `-v`, `-vv`, and `-vvv`. The level of verbosity increases with each added v. The verbose option can be helpful if you’re looking for packet information like the details of a packet’s IP header fields. Here’s an example of a tcpdump command that reads the packetcapture.pcap file with verbosity:
 
- `sudo tcpdump -r packetcapture.pcap -v`
+`sudo tcpdump -r packetcapture.pcap -v`
 
 ### **-c**
 
