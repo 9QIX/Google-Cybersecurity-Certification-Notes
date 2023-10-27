@@ -85,7 +85,7 @@ Additionally, name resolution uses what’s known as a reverse DNS lookup. A rev
 
 Using the `-n` flag disables this automatic mapping of numbers to names and is considered to be best practice when sniffing or analyzing traffic. Using `-n` will not resolve hostnames, whereas `-nn` will not resolve _both_ hostnames or ports. Here’s an example of a tcpdump command that reads the `packetcapture.pcap` file with verbosity and disables name resolution:
 
- `sudo tcpdump -r packetcapture.pcap -v -n`
+`sudo tcpdump -r packetcapture.pcap -v -n`
 
 **Pro tip:** You can combine options together. For example, `-v` and `-n` can be combined as `-vn`. But, if an option accepts a parameter right after it like `-c 1` or `-r capture.pcap` then you can’t combine other options to it.
 
@@ -97,7 +97,7 @@ If you want to specifically search for network traffic by protocol, you can use 
 
 You can also use boolean operators like `and`, `or`, or `not` to further filter network traffic for specific IP addresses, ports, and more. The example below reads the `packetcapture.pcap` file and combines two expressions `ip and port 80` using the `and` boolean operator:
 
- `sudo tcpdump -r packetcapture.pcap -n 'ip and port 80'`
+`sudo tcpdump -r packetcapture.pcap -n 'ip and port 80'`
 
 **Pro tip:** You can use single or double quotes to ensure that tcpdump executes all of the expressions. You can also use parentheses to group and prioritize different expressions. Grouping expressions is helpful for complex or lengthy commands. For example, the command `ip and (port 80 or port 443)` tells tcpdump to prioritize executing the filters enclosed in the parentheses before filtering for IPv4.
 
@@ -122,6 +122,8 @@ The remaining output contains details of the TCP connection including flags and 
 ## Key takeaways
 
 In security, you’ll likely encounter using network protocol analyzer tools like tcpdump. It’s important to be equipped with the knowledge of capturing, filtering, and interpreting network packets on the command line. 
+
+![[Pasted image 20231027151033.png]]
 
 ## Resources for more information
 
