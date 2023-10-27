@@ -1,0 +1,1 @@
+**[[Incidents]]** are events that are of concern due to their potential security implications.
