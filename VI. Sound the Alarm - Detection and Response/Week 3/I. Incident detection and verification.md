@@ -1,0 +1,10 @@
+# The detection and analysis phase of the lifecycle
+
+- **Detection:** Detection involves the rapid discovery of security events. Security tools, such as Intrusion Detection Systems (IDS) and Security Information and Event Management (SIEM) systems, collect and analyze event data from various sources to identify potentially unusual activity. If an incident is detected, such as a successful unauthorized access, an alert is generated.
+- **Events vs. Incidents:** It's important to understand the distinction between events and incidents. Events are regular occurrences in business operations, like website visits or password resets. Incidents are events that are of concern due to their potential security implications.
+- **Analysis Phase:** The Analysis phase is where incident response teams investigate and validate alerts. Security analysts use their critical thinking and incident analysis skills to examine indicators of compromise and determine whether an incident has occurred.
+- **Challenges in Detection:** Detecting every potential security incident is challenging. Even excellent detection tools have limitations, and automated tools might not be fully deployed across an organization due to resource constraints. Some incidents are simply unavoidable, underscoring the importance of having an incident response plan in place.
+- **Alert Volume:** Security analysts often face a high volume of alerts during their shifts, sometimes numbering in the thousands. This can occur due to misconfigured alert settings, such as overly broad alert rules that lead to false positives, or legitimate alerts triggered by malicious actors exploiting vulnerabilities.
+- **Equipping Analysts:** The video emphasizes the importance of equipping security analysts with the skills and knowledge to effectively analyze alerts.
+
+The video concludes by suggesting that viewers will have the opportunity to practice analyzing alerts in the upcoming sections of the training.
