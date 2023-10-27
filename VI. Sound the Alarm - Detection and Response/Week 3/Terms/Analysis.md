@@ -1,0 +1,1 @@
+**[[Analysis]]** Phase: The Analysis phase is where incident response teams investigate and validate alerts. Security analysts use their critical thinking and incident analysis skills to examine indicators of compromise and determine whether an incident has occurred.
