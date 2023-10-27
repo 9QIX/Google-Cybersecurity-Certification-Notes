@@ -39,11 +39,8 @@ Organizations can improve their detection capabilities by staying updated on the
 Threat intelligence can come from private or public sources like:
 
 - **Industry reports**: These often include details about attacker's tactics, techniques, and procedures (TTP).
-    
 - **Government advisories:** Similar to industry reports, government advisories include details about attackers' TTP. 
-    
 - **Threat data feeds**: Threat data feeds provide a stream of threat-related data that can be used to help protect against sophisticated attackers like **advanced persistent threats (APTs)**. APTs are instances when a threat actor maintains unauthorized access to a system for an extended period of time. The data is usually a list of indicators like IP addresses, domains, and file hashes.
-    
 
 It can be difficult for organizations to efficiently manage large volumes of threat intelligence. Organizations can leverage a _threat intelligence platform_ (TIP) which is an application that collects, centralizes, and analyzes threat intelligence from different sources. TIPs provide a centralized platform for organizations to identify and prioritize relevant threats and improve their security posture.
 
@@ -64,5 +61,4 @@ Various detection methods can be implemented to identify and locate security eve
 If you would like to explore more on threat hunting and threat intelligence, here are some resources:
 
 - An [informational repository about threat hunting from](https://www.threathunting.net/) The ThreatHunting Project 
-    
 - Research on [state-sponsored hackers](https://blog.google/threat-analysis-group/) from Threat Analysis Group (TAG)
