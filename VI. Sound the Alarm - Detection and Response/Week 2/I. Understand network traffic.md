@@ -71,7 +71,7 @@ Monitoring and protecting networks from intrusions and attacks are key responsib
 
 - **Attacker's Perspective:**
 	1. **Initial Access:** Attackers typically gain initial access to a network and computer system through methods like social engineering, such as phishing attacks.
-	2. **Maintaining Access:** Once inside, attackers aim to maintain their access and avoid detection, often by performing lateral movement to explore the network and access other systems. 
+	2. **Maintaining Access:** Once inside, attackers aim to maintain their access and avoid detection, often by ***performing lateral movement*** to explore the network and access other systems. 
 	3. **Identifying Valuable Assets:** Attackers search for valuable assets, such as sensitive data like proprietary code, personally identifiable information, or financial records. A tactic called ***lateral movement, or pivoting***.
 	4. **Data Preparation:** They collect and prepare the stolen data for exfiltration, often by reducing the data size to bypass security controls.
 	5. **Data Exfiltration:** Finally, attackers exfiltrate the data to their chosen destination, which can involve various methods, such as emailing the stolen data using a compromised account.

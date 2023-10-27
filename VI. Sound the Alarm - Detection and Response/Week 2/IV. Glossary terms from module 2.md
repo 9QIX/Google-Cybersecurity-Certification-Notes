@@ -2,8 +2,6 @@
 
 **C**
 - **[[Command and control (C2)]]**: The techniques used by malicious actors to maintain communications with compromised systems
-
-
 - **[[Command-line interface (CLI)]]**: A text-based user interface that uses commands to interact with the computer
 
 **D**
