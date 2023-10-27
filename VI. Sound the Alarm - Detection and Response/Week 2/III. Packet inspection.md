@@ -18,16 +18,16 @@ The video concludes by encouraging viewers to try using tcpdump themselves, emph
 
 As a security analyst, you’ll use network protocol analyzers to help defend against any network intrusions. Previously, you learned the following terms related to network monitoring and analysis: 
 
-- A **network protocol analyzer (packet sniffer)** is a tool designed to capture and analyze data traffic within a network.
-- **Packet sniffing** is the practice of capturing and inspecting data packets across a network. 
+- A **[[network protocol analyzer (packet sniffer)]]** is a tool designed to capture and analyze data traffic within a network.
+- **[[Packet sniffing]]** is the practice of capturing and inspecting data packets across a network. 
 
 In this reading, you'll learn more about tcpdump, a network protocol analyzer that can be used to capture and view network communications. 
 
 ## What is tcpdump?
 
-**Tcpdump** is a command-line network protocol analyzer. Recall that a **command-line interface (CLI)** is a text-based user interface that uses commands to interact with the computer. 
+**[[Tcpdump]]** is a command-line network protocol analyzer. Recall that a **command-line interface (CLI)** is a text-based user interface that uses commands to interact with the computer. 
 
-Tcpdump is used to capture network traffic. This traffic can be saved to a **packet capture (p-cap)**, which is a file containing data packets intercepted from an interface or network. The p-cap file can be accessed, analyzed, or shared at a later time. Analysts use tcpdump for a variety of reasons, from troubleshooting network issues to identifying malicious activity. Tcpdump comes pre-installed in many Linux distributions and can also be installed on other Unix-based operating systems such as macOS®. 
+Tcpdump is used to capture network traffic. This traffic can be saved to a **[[packet capture (p-cap)]]**, which is a file containing data packets intercepted from an interface or network. The p-cap file can be accessed, analyzed, or shared at a later time. Analysts use tcpdump for a variety of reasons, from troubleshooting network issues to identifying malicious activity. Tcpdump comes pre-installed in many Linux distributions and can also be installed on other Unix-based operating systems such as macOS®. 
 
 **Note**: It's common for network traffic to be encrypted, which means data is encoded and unreadable. Inspecting the network packets might require decrypting the data using the appropriate private keys. 
 

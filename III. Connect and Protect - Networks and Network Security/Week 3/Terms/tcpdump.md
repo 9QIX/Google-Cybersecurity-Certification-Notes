@@ -15,3 +15,11 @@ tcpdump provides a brief packet analysis and *converts key information about net
 	- `-i any`: Specifies to capture traffic on any available network interface.
 	- `-v`: Enables verbose mode, displaying detailed packet information.
 	- `-c 1`: Limits tcpdump to capture only one packet.
+
+## What is tcpdump?
+
+**[[Tcpdump]]** is a command-line network protocol analyzer. Recall that a **command-line interface (CLI)** is a text-based user interface that uses commands to interact with the computer. 
+
+Tcpdump is used to capture network traffic. This traffic can be saved to a **[[packet capture (p-cap)]]**, which is a file containing data packets intercepted from an interface or network. The p-cap file can be accessed, analyzed, or shared at a later time. Analysts use tcpdump for a variety of reasons, from troubleshooting network issues to identifying malicious activity. Tcpdump comes pre-installed in many Linux distributions and can also be installed on other Unix-based operating systems such as macOS®. 
+
+**Note**: It's common for network traffic to be encrypted, which means data is encoded and unreadable. Inspecting the network packets might require decrypting the data using the appropriate private keys. 
