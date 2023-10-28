@@ -1,0 +1,1 @@
+**[[Government advisories]]:** Similar to industry reports, government advisories include details about attackers' TTP. 
