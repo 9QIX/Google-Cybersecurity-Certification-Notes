@@ -1,0 +1,1 @@
+**[[Network artifacts]]**: Observable evidence created by malicious actors on a network. For example, information found in network protocols such as User-Agent strings. 

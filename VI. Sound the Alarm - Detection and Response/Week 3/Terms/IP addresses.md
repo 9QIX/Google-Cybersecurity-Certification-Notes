@@ -1,0 +1,1 @@
+**[[IP addresses]]**: An internet protocol address like 192.168.1.1
