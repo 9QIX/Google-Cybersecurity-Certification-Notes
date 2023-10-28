@@ -1,0 +1,1 @@
+**[[Open-source intelligence (OSINT)]]** is the collection and analysis of information from publicly available sources to generate usable intelligence. OSINT can also be used as a method to gather information related to threat actors, threats, vulnerabilities, and more.

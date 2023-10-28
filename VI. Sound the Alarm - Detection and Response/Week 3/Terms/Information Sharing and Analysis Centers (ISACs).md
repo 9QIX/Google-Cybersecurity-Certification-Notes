@@ -1,0 +1,1 @@
+Examples of information-sharing organizations include **[[Information Sharing and Analysis Centers (ISACs)]]**, which focus on collecting and sharing sector-specific threat intelligence to companies within specific industries like energy, healthcare, and others
