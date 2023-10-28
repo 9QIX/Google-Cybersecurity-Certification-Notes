@@ -1,0 +1,1 @@
+**[[Industry reports]]**: These often include details about attacker's tactics, techniques, and procedures (TTP).
