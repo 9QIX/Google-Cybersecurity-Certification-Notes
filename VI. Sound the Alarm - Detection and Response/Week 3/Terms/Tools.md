@@ -1,0 +1,1 @@
+**[[Tools]]**: Software that’s used by a malicious actor to achieve their goal. For example, attackers can use password cracking tools like John the Ripper to perform password attacks to gain access into an account.
