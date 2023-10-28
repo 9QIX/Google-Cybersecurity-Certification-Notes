@@ -1,0 +1,1 @@
+**[[Tactics, techniques, and procedures (TTPs)]]**: This is the behavior of a malicious actor. Tactics refer to the high-level overview of the behavior. Techniques provide detailed descriptions of the behavior relating to the tactic. Procedures are highly detailed descriptions of the technique. TTPs are the hardest to detect.

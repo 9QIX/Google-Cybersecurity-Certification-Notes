@@ -1,0 +1,1 @@
+**[[Techniques]]** provide detailed descriptions of the behavior relating to the tactic.
