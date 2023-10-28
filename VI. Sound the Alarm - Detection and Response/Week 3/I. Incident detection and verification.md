@@ -187,4 +187,4 @@ There are other investigative tools that can be used to analyze IoCs. These tool
 
 ## Key takeaways
 
-As a security analyst, you'll analyze IoCs. It's important to understand how adding context to investigations can help improve detection capabilities and make informed and effective decisions.
+As a security analyst, you'll analyze IoCs. It's important to understand how adding context to investigations can help improve detection capabilities and make informed and effective decisions. 
