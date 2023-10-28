@@ -1,0 +1,1 @@
+**[[Host artifacts]]:** Observable evidence created by malicious actors on a host. A host is any device that’s connected on a network. For example, the name of a file created by malware.
