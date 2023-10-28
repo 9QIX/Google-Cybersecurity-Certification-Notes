@@ -1,0 +1,1 @@
+**[[Community]]:** The Community tab is where members of the VirusTotal community, such as security professionals or researchers, can leave comments and insights about the IoC

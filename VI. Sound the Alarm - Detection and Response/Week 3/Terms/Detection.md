@@ -1,1 +1,3 @@
 **[[Detection]]:** Detection involves the rapid discovery of security events. Security tools, such as Intrusion Detection Systems (IDS) and Security Information and Event Management (SIEM) systems, collect and analyze event data from various sources to identify potentially unusual activity. If an incident is detected, such as a successful unauthorized access, an alert is generated.
+
+**[[Detection]]**: The Detection tab provides a list of third-party security vendors and their detection verdicts on an IoC. For example, vendors can list their detection verdict as malicious, suspicious, unsafe, and more.
