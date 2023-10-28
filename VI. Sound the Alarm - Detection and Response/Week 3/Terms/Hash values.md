@@ -1,0 +1,1 @@
+**[[Hash values]]**: Hashes that correspond to known malicious files. These are often used to provide unique references to specific samples of malware or to files involved in an intrusion.
