@@ -114,7 +114,7 @@ Indicators of compromise and indicators of attack are valuable sources of inform
 
 # Analyze indicators of compromise with investigative tools
 
-So far, you've learned about the different types of detection methods that can be used to detect security incidents. This reading explores how investigative tools can be used during investigations to analyze suspicious **indicators of compromise (IoCs)** and build context around alerts. Remember, an IoC is observable evidence that suggests signs of a potential security incident.
+So far, you've learned about the different types of detection methods that can be used to detect security incidents. This reading explores how investigative tools can be used during investigations to analyze suspicious **[[indicators of compromise (IoCs)]]** and build context around alerts. Remember, an IoC is observable evidence that suggests signs of a potential security incident.
 
 ## Adding context to investigations
 
@@ -124,7 +124,7 @@ For example, identifying and blocking a single IP address associated with malici
 
 ![[Pasted image 20231028211405.png]]
 
-Security analysts need a way to expand the use of IoCs so that they can add context to alerts. **Threat intelligence** is evidence-based threat information that provides context about existing or emerging threats. By accessing additional information related to IoCs, security analysts can expand their viewpoint to observe the bigger picture and construct a narrative that helps inform their response actions.
+Security analysts need a way to expand the use of IoCs so that they can add context to alerts. **[[Threat intelligence]]** is evidence-based threat information that provides context about existing or emerging threats. By accessing additional information related to IoCs, security analysts can expand their viewpoint to observe the bigger picture and construct a narrative that helps inform their response actions.
 
 ![[Pasted image 20231028211412.png]]
 
