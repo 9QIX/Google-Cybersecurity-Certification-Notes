@@ -62,3 +62,16 @@ If you would like to explore more on threat hunting and threat intelligence, her
 
 - An [informational repository about threat hunting from](https://www.threathunting.net/) The ThreatHunting Project 
 - Research on [state-sponsored hackers](https://blog.google/threat-analysis-group/) from Threat Analysis Group (TAG)
+
+
+# Changes in the cybersecurity industry
+
+**[[Zero Trust]]** is a cybersecurity approach and model that emphasizes the principle of "never trust, always verify." In this model, trust is not automatically granted to any user or device, even if they are inside an organization's network. Instead, Zero Trust assumes that threats could be both external and internal, and it requires continuous verification of the identity and security posture of users and devices trying to access network resources. Here's what Zero Trust means in simpler terms:
+
+1. **No Implicit Trust:** With Zero Trust, you don't automatically trust anyone or anything, whether they are inside or outside your organization. Every user, device, or application is treated as potentially untrusted until proven otherwise.
+2. **Verification:** To access resources, users and devices must prove who they are and that they meet security requirements. This is typically done through strong authentication methods and security checks.
+3. **Least Privilege:** Users and devices are granted only the minimum level of access needed to perform their tasks. They don't get broad access to everything.
+4. **Continuous Monitoring:** Zero Trust involves continuous monitoring of user and device activities to detect unusual behavior or security threats. This way, if something suspicious happens, it can be spotted and addressed quickly.
+5. **Micro-Segmentation:** Networks are divided into smaller segments, and each segment has its own access controls. This reduces the "blast radius" of a security breach.
+
+In essence, Zero Trust is a modern security philosophy that recognizes the evolving threat landscape and focuses on securing your data and systems by thoroughly verifying and monitoring every interaction, whether it's from inside or outside your network. It's about being cautious and critical, always double-checking, and not relying on traditional network perimeters to keep your organization safe.
