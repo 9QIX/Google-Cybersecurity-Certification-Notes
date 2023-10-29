@@ -21,7 +21,11 @@ In conclusion, documentation is an essential tool for security professionals, ai
 
 ![[Pasted image 20231029195637.png]]
 
-- **Broken Chain of Custody:** A "broken chain of custody" occurs when there are inconsistencies in the collection and logging of evidence in the chain of custody. In the legal context, a broken chain of custody can impact the trustworthiness of evidence, and it may affect its admissibility in court proceedings.
-- **Legal Standards:** Chain of custody forms are crucial for meeting legal standards and ensuring that evidence can be used in legal proceedings. They help establish proof of the integrity, reliability, and accuracy of the evidence, especially in cases where malicious actions are involved.
+- **[[Broken Chain of Custody]]:** A "broken chain of custody" occurs when there are inconsistencies in the collection and logging of evidence in the chain of custody. In the legal context, a broken chain of custody can impact the trustworthiness of evidence, and it may affect its admissibility in court proceedings.
+- **[[Legal Standards]]:** Chain of custody forms are crucial for meeting legal standards and ensuring that evidence can be used in legal proceedings. They help establish proof of the:
+	- Integrity
+	- Reliability
+	- Accuracy 
+- Of the evidence, especially in cases where malicious actions are involved.
 
 In conclusion, chain of custody is a vital process in incident response and digital forensics. It helps maintain the transparency and integrity of evidence, making it suitable for use in legal contexts, especially when investigating and prosecuting malicious actors for their actions.
