@@ -1,1 +1,7 @@
 **[[Standardization]]:** Documentation supports standardization by establishing guidelines and standards for completing tasks and workflows. Examples of this standardization include creating an organization's security policy, processes, and procedures. Standardization ensures consistent quality of work by providing clear rules to follow.
+
+### **Standardization**
+
+**[[Standardization]]** through repeatable processes and procedures supports continuous improvement efforts, helps with knowledge transfer, and facilitates the onboarding of new team members. **[[Standards]]** are references that inform how to set policies.
+
+You have learned how NIST provides various security frameworks that are used to improve security measures. Likewise, organizations set up their own standards to meet their business needs. An example of documentation that establishes standardization is an **[[incident response plan]]**, which is a document that outlines the procedures to take in each step of incident response. Incident response plans standardize an organization’s response process by outlining procedures in advance of an incident. By documenting an organization’s incident response plan, you create a standard that people follow, maintaining consistency with repeatable processes and procedures.
