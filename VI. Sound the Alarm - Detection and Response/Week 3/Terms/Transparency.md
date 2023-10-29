@@ -1,0 +1,1 @@
+**[[Transparency]]:** Documentation provides transparency by creating a record of incidents and events. This transparent documentation serves as valuable evidence for security insurance claims, regulatory investigations, and legal proceedings.
