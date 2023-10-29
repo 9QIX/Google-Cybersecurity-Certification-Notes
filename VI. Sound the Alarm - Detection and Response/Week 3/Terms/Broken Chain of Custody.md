@@ -1,0 +1,1 @@
+**[[Broken Chain of Custody]]:** A "broken chain of custody" occurs when there are inconsistencies in the collection and logging of evidence in the chain of custody. In the legal context, a broken chain of custody can impact the trustworthiness of evidence, and it may affect its admissibility in court proceedings.
