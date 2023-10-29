@@ -1,0 +1,1 @@
+**[[Semi-automated Playbook]]:** These combine automated tasks with human involvement. Tedious, error-prone, or time-consuming tasks can be automated, allowing analysts to focus their efforts on other critical aspects. This approach enhances productivity and reduces time to resolution.
