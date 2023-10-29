@@ -1,0 +1,1 @@
+**[[Standardization]]:** Documentation supports standardization by establishing guidelines and standards for completing tasks and workflows. Examples of this standardization include creating an organization's security policy, processes, and procedures. Standardization ensures consistent quality of work by providing clear rules to follow.
