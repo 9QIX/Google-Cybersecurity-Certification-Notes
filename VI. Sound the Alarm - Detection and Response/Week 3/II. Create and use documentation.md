@@ -81,8 +81,11 @@ Effective documentation produces benefits for everyone in an organization. Knowi
 Playbooks play a critical role in the incident response process, providing security professionals with structured guidance and instructions for effectively addressing security incidents. Here's a summary of key points from the video:
 
 - **Playbooks vs. Travel Itineraries:** Playbooks are similar to travel itineraries in that they provide a clear plan of action. Just as a travel itinerary outlines your activities and destinations during a trip, playbooks detail the actions security analysts should take when responding to incidents.
-- **Purpose of Playbooks:** Playbooks offer security professionals a structured and well-organized approach to the entire incident response lifecycle. Incidents can be unpredictable and chaotic, and playbooks serve to provide order and clarity. They reduce guesswork and uncertainty, enabling security teams to respond quickly and effectively. Without playbooks, achieving an efficient and swift incident response becomes challenging.
+- **Purpose of Playbooks:** **[[Playbook]]** offers security professionals a structured and well-organized approach to the entire incident response lifecycle. Incidents can be unpredictable and chaotic, and playbooks serve to provide order and clarity. They reduce guesswork and uncertainty, enabling security teams to respond quickly and effectively. Without playbooks, achieving an efficient and swift incident response becomes challenging.
 - **Checklists in Playbooks:** Playbooks may include checklists to help security teams remember each step in the incident response process. Checklists can be particularly valuable during stressful times.
+
+![[Pasted image 20231029201841.png]]
+
 - **Types of Playbooks:** There are three main types of playbooks: non-automated, automated, and semi-automated.
 	- **Non-automated Playbooks:** These require security analysts to follow step-by-step actions manually.
 	- **Automated Playbooks:** Automation tools and technologies, such as SOAR (Security Orchestration, Automation, and Response) and SIEM (Security Information and Event Management) systems, are used to automate specific tasks in the incident response process. This can include tasks like categorizing incident severity or gathering evidence.
