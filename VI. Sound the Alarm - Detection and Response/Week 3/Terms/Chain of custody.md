@@ -1,3 +1,5 @@
 **[[Chain of custody]]** is a crucial process in the field of digital forensics and security incident response. It involves documenting the possession and control of evidence throughout the incident's lifecycle. The use of chain of custody forms is essential for ensuring the transparency of evidence handling, particularly when it may be requested for legal proceedings. Here's a summary of key points from the video:
 
 - **Chain of Custody Definition:** Chain of custody is the process of documenting evidence possession and control during an incident lifecycle. It is initiated as soon as evidence is collected, and the forms should be continuously updated as the evidence is handled.
+
+**[[Chain of custody]]** is the process of documenting evidence possession and control during an incident lifecycle. Chain of custody is an example of how documentation produces transparency and an audit trail.

@@ -32,22 +32,19 @@ In conclusion, chain of custody is a vital process in incident response and digi
 
 # Best practices for effective documentation
 
-**Documentation** is any form of recorded content that is used for a specific purpose, and it is essential in the field of security. Security teams use documentation to support investigations, complete tasks, and communicate findings. This reading explores the benefits of documentation and provides you with a list of common practices to help you create effective documentation in your security career.
+**[[Documentation]]** is any form of recorded content that is used for a specific purpose, and it is essential in the field of security. Security teams use documentation to support investigations, complete tasks, and communicate findings. This reading explores the benefits of documentation and provides you with a list of common practices to help you create effective documentation in your security career.
 
 ## Documentation benefits
 
 You’ve already learned about many types of security documentation, including playbooks, final reports, and more. As you’ve also learned, effective documentation has three benefits:
 
 1. Transparency
-    
 2. Standardization
-    
 3. Clarity
-    
 
 ### **Transparency**
 
-In security, transparency is critical for demonstrating compliance with regulations and internal processes, meeting insurance requirements, and for legal proceedings. **Chain of custody** is the process of documenting evidence possession and control during an incident lifecycle. Chain of custody is an example of how documentation produces transparency and an audit trail.
+In security, **[[transparency]]** is critical for demonstrating compliance with regulations and internal processes, meeting insurance requirements, and for legal proceedings. **[[Chain of custody]]** is the process of documenting evidence possession and control during an incident lifecycle. Chain of custody is an example of how documentation produces transparency and an audit trail.
 
 ### **Standardization**
 
