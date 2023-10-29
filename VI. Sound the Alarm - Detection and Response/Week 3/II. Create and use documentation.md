@@ -54,7 +54,7 @@ You have learned how NIST provides various security frameworks that are used to 
 
 ### **Clarity**
 
-Ideally, all documentation provides clarity to its audience. Clear documentation helps people quickly access the information they need so they can take necessary action. Security analysts are required to document the reasoning behind any action they take so that it’s clear to their team why an alert was escalated or closed.
+Ideally, all documentation provides **[[clarity]]** to its audience. Clear documentation helps people quickly access the information they need so they can take necessary action. Security analysts are required to document the reasoning behind any action they take so that it’s clear to their team why an alert was escalated or closed.
 
 ## Best practices
 
