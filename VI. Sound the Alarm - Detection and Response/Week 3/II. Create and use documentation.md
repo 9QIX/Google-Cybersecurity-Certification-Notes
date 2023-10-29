@@ -18,6 +18,9 @@ In conclusion, documentation is an essential tool for security professionals, ai
 - **Digital Forensics Example:** The video presents a simplified example of chain of custody in the context of digital forensic analysis. In this scenario, a compromised hard drive is collected as potential evidence. Aisha, who initially collects the hard drive, ensures that it is write-protected, calculates and records a cryptographic hash of the drive's image, and then transfers it to the forensics department. The transfer of the hard drive to different analysts requires logging the movements and handling in the chain of custody form.
 - **Purpose of Chain of Custody:** The primary purpose of the chain of custody process is to maintain a transparent paper trail that documents who handled the evidence, when and why it was handled, and where it was located. This documentation ensures the integrity, reliability, and accuracy of the evidence.
 - **Elements of a Chain of Custody Form:** Although there's no standard template for chain of custody forms, they typically contain common elements, including a description of the evidence (identifying information), a custody log (record of transfers with names, dates, times, and purposes), and other relevant details.
+
+![[Pasted image 20231029195637.png]]
+
 - **Broken Chain of Custody:** A "broken chain of custody" occurs when there are inconsistencies in the collection and logging of evidence in the chain of custody. In the legal context, a broken chain of custody can impact the trustworthiness of evidence, and it may affect its admissibility in court proceedings.
 - **Legal Standards:** Chain of custody forms are crucial for meeting legal standards and ensuring that evidence can be used in legal proceedings. They help establish proof of the integrity, reliability, and accuracy of the evidence, especially in cases where malicious actions are involved.
 
