@@ -1,0 +1,5 @@
+- **[[Legal Standards]]:** Chain of custody forms are crucial for meeting legal standards and ensuring that evidence can be used in legal proceedings. They help establish proof of the:
+	- Integrity
+	- Reliability
+	- Accuracy 
+- Of the evidence, especially in cases where malicious actions are involved.
