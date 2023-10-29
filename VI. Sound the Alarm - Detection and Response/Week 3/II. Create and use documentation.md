@@ -87,9 +87,9 @@ Playbooks play a critical role in the incident response process, providing secur
 ![[Pasted image 20231029201841.png]]
 
 - **Types of Playbooks:** There are three main types of playbooks: non-automated, automated, and semi-automated.
-	- **Non-automated Playbooks:** These require security analysts to follow step-by-step actions manually.
-	- **Automated Playbooks:** Automation tools and technologies, such as SOAR (Security Orchestration, Automation, and Response) and SIEM (Security Information and Event Management) systems, are used to automate specific tasks in the incident response process. This can include tasks like categorizing incident severity or gathering evidence.
-	- **Semi-automated Playbooks:** These combine automated tasks with human involvement. Tedious, error-prone, or time-consuming tasks can be automated, allowing analysts to focus their efforts on other critical aspects. This approach enhances productivity and reduces time to resolution.
+	- **[[Non-automated Playbook]]:** These require security analysts to follow step-by-step actions manually.
+	- **[[Automated Playbook]]:** Automation tools and technologies, such as SOAR (Security Orchestration, Automation, and Response) and SIEM (Security Information and Event Management) systems, are used to automate specific tasks in the incident response process. This can include tasks like categorizing incident severity or gathering evidence.
+	- **[[Semi-automated Playbook]]:** These combine automated tasks with human involvement. Tedious, error-prone, or time-consuming tasks can be automated, allowing analysts to focus their efforts on other critical aspects. This approach enhances productivity and reduces time to resolution.
 - **Playbook Maintenance:** Playbooks should be regularly maintained and updated. Threat landscapes constantly evolve, and playbooks need to reflect these changes to remain effective. A good practice is to introduce updates and changes to playbooks during the post-incident activity phase.
 
 Playbooks are a fundamental resource for security teams, ensuring that they can respond to incidents swiftly and effectively. They serve as a structured guide throughout the incident response process, helping security professionals make informed decisions and take the necessary actions to mitigate and resolve security incidents.
