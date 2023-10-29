@@ -1,0 +1,1 @@
+**[[Non-automated Playbook]]:** These require security analysts to follow step-by-step actions manually.
