@@ -1,0 +1,5 @@
+Similar to an incident response plan, a **[[business continuity plan (BCP)]]** is a document that outlines the procedures to sustain business operations during and after a significant disruption. A BCP helps organizations ensure that critical business functions can resume or can be quickly restored when an incident occurs.
+
+Entry level security analysts aren't typically responsible for the development and testing of a BCP. However, it's important that you understand how BCPs provide organizations with a structured way to respond and recover from security incidents.
+
+**Note**: Business continuity plans are not the same as _disaster recovery plans_. **[[Disaster recovery plans]]** are used to recover information systems in response to a major disaster. These disasters can range from hardware failure to the destruction of facilities from a natural disaster, like a flood. 
