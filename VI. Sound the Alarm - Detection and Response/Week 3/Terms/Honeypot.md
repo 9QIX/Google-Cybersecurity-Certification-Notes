@@ -1,0 +1,1 @@
+**[[Honeypot]]**: A system or resource created as a decoy vulnerable to attacks with the purpose of attracting potential intruders
