@@ -63,3 +63,7 @@ One of the most essential forms of documentation that gets created during the en
 ## Key takeaways
 
 Post-incident actions represent the end of the incident response lifecycle. This phase provides the opportunity for security teams to meet, evaluate the response actions, make recommendations for improvement, and develop the final report.
+
+# Identify: Explore an incident event timeline
+
+![[Pasted image 20231030145940.png]]
