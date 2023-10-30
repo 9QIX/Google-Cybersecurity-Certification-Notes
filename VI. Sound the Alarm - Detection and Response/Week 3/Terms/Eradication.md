@@ -1,0 +1,2 @@
+- **[[Eradication]]:** Once containment is in place, the next step is eradication. Eradication involves the complete removal of incident elements from all affected systems. 
+	- This may involve actions such as performing vulnerability tests, applying patches to vulnerabilities related to the threat, and ensuring that no traces of the incident remain in the environment.

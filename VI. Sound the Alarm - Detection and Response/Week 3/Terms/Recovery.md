@@ -1,0 +1,2 @@
+- **[[Recovery]]:** Recovery is the final step in this phase. It focuses on returning affected systems to normal operations. Incidents can disrupt key business operations and services, so during the recovery phase, any services impacted by the incident are brought back to normal operation. 
+	- Recovery actions may include reimaging affected systems, resetting passwords, and adjusting network configurations, such as firewall rules.
