@@ -1,0 +1,18 @@
+Triage is a crucial process used in both the medical field and security to efficiently manage resources and prioritize actions based on the level of urgency or importance. Here's a summary of the key points from the video:
+
+- **Triage in Medicine:** In a hospital emergency department, patients are triaged to categorize them based on the urgency of their medical conditions. Patients with life-threatening conditions receive immediate medical attention, while those with non-life-threatening issues may need to wait. Triage helps manage limited medical resources effectively.
+
+- **Triage in Security:** Triage is also applied in the field of security. Before an alert is escalated, it goes through a triage process to determine its level of importance or urgency. Security teams have limited resources available for incident response, and not all incidents are equal. Incidents are triaged based on the threat they pose to the confidentiality, integrity, and availability of systems.
+
+- **Prioritizing Incidents:** Security analysts prioritize incidents according to their urgency. For example, an incident involving ransomware is given a higher priority than an incident such as an employee receiving a phishing email, as ransomware can cause significant financial, reputational, and operational damage.
+
+- **When Triage Occurs:** Triage begins as soon as an incident is detected and an alert is sent out. Security analysts identify various alert types and prioritize them based on organizational policies and guidelines. The assigned priority level defines the organization's response to the incident.
+
+- **Triage Process:** The triage process typically includes the following steps:
+  1. Receive and assess the alert to determine if it's a false positive or if it's related to an existing incident.
+  2. Assign a priority level to the alert based on organizational guidelines.
+  3. Investigate the alert, collecting and analyzing evidence, such as system logs.
+
+- **Importance of Context:** Security analysts should conduct a thorough analysis to make informed decisions about their findings. Adding context to an investigation is crucial to determine whether an alert is malicious. Questions such as whether there were multiple failed login attempts, whether the login occurred outside of normal working hours or the network, help build a complete picture of the incident. This prevents making assumptions that could lead to incomplete or incorrect conclusions.
+
+Triage is a vital step in the incident response process, helping security teams make informed decisions about how to allocate their resources effectively and respond to incidents based on their level of importance and urgency.
