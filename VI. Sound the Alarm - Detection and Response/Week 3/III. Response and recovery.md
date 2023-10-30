@@ -5,8 +5,8 @@
 	- **Prioritizing Incidents:** Security analysts prioritize incidents according to their urgency. For example, an incident involving ransomware is given a higher priority than an incident such as an employee receiving a phishing email, as ransomware can cause significant financial, reputational, and operational damage.
 - **When Triage Occurs:** Triage begins as soon as an incident is detected and an alert is sent out. Security analysts identify various alert types and prioritize them based on organizational policies and guidelines. The assigned priority level defines the organization's response to the incident.
 	- **Triage Process:** The triage process typically includes the following steps:
-		1. **Receive and assess** the alert to determine if it's a false positive or if it's related to an existing incident.
-		2. **Assign priority** level to the alert based on organizational guidelines.
+		1. **[[Receive and assess]]** the alert to determine if it's a false positive or if it's related to an existing incident.
+		2. **[[Assign priority]]** level to the alert based on organizational guidelines.
 		3. Investigate the alert, **collect and analyze** evidence, such as system logs.
 	- **Questions to ask:**
 		- Is there anything out of the ordinary?
@@ -23,7 +23,7 @@ Previously, you learned that triaging is used to assess alerts and assign priori
 
 ## Triage process
 
-Incidents can have the potential to cause significant damage to an organization. Security teams must respond quickly and efficiently to prevent or limit the impact of an incident before it becomes too late. **Triage** is the prioritizing of incidents according to their level of importance or urgency. The triage process helps security teams evaluate and prioritize security alerts and allocate resources effectively so that the most critical issues are addressed first.
+Incidents can have the potential to cause significant damage to an organization. Security teams must respond quickly and efficiently to prevent or limit the impact of an incident before it becomes too late. **[[Triage]]** is the prioritizing of incidents according to their level of importance or urgency. The triage process helps security teams evaluate and prioritize security alerts and allocate resources effectively so that the most critical issues are addressed first.
 
 The triage process consists of three steps:
 
