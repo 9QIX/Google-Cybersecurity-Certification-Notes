@@ -1,0 +1,1 @@
+**[[Investigation]]**: A compilation of the actions taken during the detection and analysis of the incident. For example, analysis of a network artifact such as a packet capture reveals information about what activities happen on a network.
