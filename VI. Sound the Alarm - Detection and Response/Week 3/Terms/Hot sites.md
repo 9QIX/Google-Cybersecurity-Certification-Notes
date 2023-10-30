@@ -1,0 +1,1 @@
+**[[Hot sites]]**: A fully operational facility that is a duplicate of an organization's primary environment. Hot sites can be activated immediately when an organization's primary site experiences failure or disruption.
