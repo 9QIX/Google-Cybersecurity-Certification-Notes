@@ -71,9 +71,49 @@ Triage allows security teams to prioritize incidents according to their level of
 
 The third phase of the incident response lifecycle involves containing, eradicating, and recovering from an incident. These steps are essential for managing and mitigating the impact of a security incident. Here's a summary of the key points from the video:
 
-- **Containment:** Containment is the first step after detecting an incident. It involves limiting and preventing additional damage caused by the incident. Organizations outline their containment strategies in their incident response plans. Different strategies are used for various types of incidents. For example, in the case of a malware incident on a single computer system, a common containment strategy is to isolate the affected system by disconnecting it from the network. This prevents the malware from spreading to other systems, limiting further damage.
-- **Eradication:** Once containment is in place, the next step is eradication. Eradication involves the complete removal of incident elements from all affected systems. This may involve actions such as performing vulnerability tests, applying patches to vulnerabilities related to the threat, and ensuring that no traces of the incident remain in the environment.
-- **Recovery:** Recovery is the final step in this phase. It focuses on returning affected systems to normal operations. Incidents can disrupt key business operations and services, so during the recovery phase, any services impacted by the incident are brought back to normal operation. Recovery actions may include reimaging affected systems, resetting passwords, and adjusting network configurations, such as firewall rules.
-- **Cyclical Nature:** It's important to remember that the incident response lifecycle is cyclical. Multiple incidents can occur over time, and some incidents may be related. Security teams may need to revisit previous phases of the lifecycle to conduct additional investigations or take further actions. The goal is to continually improve incident response and learn from each incident to enhance the organization's security posture.
+- **[[Containment]]:** Containment is the first step after detecting an incident. It involves limiting and preventing additional damage caused by the incident. Organizations outline their containment strategies in their incident response plans. Different strategies are used for various types of incidents. 
+	- For example, in the case of a malware incident on a single computer system, a common containment strategy is to isolate the affected system by disconnecting it from the network. This prevents the malware from spreading to other systems, limiting further damage.
+- **[[Eradication]]:** Once containment is in place, the next step is eradication. Eradication involves the complete removal of incident elements from all affected systems. 
+	- This may involve actions such as performing vulnerability tests, applying patches to vulnerabilities related to the threat, and ensuring that no traces of the incident remain in the environment.
+- **[[Recovery]]:** Recovery is the final step in this phase. It focuses on returning affected systems to normal operations. Incidents can disrupt key business operations and services, so during the recovery phase, any services impacted by the incident are brought back to normal operation. 
+	- Recovery actions may include reimaging affected systems, resetting passwords, and adjusting network configurations, such as firewall rules.
+- **[[Cyclical Nature]]:** It's important to remember that the incident response lifecycle is cyclical. Multiple incidents can occur over time, and some incidents may be related. Security teams may need to revisit previous phases of the lifecycle to conduct additional investigations or take further actions. The goal is to continually improve incident response and learn from each incident to enhance the organization's security posture.
 
 This phase of the incident response lifecycle is crucial for minimizing the impact of security incidents and restoring normal operations as efficiently as possible. It aligns with the core functions of the NIST Cybersecurity Framework, Respond (containment and eradication) and Recover (recovery), which help organizations effectively manage and recover from security incidents.
+
+# Business continuity considerations
+
+Previously, you learned about how security teams develop incident response plans to help ensure that there is a prepared and consistent process to quickly respond to security incidents. In this reading, you'll explore the importance that business continuity planning has in recovering from incidents.
+
+## Business continuity planning
+
+Security teams must be prepared to minimize the impact that security incidents can have on their normal business operations. When an incident occurs, organizations might experience significant disruptions to the functionality of their systems and services. Prolonged disruption to systems and services can have serious effects, causing legal, financial, and reputational damages. Organizations can use business continuity planning so that they can remain operational during any major disruptions.
+
+Similar to an incident response plan, a **business** **continuity plan (BCP)** is a document that outlines the procedures to sustain business operations during and after a significant disruption. A BCP helps organizations ensure that critical business functions can resume or can be quickly restored when an incident occurs.
+
+Entry level security analysts aren't typically responsible for the development and testing of a BCP. However, it's important that you understand how BCPs provide organizations with a structured way to respond and recover from security incidents.
+
+**Note**: Business continuity plans are not the same as _disaster recovery plans_. Disaster recovery plans are used to recover information systems in response to a major disaster. These disasters can range from hardware failure to the destruction of facilities from a natural disaster, like a flood. 
+
+### **Consider the impacts of ransomware to business continuity**
+
+Impacts of a security incident such as ransomware can be devastating for business operations. Ransomware attacks targeting critical infrastructure such as healthcare can have the potential to cause significant disruption. Depending on the severity of a ransomware attack, the accessibility, availability, and delivery of essential healthcare services can be impacted. For example, ransomware can encrypt data, resulting in disabled access to medical records, which prevents healthcare providers from accessing patient records. At a larger scale, security incidents that target the assets, systems, and networks of critical infrastructure can also undermine national security, economic security, and the health and safety of the public. For this reason, BCPs help to minimize interruptions to operations so that essential services can be accessed.
+
+### **Recovery strategies** 
+
+When an outage occurs due to a security incident, organizations must have some sort of a functional recovery plan set to resolve the issue and get systems fully operational. BCPs can include strategies for recovery that focus on returning to normal operations. Site resilience is one example of a recovery strategy. 
+
+### **Site resilience** 
+
+**Resilience** is the ability to prepare for, respond to, and recover from disruptions. Organizations can design their systems to be resilient so that they can continue delivering services despite facing disruptions. An example is site resilience, which is used to ensure the availability of networks, data centers, or other infrastructure when a disruption happens. There are three types of recovery sites used for site resilience:
+
+- **Hot sites**: A fully operational facility that is a duplicate of an organization's primary environment. Hot sites can be activated immediately when an organization's primary site experiences failure or disruption.
+    
+- **Warm sites**: A facility that contains a fully updated and configured version of the hot site. Unlike hot sites, warm sites are not fully operational and available for immediate use but can quickly be made operational when a failure or disruption occurs.
+    
+- **Cold sites**: A backup facility equipped with some of the necessary infrastructure required to operate an organization's site. When a disruption or failure occurs, cold sites might not be ready for immediate use and might need additional work to be operational.
+    
+
+## Key takeaways
+
+Security incidents have the potential to seriously disrupt business operations. Having the right plans in place is essential so that organizations can continue to function. Business continuity plans help organizations understand the impact that serious security incidents can have on their operations and work to mitigate these impacts so that regular operations can resume.
