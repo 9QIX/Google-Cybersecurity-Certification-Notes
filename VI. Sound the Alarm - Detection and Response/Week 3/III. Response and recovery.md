@@ -66,3 +66,14 @@ By prioritizing incidents based on their potential impact, you can reduce the sc
 ## Key takeaways
 
 Triage allows security teams to prioritize incidents according to their level of importance or urgency. The triage process is important in ensuring that an organization meets their incident response goals. As a security professional, you will likely utilize triage to effectively respond to and resolve security incidents.
+
+# The containment, eradication, and recovery phase of the lifecycle
+
+The third phase of the incident response lifecycle involves containing, eradicating, and recovering from an incident. These steps are essential for managing and mitigating the impact of a security incident. Here's a summary of the key points from the video:
+
+- **Containment:** Containment is the first step after detecting an incident. It involves limiting and preventing additional damage caused by the incident. Organizations outline their containment strategies in their incident response plans. Different strategies are used for various types of incidents. For example, in the case of a malware incident on a single computer system, a common containment strategy is to isolate the affected system by disconnecting it from the network. This prevents the malware from spreading to other systems, limiting further damage.
+- **Eradication:** Once containment is in place, the next step is eradication. Eradication involves the complete removal of incident elements from all affected systems. This may involve actions such as performing vulnerability tests, applying patches to vulnerabilities related to the threat, and ensuring that no traces of the incident remain in the environment.
+- **Recovery:** Recovery is the final step in this phase. It focuses on returning affected systems to normal operations. Incidents can disrupt key business operations and services, so during the recovery phase, any services impacted by the incident are brought back to normal operation. Recovery actions may include reimaging affected systems, resetting passwords, and adjusting network configurations, such as firewall rules.
+- **Cyclical Nature:** It's important to remember that the incident response lifecycle is cyclical. Multiple incidents can occur over time, and some incidents may be related. Security teams may need to revisit previous phases of the lifecycle to conduct additional investigations or take further actions. The goal is to continually improve incident response and learn from each incident to enhance the organization's security posture.
+
+This phase of the incident response lifecycle is crucial for minimizing the impact of security incidents and restoring normal operations as efficiently as possible. It aligns with the core functions of the NIST Cybersecurity Framework, Respond (containment and eradication) and Recover (recovery), which help organizations effectively manage and recover from security incidents.
