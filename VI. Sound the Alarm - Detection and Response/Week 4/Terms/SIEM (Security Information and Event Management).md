@@ -1,0 +1,1 @@
+**[[SIEM (Security Information and Event Management)]]:** SIEM tools play a crucial role in log management. They collect data from multiple sources, aggregate or centralize the data in one location, and normalize diverse log formats into a single preferred format. SIEM tools enable security analysts to process large log volumes in real-time, supporting their investigations.

@@ -1,0 +1,1 @@
+**Log Collection:** **[[Log forwarders]]**, which are software applications, collect logs from various sources and automatically forward them to a centralized log repository for storage.

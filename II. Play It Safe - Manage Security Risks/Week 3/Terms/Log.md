@@ -1,3 +1,7 @@
 - **[[Log]]** is a record of events that occur within an organization's systems and networks. 
 	- Security analysts access a variety of logs from different sources. 
 	- Three common log sources include firewall logs, network logs, and server logs. 
+
+- **Definition of Logs:** **[[Log]]** are records of events that occur within an organization's systems. They serve as a detailed account of various events or occurrences. Nearly every device or system can generate logs, making them valuable for security analysts.
+	- **Log Contents:** Logs record information about events, including the ***date and time, location, actions taken, and the names of users or systems involved***. This data is essential for both troubleshooting system issues and, most importantly, for security monitoring. Logs enable security analysts to create a narrative and timeline of events, helping them understand what transpired.
+	- **Log Analysis:** **[[Log analysis]]** is the process of examining logs to identify events of interest. Given the vast amount of log data generated from different sources, it's important to be selective about what to log. This selective logging approach helps reduce the time spent sifting through log data.
