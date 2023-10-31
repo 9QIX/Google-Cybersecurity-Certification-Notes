@@ -78,3 +78,19 @@ Storing logs in a centralized log server is a way to maintain log integrity. Whe
 ## Key takeaways
 
 It's important to understand how to properly collect, store, and protect logs because they are integral to incident investigations. Having a detailed plan for log management helps improve the usefulness of logs and resource efficiency.
+
+# Variations of logs
+
+- **Comparison to Receipts:** Logs are likened to receipts in the sense that they record events or activities that occur on a network or system. While not all store receipts look the same, they all contain crucial transaction details. Similarly, logs may come in different formats but typically include information such as timestamps, system characteristics (e.g., IP addresses), a description of the event, the action taken, and the user who performed the action.
+
+- **Log Formats:** Logs can be generated from various data sources like network devices, operating systems, and more. As a result, they come in different formats, which may be human-readable or machine-readable, verbose or concise. Common log formats include Syslog, JSON, XML, and CSV.
+
+- **Syslog:** Syslog is a widely used log format that includes a header, structured data, and a message. The header contains fields like Timestamp, Hostname, Application name, and Message ID. The structured-data section contains additional key-value pairs. The message component provides detailed information about the event.
+
+- **JSON (JavaScript Object Notation):** JSON is a text-based format known for its simplicity and easy readability. It uses key-value pairs organized within curly brackets. Each key is followed by a colon and its corresponding value.
+
+- **XML (eXtensible Markup Language):** XML is a format used for storing and transmitting data. Unlike key-value pairs, it uses tags and keys to structure data. An XML log entry includes fields enclosed in tags.
+
+- **CSV (Comma Separated Values):** CSV is a format that uses separators like commas to separate data values. It's commonly used to store tabular data.
+
+Understanding different log formats is crucial for a security analyst because logs provide vital information for detecting, investigating, and responding to security incidents. The knowledge of log formats allows analysts to effectively evaluate logs and build context around detection.
