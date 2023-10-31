@@ -39,7 +39,7 @@ Depending on the data source, different log types can be produced. Here’s a li
 
 ### **Log details**
 
-Generally, logs contain a date, time, location, action, and author of the action. Here is an example of an authentication log:
+Generally, logs contain a date, time, location, action, and author of the action, **[[Log details]]**. Here is an example of an authentication log:
 
 `Login Event [05:45:15] User1 Authenticated successfully`
 
@@ -49,7 +49,7 @@ Logs contain information and can be adjusted to contain even more information. V
 
 ## Log management
 
-Because all devices produce logs, it can quickly become overwhelming for organizations to keep track of all the logs that are generated. To get the most value from your logs, you need to choose exactly what to log, how to access it easily, and keep it secure using log management. **Log management** is the process of collecting, storing, analyzing, and disposing of log data. 
+Because all devices produce logs, it can quickly become overwhelming for organizations to keep track of all the logs that are generated. To get the most value from your logs, you need to choose exactly what to log, how to access it easily, and keep it secure using log management. **[[Log management]]** is the process of collecting, storing, analyzing, and disposing of log data. 
 
 ### **What to log**
 
@@ -67,7 +67,7 @@ Organizations that operate in the following industries might need to modify thei
 
 - Public sector industries, like the Federal Information Security Modernization Act (FISMA)
 - Healthcare industries, like the Health Insurance Portability and Accountability Act of 1996 (HIPAA)
-- Financial services industries, such as the Payment Card Industry Data Security Standard (PCI DSS), the Gramm-Leach-Bliley Act (GLBA), and the Sarbanes-Oxley Act of 2002 (SOX
+- Financial services industries, such as the Payment Card Industry Data Security Standard (PCI DSS), the Gramm-Leach-Bliley Act (GLBA), and the Sarbanes-Oxley Act of 2002 (SOX)
 
 ### **Log protection**
 
