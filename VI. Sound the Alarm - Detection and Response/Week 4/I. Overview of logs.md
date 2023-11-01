@@ -215,9 +215,17 @@ XML elements can also contain attributes. Attributes are used to provide additio
 
 For example:
 
-<EventData> <Data Name='SubjectUserSid'>S-2-3-11-160321</Data> <Data Name='SubjectUserName'>JSMITH</Data> <Data Name='SubjectDomainName'>ADCOMP</Data> <Data Name='SubjectLogonId'>0x1cf1c12</Data> <Data Name='NewProcessId'>0x1404</Data> </EventData>
+```XML
+<EventData> 
+	<Data Name='SubjectUserSid'>S-2-3-11-160321</Data> 
+	<Data Name='SubjectUserName'>JSMITH</Data> 
+	<Data Name='SubjectDomainName'>ADCOMP</Data> 
+	<Data Name='SubjectLogonId'>0x1cf1c12</Data> 
+	<Data Name='NewProcessId'>0x1404</Data> 
+</EventData>
+```
 
-In the first line for this example, the tag is <Data> and it uses the attribute  Name='SubjectUserSid' to describe the data enclosed in the tag S-2-3-11-160321.
+In the first line for this example, the tag is `<Data>` and it uses the attribute  `Name='SubjectUserSid'` to describe the data enclosed in the tag `S-2-3-11-160321`.
 
 ## CSV (Comma Separated Value)
 
@@ -225,13 +233,17 @@ CSV (Comma Separated Value) uses commas to separate data values. In CSV logs, th
 
 Here is an example:
 
+```CSV
 2009-11-24T21:27:09.534255,ALERT,192.168.2.7, 1041,x.x.250.50,80,TCP,ALLOWED,1:2001999:9,"ET MALWARE BTGrab.com Spyware Downloading Ads",1
+```
 
 ## CEF (Common Event Format)
 
 **Common Event Format (CEF)** is a log format that uses key-value pairs to structure data and identify fields and their corresponding values. The CEF syntax is defined as containing the following fields: 
 
+```
 CEF:Version|Device Vendor|Device Product|Device Version|Signature ID|Name|Severity|Extension 
+```
 
 Fields are all separated with a pipe character |. However, anything in the Extension part of the CEF log entry must be written in a key-value format. Syslog is a common method used to transport logs like CEF. When Syslog is used a timestamp and hostname will be prepended to the CEF message. Here is an example of a CEF log entry that details malicious activity relating to a worm infection:
 
