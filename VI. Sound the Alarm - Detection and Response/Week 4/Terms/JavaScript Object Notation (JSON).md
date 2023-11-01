@@ -1,0 +1,1 @@
+**[[JavaScript Object Notation (JSON)]]:** JSON is a text-based format known for its simplicity and easy readability. It uses key-value pairs organized within curly brackets. Each key is followed by a colon and its corresponding value.![[Pasted image 20231101203839.png]]
