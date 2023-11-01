@@ -1,0 +1,1 @@
+**[[eXtensible Markup Language (XML)]]:** XML is a format used for storing and transmitting data. Unlike key-value pairs, it ***uses tags and keys*** to structure data. An XML log entry includes fields enclosed in tags.![[Pasted image 20231101204035.png]]
