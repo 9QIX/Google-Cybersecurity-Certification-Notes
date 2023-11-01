@@ -1,0 +1,1 @@
+**[[Syslog]]:** Syslog is a widely used log format that includes a ***header, structured data, and a message***. The **header** contains fields like Timestamp, Hostname, Application name, and Message ID. The **structured-data section** contains additional key-value pairs. The **message** component provides detailed information about the event.![[Pasted image 20231101203615.png]]
