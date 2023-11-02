@@ -277,3 +277,4 @@ There is no standard format used in logging, and many different log formats exis
 - To learn more about the syslog protocol including priority levels, check out [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424).
 - If you would like to explore generating log formats, check out this open-source [test data generator tool](https://generatedata.com/).
 - To learn more about timestamp formats, check out [Date and Time on the Internet: Timestamps](https://www.rfc-editor.org/rfc/rfc3339).
+
