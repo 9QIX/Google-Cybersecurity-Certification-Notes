@@ -1,0 +1,1 @@
+XML uses **[[tags]]** to store and identify data. Tags are pairs that must contain a start tag and an end tag. The start tag encloses data with angle brackets, for example `<tag>`,  whereas the end of a tag encloses data with angle brackets and a forward slash like this: `</tag>`. 
