@@ -239,7 +239,7 @@ Here is an example:
 
 ## CEF (Common Event Format)
 
-**Common Event Format (CEF)** is a log format that uses key-value pairs to structure data and identify fields and their corresponding values. The CEF syntax is defined as containing the following fields: 
+**[[Common Event Format (CEF)]]** is a log format that uses key-value pairs to structure data and identify fields and their corresponding values. The CEF syntax is defined as containing the following fields: 
 
 ```CSV
 CEF:Version|Device Vendor|Device Product|Device Version|Signature ID|Name|Severity|Extension 
