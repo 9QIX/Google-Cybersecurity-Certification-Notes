@@ -174,17 +174,17 @@ The **[[structured-data]]** portion of the log entry contains additional logging
 
 ### **Message** 
 
-The message contains a detailed log message about the event. Here, the message is `This is a log entry!`.
+The **[[message]]** contains a detailed log message about the event. Here, the message is `This is a log entry!`.
 
 ### **Priority (PRI)**
 
-The priority (PRI) field indicates the urgency of the logged event and is contained with angle brackets. In this example, the priority value is `<236>` . Generally, the lower the priority level, the more urgent the event is. 
+The **[[priority (PRI)]]** field indicates the urgency of the logged event and is contained with angle brackets. In this example, the priority value is `<236>` . Generally, the lower the priority level, the more urgent the event is. 
 
 **Note**: Syslog headers can be combined with JSON, and XML formats. Custom log formats also exist.
 
 ## XML (eXtensible Markup Language)
 
-XML (eXtensible Markup Language) is a language and a format used for storing and transmitting data. XML is a native file format used in Windows systems. XML syntax uses the following:
+**[[XML (eXtensible Markup Language)]]** is a language and a format used for storing and transmitting data. XML is a native file format used in Windows systems. XML syntax uses the following:
 
 - Tags
 - Elements
@@ -192,7 +192,7 @@ XML (eXtensible Markup Language) is a language and a format used for storing and
 
 ### **Tags** 
 
-XML uses tags to store and identify data. Tags are pairs that must contain a start tag and an end tag. The start tag encloses data with angle brackets, for example `<tag>`,  whereas the end of a tag encloses data with angle brackets and a forward slash like this: `</tag>`. 
+XML uses **[[tags]]** to store and identify data. Tags are pairs that must contain a start tag and an end tag. The start tag encloses data with angle brackets, for example `<tag>`,  whereas the end of a tag encloses data with angle brackets and a forward slash like this: `</tag>`. 
 
 ### **Elements** 
 
