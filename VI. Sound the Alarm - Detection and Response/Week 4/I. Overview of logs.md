@@ -112,17 +112,17 @@ JavaScript Object Notation (JSON) is a file format that is used to store and tra
 
 ### **Key-value pairs**
 
-A **key-value** **pair** is a set of data that represents two linked items: a key and its corresponding value. A key-value pair consists of a key followed by a colon, and then followed by a value. An example of a key-value pair is  `"Alert": "Malware"`.
+A **[[key-value pair]]** is a set of data that represents two linked items: a key and its corresponding value. A key-value pair consists of a key followed by a colon, and then followed by a value. An example of a key-value pair is  `"Alert": "Malware"`.
 
 **Note**: For readability, it is recommended that key-value pairs contain a space before or after the colon that separates the key and value.
 
 ### **Commas**
 
-Commas are used to separate data. For example: `"Alert": "Malware", "Alert code": 1090, "severity": 10`.
+**[[Commas]]** are used to separate data. For example: `"Alert": "Malware", "Alert code": 1090, "severity": 10`.
 
 ### **Double quotes**
 
-Double quotes are used to enclose _text_ data, which is also known as a string, for example:  `"Alert": "Malware"`. Data that contains numbers _is not_ enclosed in quotes, like this: `"Alert code": 1090`.
+**[[Double quotes]]** are used to enclose _text_ data, which is also known as a string, for example:  `"Alert": "Malware"`. Data that contains numbers _is not_ enclosed in quotes, like this: `"Alert code": 1090`.
 
 ### **Curly brackets**
 
