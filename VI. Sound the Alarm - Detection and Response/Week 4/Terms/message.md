@@ -1,0 +1,1 @@
+The **[[message]]** contains a detailed log message about the event. Here, the message is `This is a log entry!`.
