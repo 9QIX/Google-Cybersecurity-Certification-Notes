@@ -1,0 +1,1 @@
+**[[Host-Based Intrusion Detection System (HIDS)]]:** HIDS is a type of IDS that monitors the activity of the host on which it is installed. It is installed as an agent on individual hosts (e.g., laptops, servers) and records output as logs when it detects suspicious activity.

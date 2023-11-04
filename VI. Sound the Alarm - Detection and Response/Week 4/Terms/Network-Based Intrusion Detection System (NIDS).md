@@ -1,0 +1,1 @@
+**[[Network-Based Intrusion Detection System (NIDS)]]:** NIDS collects and analyzes network traffic and data. It works by analyzing network traffic at specific points in the network. Multiple IDS sensors can be deployed at different network locations for better visibility. When it detects unusual network activity, it generates alerts and logs the activity.

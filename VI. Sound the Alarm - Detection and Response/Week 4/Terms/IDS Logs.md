@@ -1,0 +1,1 @@
+**[[IDS Logs]]:** IDS technologies log information related to the devices, systems, and networks they monitor. These logs are essential for tracking and analyzing suspicious activity. IDS logs can be centralized in a log repository like a Security Information and Event Management (SIEM) system for storage and analysis.

@@ -1,0 +1,1 @@
+**[[Telemetry]]:** Telemetry refers to the collection and transmission of data for analysis. It encompasses both logs and the data itself, such as packet captures. Logs and telemetry serve as sources of evidence used in investigations by security professionals.
