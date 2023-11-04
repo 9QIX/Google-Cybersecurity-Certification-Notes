@@ -1,0 +1,1 @@
+**[[Service]]**: The syslog service acts as a log forwarding service that consolidates logs from multiple sources into a single location. The service works by receiving and then forwarding any syslog log entries to a remote server. 
