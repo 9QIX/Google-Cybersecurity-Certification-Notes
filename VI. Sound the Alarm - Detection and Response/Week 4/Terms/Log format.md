@@ -1,0 +1,1 @@
+**[[Log format]]**: The syslog log format is one of the most commonly used log formats that you will be focusing on. It is the native logging format used in  Unix® systems. It consists of three components: a header, structured-data, and a message.
