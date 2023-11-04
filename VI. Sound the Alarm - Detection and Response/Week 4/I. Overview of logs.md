@@ -196,7 +196,7 @@ XML uses **[[tags]]** to store and identify data. Tags are pairs that must conta
 
 ### **Elements** 
 
-XML elements include _both_ the data contained inside of a tag and the tags itself. All XML entries must contain at least one root element. Root elements contain other elements that sit underneath them, known as child elements. 
+XML **[[elements]]** include _both_ the data contained inside of a tag and the tags itself. All XML entries must contain at least one root element. Root elements contain other elements that sit underneath them, known as child elements. 
 
 Here is an example:
 
@@ -211,7 +211,7 @@ In this example, `<Event>` is the root element and contains two child elements `
 
 ### **Attributes**
 
-XML elements can also contain attributes. Attributes are used to provide additional information about elements. Attributes are included as the second part of the tag itself and must always be quoted using either single or double quotes.
+XML elements can also contain **[[attributes]]**. Attributes are used to provide additional information about elements. Attributes are included as the second part of the tag itself and must always be quoted using either single or double quotes.
 
 For example:
 
