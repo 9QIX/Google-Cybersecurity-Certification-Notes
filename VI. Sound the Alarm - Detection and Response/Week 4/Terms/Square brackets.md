@@ -1,0 +1,1 @@
+**[[Square brackets]]** are used to enclose an **array**, which is a data type that stores data in a comma-separated ordered list. Arrays are useful when you want to store data as an ordered collection, for example: `["Administrators", "Users", "Engineering"]`.
