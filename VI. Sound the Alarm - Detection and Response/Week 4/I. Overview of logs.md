@@ -143,11 +143,11 @@ A **[[key-value pair]]** is a set of data that represents two linked items: a ke
 
 ## Syslog
 
-Syslog is a standard for logging and transmitting data. It can be used to refer to any of its three different capabilities: 
+**[[Syslog]]** is a standard for logging and transmitting data. It can be used to refer to any of its three different capabilities: 
 
-1. **Protocol**: The syslog protocol is used to transport logs to a centralized log server for log management. It uses port 514 for plaintext logs and port 6514 for encrypted logs.
-2. **Service**: The syslog service acts as a log forwarding service that consolidates logs from multiple sources into a single location. The service works by receiving and then forwarding any syslog log entries to a remote server. 
-3. **Log format**: The syslog log format is one of the most commonly used log formats that you will be focusing on. It is the native logging format used in  Unix® systems. It consists of three components: a header, structured-data, and a message.
+1. **[[Protocol]]**: The syslog protocol is used to transport logs to a centralized log server for log management. It uses ***port 514 for plaintext logs*** and ***port 6514 for encrypted logs***.
+2. **[[Service]]**: The syslog service acts as a log forwarding service that consolidates logs from multiple sources into a single location. The service works by receiving and then forwarding any syslog log entries to a remote server. 
+3. **[[Log format]]**: The syslog log format is one of the most commonly used log formats that you will be focusing on. It is the native logging format used in Unix® systems. It consists of three components: a *header, structured-data, and a message*.
 
 ## Syslog log example
 
