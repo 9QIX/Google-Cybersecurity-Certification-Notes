@@ -1,0 +1,2 @@
+The **[[structured-data]]** portion of the log entry contains additional logging information. This information is enclosed in square brackets and structured in key-value pairs. Here, there are three keys with corresponding values: 
+`[user@32473 iut="1" eventSource="Application" eventID="9999"]`.
