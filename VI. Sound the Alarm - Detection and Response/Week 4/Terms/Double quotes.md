@@ -1,0 +1,1 @@
+**[[Double quotes]]** are used to enclose _text_ data, which is also known as a string, for example:  `"Alert": "Malware"`. Data that contains numbers _is not_ enclosed in quotes, like this: `"Alert code": 1090`.
