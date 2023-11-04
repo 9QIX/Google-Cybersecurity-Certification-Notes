@@ -229,7 +229,7 @@ In the first line for this example, the tag is `<Data>` and it uses the attribu
 
 ## CSV (Comma Separated Value)
 
-CSV (Comma Separated Value) uses commas to separate data values. In CSV logs, the position of the data corresponds to its field name, but the field names themselves might not be included in the log. It’s critical to understand what fields the source device (like an IPS, firewall, scanner, etc.) is including in the log. 
+**[[CSV (Comma Separated Value)]]** uses commas to separate data values. In CSV logs, the position of the data corresponds to its field name, but the field names themselves might not be included in the log. It’s critical to understand what fields the source device (like an IPS, firewall, scanner, etc.) is including in the log. 
 
 Here is an example:
 
