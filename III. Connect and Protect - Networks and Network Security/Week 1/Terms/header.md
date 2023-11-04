@@ -11,3 +11,11 @@ Packets begin with the most essential component: the header. Packets can have se
 
 Here is an IPv4 header with the information it provides:
 ![[Pasted image 20231025211427.png]]
+
+
+The header contains details like the timestamp; the hostname, which is the name of the machine that sends the log; the application name; and the message ID. 
+
+- **Timestamp**: The timestamp in this example is `2022-03-21T01:11:11.003Z`, where `2022-03-21` is the date in YYYY-MM-DD format. `T` is used to separate the date and the time. 01:11:11.003 is the 24-hour format of the time and includes the number of milliseconds `003`. `Z` indicates the timezone, which is Coordinated Universal Time (UTC). 
+- **Hostname**: `virtual.machine.com`
+- **Application**: `evntslog` 
+- **Message** **ID**: `ID01`

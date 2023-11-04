@@ -154,22 +154,22 @@ A **[[key-value pair]]** is a set of data that represents two linked items: a ke
 Here is an example of a syslog entry that contains all three components: a header, followed by structured-data, and a message:
 
 ```syslog
-<236>1 2022-03-21T01:11:11.003Z virtual.machine.com evntslog - ID01 [user@32473 iut="1" eventSource="Application" eventID="9999"] This is a log entry!
+<236>1 2022-03-21T01:11:11.003Z virtual.machine.com evntslog - ID01 [user@32473 iut="1" eventSource="Application" eventID="9999"] 
+This is a log entry!
 ```
 
 ### **Header** 
 
-The header contains details like the timestamp; the hostname, which is the name of the machine that sends the log; the application name; and the message ID. 
+The **[[header]]** contains details like the timestamp; the hostname, which is the name of the machine that sends the log; the application name; and the message ID. 
 
 - **Timestamp**: The timestamp in this example is `2022-03-21T01:11:11.003Z`, where `2022-03-21` is the date in YYYY-MM-DD format. `T` is used to separate the date and the time. 01:11:11.003 is the 24-hour format of the time and includes the number of milliseconds `003`. `Z` indicates the timezone, which is Coordinated Universal Time (UTC). 
-
 - **Hostname**: `virtual.machine.com`
 - **Application**: `evntslog` 
 - **Message** **ID**: `ID01`
 
 ### **Structured-data** 
 
-The structured-data portion of the log entry contains additional logging information. This information is enclosed in square brackets and structured in key-value pairs. Here, there are three keys with corresponding values: 
+The **[[structured-data]]** portion of the log entry contains additional logging information. This information is enclosed in square brackets and structured in key-value pairs. Here, there are three keys with corresponding values: 
 `[user@32473 iut="1" eventSource="Application" eventID="9999"]`.
 
 ### **Message** 
