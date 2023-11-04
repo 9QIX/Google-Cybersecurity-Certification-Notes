@@ -1,0 +1,1 @@
+**[[Commas]]** are used to separate data. For example: `"Alert": "Malware", "Alert code": 1090, "severity": 10`.
