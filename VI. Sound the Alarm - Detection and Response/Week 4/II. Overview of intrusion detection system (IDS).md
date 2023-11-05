@@ -46,15 +46,15 @@ Detection systems can use different techniques to detect threats and attacks. Th
 
 ## Signature-based analysis
 
-**[[Signature analysis]]**, or signature-based analysis, is a detection method that is used to find events of interest. A **signature** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
+**[[Signature analysis]]**, or signature-based analysis, is a detection method that is used to find events of interest. A **[[signature]]** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
 
-Previously, you explored the Pyramid of Pain, which is a concept that prioritizes the different types of **[[indicators of compromise (IoCs)]]** associated with an attack or threat, such as IP addresses, tools, tactics, techniques, and more. IoCs and other indicators of attack can be useful for creating targeted signatures to detect and block attacks.
+Previously, you explored the **[[Pyramid of Pain]]**, which is a concept that prioritizes the different types of **[[indicators of compromise (IoCs)]]** associated with an attack or threat, such as IP addresses, tools, tactics, techniques, and more. IoCs and other indicators of attack can be useful for creating targeted signatures to detect and block attacks.
 
 Different types of signatures can be used depending on which type of threat or attack you want to detect. For example, an anti-malware signature contains patterns associated with malware. This can include malicious scripts that are used by the malware. IDS tools will monitor an environment for events that match the patterns defined in this malware signature. If an event matches the signature, the event gets logged and an alert is generated. 
 
 ### **Advantages**
 
-- **Low rate of false positives:** Signature-based analysis is very efficient at detecting known threats because it is simply comparing activity to signatures. This leads to fewer false positives. Remember that a **false positive** is an alert that incorrectly detects the presence of a threat.
+- **Low rate of false positives:** Signature-based analysis is very efficient at detecting known threats because it is simply comparing activity to signatures. This leads to fewer false positives. Remember that a **[[false positive]]** is an alert that incorrectly detects the presence of a threat.
 
 ### **Disadvantages**
 
@@ -64,7 +64,7 @@ Different types of signatures can be used depending on which type of threat or a
 
 ## Anomaly-based analysis
 
-**Anomaly-based analysis** is a detection method that identifies abnormal behavior. There are two phases to anomaly-based analysis: a training phase and a detection phase. In the training phase, a baseline of normal or expected behavior must be established. Baselines are developed by collecting data that corresponds to normal system behavior. In the detection phase, the current system activity is compared against this baseline. Activity that happens outside of the baseline gets logged, and an alert is generated. 
+**[[Anomaly-based analysis]]** is a detection method that identifies abnormal behavior. There are two phases to anomaly-based analysis: a training phase and a detection phase. In the training phase, a baseline of normal or expected behavior must be established. Baselines are developed by collecting data that corresponds to normal system behavior. In the detection phase, the current system activity is compared against this baseline. Activity that happens outside of the baseline gets logged, and an alert is generated. 
 
 ### **Advantages**
 
