@@ -88,6 +88,5 @@ IDS technologies are an essential security tool that you will encounter in your 
 		- **Header Information:** In the header, you define the source of suspicious traffic. You can specify external IP addresses, unusual protocols, and other characteristics to match the network traffic you want to detect. The header provides detailed information about the network packets you want to inspect. ![[Pasted image 20231105211355.png]]
 	3. **[[Rule Options]]:** Rule options allow you to customize signatures with additional parameters. These options help narrow down network traffic to detect specific patterns. Rule options are separated by semicolons and enclosed in parentheses.
 		- **Rule Options:** Rule options help tailor the signature to detect specific patterns or behaviors in network traffic. They allow you to customize the detection criteria and actions. Common rule options include "msg" for defining alert messages, "sid" for assigning a unique signature ID, and "rev" for indicating the revision number of the signature.![[Pasted image 20231105211705.png]]
-
-Understanding how to read and write signatures is essential for security analysts, as it allows you to customize intrusion detection rules and detect specific patterns or behaviors in network traffic that may indicate potential security threats.
+- Understanding how to read and write signatures is essential for security analysts, as it allows you to customize intrusion detection rules and detect specific patterns or behaviors in network traffic that may indicate potential security threats.
 
