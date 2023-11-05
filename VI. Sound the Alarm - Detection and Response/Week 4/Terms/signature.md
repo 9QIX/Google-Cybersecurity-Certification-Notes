@@ -1,0 +1,1 @@
+A **[[signature]]** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
