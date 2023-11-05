@@ -20,7 +20,7 @@ As you’ve learned, an **intrusion detection system (IDS)** is an application t
 
 ## Host-based intrusion detection system
 
-A **[[host-based intrusion detection system (HIDS)]]** is an application that monitors the activity of the host on which it's installed. A HIDS is installed as an agent on a host. A host is also known as an **endpoint**, which is any device connected to a network like a computer or a server. 
+A **[[host-based intrusion detection system (HIDS)]]** is an application that monitors the activity of the host on which it's installed. A HIDS is installed as an agent on a host. A host is also known as an **[[endpoint]]**, which is any device connected to a network like a computer or a server. 
 
 Typically, HIDS agents are installed on all endpoints and used to monitor and detect security threats. A HIDS monitors internal activity happening on the host to identify any unauthorized or abnormal behavior. If anything unusual is detected, such as the installation of an unauthorized application, the HIDS logs it and sends out an alert. 
 
@@ -32,7 +32,7 @@ This diagram shows a HIDS tool installed on a computer. The dotted circle around
 
 ## Network-based intrusion detection system
 
-A **network-based intrusion detection system** **(NIDS)** is an application that collects and monitors network traffic and network data. NIDS software is installed on devices located at specific parts of the network that you want to monitor. The NIDS application inspects network traffic from different devices on the network. If any malicious network traffic is detected, the NIDS logs it and generates an alert.
+A **[[network-based intrusion detection system (NIDS)]]** is an application that collects and monitors network traffic and network data. NIDS software is installed on devices located at specific parts of the network that you want to monitor. The NIDS application inspects network traffic from different devices on the network. If any malicious network traffic is detected, the NIDS logs it and generates an alert.
 
 This diagram shows a NIDS that is installed on a network. The highlighted circle around the server and computers indicates that the NIDS is installed on the server and is monitoring the activity of the computers.
 
