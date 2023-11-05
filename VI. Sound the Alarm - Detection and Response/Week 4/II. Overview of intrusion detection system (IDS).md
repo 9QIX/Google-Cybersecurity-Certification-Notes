@@ -90,19 +90,15 @@ IDS technologies are an essential security tool that you will encounter in your 
 		- **Rule Options:** Rule options help tailor the signature to detect specific patterns or behaviors in network traffic. They allow you to customize the detection criteria and actions. Common rule options include "msg" for defining alert messages, "sid" for assigning a unique signature ID, and "rev" for indicating the revision number of the signature.![[Pasted image 20231105211705.png]]
 - Understanding how to read and write signatures is essential for security analysts, as it allows you to customize intrusion detection rules and detect specific patterns or behaviors in network traffic that may indicate potential security threats.
 
-In this section, you've learned how to examine a pre-written signature in Suricata, an open-source signature-based intrusion detection system (IDS). Here's a recap of the key points:
+# Examine signatures with Suricata
 
 - **Pre-Written Signatures:** Many NIDS technologies come with pre-written signatures, which serve as customizable templates for defining detection rules. These templates provide a starting point for writing and customizing your own rules. You can also add custom signatures.
-
 - **Suricata Configuration Files:** Suricata is an open-source signature-based IDS that runs on Linux. Configuration files for Suricata can be found in the `/etc/suricata` directory on a Linux machine.
-
 - **Rules Folder:** The `/etc/suricata/rules` directory contains the pre-written signatures or rules that Suricata uses for network intrusion detection. You can also add your custom signatures here.
-
 - **Examining a Signature:** To examine a pre-written signature, you can use a text editor or a command like `less` to view the contents of the rule file. Pre-written signatures typically include the following components:
-  - **Action:** Specifies the action to take when the rule criteria are met. Common actions include "alert," "pass," or "reject."
-  - **Header:** Defines the network traffic to which the signature applies. This includes information like source and destination IP addresses, source and destination ports, protocols, and traffic direction.
-  - **Rule Options:** Customizes the signature with additional parameters. These options narrow down the network traffic to match specific patterns or behaviors. Common rule options include "msg" (message), "flow" (network traffic direction), and "content" (content inspection).
-
+	- **[[Action]]:** Specifies the action to take when the rule criteria are met. Common actions include "alert," "pass," or "reject."
+	- **[[Header]]:** Defines the network traffic to which the signature applies. This includes information like source and destination IP addresses, source and destination ports, protocols, and traffic direction.
+	- **[[Rule Options]]:** Customizes the signature with additional parameters. These options narrow down the network traffic to match specific patterns or behaviors. Common rule options include "msg" (message), "flow" (network traffic direction), and "content" (content inspection).
 - **Testing and Tailoring Signatures:** Every environment is different, and to be effective, IDS signatures must be tested and tailored to suit the specific needs of the network. Security analysts may test, modify, or create IDS signatures to improve threat detection and reduce false positives.
 
 Understanding how to work with pre-written and custom signatures is a fundamental skill for security analysts and administrators when using intrusion detection systems like Suricata. It allows you to define rules that match specific patterns or behaviors indicative of security threats on your network. In the next sections, you'll explore how Suricata logs events and how to analyze these logs as part of your network security monitoring efforts.
