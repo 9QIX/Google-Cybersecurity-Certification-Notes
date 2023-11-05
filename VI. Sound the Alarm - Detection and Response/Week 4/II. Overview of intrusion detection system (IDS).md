@@ -46,9 +46,9 @@ Detection systems can use different techniques to detect threats and attacks. Th
 
 ## Signature-based analysis
 
-**Signature analysis**, or signature-based analysis, is a detection method that is used to find events of interest. A **signature** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
+**[[Signature analysis]]**, or signature-based analysis, is a detection method that is used to find events of interest. A **signature** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
 
-Previously, you explored the Pyramid of Pain, which is a concept that prioritizes the different types of **indicators of compromise** (IoCs) associated with an attack or threat, such as IP addresses, tools, tactics, techniques, and more. IoCs and other indicators of attack can be useful for creating targeted signatures to detect and block attacks.
+Previously, you explored the Pyramid of Pain, which is a concept that prioritizes the different types of **[[indicators of compromise (IoCs)]]** associated with an attack or threat, such as IP addresses, tools, tactics, techniques, and more. IoCs and other indicators of attack can be useful for creating targeted signatures to detect and block attacks.
 
 Different types of signatures can be used depending on which type of threat or attack you want to detect. For example, an anti-malware signature contains patterns associated with malware. This can include malicious scripts that are used by the malware. IDS tools will monitor an environment for events that match the patterns defined in this malware signature. If an event matches the signature, the event gets logged and an alert is generated. 
 
