@@ -1,0 +1,1 @@
+**[[Action]]:** This is the first item in a signature and specifies the action to take when the rule criteria matches. Common actions include "alert," "pass," or "reject."

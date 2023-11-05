@@ -1,0 +1,1 @@
+**[[Rule Options]]:** Rule options allow you to customize signatures with additional parameters. These options help narrow down network traffic to detect specific patterns. Rule options are separated by semicolons and enclosed in parentheses.
