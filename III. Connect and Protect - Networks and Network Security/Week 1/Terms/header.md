@@ -19,3 +19,6 @@ The header contains details like the timestamp; the hostname, which is the name 
 - **Hostname**: `virtual.machine.com`
 - **Application**: `evntslog` 
 - **Message** **ID**: `ID01`
+
+
+**[[Header]]:** The header defines the signature's network traffic and includes information like source and destination IP addresses, source and destination ports, protocols, and traffic direction.

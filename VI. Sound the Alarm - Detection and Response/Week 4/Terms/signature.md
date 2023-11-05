@@ -1,1 +1,3 @@
 A **[[signature]]** is a pattern that is associated with malicious activity. Signatures can contain specific patterns like a sequence of binary numbers, bytes, or even specific data like an IP address. 
+
+**Signature and Detection Rules:** A **[[signature]]** specifies detection rules, which outline the types of network intrusions an IDS should detect. For example, a signature can be written to detect and alert on suspicious network traffic attempting to connect to a specific port.
