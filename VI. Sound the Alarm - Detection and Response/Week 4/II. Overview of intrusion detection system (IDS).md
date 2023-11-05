@@ -20,7 +20,7 @@ As you’ve learned, an **intrusion detection system (IDS)** is an application t
 
 ## Host-based intrusion detection system
 
-A **host-based intrusion detection system (HIDS)** is an application that monitors the activity of the host on which it's installed. A HIDS is installed as an agent on a host. A host is also known as an **endpoint**, which is any device connected to a network like a computer or a server. 
+A **[[host-based intrusion detection system (HIDS)]]** is an application that monitors the activity of the host on which it's installed. A HIDS is installed as an agent on a host. A host is also known as an **endpoint**, which is any device connected to a network like a computer or a server. 
 
 Typically, HIDS agents are installed on all endpoints and used to monitor and detect security threats. A HIDS monitors internal activity happening on the host to identify any unauthorized or abnormal behavior. If anything unusual is detected, such as the installation of an unauthorized application, the HIDS logs it and sends out an alert. 
 
