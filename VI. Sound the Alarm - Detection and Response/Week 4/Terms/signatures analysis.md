@@ -1,0 +1,1 @@
+Suricata uses **[[signatures analysis]]**, which is a detection method used to find events of interest.

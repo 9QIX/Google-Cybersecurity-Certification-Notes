@@ -1,0 +1,1 @@
+Security analysts use **[[signatures]]**, or patterns associated with malicious activity, to detect and alert on specific malicious activity. Rules can also be used to provide additional context and visibility into systems and networks, helping to identify potential security threats or vulnerabilities. 
