@@ -102,3 +102,4 @@ IDS technologies are an essential security tool that you will encounter in your 
 - **Testing and Tailoring Signatures:** Every environment is different, and to be effective, IDS signatures must be tested and tailored to suit the specific needs of the network. Security analysts may test, modify, or create IDS signatures to improve threat detection and reduce false positives.
 
 Understanding how to work with pre-written and custom signatures is a fundamental skill for security analysts and administrators when using intrusion detection systems like Suricata. It allows you to define rules that match specific patterns or behaviors indicative of security threats on your network. In the next sections, you'll explore how Suricata logs events and how to analyze these logs as part of your network security monitoring efforts.
+
