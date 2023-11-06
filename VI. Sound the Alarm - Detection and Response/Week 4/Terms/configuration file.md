@@ -1,0 +1,1 @@
+A **[[configuration file]]** is a file used to configure the settings of an application. 
