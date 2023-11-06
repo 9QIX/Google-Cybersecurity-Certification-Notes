@@ -188,3 +188,57 @@ If you would like to learn more about Suricata including rule management and per
 - [Suricata threat hunting webinar](https://youtu.be/kaDGolhTu94)
 - [Introduction to writing Suricata rules](https://youtu.be/tvoqFBVSShA)
 - [Eve.json jq examples](https://suricata.readthedocs.io/en/latest/output/eve/eve-json-examplesjq.html)
+
+# Examine alerts, logs, and rules with Suricata
+
+### Action
+
+![[Pasted image 20231106214553.png]]
+
+The **action** is the first part of the signature. It determines the action to take if all conditions are met.
+
+Actions differ across network intrusion detection system (NIDS) rule languages, but some common actions are `alert`, `drop`, `pass`, and `reject`.
+
+Using our example, the file contains a single `alert` as the action. The `alert` keyword instructs to alert on selected network traffic. The IDS will inspect the traffic packets and send out an alert in case it matches.
+
+Note that the `drop` action also generates an alert, but it drops the traffic. A `drop` action only occurs when Suricata runs in IPS mode.
+
+The `pass` action allows the traffic to pass through the network interface. The pass rule can be used to override other rules. An exception to a drop rule can be made with a pass rule. For example, the following rule has an identical signature to the previous example, except that it singles out a specific IP address to allow only traffic from that address to pass:
+
+```
+pass http 172.17.0.77 any -> $EXTERNAL_NET any (msg:"BAD USER-AGENT";flow:established,to_server;content:!”Mozilla/5.0”; http_user_agent; sid: 12365; rev:1;)
+```
+
+The `reject` action does not allow the traffic to pass. Instead, a TCP reset packet will be sent, and Suricata will drop the matching packet. A TCP reset packet tells computers to stop sending messages to each other.
+
+### Header
+
+![[Pasted image 20231106214836.png]]
+
+The next part of the signature is the **header**. The header defines the signature’s network traffic, which includes attributes such as protocols, source and destination IP addresses, source and destination ports, and traffic direction.
+
+The next field after the action keyword is the protocol field. In our example, the protocol is `http`, which determines that the rule applies only to HTTP traffic.
+
+The parameters to the protocol `http` field are `$HOME_NET any -> $EXTERNAL_NET any`. The arrow indicates the direction of the traffic coming from the `$HOME_NET` and going to the destination IP address `$EXTERNAL_NET`.
+
+`$HOME_NET` is a Suricata variable defined in `/etc/suricata/suricata.yaml` that you can use in your rule definitions as a placeholder for your local or home network to identify traffic that connects to or from systems within your organization.
+
+In this lab `$HOME_NET` is defined as the 172.21.224.0/20 subnet.
+
+The word `any` means that Suricata catches traffic from any port defined in the `$HOME_NET` network.
+
+### Rule options
+
+![[Pasted image 20231106215139.png]]
+
+The many available **rule options** allow you to customize signatures with additional parameters. Configuring rule options helps narrow down network traffic so you can find exactly what you’re looking for. As in our example, rule options are typically enclosed in a pair of parentheses and separated by semicolons.
+
+Let's further examine the rule options in our example:
+
+- The `msg:` option provides the alert text. In this case, the alert will print out the text `“GET on wire”`, which specifies why the alert was triggered.
+- The `flow:established,to_server` option determines that packets from the client to the server should be matched. (In this instance, a server is defined as the device responding to the initial SYN packet with a SYN-ACK packet.)
+- The `content:"GET"` option tells Suricata to look for the word `GET` in the content of the `http.method` portion of the packet.
+- The `sid:12345` (signature ID) option is a unique numerical value that identifies the rule.
+- The `rev:3` option indicates the signature's revision which is used to identify the signature's version. Here, the revision version is 3.
+
+To summarize, this signature triggers an alert whenever Suricata observes the text `GET` as the HTTP method in an HTTP packet from the home network going to the external network.
