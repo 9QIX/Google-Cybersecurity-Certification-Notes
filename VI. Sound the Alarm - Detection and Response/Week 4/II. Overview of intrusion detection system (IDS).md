@@ -160,7 +160,7 @@ Creating custom rules helps to tailor detection and monitoring. Custom rules hel
 
 ## Configuration file
 
-Before detection tools are deployed and can begin monitoring systems and networks, you must properly configure their settings so that they know what to do. A **configuration file** is a file used to configure the settings of an application. Configuration files let you customize exactly how you want your IDS to interact with the rest of your environment. 
+Before detection tools are deployed and can begin monitoring systems and networks, you must properly configure their settings so that they know what to do. A **[[configuration file]]** is a file used to configure the settings of an application. Configuration files let you customize exactly how you want your IDS to interact with the rest of your environment. 
 
 Suricata's configuration file is `suricata.yaml`, which uses the YAML file format for syntax and structure.
 
