@@ -1,0 +1,1 @@
+**[[Alert Logs]]:** These logs contain information that is relevant to security investigations. They typically capture details about network traffic that triggered specific signatures or rules, indicating potential security threats.
