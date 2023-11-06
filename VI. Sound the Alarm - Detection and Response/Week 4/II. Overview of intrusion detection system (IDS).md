@@ -127,19 +127,19 @@ In this reading, you’ll explore more about Suricata. You'll also learn about t
 
 There are three main ways Suricata can be used:
 
-- **Intrusion detection system** (**IDS**): As a network-based IDS, Suricata can monitor network traffic and alert on suspicious activities and intrusions. Suricata can also be set up as a host-based IDS to monitor the system and network activities of a single host like a computer.
-- **Intrusion prevention system** (**IPS**): Suricata can also function as an intrusion prevention system (IPS) to detect and block malicious activity and traffic. Running Suricata in IPS mode requires additional configuration such as enabling IPS mode.
-- **Network security monitoring** (**NSM**): In this mode, Suricata helps keep networks safe by producing and saving relevant network logs. Suricata can analyze live network traffic, existing packet capture files, and create and save full or conditional packet captures. This can be useful for forensics, incident response, and for testing signatures. For example, you can trigger an alert and capture the live network traffic to generate traffic logs, which you can then analyze to refine detection signatures.
+- **[[Intrusion detection system (IDS)]]**: As a network-based IDS, Suricata can monitor network traffic and alert on suspicious activities and intrusions. Suricata can also be set up as a host-based IDS to monitor the system and network activities of a single host like a computer.
+- **[[Intrusion prevention system (IPS)]]**: Suricata can also function as an intrusion prevention system (IPS) to detect and block malicious activity and traffic. Running Suricata in IPS mode requires additional configuration such as enabling IPS mode.
+- **[[Network security monitoring (NSM)]]**: In this mode, Suricata helps keep networks safe by producing and saving relevant network logs. Suricata can analyze live network traffic, existing packet capture files, and create and save full or conditional packet captures. This can be useful for forensics, incident response, and for testing signatures. For example, you can trigger an alert and capture the live network traffic to generate traffic logs, which you can then analyze to refine detection signatures.
 
 ## Rules 
 
-Rules or signatures are used to identify specific patterns, behavior, and conditions of network traffic that might indicate malicious activity. The terms rule and signature are often used interchangeably in Suricata. Security analysts use **signatures**, or patterns associated with malicious activity, to detect and alert on specific malicious activity. Rules can also be used to provide additional context and visibility into systems and networks, helping to identify potential security threats or vulnerabilities. 
+Rules or signatures are used to identify specific patterns, behavior, and conditions of network traffic that might indicate malicious activity. The terms rule and signature are often used interchangeably in Suricata. Security analysts use **[[signatures]]**, or patterns associated with malicious activity, to detect and alert on specific malicious activity. Rules can also be used to provide additional context and visibility into systems and networks, helping to identify potential security threats or vulnerabilities. 
 
-Suricata uses **signatures analysis**, which is a detection method used to find events of interest. Signatures consist of three components:
+Suricata uses **[[signatures analysis]]**, which is a detection method used to find events of interest. Signatures consist of three components:
 
-- **Action**: The first component of a signature. It describes the action to take if network or system activity matches the signature. Examples include: alert, pass, drop, or reject.
-- **Header**: The header includes network traffic information like source and destination IP addresses, source and destination ports, protocol, and traffic direction.
-- **Rule options:** The rule options provide you with different options to customize signatures.
+- **[[Action]]**: The first component of a signature. It describes the action to take if network or system activity matches the signature. Examples include: alert, pass, drop, or reject.
+- **[[Header]]**: The header includes network traffic information like source and destination IP addresses, source and destination ports, protocol, and traffic direction.
+- **[[Rule options]]:** The rule options provide you with different options to customize signatures.
 
 Here's an example of a Suricata signature:
 ![[Pasted image 20231106205547.png]]
@@ -148,7 +148,7 @@ Rule options have a specific ordering and changing their order would change the 
 
 **Note**: The terms rule and signature are synonymous.
 
-**Note:** Rule order refers to the order in which rules are evaluated by Suricata. Rules are processed in the order in which they are defined in the configuration file. However, Suricata processes rules in a different default order: pass, drop, reject, and alert. Rule order affects the final verdict of a packet especially when conflicting actions such as a drop rule and an alert rule both match on the same packet.
+**Note:** Rule order refers to the order in which rules are evaluated by Suricata. Rules are processed in the order in which they are defined in the configuration file. However, ***Suricata processes rules in a different default order: pass, drop, reject, and alert***. Rule order affects the final verdict of a packet especially when conflicting actions such as a drop rule and an alert rule both match on the same packet.
 
 ### **Custom rules**
 
