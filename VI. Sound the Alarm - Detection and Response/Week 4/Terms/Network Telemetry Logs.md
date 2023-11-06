@@ -1,0 +1,1 @@
+**[[Network Telemetry Logs]]:** These logs provide information about network traffic flows. They may not always be security-relevant but record network activities, such as connections to specific ports or websites.
