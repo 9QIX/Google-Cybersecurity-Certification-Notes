@@ -4,3 +4,5 @@
 	- A self-hosted tool used to ***retain, analyze, and search an organization's log data*** to provide security information and alerts in real-time.
 - ### **Splunk Cloud** 
 	- A cloud-hosted tool used to ***collect, search, and monitor log data***. Splunk Cloud is helpful for organizations running hybrid or cloud-only environments, where some or all of the organization's services are in the cloud. 
+
+**[[Splunk]]:** Splunk is a data analysis platform that offers SIEM solutions. It collects data from multiple sources, processes and stores it in an index, and provides various methods for accessing and searching the data.
