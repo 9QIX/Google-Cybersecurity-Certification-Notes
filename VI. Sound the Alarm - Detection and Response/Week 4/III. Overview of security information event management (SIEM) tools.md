@@ -142,9 +142,9 @@ A UDM Search retrieves events formatted in UDM and these events contain UDM fiel
 
 Here’s an example of a simple UDM search that uses the event metadata field to locate events relating to user logins:
 
-metadata.event_type = “USER_LOGIN” 
+`metadata.event_type = “USER_LOGIN” `
 
-- metadata.event_type = “USER_LOGIN”: This UDM field metadata.event_type contains information about the event type. This includes information like timestamp, network connection, user authentication, and more. Here, the event type specifies USER_LOGIN, which searches for events relating to authentication. 
+- `metadata.event_type = “USER_LOGIN”`: This UDM field `metadata.event_type` contains information about the event type. This includes information like timestamp, network connection, user authentication, and more. Here, the event type specifies `USER_LOGIN`, which searches for events relating to authentication. 
 
 Using just the metadata fields, you can quickly start searching for events. As you continue practicing searching in Chronicle using UDM Search, you will encounter more fields. Try using these fields to form specific searches to locate different events.
 
