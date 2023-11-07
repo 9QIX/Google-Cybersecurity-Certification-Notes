@@ -114,10 +114,10 @@ Here is an example of two commands that are piped together: 
 
 A **wildcard** is a special character that can be substituted with any other character. A wildcard is usually symbolized by an asterisk character `*`. Wildcards match characters in string values. In Splunk, the wildcard that you use depends on the command that you are using the wildcard with. Wildcards are useful because they can help find events that contain data that is similar but not entirely identical. Here is an example of using a wildcard to expand the search results for a search term:
 
-index=main fail*
+`index=main fail*`
 
-- index=main: This command retrieves events from an index named main. 
-- fail*: The wildcard after fail represents any character. This tells Splunk to search for all possible endings that contain the term fail. This expands the search results to return any event that contains the term fail such as “failed” or “failure”.
+- `index=main`: This command retrieves events from an `index` named `main`. 
+- `fail*`: The wildcard after `fail` represents any character. This tells Splunk to search for all possible endings that contain the term `fail`. This expands the search results to return any event that contains the term `fail` such as “failed” or “failure”.
 
 **Pro tip**: Double quotations are used to specify a search for an exact phrase or string. For example, if you want to only search for events that contain the exact phrase login failure, you can enclose the phrase in double quotations "login failure". This search will match only events that contain the exact phrase login failure and not other events that contain the words failure or login separately.
 
