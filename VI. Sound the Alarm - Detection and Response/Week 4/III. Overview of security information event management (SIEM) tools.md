@@ -13,15 +13,15 @@ These SIEM tools play a pivotal role in the work of a security analyst by simpli
 
 # Log sources and log ingestion
 
-In this reading, you’ll explore more on the importance of log ingestion. You may recall that **security information and event management** (**SIEM**) tools collect and analyze log data to monitor critical activities in an organization. You also learned about **log analysis,** which is the process of examining logs to identify events of interest. Understanding how log sources are ingested into SIEM tools is important because it helps security analysts understand the types of data that are being collected, and can help analysts identify and prioritize security incidents.
+In this reading, you’ll explore more on the importance of log ingestion. You may recall that **[[security information and event management (SIEM)]]** tools collect and analyze log data to monitor critical activities in an organization. You also learned about **[[log analysis]],** which is the process of examining logs to identify events of interest. Understanding how log sources are ingested into SIEM tools is important because it helps security analysts understand the types of data that are being collected, and can help analysts identify and prioritize security incidents.
 
 ## SIEM process overview
 
 Previously, you covered the SIEM process. As a refresher, the process consists of three steps:
 
-1. **Collect and aggregate data**: SIEM tools collect event data from various data sources.
-2. **Normalize data**: Event data that's been collected becomes normalized. Normalization converts data into a standard format so that data is structured in a consistent way and becomes easier to read and search. While data normalization is a common feature in many SIEM tools, it's important to note that SIEM tools vary in their data normalization capabilities.
-3. **Analyze data**: After the data is collected and normalized, SIEM tools analyze and correlate the data to identify common patterns that indicate unusual activity.
+1. **[[Collect and aggregate data]]**: SIEM tools collect event data from various data sources.
+2. **[[Normalize data]]**: Event data that's been collected becomes normalized. Normalization converts data into a standard format so that data is structured in a consistent way and becomes easier to read and search. While data normalization is a common feature in many SIEM tools, it's important to note that SIEM tools vary in their data normalization capabilities.
+3. **[[Analyze data]]**: After the data is collected and normalized, SIEM tools analyze and correlate the data to identify common patterns that indicate unusual activity.
 
 This reading focuses on the first step of this process, the collection and aggregation of data.
 
@@ -29,7 +29,7 @@ This reading focuses on the first step of this process, the collection and aggre
 
 ![[Pasted image 20231107204219.png]]
 
-Data is required for SIEM tools to work effectively. SIEM tools must first collect data using log ingestion. Log ingestion is the process of collecting and importing data from log sources into a SIEM tool. Data comes from any source that generates log data, like a server.
+Data is required for SIEM tools to work effectively. SIEM tools must first collect data using log ingestion. **[[Log ingestion]]** is the process of collecting and importing data from log sources into a SIEM tool. Data comes from any source that generates log data, like a server.
 
 In log ingestion, the SIEM creates a copy of the event data it receives and retains it within its own storage. This copy allows the SIEM to analyze and process the data without directly modifying the original source logs. The collection of event data provides a centralized platform for security analysts to analyze the data and respond to incidents. This event data includes authentication attempts, network activity, and more.
 
@@ -51,3 +51,13 @@ Here are some resources if you’d like to learn more about the log ingestion pr
 
 - [Guide on getting data into Splunk](https://docs.splunk.com/Documentation/SplunkCloud/9.0.2303/Data/Howdoyouwanttoadddata)
 - [Guide on data ingestion into Chronicle](https://cloud.google.com/chronicle/docs/data-ingestion-flow)
+
+# Query for events with Splunk
+
+- **Challenges of Searching in SIEM:** SIEM databases store vast amounts of data, including historical records that may date back years. Performing broad search queries without specific parameters can return thousands of results and slow down the search engine's response time. It's essential to make search queries as specific as possible to save time and obtain the desired results.
+- **Specificity in Search Queries:** To improve search results, you should specify additional parameters such as an event ID and a date and time range. Specificity helps narrow down the search and accelerates the retrieval of relevant data. It's crucial to understand the data you're looking for and structure your query accordingly.
+- **Different SIEM Search Methods:** Different SIEM tools use various search methods and query languages. For instance, Splunk utilizes its own query language called Search Processing Language (SPL). SPL offers a range of search options to optimize results and retrieve the necessary data effectively.
+- **Search Example in Splunk:** An example of a raw log search in Splunk Cloud was demonstrated. The search query was designed to find events related to errors or failures in a fictional online store called Buttercup Games. The query used the index "buttercupgames" and specified search terms: "error OR fail*." The wildcard character "*" was used to account for variations in the term "fail." The search was further refined by selecting a specific time range, such as the last 30 days. The search results displayed a timeline and an events viewer, highlighting the search terms in matching events.
+- **Optimizing Searches:** As a security analyst, you have the flexibility to use different commands and techniques to optimize search performance, ensuring faster and more accurate search results.
+
+Effective querying is a fundamental skill for security analysts, enabling them to uncover security events, identify potential threats, and gain insights from SIEM databases. In the next section, you'll continue to explore how to query events, this time in Google Cloud's Chronicle.
