@@ -1,0 +1,1 @@
+**[[Raw Log Search]]:** If you can't find the data you need in normalized logs, you have the option to search raw logs. Raw logs contain unprocessed data and are used when you need to access data that hasn't been included in normalized logs or troubleshoot data ingestion issues.

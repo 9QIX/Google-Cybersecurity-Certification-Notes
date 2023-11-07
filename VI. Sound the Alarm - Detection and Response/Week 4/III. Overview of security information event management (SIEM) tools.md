@@ -71,6 +71,16 @@ Effective querying is a fundamental skill for security analysts, enabling them t
 		- **Example UDM Search:** An example UDM search for a failed login event was demonstrated in Chronicle. The search used structured query builder and the following query: `metadata.event_type = "USER_LOGIN" AND security_result.action = "BLOCK"`. This query is structured to search for normalized data. It specifies the event type and security action, aiming to find failed login events.
 	2. **[[Raw Log Search]]:** If you can't find the data you need in normalized logs, you have the option to search raw logs. Raw logs contain unprocessed data and are used when you need to access data that hasn't been included in normalized logs or troubleshoot data ingestion issues.
 - **Search Results:** The search results provide a visual representation of the data, including a timeline of events and a list of events with timestamps. Quick filters on the left allow you to further refine your search based on additional fields or values.
-- **Event Details:** Clicking on an event allows you to access the raw log associated with the event, providing more detailed information for investigation.
+	- **Event Details:** Clicking on an event allows you to access the raw log associated with the event, providing more detailed information for investigation.
 
 Performing effective searches in a SIEM tool like Chronicle is essential for security analysts to identify security events, detect anomalies, and investigate potential threats. In the upcoming activity, you'll have the opportunity to perform searches using various SIEM tools, applying the knowledge you've gained.
+
+# Search methods with SIEM tools
+
+So far, you’ve learned about how you can use **security information and event management (SIEM)** tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results. 
+
+Not all organizations use the same SIEM tool to gather and centralize their security data. As a security analyst, you’ll need to be ready to learn how to use different SIEM tools. It’s important to understand the different types of searches you can perform using SIEM tools so that you can find relevant event data to support your security investigations.
+
+## Splunk searches
+
+As you’ve learned, Splunk has its own querying language called **Search Processing Language (SPL)**. SPL is used to search and retrieve events from indexes using Splunk’s Search & Reporting app. An SPL search can contain many different commands and arguments. For example, you can use commands to transform your search results into a chart format or filter results for specific information.

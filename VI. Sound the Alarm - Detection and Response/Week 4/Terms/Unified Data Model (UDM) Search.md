@@ -1,0 +1,1 @@
+**[[Unified Data Model (UDM) Search]]:** The default search method in Chronicle is the UDM search, which operates on normalized data. UDM searches through the structured and formatted data, making it easier to find specific information.

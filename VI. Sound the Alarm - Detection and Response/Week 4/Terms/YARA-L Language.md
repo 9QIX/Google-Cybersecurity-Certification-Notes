@@ -1,0 +1,1 @@
+**[[YARA-L Language]]:** Chronicle uses the YARA-L language to define rules for event detection. YARA-L is a computer language designed for creating rules to search through ingested log data. These rules can be used to detect specific activities or behaviors, such as data exfiltration.
