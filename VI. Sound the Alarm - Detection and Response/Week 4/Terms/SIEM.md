@@ -1,0 +1,1 @@
+**SIEM Overview:** **[[SIEM]]** stands for Security Information and Event Management. It is an application used to collect, analyze, and report on log data from various sources within an organization. SIEM tools play a critical role in monitoring and managing security-related activities.

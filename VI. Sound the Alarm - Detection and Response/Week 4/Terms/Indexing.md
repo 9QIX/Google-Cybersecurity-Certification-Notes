@@ -1,0 +1,1 @@
+**[[Indexing]]:** The normalized data is indexed, making it easily accessible through search. This indexing allows security analysts to quickly access and analyze events from various sources.
