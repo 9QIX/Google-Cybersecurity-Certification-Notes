@@ -61,3 +61,15 @@ Here are some resources if you’d like to learn more about the log ingestion pr
 - **Optimizing Searches:** As a security analyst, you have the flexibility to use different commands and techniques to optimize search performance, ensuring faster and more accurate search results.
 
 Effective querying is a fundamental skill for security analysts, enabling them to uncover security events, identify potential threats, and gain insights from SIEM databases. In the next section, you'll continue to explore how to query events, this time in Google Cloud's Chronicle.
+
+# Query for events with Chronicle
+
+- **YARA-L Language:** Chronicle uses the YARA-L language to define rules for event detection. YARA-L is a computer language designed for creating rules to search through ingested log data. These rules can be used to detect specific activities or behaviors, such as data exfiltration.
+- **Search Fields:** Chronicle offers various search fields to query log data, including fields like hostname, domain, IP, URL, email, username, and file hash. You can use these fields to perform different types of searches.
+- **Unified Data Model (UDM) Search:** The default search method in Chronicle is the UDM search, which operates on normalized data. UDM searches through the structured and formatted data, making it easier to find specific information.
+- **Raw Log Search:** If you can't find the data you need in normalized logs, you have the option to search raw logs. Raw logs contain unprocessed data and are used when you need to access data that hasn't been included in normalized logs or troubleshoot data ingestion issues.
+- **Example UDM Search:** An example UDM search for a failed login event was demonstrated in Chronicle. The search used structured query builder and the following query: `metadata.event_type = "USER_LOGIN" AND security_result.action = "BLOCK."` This query is structured to search for normalized data. It specifies the event type and security action, aiming to find failed login events.
+- **Search Results:** The search results provide a visual representation of the data, including a timeline of events and a list of events with timestamps. Quick filters on the left allow you to further refine your search based on additional fields or values.
+- **Event Details:** Clicking on an event allows you to access the raw log associated with the event, providing more detailed information for investigation.
+
+Performing effective searches in a SIEM tool like Chronicle is essential for security analysts to identify security events, detect anomalies, and investigate potential threats. In the upcoming activity, you'll have the opportunity to perform searches using various SIEM tools, applying the knowledge you've gained.
