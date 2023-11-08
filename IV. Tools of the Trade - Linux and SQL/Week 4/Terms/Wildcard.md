@@ -1,1 +1,3 @@
 - [[Wildcard]]: A special character that can be substituted with any other character.
+
+A **[[wildcard]]** is a special character that can be substituted with any other character. A wildcard is usually symbolized by an asterisk character `*`. Wildcards match characters in string values. In Splunk, the wildcard that you use depends on the command that you are using the wildcard with. Wildcards are useful because they can help find events that contain data that is similar but not entirely identical.

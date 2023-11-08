@@ -77,13 +77,13 @@ Performing effective searches in a SIEM tool like Chronicle is essential for sec
 
 # Search methods with SIEM tools
 
-So far, you’ve learned about how you can use **security information and event management (SIEM)** tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results. 
+So far, you’ve learned about how you can use **[[security information and event management (SIEM)]]** tools to search for security events such as failed login attempts. Remember, SIEM is an application that collects and analyzes log data to monitor critical activities in an organization. In this reading, you’ll examine how SIEM tools like Splunk and Chronicle use different search methods to find, filter, and transform search results. 
 
 Not all organizations use the same SIEM tool to gather and centralize their security data. As a security analyst, you’ll need to be ready to learn how to use different SIEM tools. It’s important to understand the different types of searches you can perform using SIEM tools so that you can find relevant event data to support your security investigations.
 
 ## Splunk searches
 
-As you’ve learned, Splunk has its own querying language called **Search Processing Language (SPL)**. SPL is used to search and retrieve events from indexes using Splunk’s Search & Reporting app. An SPL search can contain many different commands and arguments. For example, you can use commands to transform your search results into a chart format or filter results for specific information.
+As you’ve learned, Splunk has its own querying language called **[[Search Processing Language (SPL)]]**. SPL is used to search and retrieve events from indexes using Splunk’s Search & Reporting app. An SPL search can contain many different commands and arguments. For example, you can use commands to transform your search results into a chart format or filter results for specific information.
 
 ![[Pasted image 20231107211921.png]]
 
@@ -112,7 +112,7 @@ Here is an example of two commands that are piped together: 
 
 ### **Wildcard**
 
-A **wildcard** is a special character that can be substituted with any other character. A wildcard is usually symbolized by an asterisk character `*`. Wildcards match characters in string values. In Splunk, the wildcard that you use depends on the command that you are using the wildcard with. Wildcards are useful because they can help find events that contain data that is similar but not entirely identical. Here is an example of using a wildcard to expand the search results for a search term:
+A **[[wildcard]]** is a special character that can be substituted with any other character. A wildcard is usually symbolized by an asterisk character `*`. Wildcards match characters in string values. In Splunk, the wildcard that you use depends on the command that you are using the wildcard with. Wildcards are useful because they can help find events that contain data that is similar but not entirely identical. Here is an example of using a wildcard to expand the search results for a search term:
 
 `index=main fail*`
 
@@ -123,7 +123,7 @@ A **wildcard** is a special character that can be substituted with any other cha
 
 ## Chronicle searches
 
-In Chronicle, you can search for events using the Search field. You can also use Procedural Filtering to apply filters to a search to further refine the search results. For example, you can use Procedural Filtering to include or exclude search results that contain specific information relating to an event type or log source. There are two types of searches you can perform to find events in Chronicle, a Unified Data Mode (UDM) Search or a Raw Log Search.
+In Chronicle, you can search for events using the Search field. You can also use Procedural Filtering to apply filters to a search to further refine the search results. For example, you can use Procedural Filtering to include or exclude search results that contain specific information relating to an event type or log source. There are two types of searches you can perform to find events in Chronicle, a **[[Unified Data Mode (UDM) Search]]** or a **[[Raw Log Search]]**.
 
 ![[Pasted image 20231107212118.png]]
 
