@@ -135,10 +135,10 @@ The UDM Search is the default search type used in Chronicle. You can perform a U
 
 A UDM Search retrieves events formatted in UDM and these events contain UDM fields. There are many different types of UDM fields that can be used to query for specific information from an event. Discussing all of these UDM fields is beyond the scope of this reading, but you can learn more about UDM fields by exploring [Chronicle's UDM field list](https://cloud.google.com/chronicle/docs/reference/udm-field-list). Know that all UDM events contain a set of common fields including:
 
-- **Entities**: Entities are also known as nouns. All UDM events must contain at least one entity. This field provides additional context about a device, user, or process that’s involved in an event. For example, a UDM event that contains entity information includes the details of the origin of an event such as the hostname, the username, and IP address of the event
-- **Event metadata**: This field provides a basic description of an event, including what type of event it is, timestamps, and more. 
-- **Network metadata**: This field provides information about network-related events and protocol details. 
-- **Security results**: This field provides the security-related outcome of events. An example of a security result can be an antivirus software detecting and quarantining a malicious file by reporting "virus detected and quarantined." 
+- **[[Entities]]**: Entities are also known as nouns. All UDM events must contain at least one entity. This field provides additional context about a device, user, or process that’s involved in an event. For example, a UDM event that contains entity information includes the details of the origin of an event such as the hostname, the username, and IP address of the event
+- **[[Event metadata]]**: This field provides a basic description of an event, including what type of event it is, timestamps, and more. 
+- **[[Network metadata]]**: This field provides information about network-related events and protocol details. 
+- **[[Security results]]**: This field provides the security-related outcome of events. An example of a security result can be an antivirus software detecting and quarantining a malicious file by reporting "virus detected and quarantined." 
 
 Here’s an example of a simple UDM search that uses the event metadata field to locate events relating to user logins:
 
