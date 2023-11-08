@@ -1,0 +1,1 @@
+**[[Network metadata]]**: This field provides information about network-related events and protocol details. 
