@@ -1,0 +1,1 @@
+**[[Security results]]**: This field provides the security-related outcome of events. An example of a security result can be an antivirus software detecting and quarantining a malicious file by reporting "virus detected and quarantined." 
