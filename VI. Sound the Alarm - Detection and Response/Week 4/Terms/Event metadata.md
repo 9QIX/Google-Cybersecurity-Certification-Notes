@@ -1,0 +1,1 @@
+**[[Event metadata]]**: This field provides a basic description of an event, including what type of event it is, timestamps, and more. 
