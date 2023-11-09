@@ -156,7 +156,7 @@ If you can't find the information you are searching for through the normalized d
 
 ## Key takeaways
 
-SIEM tools like Splunk and Chronicle have their own methods for searching and retrieving event data. As a security analyst, it's important to understand how to leverage these tools to quickly and efficiently find the information you need. This will allow you to explore data in ways that support detecting threats, as well as rapidly responding to security incidents.
+SIEM tools like Splunk and Chronicle have their own methods for searching and retrieving event data. As a security analyst, it's important to understand how to leverage these tools to quickly and efficiently find the information you need. This will allow you to explore data in ways that support detecting threats, as well as rapidly responding to security incidents. 
 
 ## Resources for more information
 
