@@ -1,0 +1,1 @@
+**[[Array]]**: A data type that stores data in a comma-separated ordered list
