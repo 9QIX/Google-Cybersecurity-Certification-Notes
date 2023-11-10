@@ -1,0 +1,1 @@
+**[[Anomaly-based analysis]]**: A detection method that identifies abnormal behavior
