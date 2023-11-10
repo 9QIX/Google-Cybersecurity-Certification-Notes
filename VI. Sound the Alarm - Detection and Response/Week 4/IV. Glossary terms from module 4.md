@@ -1,4 +1,4 @@
-Certainly, here are the terms and definitions formatted as requested:
+## **Terms and definitions from Course 6, Module 4**
 
 **A**
 - **[[Anomaly-based analysis]]**: A detection method that identifies abnormal behavior
