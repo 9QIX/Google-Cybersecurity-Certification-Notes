@@ -163,4 +163,4 @@ SIEM tools like Splunk and Chronicle have their own methods for searching and re
 Here are some resources should you like to learn more about searching for events with Splunk and Chronicle:
 
 - [Splunk’s Search Manual](https://docs.splunk.com/Documentation/Splunk/9.0.1/Search/GetstartedwithSearch) on how to use the Splunk search processing language (SPL)
-- [Chronicle's quickstart guide](https://cloud.google.com/chronicle/docs/review-security-alert) on the different types of searches 
+- [Chronicle's quickstart guide](https://cloud.google.com/chronicle/docs/review-security-alert) on the different types of searches
