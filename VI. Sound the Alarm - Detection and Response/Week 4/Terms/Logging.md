@@ -1,0 +1,1 @@
+**[[Logging]]**: The recording of events occurring on computer systems and networks
