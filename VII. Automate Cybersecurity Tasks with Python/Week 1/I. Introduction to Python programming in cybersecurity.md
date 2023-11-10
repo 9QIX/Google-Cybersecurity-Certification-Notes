@@ -1,16 +1,11 @@
 # Python and cybersecurity
 
 
-- **Programming as a Tool:** Security professionals utilize programming as a tool to provide specific instructions for computers to execute tasks. This can be compared to a vending machine, where instructions (e.g., providing money, making a selection) lead to desired outcomes (e.g., receiving a product, getting change back).
-
+- **Programming as a Tool:** Security professionals utilize **[[programming]]** as a tool to provide specific instructions for computers to execute tasks. This can be compared to a vending machine, where instructions (e.g., providing money, making a selection) lead to desired outcomes (e.g., receiving a product, getting change back).
 - **Introduction to Python:** Python is highlighted as a general-purpose programming language with versatility across various domains, including web development and artificial intelligence. It's recognized for its readability and simplicity.
-
 - **Automation with Python:** Python is extensively used in security for task automation. Automation involves leveraging technology to reduce manual efforts in performing routine tasks. Python excels at automating short, simple tasks, such as sifting through log data, managing access control lists, and analyzing network traffic.
-
-- **Combining Tasks:** Python allows security professionals to connect separate tasks into cohesive workflows. For instance, it can streamline processes outlined in playbooks, ensuring that different steps are executed seamlessly.
-
+- **Combining Tasks:** Python allows security professionals to connect separate tasks into cohesive workflows. For instance, it can streamline processes outlined in playbooks, ensuring that different steps are executed seamlessly
 - **Advantages of Python:** Several advantages make Python a preferred choice for security tasks. Its user-friendly syntax, readability, and conciseness contribute to its appeal. Python follows standard guidelines, promoting code consistency. The language benefits from extensive online support and a rich collection of built-in libraries for various tasks.
-
 - **High Demand in Industries:** Python's popularity and versatility make it in high demand across different industries worldwide. Its ease of use, extensive libraries, and community support contribute to its sustained relevance.
 
 This knowledge sets the stage for the hands-on experience with running Python code in the upcoming videos. As you progress in your security career, Python is likely to become a valuable skill for automating tasks and enhancing efficiency in security operations.

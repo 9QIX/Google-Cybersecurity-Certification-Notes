@@ -7,3 +7,5 @@
 [[Programming]] to create a specific set of instructions for a computer to execute tasks. Programming allows analysts to complete repetitive tasks and processes with a high degree of accuracy and efficiency. It also helps reduce the risk of human error, and can save hours or days compared to performing the work manually.
 
 **[[Programming]]** is a process that can be used to create a specific set of instructions for a computer to execute tasks. Security analysts use programming languages, such as Python, to execute automation. **[[Automation]]** is the use of technology to reduce human and manual effort in performing common and repetitive tasks. Automation also helps reduce the risk of human error.
+
+**Programming as a Tool:** Security professionals utilize **[[programming]]** as a tool to provide specific instructions for computers to execute tasks. This can be compared to a vending machine, where instructions (e.g., providing money, making a selection) lead to desired outcomes (e.g., receiving a product, getting change back).
