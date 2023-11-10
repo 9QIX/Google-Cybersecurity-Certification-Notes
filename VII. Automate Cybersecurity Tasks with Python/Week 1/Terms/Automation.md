@@ -1,0 +1,1 @@
+**Automation with Python:** Python is extensively used in security for task automation. **[[Automation]]** involves leveraging technology to reduce manual efforts in performing routine tasks. Python excels at automating short, simple tasks, such as sifting through log data, managing access control lists, and analyzing network traffic.
