@@ -1,0 +1,1 @@
+One way to write Python code is through a notebook. In this course, you'll interact with Python through notebooks. A **[[notebook]]** is an online interface for writing, storing, and running code. They also allow you to document information about the code. Notebook content either appears in a code cell or markdown cell.
