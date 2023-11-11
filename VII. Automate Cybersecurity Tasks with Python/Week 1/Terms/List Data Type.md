@@ -1,0 +1,1 @@
+**[[List Data Type]]:** Lists are data structures that consist of a collection of data in sequential form. Lists are enclosed in square brackets and can include various data types. They are versatile and can be accessed and modified as you advance in Python skills.

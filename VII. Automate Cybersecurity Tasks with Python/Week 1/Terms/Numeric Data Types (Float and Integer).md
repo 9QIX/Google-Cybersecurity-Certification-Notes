@@ -1,0 +1,1 @@
+**[[Numeric Data Types (Float and Integer)]]:** Numeric data includes floats (numbers with a decimal point) and integers (whole numbers without a decimal point). Numeric data types are used for mathematical operations, and Python supports operations like addition, subtraction, multiplication, and division.
