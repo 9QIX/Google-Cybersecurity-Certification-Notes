@@ -1,1 +1,5 @@
 **[[Command-Line Interface (CLI)]]:** A text-based user interface that relies on commands typed in by the user to interact with the operating system. CLI is more flexible and powerful than GUI, allowing for customization and multitasking. It resembles coding in a text-based language and is commonly used by security analysts for tasks like log analysis and user authentication.
+
+## Command line
+
+The command line is another environment that allows you to run Python programs. Previously, you learned that a **[[command-line interface (CLI)]]** is a text-based user interface that uses commands to interact with the computer. By entering commands into the command line, you can access all files and directories saved on your hard drive, including files containing Python code you want to run. You can also use the command line to open a file editor and create a new Python file.

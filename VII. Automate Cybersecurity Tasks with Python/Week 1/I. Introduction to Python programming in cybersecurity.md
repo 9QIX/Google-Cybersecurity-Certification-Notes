@@ -82,7 +82,7 @@ Another option for writing Python code is through an **[[integrated development 
 
 ## Command line
 
-The command line is another environment that allows you to run Python programs. Previously, you learned that a **command-line interface (CLI)** is a text-based user interface that uses commands to interact with the computer. By entering commands into the command line, you can access all files and directories saved on your hard drive, including files containing Python code you want to run. You can also use the command line to open a file editor and create a new Python file.
+The command line is another environment that allows you to run Python programs. Previously, you learned that a **[[command-line interface (CLI)]]** is a text-based user interface that uses commands to interact with the computer. By entering commands into the command line, you can access all files and directories saved on your hard drive, including files containing Python code you want to run. You can also use the command line to open a file editor and create a new Python file.
 
 ## Key takeaways
 
