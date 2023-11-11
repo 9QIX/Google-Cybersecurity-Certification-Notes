@@ -62,15 +62,15 @@ You can run Python through a variety of environments. These environments include
 
 ## Notebooks
 
-One way to write Python code is through a notebook. In this course, you'll interact with Python through notebooks. A **notebook** is an online interface for writing, storing, and running code. They also allow you to document information about the code. Notebook content either appears in a code cell or markdown cell.
+One way to write Python code is through a notebook. In this course, you'll interact with Python through notebooks. A **[[notebook]]** is an online interface for writing, storing, and running code. They also allow you to document information about the code. Notebook content either appears in a code cell or markdown cell.
 
 ### **Code cells**
 
-Code cells are meant for writing and running code. A notebook provides a mechanism for running these code cells. Often, this is a play button located within the cell. When you run the code, its output appears after the code. 
+**[[Code cells]]** are meant for writing and running code. A notebook provides a mechanism for running these code cells. Often, this is a play button located within the cell. When you run the code, its output appears after the code. 
 
 ### **Markdown cells**
 
-Markdown cells are meant for describing the code. They allow you to format text in the markdown language. Markdown language is used for formatting plain text in text editors and code editors. For example, you might indicate that text should be in a certain header style. 
+**[[Markdown cells]]** are meant for describing the code. They allow you to format text in the markdown language. Markdown language is used for formatting plain text in text editors and code editors. For example, you might indicate that text should be in a certain header style. 
 
 ### **Common notebook environments**
 
@@ -78,7 +78,7 @@ Two common notebook environments are [Jupyter Notebook](https://jupyter.org/abou
 
 ## Integrated development environments (IDEs)
 
-Another option for writing Python code is through an **integrated development environment (IDE),** or a software application for writing code that provides editing assistance and error correction tools. Integrated development environments include a graphical user interface (GUI) that provides programmers with a variety of options to customize and build their programs. 
+Another option for writing Python code is through an **[[integrated development environment (IDE)]],** or a software application for writing code that provides editing assistance and error correction tools. Integrated development environments include a graphical user interface (GUI) that provides programmers with a variety of options to customize and build their programs. 
 
 ## Command line
 
