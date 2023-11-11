@@ -49,7 +49,7 @@ Python is a programming language, or in other words, a language used to create i
 # Create a basic Python script
 
 - **Script vs. Program Analogy:** The analogy of a theater performance was used to distinguish between a script and a program in Python. A script is akin to the specific words spoken by actors, while a program involves broader design decisions, much like the overall production aspects of a theater performance.
-- **Importance of Comments:** In Python, it's considered good practice to start with a comment. Comments, denoted by the hash symbol (#), serve as notes that programmers make about the intention behind their code. They contribute to documenting the code for better understanding.
+- **Importance of Comments:** In Python, it's considered good practice to start with a comment. **[[Comments]]**, denoted by the hash symbol (#), serve as notes that programmers make about the intention behind their code. They contribute to documenting the code for better understanding.
 - **Hello Python Code Example:** A simple "Hello Python!" program was introduced. The code utilizes the `print` function to output a specified object to the screen. In this case, the object is the string "Hello Python!" enclosed in quotation marks.
 - **Syntax in Python:** Syntax in Python refers to the rules that determine the correct structure of the code. The example highlighted the use of quotation marks for string data as one of the syntax rules in Python.
 - **Running Python Code:** The process of running Python code involves executing the script or program, resulting in the intended output being displayed. In the provided example, the "Hello Python!" string was successfully printed to the screen.
