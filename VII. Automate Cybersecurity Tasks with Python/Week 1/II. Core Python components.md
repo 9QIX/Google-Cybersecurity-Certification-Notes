@@ -112,7 +112,7 @@ The result is `7`. You can also subtract, multiply, or divide two integers.
 
 ## Float
 
-**Float data** is data consisting of a number with a decimal point. All of the following are examples of float data: 
+**[[Float data]]** is data consisting of a number with a decimal point. All of the following are examples of float data: 
 
 - `-2.2`
 - `-1.34`
@@ -159,3 +159,73 @@ Output:
 
 It will round down to the nearest whole number. In the case of `print(1//4)`, the output is the integer value of 0 because using this symbol rounds down the calculation from `.25` to the nearest whole number. In the case of `print(1.0//4.0)`, the output is the float value of `0.0` because it maintains the float data type of the values in the calculation while also rounding down to the nearest whole number.
 
+## Boolean 
+
+**[[Boolean data]]** is data that can only be one of two values: either `True` or `False`.
+
+You should not place Boolean values in quotation marks. When you run the following code, it displays the Boolean value of `True`:
+
+```python
+print(True)
+```
+Output:
+```python
+True
+```
+
+You can also return a Boolean value by comparing numbers. Because `9` is not greater than `10`, this code evaluates to `False`:
+
+```python
+print(9 > 10)
+```
+Output:
+```python
+False
+```
+
+## Additional data types
+
+In this course, you will work with the string, list, integer, float and Boolean data types, but there are other data types. These additional data types include tuple data, dictionary data, and set data.
+
+### **Tuple**
+
+**[[Tuple data]]** is a data structure that consists of a collection of data that cannot be changed. Like lists, tuples can contain elements of varying data types.
+
+A difference between tuple data and list data is that it is possible to change the elements in a list, but it is not possible to change the elements in a tuple. This could be useful in a cybersecurity context. For example, if software identifiers are stored in a tuple to ensure that they will not be altered, this can provide assurance that an access control list will only block the intended software.
+
+The syntax of a tuple is also different from the syntax of a list. A tuple is placed in parentheses rather than brackets. These are all examples of the tuple data type:
+
+- `("wjaffrey", "arutley", "dkot")`
+- `(46, 2, 13, 2, 8, 0, 0)`
+- `(True, False, True, True)`
+- `("wjaffrey", 13, True)`
+
+**Pro tip:** Tuples are more memory efficient than lists, so they are useful when you are working with a large quantity of data.
+
+### **Dictionary**
+
+**[[Dictionary data]]** is data that consists of one or more key-value pairs. Each key is mapped to a value. A colon (`:`) is placed between the key and value. Commas separate key-value pairs from other key-value pairs, and the dictionary is placed within curly brackets (`{}`). 
+
+Dictionaries are useful when you want to store and retrieve data in a predictable way. For example, the following dictionary maps a building name to a number. The building name is the value, and the number is the key. A colon is placed after the key.
+
+```
+{ 1: "East",
+
+  2: "West",
+
+  3: "North",
+
+  4: "South" }
+```
+
+### **Set**
+
+In Python, **[[set data]]** is data that consists of an unordered collection of unique values. This means no two values in a set can be the same. 
+
+Elements in a set are always placed within curly brackets and are separated by a comma. These elements can be of any data type. This example of a set contains strings of usernames:
+
+`{"jlanksy", "drosas", "nmason"}`
+
+## Key takeaways
+
+It's important for security analysts who program in Python to be familiar with various Python data types. The data types that you will work with in this course are string, list, integer, float and Boolean. Additional data types include tuple, dictionary, and set. Each data type has its own purpose and own syntax.
