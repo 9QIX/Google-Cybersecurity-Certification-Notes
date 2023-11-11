@@ -1,0 +1,1 @@
+**[[Markdown cells]]** are meant for describing the code. They allow you to format text in the markdown language. Markdown language is used for formatting plain text in text editors and code editors. For example, you might indicate that text should be in a certain header style. 
