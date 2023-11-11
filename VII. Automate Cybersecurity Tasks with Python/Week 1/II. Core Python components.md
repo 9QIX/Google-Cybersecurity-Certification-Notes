@@ -10,3 +10,34 @@
 - **Importance of Syntax:** The importance of adhering to Python's syntax rules, such as using quotation marks for strings and correct formatting for lists, was highlighted.
 
 Understanding these data types is fundamental to working with Python, and as you progress, you'll encounter more complex data structures and types that enhance your ability to solve diverse programming problems. In the upcoming sections, you'll further build on these concepts and apply them in practical scenarios.
+
+# More about data types
+
+Previously, you explored data types in Python. A **[[data type]]** is a category for a particular type of data item. You focused on string, list, float, integer, and Boolean data. These are the data types you'll work with in this course. This reading will expand on these data types. It will also introduce three additional types.
+
+## String
+
+In Python, **string data** is data consisting of an ordered sequence of characters. Characters in a string may include letters, numbers, symbols, and spaces. These characters must be placed within quotation marks. These are all valid strings:
+
+- "updates needed"
+- "20%"
+- "5.0"
+- "35"
+- "**/**/**"  
+- ""
+
+**Note:** The last item (""), which doesn't contain anything within the quotation marks, is called an empty string.
+
+You can use the print() function to display a string. You can explore this by running this code:
+
+```python
+print("updates needed")
+```
+Output
+```python
+updates needed
+```
+
+The code prints "updates needed".
+
+You can place strings in either double quotation marks ("") or single quotation marks (''). The following code demonstrates that the same message prints when the string is in single quotation marks:
