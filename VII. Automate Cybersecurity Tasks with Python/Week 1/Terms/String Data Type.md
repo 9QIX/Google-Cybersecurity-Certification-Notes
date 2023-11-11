@@ -1,0 +1,1 @@
+**[[String Data Type]]:** Strings represent ordered sequences of characters. They can include letters, symbols, spaces, and numbers, but numbers within strings cannot be used for calculations. All characters in a string must be enclosed in quotation marks.
