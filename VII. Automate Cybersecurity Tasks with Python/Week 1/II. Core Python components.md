@@ -49,3 +49,28 @@ Output
 ```python
 updates needed
 ```
+
+**Note:** Choosing one type of quotation marks and using it consistently makes it easier to read your code. This course uses double quotation marks.
+
+## List
+
+In Python, **[[list data]]** is a data structure that consists of a collection of data in sequential form. Lists elements can be of any data type, such as strings, integers, Booleans, or even other lists. The elements of a list are placed within square brackets, and each element is separated by a comma. The following lists contains elements of various data types:
+
+- `[12, 36, 54, 1, 7]`
+- `["eraab", "arusso", "drosas"]`
+- `[True, False, True, True]`
+- `[15, "approved", True, 45.5, False]`
+- `[]`
+
+**Note:** The last item `[]`, which doesn't contain anything within the brackets, is called an empty list.
+
+You can also use the `print()` function to display a list:
+
+```python
+print([12, 36, 54, 1, 7])
+```
+Output
+```python
+[12, 36, 54, 1, 7]
+```
+
