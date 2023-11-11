@@ -78,7 +78,7 @@ This displays a list containing the integers `12`, `36`, `54`, `1`, and `7`.
 
 ### **Integer**
 
-In Python, **integer data** is data consisting of a number that does not include a decimal point. These are all examples of integer data:
+In Python, **[[integer data]]** is data consisting of a number that does not include a decimal point. These are all examples of integer data:
 
 - `-100 `
 - `-12`
@@ -109,3 +109,14 @@ Output:
 ```
 
 The result is `7`. You can also subtract, multiply, or divide two integers.
+
+## Float
+
+**Float data** is data consisting of a number with a decimal point. All of the following are examples of float data: 
+
+- `-2.2`
+- `-1.34`
+- `0.0`
+- `0.34` 
+
+Just like integer data, float data is not placed in quotation marks. In addition, you can also use the print() function to display float data or to perform mathematical calculations with float data. You can run the following code to review the result of this calculation:
