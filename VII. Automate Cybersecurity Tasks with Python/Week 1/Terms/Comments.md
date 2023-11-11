@@ -1,0 +1,1 @@
+**Importance of Comments:** In Python, it's considered good practice to start with a comment. **[[Comments]]**, denoted by the hash symbol (#), serve as notes that programmers make about the intention behind their code. They contribute to documenting the code for better understanding.
