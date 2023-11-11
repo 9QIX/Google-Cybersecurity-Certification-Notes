@@ -1,0 +1,1 @@
+**[[Type Error]]:** Type errors occur when there is an attempt to perform an operation with incompatible data types. For instance, adding a string to a number can result in a type error.
