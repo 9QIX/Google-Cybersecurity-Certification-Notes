@@ -1,0 +1,1 @@
+**[[Data Type]]**: Category for a particular type of data item.
