@@ -1,0 +1,3 @@
+## Integrated development environments (IDEs)
+
+Another option for writing Python code is through an **[[integrated development environment (IDE)]],** or a software application for writing code that provides editing assistance and error correction tools. Integrated development environments include a graphical user interface (GUI) that provides programmers with a variety of options to customize and build their programs. 
