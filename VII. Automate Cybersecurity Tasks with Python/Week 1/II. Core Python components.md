@@ -292,7 +292,7 @@ old_username = username
 
 Because `username` contains the string value of `"nzhao"`, and `old_username` contains the value of `username`, `old_username` now contains a value of `"nzhao"`.
 
-**Putting it Together**
+### **Putting it together**
 
 The following code demonstrates how a username can be updated. The `username` variable is assigned an initial value, which is then stored in a second variable called `old_username`. After this, the `username` variable is reassigned a new value.
 
@@ -306,8 +306,13 @@ username = "zhao2"
 print("Previous Username:", old_username)
 print("Current Username:", username)
 ```
+Output:
+```Python
+Previous username: nzhao
+Current username: zhao2
+```
 
-**Best Practices for Naming Variables**
+## Best practices for naming variables
 
 You can name a variable almost anything you want, but there are a few guidelines you should follow to ensure correct syntax and prevent errors:
 
@@ -316,7 +321,7 @@ You can name a variable almost anything you want, but there are a few guidelines
 - Remember that variable names in Python are case-sensitive. These are all different variables: `time`, `Time`, `TIME`, `timE`.
 - Don't use Python’s built-in keywords or functions for variable names. For example, variables shouldn't be named `True`, `False`, or `if`.
 
-Stylistic Guidelines:
+Additionally, you should follow these stylistic guidelines to make your code easier for you and other security analysts to read and understand:
 
 - Separate two or more words with underscores. Valid examples: `login_attempts`, `invalid_user`, `status_update`.
 - Avoid variables with similar names. These variables could be easily confused with one another: `start_time`, `starting_time`, `time_starting`.
