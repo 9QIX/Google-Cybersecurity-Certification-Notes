@@ -250,33 +250,33 @@ Certainly! Here's the provided text with Python code and guidelines formatted fo
 
 ## What are variables?
 
-In a programming language, a variable is a container that stores data. It's a named storage location in a computer's memory that can hold a value, stored in a particular data type, such as integer, string, or Boolean. The value in a variable can change.
+In a programming language, a **[[variable]]** is a container that stores data. It's a named storage location in a computer's memory that can hold a value, stored in a particular data type, such as integer, string, or Boolean. The value in a variable can change.
 
 You can think of variables as boxes with labels. Even when you change the contents of a box, the label on the box remains the same. Similarly, when you change the value stored in a variable, the name of the variable remains the same.
 
 Security analysts working in Python will use a variety of variables. Examples include variables for login attempts, allow lists, and addresses.
 
-**Working with Variables**
+## Working with variables
 
 In Python, it's important to know both how to assign variables and how to reassign them.
 
-**Assigning and Reassigning Variables**
+### **Assigning and reassigning variables**
 
-If you want to create a variable called `username` and assign it a value of "nzhao," place the variable to the left of the equals sign and its value to the right:
+If you want to create a variable called `username` and assign it a value of `"nzhao"`, place the variable to the left of the equals sign and its value to the right:
 
 ```python
 # Assign 'username'
 username = "nzhao"
 ```
 
-If you later reset this username to "zhao2," you still refer to that variable container as `username`:
+If you later reset this username to `"zhao2"`, you still refer to that variable container as `username`:
 
 ```python
 # Reassign 'username'
 username = "zhao2"
 ```
 
-Although the contents have changed from "nzhao" to "zhao2," the variable `username` remains the same.
+Although the contents have changed from `"nzhao"` to `"zhao2"`, the variable `username` remains the same.
 
 Note: Place "nzhao" and "zhao2" in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
 
