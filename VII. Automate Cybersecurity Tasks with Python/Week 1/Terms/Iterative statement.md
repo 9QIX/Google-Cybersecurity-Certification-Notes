@@ -1,0 +1,1 @@
+**Iterative Statements and Loops:** **[[Iterative statement]]** involve code that repeatedly executes a set of instructions, and loops are a way to achieve this in Python. Loops allow you to repeat a line of code without typing it multiple times.
