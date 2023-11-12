@@ -243,3 +243,88 @@ It's important for security analysts who program in Python to be familiar with v
 - **Reassignment of Variables:** After defining a variable, you can change the object it contains through reassignment. Reassigning a variable is similar to assigning it initially.
 
 Understanding how to use variables effectively is crucial in Python programming. As you progress, you'll encounter more complex scenarios where variables play a vital role in storing and manipulating data.
+
+Certainly! Here's the provided text with Python code and guidelines formatted for readability:
+
+# Assign and reassign variables in Python
+
+## What are variables?
+
+In a programming language, a variable is a container that stores data. It's a named storage location in a computer's memory that can hold a value, stored in a particular data type, such as integer, string, or Boolean. The value in a variable can change.
+
+You can think of variables as boxes with labels. Even when you change the contents of a box, the label on the box remains the same. Similarly, when you change the value stored in a variable, the name of the variable remains the same.
+
+Security analysts working in Python will use a variety of variables. Examples include variables for login attempts, allow lists, and addresses.
+
+**Working with Variables**
+
+In Python, it's important to know both how to assign variables and how to reassign them.
+
+**Assigning and Reassigning Variables**
+
+If you want to create a variable called `username` and assign it a value of "nzhao," place the variable to the left of the equals sign and its value to the right:
+
+```python
+# Assign 'username'
+username = "nzhao"
+```
+
+If you later reset this username to "zhao2," you still refer to that variable container as `username`:
+
+```python
+# Reassign 'username'
+username = "zhao2"
+```
+
+Although the contents have changed from "nzhao" to "zhao2," the variable `username` remains the same.
+
+Note: Place "nzhao" and "zhao2" in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
+
+**Assigning Variables to Variables**
+
+Using a similar process, you can also assign variables to other variables. In the following example, the variable `username` is assigned to a new variable `old_username`:
+
+```python
+# Assign a variable to another variable
+username = "nzhao"
+old_username = username
+```
+
+Because `username` contains the string value of "nzhao," and `old_username` contains the value of `username`, `old_username` now contains a value of "nzhao."
+
+**Putting it Together**
+
+The following code demonstrates how a username can be updated. The `username` variable is assigned an initial value, which is then stored in a second variable called `old_username`. After this, the `username` variable is reassigned a new value.
+
+```python
+# Update username
+username = "nzhao"
+old_username = username
+username = "zhao2"
+
+# Display the previous and current username
+print("Previous Username:", old_username)
+print("Current Username:", username)
+```
+
+**Best Practices for Naming Variables**
+
+You can name a variable almost anything you want, but there are a few guidelines you should follow to ensure correct syntax and prevent errors:
+
+- Use only letters, numbers, and underscores in variable names. Valid examples: `date_3`, `username`, `interval2`.
+- Start a variable name with a letter or underscore. Do not start it with a number. Valid examples: `time`,  `_login`.
+- Remember that variable names in Python are case-sensitive. These are all different variables: `time`, `Time`, `TIME`, `timE`.
+- Don't use Python’s built-in keywords or functions for variable names. For example, variables shouldn't be named `True`, `False`, or `if`.
+
+Stylistic Guidelines:
+
+- Separate two or more words with underscores. Valid examples: `login_attempts`, `invalid_user`, `status_update`.
+- Avoid variables with similar names. These variables could be easily confused with one another: `start_time`, `starting_time`, `time_starting`.
+- Avoid unnecessarily long names for variables. For instance, don't give variables names like `variable_that_equals_3`.
+- Names should describe the data and not be random words. Valid examples: `num_login_attempts`, `device_id`, `invalid_usernames`.
+
+Note: Using underscores to separate multiple words in variables is recommended, but another convention that you might encounter is capitalizing the first letter of each word except the first word. Example: `loginAttempt`.
+
+**Key Takeaways**
+
+It's important for security analysts to have a fundamental understanding of variables. Variables are containers of data. They are assigned values and can also be reassigned other values or variables. It's helpful to remember the best practices for naming variables to create more functional, readable code.
