@@ -278,9 +278,9 @@ username = "zhao2"
 
 Although the contents have changed from `"nzhao"` to `"zhao2"`, the variable `username` remains the same.
 
-Note: Place "nzhao" and "zhao2" in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
+Note: Place `"nzhao"` and `"zhao2"`, in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
 
-**Assigning Variables to Variables**
+### **Assigning variables to variables**
 
 Using a similar process, you can also assign variables to other variables. In the following example, the variable `username` is assigned to a new variable `old_username`:
 
@@ -290,7 +290,7 @@ username = "nzhao"
 old_username = username
 ```
 
-Because `username` contains the string value of "nzhao," and `old_username` contains the value of `username`, `old_username` now contains a value of "nzhao."
+Because `username` contains the string value of `"nzhao"`, and `old_username` contains the value of `username`, `old_username` now contains a value of `"nzhao"`.
 
 **Putting it Together**
 
