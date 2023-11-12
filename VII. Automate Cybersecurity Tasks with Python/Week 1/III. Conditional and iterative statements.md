@@ -61,23 +61,23 @@ The body follows the header and contains the actions to be performed when the co
 - **else Statements:** The `else` keyword is followed by a code section that evaluates only when all preceding conditions in the conditional statement are False.
 
   ```python
-  if status == 200:
-      print("OK")
-  else:
-      print("check other status")
+if status == 200:
+	print("OK")
+else:
+	print("check other status")
   ```
 
 - **elif Statements:** The `elif` keyword introduces a condition that is evaluated only when previous conditions are False. Multiple `elif` statements can follow an `if`.
 
   ```python
-  if status == 200:
-      print("OK")
-  elif status == 400:
-      print("Bad Request")
-  elif status == 500:
-      print("Internal Server Error")
-  else:
-      print("check other status")
+if status == 200:
+	print("OK")
+elif status == 400:
+	print("Bad Request")
+elif status == 500:
+	print("Internal Server Error")
+else:
+	print("check other status")
   ```
 
 **Logical Operators for Multiple Conditions**
@@ -85,25 +85,25 @@ The body follows the header and contains the actions to be performed when the co
 - **and Operator:** Requires both conditions on either side to be True.
 
   ```python
-  if status >= 200 and status <= 226:
-      print("successful response")
+if status >= 200 and status <= 226:
+	print("successful response")
   ```
 
 - **or Operator:** Requires at least one condition on either side to be True.
 
   ```python
-  if status == 100 or status == 102:
-      print("informational response")
+if status == 100 or status == 102:
+	print("informational response")
   ```
 
 - **not Operator:** Negates a condition.
 
   ```python
-  if not (status >= 200 and status <= 226):
-      print("check status")
+if not (status >= 200 and status <= 226):
+	print("check status")
   ```
 
-  Parentheses are necessary to apply `not` to both conditions.
+Parentheses are necessary to apply `not` to both conditions.
 
 **Key Takeaways**
 
