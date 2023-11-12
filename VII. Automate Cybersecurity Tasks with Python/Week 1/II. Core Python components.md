@@ -278,7 +278,7 @@ username = "zhao2"
 
 Although the contents have changed from `"nzhao"` to `"zhao2"`, the variable `username` remains the same.
 
-Note: Place `"nzhao"` and `"zhao2"`, in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
+**Note**: Place `"nzhao"` and `"zhao2"`, in quotation marks because they're strings. Python automatically assigns a variable its data type when it runs.
 
 ### **Assigning variables to variables**
 
@@ -328,8 +328,8 @@ Additionally, you should follow these stylistic guidelines to make your code eas
 - Avoid unnecessarily long names for variables. For instance, don't give variables names like `variable_that_equals_3`.
 - Names should describe the data and not be random words. Valid examples: `num_login_attempts`, `device_id`, `invalid_usernames`.
 
-Note: Using underscores to separate multiple words in variables is recommended, but another convention that you might encounter is capitalizing the first letter of each word except the first word. Example: `loginAttempt`.
+**Note**: Using underscores to separate multiple words in variables is recommended, but another convention that you might encounter is capitalizing the first letter of each word except the first word. Example: `loginAttempt`.
 
-**Key Takeaways**
+## Key takeaways
 
-It's important for security analysts to have a fundamental understanding of variables. Variables are containers of data. They are assigned values and can also be reassigned other values or variables. It's helpful to remember the best practices for naming variables to create more functional, readable code.
+It's important for security analysts to have a fundamental understanding of variables. Variables are containers of data. They are assigned values and can also be reassigned other values or variables. It's helpful to remember the best practices for naming variables in order to create more functional, readable code.
