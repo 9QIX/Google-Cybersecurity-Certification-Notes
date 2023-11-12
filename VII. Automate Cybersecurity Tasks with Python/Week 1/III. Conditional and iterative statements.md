@@ -11,11 +11,13 @@
 
 Understanding conditional statements is fundamental to incorporating logic and decision-making into your Python code, enabling you to create more dynamic and responsive programs.
 
-**More on Conditionals in Python**
+# More on conditionals in Python
 
-**How Conditional Statements Work**
+Previously, you explored conditional statements and how they’re useful in automating tasks in Python. So far, you’ve focused on the `if` and `else` keywords. In this reading, you’ll review these and learn another keyword, `elif`. You’ll also learn how you can apply the `and`, `or`, and `not` operators to your conditions.
 
-A conditional statement is a construct that evaluates code to determine whether it meets specific conditions. When a condition is met, it evaluates to a Boolean value of True, and specified actions are performed. If the condition isn't met, it evaluates to False, and the specified actions are skipped.
+## How conditional statements work
+
+A **[[conditional statement]]** is a construct that evaluates code to determine whether it meets specific conditions. When a condition is met, it evaluates to a Boolean value of `True`, and specified actions are performed. If the condition isn't met, it evaluates to `False`, and the specified actions are skipped.
 
 Conditional statements often involve the comparison of two values using various operators:
 
@@ -28,35 +30,41 @@ Conditional statements often involve the comparison of two values using various 
 | ==       | equal to            |
 | !=       | not equal to        |
 
-These operators are used for numerical values, and == and != are commonly used for string data.
+Note: The equal to ( == ) and not equal to ( != ) operators are also commonly used to compare string data.
 
-**if Statements**
+## if statements
 
-The `if` keyword starts a conditional statement. It is followed by a condition, and if the condition is True, the specified actions in the body of the statement are executed. For example:
+The keyword `if` starts a conditional statement. It’s a necessary component of any conditional statement. In the following example, `if` begins a statement that tells Python to print an `"OK"` message when the HTTP response status code equals `200`:
 
 ```python
 if status == 200:
     print("OK")
 ```
 
-Here, if the HTTP response status code equals 200, it prints "OK" to the screen.
+This code consists of a header and a body.
 
-**The Header of an if Statement**
+### **The header of an if statement**
 
-The header is the first line of an if statement containing the `if` keyword and the condition. The condition can be in parentheses, but it's optional unless needed for clarity.
+The first line of this code is the header. In the header of an `if` statement, the keyword `if` is followed by the condition. Here, the condition is that the `status` variable is equal to a value of `200`. The condition can be placed in parentheses:
 
 ```python
 if (status == 200):
     print("OK")
 ```
 
-Always end the header with a colon (:).
+In cases like this one, placing parentheses around conditions in Python is optional. You might want to include them if it helps you with code readability. However, this condition will be processed the same way if written without parentheses. 
 
-**The Body of an if Statement**
+In other situations, because Python evaluates the conditions in parentheses first, parentheses can affect how Python processes conditions. You will read more about one of these in the section of this reading on `not`.
 
-The body follows the header and contains the actions to be performed when the condition is True. The body must be indented further than the header.
+**Note:** You must always place a colon (:) at the end of the header. Without this syntax, the code will produce an error.
 
-**Continuing Conditionals with else and elif**
+### **The body of an if statement**
+
+After the header of an `if` statement comes the body of the `if` statement. This tells Python what action or actions to perform when the condition evaluates to `True`. In this example, there is just one action, printing `"OK"` to the screen. In other cases, there might be more lines of code with additional actions.
+
+**Note:** For the body of the `if` statement to execute as intended, it must be indented further than the header. Additionally, if there are multiple lines of code within the body, they must all be indented consistently.
+
+## Continuing conditionals with else and elif
 
 - **else Statements:** The `else` keyword is followed by a code section that evaluates only when all preceding conditions in the conditional statement are False.
 
@@ -105,6 +113,6 @@ if not (status >= 200 and status <= 226):
 
 Parentheses are necessary to apply `not` to both conditions.
 
-**Key Takeaways**
+## Key takeaways
 
 Security analysts must be familiar with conditional statements. They involve `if`, `else`, and `elif` keywords. Logical operators (`and`, `or`, `not`) are useful for more complex conditions in Python. Always end headers with a colon and indent bodies for proper execution.
