@@ -1,0 +1,1 @@
+**Conditional Statements:** **[[Conditional statement]]** are crucial for automation. They evaluate code to determine if it meets specified conditions. The keyword **"if"** is introduced as the initiator of a conditional statement. The structure involves specifying a condition followed by a colon, with the subsequent indented block being executed if the condition is true.
