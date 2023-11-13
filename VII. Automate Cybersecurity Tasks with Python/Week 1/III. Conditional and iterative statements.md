@@ -143,7 +143,7 @@ Understanding both for and while loops, along with conditional statements and va
 
 # More on loops in Python
 
-Previously, you explored iterative statements. An **iterative statement** is code that repeatedly executes a set of instructions. Depending on the criteria, iterative statements execute zero or more times. We iterated through code using both for loops and while loops. In this reading, you’ll recap the syntax of loops. Then, you'll learn how to use the break and continue keywords to control the execution of loops. 
+Previously, you explored iterative statements. An **[[iterative statement]]** is code that repeatedly executes a set of instructions. Depending on the criteria, iterative statements execute zero or more times. We iterated through code using both for loops and while loops. In this reading, you’ll recap the syntax of loops. Then, you'll learn how to use the break and continue keywords to control the execution of loops. 
 
 ## for loops  
 
@@ -155,8 +155,6 @@ The following for loop iterates through a sequence of usernames. You can run it 
 for variable in sequence:
       # loop body
   ```
-
-- Example:
 
   ```python
 for i in ["elarson", "bmoreno", "tshah", "sgilmore"]:
@@ -170,22 +168,31 @@ tshah
 sgilmore
 ```
 
-- The loop variable (`i` in this case) is part of the loop header.
-- The loop body must be indented under the loop header.
+The first line of this code is the loop header. In the loop header, the keyword for signals the beginning of a for loop. Directly after for, the loop variable appears. The **[[loop variable]]** is a variable that is used to control the iterations of a loop. In for loops, the loop variable is part of the header. In this example, the loop variable is i. 
 
-#### Looping Through a List:
+The rest of the loop header indicates the sequence to iterate through. The in operator appears before the sequence to tell Python to run the loop for every item in the sequence. In this example, the sequence is the list of usernames. The loop header must end with a colon (:). 
 
-Example:
+The second line of this example for loop is the loop body. The body of the for loop might consist of multiple lines of code. In the body, you indicate what the loop should do with each iteration. In this case, it's to print(i), or in other words, to display the current value of the loop variable during that iteration of the loop. For Python to execute the code properly, the loop body must be indented further than the loop header.
+
+**Note:** When used in a for loop, the in operator precedes the sequence that the for loop will iterate through. When used in a conditional statement, the in operator is used to evaluate whether an object is part of a sequence.  The example `if "elarson" in ["tshah", "bmoreno", "elarson"]` evaluates to True because "elarson" is part of the sequence following in.
+
+## **Looping through a list**
+
+Using for loops in Python allows you to easily iterate through lists, such as a list of computer assets. In the following for loop, asset is the loop variable and another variable, computer_assets, is the sequence. The computer_assets variable stores a list. This means that on the first iteration the value of asset will be the first element in that list, and on the second iteration, the value of asset will be the second element in that list. You can run the code to observe what it outputs:
 
 ```python
 computer_assets = ["laptop1", "desktop20", "smartphone03"]
 for asset in computer_assets:
     print(asset)
 ```
+Output:
+```Python
+laptop1 
+desktop20 
+smartphone03
+```
 
-#### Looping Through a String:
-
-Example:
+**Note:** It is also possible to loop through a string. This will return every character one by one. You can observe this by running the following code block that iterates through the string "security":
 
 ```python
 string = "security"
