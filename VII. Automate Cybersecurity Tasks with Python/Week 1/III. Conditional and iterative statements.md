@@ -199,42 +199,85 @@ string = "security"
 for character in string:
     print(character)
 ```
+Output:
+```Python
+s 
+e 
+c 
+u 
+r 
+i 
+t 
+y
+```
 
-#### Using `range()`:
+### **Using  `range()`**
 
-Example:
+Another way to iterate through a for loop is based on a sequence of numbers, and this can be done with range(). The range() function generates a sequence of numbers. It accepts inputs for the start point, stop point, and increment in parentheses. For example, the following code indicates to start the sequence of numbers at 0, stop at 5, and increment each time by 1:
+
+`range(0, 5, 1)`
+
+**Note:** The start point is inclusive, meaning that 0 will be included in the sequence of numbers, but the stop point is exclusive, meaning that 5 will be excluded from the sequence. It will conclude one integer before the stopping point.
+
+When you run this code, you can observe how 5 is excluded from the sequence:
 
 ```python
 for i in range(0, 5, 1):
     print(i)
 ```
+Output:
+```Python
+0 
+1 
+2 
+3 
+4
+```
 
-- `range(start, stop, step)` generates a sequence of numbers.
-- `start` is inclusive, `stop` is exclusive, and `step` is the increment (defaults to 1).
+You should be aware that it's always necessary to include the stop point, but if the start point is the default value of 0 and the increment is the default value of 1, they don't have to be specified in the code. If you run this code, you will get the same results:
 
-#### While Loops:
-- Used when the number of iterations is not known beforehand.
-- Syntax:
+```python
+for i in range(5):
+    print(i)
+```
+Output:
+```Python
+0 
+1 
+2 
+3 
+4
+```
+
+**Note:** If the start point is anything other than 0 or the increment is anything other than 1, they should be specified.
+
+## `while` loops
+
+If you want a loop to iterate based on a condition, you should use a while loop. As long as the condition is True, the loop continues, but when it evaluates to False, the while loop exits. The following while loop continues as long as the condition that i < 5 is True:
 
   ```python
-  while condition:
-      # loop body
-  ```
-
-- Example:
-
-  ```python
-  i = 1
-  while i < 5:
+i = 1
+while i < 5:
       print(i)
       i = i + 1
   ```
+Output:
+```Python
+1
+2
+3
+4
+```
 
-- The loop condition is based on a Boolean expression.
+In this while loop, the loop header is the line while i < 5:. Unlike with for loops, the value of a loop variable used to control the iterations is not assigned within the loop header in a while loop. Instead, it is assigned outside of the loop. In this example, i is assigned a starting value of 1 in a line preceding the loop.
 
-#### Integers in the Loop Condition:
+The keyword while signals the beginning of a while loop. After this, the loop header indicates the condition that determines when the loop terminates. This condition uses the same comparison operators as conditional statements. Like in a for loop, the header of a while loop must end with a colon (:).
 
-Example:
+The body of a while loop indicates the actions to take with each iteration. In this example, it is to display the value of i and to increment the value of i by 1. In order for the value of i to change with each iteration, it's necessary to indicate this in the body of the while loop. In this example, the loop iterates four times until it reaches a value of 5.
+
+### Integers in the loop condition
+
+Often, as just demonstrated, the loop condition is based on integer values. For example, you might want to allow a user to log in as long as they've logged in less than five times. Then, your loop variable, login_attempts, can be initialized to 0, incremented by 1 in the loop, and the loop condition can specify to iterate only when the variable is less than 5. You can run the code below and review the count of each login attempt:
 
 ```python
 login_attempts = 0
@@ -242,10 +285,22 @@ while login_attempts < 5:
     print("Login attempts:", login_attempts)
     login_attempts = login_attempts + 1
 ```
+Output:
+```Python
+Login attempts: 0
+Login attempts: 1
+Login attempts: 2
+Login attempts: 3
+Login attempts: 4
+```
 
-#### Boolean Values in the Loop Condition:
+The value of login_attempts went from 0 to 4 before the loop condition evaluated to False. Therefore, the values of 0 through 4 print, and the value 5 does not print.
 
-Example:
+### Boolean values in the loop condition
+
+Conditions in while loops can also depend on other data types, including comparisons of Boolean data. In Boolean data comparisons, your loop condition can check whether a loop variable equals a value like True or False. The loop iterates an indeterminate number of times until the Boolean condition is no longer True. 
+
+In the example below, a Boolean value is used to exit a loop when a user has made five login attempts. A variable called count keeps track of each login attempt and changes the login_status variable to False when the count equals 4. (Incrementing count from 0 to 4 represents five login attempts.) Because the while condition only iterates when login_status is True, it will exit the loop. You can run this to explore this output:
 
 ```python
 count = 0
@@ -255,6 +310,13 @@ while login_status == True:
     count = count + 1
     if count == 4:
         login_status = False
+```
+Output
+```Python
+Try again. 
+Try again. 
+Try again. 
+Try again.
 ```
 
 ### Managing Loops with `break` and `continue`:
