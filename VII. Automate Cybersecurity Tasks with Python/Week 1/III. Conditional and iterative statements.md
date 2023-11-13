@@ -127,3 +127,19 @@ Security analysts must be familiar with conditional statements. They involve `if
 	- **Example with Range Function:** An example is provided where a for loop is used with the `range` function to repeat a specific process (printing an error message) 10 times. The benefits of using a loop in this scenario, as opposed to manually typing the error message multiple times, are highlighted.
 
 Understanding for loops and how to use them with the `range` function provides you with a powerful tool for automating repetitive tasks in your Python programs. The next video will cover another type of iterative statement: the while loop.
+
+# While loops
+
+- **While Loops:** While loops are iterative statements that repeatedly execute a set of instructions based on a condition. The loop continues to execute as long as the condition is true, and it stops when the condition becomes false.
+
+- **While Loop Syntax:** The while loop has a header, which includes the keyword `while`, the condition, and a colon. The loop body consists of indented lines after the header, specifying the actions to be performed while the loop iterates.
+
+- **Loop Variable in While Loops:** In while loops, the loop variable needs to be assigned a value before the loop starts. Unlike for loops, the loop variable is not created within the loop statement itself.
+
+- **Example of a While Loop:** An example was provided where a while loop was used to print the values of a loop variable (`time`) and increment it by two until it became greater than 10. The loop printed even numbers less than or equal to 10.
+
+- **Practical Example:** A practical example demonstrated the use of a while loop to simulate a scenario where a user has a limitation on the number of devices they can connect to. The loop continued to print a message as long as the user could connect to additional devices and stopped when the maximum number of devices was reached.
+
+- **Loop Control:** Inside the while loop, the loop variable was explicitly changed to control the iterations. In the example, the loop variable `i` was incremented by one in each iteration.
+
+Understanding both for and while loops, along with conditional statements and variables, provides you with powerful tools to control the flow of your Python programs. These tools allow you to automate tasks, make decisions, and create more dynamic and efficient code. Great job!
