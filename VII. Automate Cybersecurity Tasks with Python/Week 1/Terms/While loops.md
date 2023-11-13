@@ -1,0 +1,2 @@
+- **While Loops:** **[[While loops]]** are iterative statements that repeatedly execute a set of instructions based on a condition. The loop continues to execute as long as the condition is true, and it stops when the condition becomes false.
+	- **While Loop Syntax:** The while loop has a header, which includes the keyword `while`, the condition, and a colon. The loop body consists of indented lines after the header, specifying the actions to be performed while the loop iterates.

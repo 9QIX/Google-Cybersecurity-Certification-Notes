@@ -138,3 +138,4 @@ Understanding for loops and how to use them with the `range` function provides y
 - **Loop Control:** Inside the while loop, the loop variable was explicitly changed to control the iterations. In the example, the loop variable `i` was incremented by one in each iteration.
 
 Understanding both for and while loops, along with conditional statements and variables, provides you with powerful tools to control the flow of your Python programs. These tools allow you to automate tasks, make decisions, and create more dynamic and efficient code. Great job!
+
