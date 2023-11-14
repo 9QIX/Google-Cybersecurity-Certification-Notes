@@ -355,4 +355,4 @@ for asset in computer_assets:
 - For loops are suitable for iterating through lists or sequences.
 - While loops are used when the number of iterations is not known beforehand.
 - The `break` keyword is used to exit a loop based on a condition.
-- The `continue` keyword is used to skip an iteration based on a condition.
+- The `continue` keyword is used to skip an iteration based on a condition. 
