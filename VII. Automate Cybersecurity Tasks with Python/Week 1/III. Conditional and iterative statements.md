@@ -325,7 +325,7 @@ The code prints a message to try again four times, but exits the loop once login
 
 You can use the break and continue keywords to further control your loop iterations. Both are incorporated into a conditional statement within the body of the loop. They can be inserted to execute when the condition in an if statement is True. The break keyword is used to break out of a loop. The continue keyword is used to skip an iteration and continue with the next one. 
 
-## **break**
+## `break`
 
 When you want to exit a for or while loop based on a particular condition in an if statement being True, you can write a conditional statement in the body of the loop and write the keyword break in the body of the conditional. 
 
@@ -338,11 +338,16 @@ for asset in computer_assets:
         break
     print(asset)
 ```
+Output
+```Python
+laptop1
+```
 
-#### `continue`:
-- Used to skip an iteration based on a certain condition.
+As expected, the values of "desktop20" and "smartphone03" don't print because the loop breaks on the second iteration.
 
-Example:
+## `continue`
+
+When you want to skip an iteration based on a certain condition in an if statement being True, you can add the keyword continue in the body of a conditional statement within the loop. In this example, continue will execute when the loop variable of asset is equal to "desktop20". You can run this code to observe how this output differs from the previous example with break:
 
 ```python
 computer_assets = ["laptop1", "desktop20", "smartphone03"]
@@ -352,10 +357,14 @@ for asset in computer_assets:
     print(asset)
 ```
 
-### Infinite Loops:
-- Loops that don't exit, requiring manual interruption (e.g., CTRL-C).
+The value "desktop20" in the second iteration doesn't print. However, in this case, the loop continues to the next iteration, and "smartphone03" is printed.
 
-### Key Takeaways:
+## Infinite loops
+
+If you create a loop that doesn't exit, this is called an infinite loop. In these cases, you should press CTRL-C or CTRL-Z on your keyboard to stop the infinite loop. You might need to do this when running a service that constantly processes data, such as a web server.
+
+## Key takeaways
+
 - Security analysts use iterative statements, such as for and while loops, for repetitive tasks.
 - For loops are suitable for iterating through lists or sequences.
 - While loops are used when the number of iterations is not known beforehand.
