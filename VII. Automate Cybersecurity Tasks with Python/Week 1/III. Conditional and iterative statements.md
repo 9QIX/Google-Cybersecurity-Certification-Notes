@@ -338,7 +338,7 @@ for asset in computer_assets:
         break
     print(asset)
 ```
-Output
+Output:
 ```Python
 laptop1
 ```
@@ -355,6 +355,11 @@ for asset in computer_assets:
     if asset == "desktop20":
         continue
     print(asset)
+```
+Output:
+```python
+laptop1
+smartphone03
 ```
 
 The value "desktop20" in the second iteration doesn't print. However, in this case, the loop continues to the next iteration, and "smartphone03" is printed.
