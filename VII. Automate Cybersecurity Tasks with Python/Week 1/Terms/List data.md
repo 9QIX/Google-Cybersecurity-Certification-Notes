@@ -1,0 +1,1 @@
+**[[List data]]**: Data structure that consists of a collection of data in sequential form
