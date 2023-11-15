@@ -319,12 +319,17 @@ Try again.
 Try again.
 ```
 
-### Managing Loops with `break` and `continue`:
+The code prints a message to try again four times, but exits the loop once login_status is set to False.   
 
-#### `break`:
-- Used to exit a loop based on a particular condition.
+## Managing loops
 
-Example:
+You can use the break and continue keywords to further control your loop iterations. Both are incorporated into a conditional statement within the body of the loop. They can be inserted to execute when the condition in an if statement is True. The break keyword is used to break out of a loop. The continue keyword is used to skip an iteration and continue with the next one. 
+
+## **break**
+
+When you want to exit a for or while loop based on a particular condition in an if statement being True, you can write a conditional statement in the body of the loop and write the keyword break in the body of the conditional. 
+
+The following example demonstrates this. The conditional statement with break instructs Python to exit the for loop if the value of the loop variable asset is equal to "desktop20". On the second iteration, this condition evaluates to True. You can run this code to observe this in the output:
 
 ```python
 computer_assets = ["laptop1", "desktop20", "smartphone03"]
