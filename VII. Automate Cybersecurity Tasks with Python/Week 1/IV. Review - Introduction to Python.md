@@ -79,3 +79,51 @@ Used to control the execution of loops.
 
 
 # Glossary terms from module 1
+
+Certainly, here are the terms and definitions from Course 7, Module 1, with the **[[ ]]** notation:
+
+**A**
+- **[[Automation]]**: The use of technology to reduce human and manual effort to perform common and repetitive tasks
+
+**B**
+- **[[Boolean data]]**: Data that can only be one of two values: either True or False
+
+**C**
+- **[[Command-line interface]]**: A text-based user interface that uses commands to interact with the computer
+- **[[Comment]]**: A note programmers make about the intention behind their code
+- **[[Conditional statement]]**: A statement that evaluates code to determine if it meets a specified set of conditions
+
+**D**
+- **[[Data type]]**: A category for a particular type of data item
+- **[[Dictionary data]]**: Data that consists of one or more key-value pairs
+
+**F**
+- **[[Float data]]**: Data consisting of a number with a decimal point
+
+**I**
+- **[[Integer data]]**: Data consisting of a number that does not include a decimal point
+- **[[Integrated development environment (IDE)]]**: A software application for writing code that provides editing assistance and error correction tools
+- **[[Interpreter]]**: A computer program that translates Python code into runnable instructions line by line
+- **[[Iterative statement]]**: Code that repeatedly executes a set of instructions
+
+**L**
+- **[[List data]]**: Data structure that consists of a collection of data in sequential form
+- **[[Loop variable]]**: A variable that is used to control the iterations of a loop
+
+**N**
+- **[[Notebook]]**: An online interface for writing, storing, and running code
+
+**P**
+- **[[Programming]]**: A process that can be used to create a specific set of instructions for a computer to execute tasks
+
+**S**
+- **[[Set data]]**: Data that consists of an unordered collection of unique values
+- **[[String data]]**: Data consisting of an ordered sequence of characters
+- **[[Syntax]]**: The rules that determine what is correctly structured in a computing language
+
+**T**
+- **[[Tuple data]]**: Data structure that consists of a collection of data that cannot be changed
+- **[[Type error]]**: An error that results from using the wrong data type
+
+**V**
+- **[[Variable]]**: A container that stores data
