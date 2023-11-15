@@ -80,7 +80,7 @@ Used to control the execution of loops.
 
 # Glossary terms from module 1
 
-Certainly, here are the terms and definitions from Course 7, Module 1, with the **[[ ]]** notation:
+## **Terms and definitions from Course 7, Module 1**
 
 **A**
 - **[[Automation]]**: The use of technology to reduce human and manual effort to perform common and repetitive tasks
