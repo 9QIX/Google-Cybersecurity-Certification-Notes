@@ -76,3 +76,6 @@ Used to control the execution of loops.
 
 - `break`: Used to break out of a loop.
 - `continue`: Used to skip a loop iteration and continue with the next one.
+
+
+# Glossary terms from module 1
