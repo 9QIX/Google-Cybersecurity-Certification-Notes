@@ -31,12 +31,8 @@
       """This function greets the person passed in as a parameter."""
       print(f"Hello, {name}!")
   # Calling the function
-  greet("Alice")
+  greet("Alice") # Output: Hello, Alice!
   ```
-Output:
-```python
-Hello, Alice!
-```
 - **Return Statement:**
 	- The `return` statement is used to send a result back to the caller.
 	- A function may not have a `return` statement if it's intended to perform actions without producing a result.
