@@ -164,7 +164,7 @@ Previously, you were introduced to the PEP 8 style guide and its stylistic guide
 
 ## Comments
 
-A **comment** is a note programmers make about the intentions behind their code. Comments make it easier for you and other programmers to read and understand your code. 
+A **[[comment]]** is a note programmers make about the intentions behind their code. Comments make it easier for you and other programmers to read and understand your code. 
 
 It’s important to start your code with a comment that explains what the program does. Then, throughout the code, you should add additional comments about your intentions behind specific sections.
 

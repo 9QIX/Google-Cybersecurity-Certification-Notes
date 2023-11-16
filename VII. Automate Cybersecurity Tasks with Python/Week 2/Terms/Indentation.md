@@ -1,0 +1,4 @@
+- **Indentation for Readability:**
+	- The next topic is the significance of indentation for code readability. **[[Indentation]]** is described as spaces added at the beginning of a line of code, enhancing readability and ensuring proper code execution. Examples demonstrate how indentation is crucial, especially in conditional statements, to establish connections and avoid unintended execution.
+	- **PEP 8's Recommendation on Indentation:**
+		- PEP 8's recommendation of using four spaces for indentation is mentioned. The passage explains that proper indentation is essential for grouping lines of code and ensuring they are executed as intended.
