@@ -1,14 +1,14 @@
 # Introduction to functions
 
 - **Functions in Python:**
-	- A function is a reusable block of code that performs a specific task.
+	- A **[[function]]** is a reusable block of code that performs a specific task.
 	- Functions can take input parameters, perform actions, and return results.
 	- They help in organizing code, making it more readable and modular.
-- **Built-in Functions:**
+- **[[Built-in Functions]]:**
 	- Python provides a set of built-in functions that are readily available for use.
 	- Examples include `print()`, `len()`, `input()`, etc.
 	- These functions are part of the Python language and can be used without explicitly defining them.
-- **User-Defined Functions:**
+- **[[User-Defined Functions]]:**
 	- Programmers can create their own functions to encapsulate specific functionality.
 	- This is known as defining a user-defined function.
 	- User-defined functions enhance code reusability and maintainability.
