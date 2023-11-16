@@ -4,7 +4,7 @@
 	- The passage starts by revisiting the definition and execution of the first function, emphasizing that it didn't require external information. However, it sets the stage for discussing parameters in functions, highlighting the potential need for functions to accept external information.
 - **Parameters in Functions:**
 	- **[[Parameters]]** in Python functions are introduced as objects included in a function definition for internal use. They are accepted through the parentheses after the function name.
-	- The example of the range() function is revisited, emphasizing its use of parameters for start and stop indices.
+	- The example of the `range(start, stop)` function is revisited, emphasizing its use of parameters for start and stop indices.
 - **Enhancing a Welcome Message Function:**
 	- The need for personalized welcome messages is introduced. A new function, greet_employee(), is defined with a parameter for the employee's name.
 	- The syntax involves placing the name parameter inside the parentheses. The function is designed to print a welcome message using the provided name.
