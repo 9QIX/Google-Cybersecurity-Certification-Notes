@@ -1,0 +1,1 @@
+**[[Built-in function]]**: A function that exists within Python and can be called directly
