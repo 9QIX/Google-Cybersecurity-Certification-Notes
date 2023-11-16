@@ -1,0 +1,4 @@
+- **[[Built-in Functions]]:**
+	- Python provides a set of built-in functions that are readily available for use.
+	- Examples include `print()`, `len()`, `input()`, etc.
+	- These functions are part of the Python language and can be used without explicitly defining them.
