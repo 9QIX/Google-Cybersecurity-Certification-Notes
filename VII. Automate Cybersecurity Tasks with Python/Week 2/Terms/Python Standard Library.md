@@ -1,0 +1,9 @@
+- **[[Python Standard Library]]:**
+	- The focus shifts to the Python Standard Library, characterized as an extensive collection of usable Python code often bundled with Python installations. 
+		- Examples of modules from the Python Standard Library are highlighted, including the re module for pattern searching in log files, csv for efficient CSV file handling, glob and os for command line interaction, and time and datetime for timestamp operations.
+			- re
+			- csv
+			- glob
+			- os
+			- time
+			- datetime

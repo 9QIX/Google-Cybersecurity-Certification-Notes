@@ -1,0 +1,3 @@
+- **Libraries and Modules:**
+	- **[[Libraries]]** are defined as collections of modules providing code that users can incorporate into their programs. 
+	- **[[Modules]]**, in turn, are described as Python files containing functions, variables, classes, and runnable code. They are likened to saved Python files containing useful functionality, ranging from simple lines of code to complex and lengthy components.
