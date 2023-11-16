@@ -11,7 +11,7 @@
 - **Handling Variables in Print Statements:**
 	- Considerations for incorporating the name variable into the print statement are discussed. A comma is used after "You're logged in," and the name variable is added. Since it's a variable, it's not placed in quotation marks.
 - **Calling the Function with Arguments:**
-	- The process of calling the greet_employee() function with a specific argument (Charley Patel) is explained. This is highlighted as an example of an argument, emphasizing that it is the data brought into a function when called.
+	- The process of calling the `greet_employee()` function with a specific argument (Charley Patel) is explained. This is highlighted as an example of an **[[argument]]**, emphasizing that it is the data brought into a function when called.
 - **Multiple Parameters in a Function:**
 	- The concept of having more than one parameter in a function is introduced. An example is explored where parameters for first name and last name are included. Both parameters are separated by a comma when defining the function and are included as arguments when calling it.
 - **Conclusion and Acknowledgment:**
