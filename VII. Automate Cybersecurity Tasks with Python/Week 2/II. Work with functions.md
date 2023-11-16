@@ -37,3 +37,43 @@
 	- The code is executed, demonstrating that the returned percentage isn't directly printed to the screen but is instead used in subsequent code to trigger the "Account locked" message.
 - **Preview of Future Topics:**
 	- The passage concludes by teasing upcoming discussions on built-in functions in Python, offering a glimpse into more ready-to-use functions in the language.
+
+# Functions and variables
+
+Previously, you focused on working with multiple parameters and arguments in functions and returning information from functions. In this reading, you’ll review these concepts. You'll also be introduced to a new concept: global and local variables.
+
+## Working with variables in functions
+
+Working with variables in functions requires an understanding of both parameters and arguments. The terms parameters and arguments have distinct uses when referring to variables in a function. Additionally, if you want the function to return output, you should be familiar with return statements.
+
+### Parameters
+
+A **parameter** is an object that is included in a function definition for use in that function. When you define a function, you create variables in the function header. They can then be used in the body of the function. In this context, these variables are called parameters.  For example, consider the following function:
+
+def remaining_login_attempts(maximum_attempts, total_attempts):
+
+    print(maximum_attempts - total_attempts)
+
+This function takes in two variables, maximum_attempts and total_attempts and uses them to perform a calculation. In this example, maximum_attempts and total_attempts are parameters.
+
+### Arguments
+
+In Python, an **argument** is the data brought into a function when it is called. When calling remaining_login_attempts in the following example, the integers 3 and 2 are considered arguments:
+
+remaining_login_attempts(3, 2)
+
+These integers pass into the function through the parameters that were identified when defining the function. In this case, those parameters would be maximum_attempts and total_attempts. 3 is in the first position, so it passes into maximum_attempts. Similarly, 2 is in the second position and passes into total_attempts.
+
+### Return statements
+
+When defining functions in Python, you use return statements if you want the function to return output. The return keyword is used to return information from a function.
+
+The return keyword appears in front of the information that you want to return. In the following example, it is before the calculation of how many login attempts remain:
+
+def remaining_login_attempts(maximum_attempts, total_attempts):
+
+    return maximum_attempts - total_attempts
+
+**Note:** The return keyword is not a function, so you should not place parentheses after it.
+
+Return statements are useful when you want to store what a function returns inside of a variable to use elsewhere in the code. For example, you might use this variable for calculations or within conditional statements. In the following example, the information returned from the call to remaining_login_attempts is stored in a variable called remaining_attempts. Then, this variable is used in a conditional that prints a "Your account is locked" message when remaining_attempts is less than or equal to 0. You can run this code to explore its output:
