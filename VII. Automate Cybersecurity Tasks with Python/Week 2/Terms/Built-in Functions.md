@@ -2,3 +2,7 @@
 	- Python provides a set of built-in functions that are readily available for use.
 	- Examples include `print()`, `len()`, `input()`, etc.
 	- These functions are part of the Python language and can be used without explicitly defining them.
+- **Introduction to [[Built-in Functions]]:**
+	- The passage explores Python's built-in functions, emphasizing that these functions exist within Python and can be called directly. The primary task is to invoke them by name.
+	- **Review of Print() and Type() Functions:**
+		- A quick review of the print() and type() functions is provided. The `print()` function outputs a specified object to the screen, while the `type()` function returns the data type of its input.

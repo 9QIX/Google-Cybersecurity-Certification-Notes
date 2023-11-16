@@ -1,0 +1,2 @@
+- **Exploration of Sorted() Function:**
+	- The [[sorted()]] function is explained, highlighting its utility in sorting lists. An example is provided where a list of usernames is sorted alphabetically using the sorted() function.

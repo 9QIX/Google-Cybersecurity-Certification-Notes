@@ -1,0 +1,2 @@
+- **Examples with Type() Function:**
+	- The [[type()]] function is examined, highlighting that it accepts all data types but only one parameter. Examples are provided where the data type of a string and a float value is determined and passed into a print() function.
