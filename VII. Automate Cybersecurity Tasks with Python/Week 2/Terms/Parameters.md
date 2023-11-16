@@ -1,0 +1,3 @@
+- **Parameters in Functions:**
+	- **[[Parameters]]** in Python functions are introduced as objects included in a function definition for internal use. They are accepted through the parentheses after the function name.
+	- The example of the range() function is revisited, emphasizing its use of parameters for start and stop indices.

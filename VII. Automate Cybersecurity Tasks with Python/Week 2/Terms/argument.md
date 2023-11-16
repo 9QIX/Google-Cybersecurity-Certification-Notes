@@ -1,0 +1,2 @@
+- **Calling the Function with Arguments:**
+	- The process of calling the `greet_employee()` function with a specific argument (Charley Patel) is explained. This is highlighted as an example of an **[[argument]]**, emphasizing that it is the data brought into a function when called.
