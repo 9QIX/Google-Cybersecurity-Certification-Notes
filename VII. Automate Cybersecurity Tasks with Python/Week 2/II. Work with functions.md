@@ -110,7 +110,7 @@ A **global variable** is a variable that is available through the entire program
 
 For example, you might assign the following variable at the beginning of your code:
 
-device_id = "7ad2130bd"
+`device_id = "7ad2130bd"`
 
 Throughout the rest of your code, you will be able to access and modify the device_id variable in conditionals, loops, functions, and other syntax.
 
@@ -120,11 +120,11 @@ A **local variable** is a variable assigned within a function. These variables c
 
 In the following function definition, total_string and name are local variables:
 
+```python
 def greet_employee(name):
-
     total_string = "Welcome" + name
-
     return total_string
+```
 
 The variable total_string is a local variable because it's assigned inside of the function. The parameter name is a local variable because it is also created when the function is defined.
 
@@ -137,3 +137,48 @@ This means that if you call the greet_employee() function with an argument and t
 When working with variables and functions, it is very important to make sure that you only use a certain variable name once, even if one is defined globally and the other is defined locally. 
 
 When using global variables inside functions, functions can access the values of a global variable. You can run the following example to explore this:
+
+```python
+username = "elarson"
+
+def identify_user():
+    print(username)
+
+identify_user()
+```
+Output:
+```python
+elarson
+```
+
+The code block returns "elarson" even though that name isn't defined locally. The function accesses the global variable. If you wanted the identify_user() function to accommodate other usernames, you would have to reassign the global username variable outside of the function. This isn't good practice. A better way to pass different values into a function is to use a parameter instead of a global variable.
+
+There's something else to consider too. If you reuse the name of a global variable within a function, it will create a new local variable with that name. In other words, there will be both a global variable with that name and a local variable with that name, and they'll have different values. You can consider the following code block:
+
+```python
+username = "elarson"
+
+print("1:" + username)
+
+def greet():
+    username = "bmoreno"
+    print("2:" + username)
+
+greet()
+
+print("3:" + username)
+```
+Output:
+```python
+1:elarson
+2:bmoreno
+3:elarson
+```
+
+The first print statement occurs before the function, and Python returns the value of the global username variable, "elarson". The second print statement is within the function, and it returns the value of the local username variable, which is "bmoreno". But this doesn't change the value of the global variable, and when username is printed a third time after the function call, it's still "elarson".
+
+Due to this complexity, it's best to avoid combining global and local variables within functions.
+
+## Key takeaways
+
+Working with variables in functions requires understanding various concepts. A parameter is an object that is included in a function definition for use in that function, an argument is the data brought into a function when it is called, and the return keyword is used to return information from a function. Additionally, global variables are variables accessible throughout the program, and local variables are parameters and variables assigned within a function that aren't usable outside of a function. It's important to make sure your variables all have distinct names, even if one is a local variable and the other is a global variable.
