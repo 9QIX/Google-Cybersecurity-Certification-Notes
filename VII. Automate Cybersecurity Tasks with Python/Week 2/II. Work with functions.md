@@ -48,18 +48,18 @@ Working with variables in functions requires an understanding of both parameters
 
 ### Parameters
 
-A **parameter** is an object that is included in a function definition for use in that function. When you define a function, you create variables in the function header. They can then be used in the body of the function. In this context, these variables are called parameters.  For example, consider the following function:
+A **[[parameter]]** is an object that is included in a function definition for use in that function. When you define a function, you create variables in the function header. They can then be used in the body of the function. In this context, these variables are called parameters.  For example, consider the following function:
 
 ```python
 def remaining_login_attempts(maximum_attempts, total_attempts):
     print(maximum_attempts - total_attempts)
 ```
 
-This function takes in two variables, maximum_attempts and total_attempts and uses them to perform a calculation. In this example, maximum_attempts and total_attempts are parameters.
+This function takes in two variables, `maximum_attempts` and `total_attempts` and uses them to perform a calculation. In this example, `maximum_attempts` and `total_attempts` are parameters.
 
 ### Arguments
 
-In Python, an **argument** is the data brought into a function when it is called. When calling remaining_login_attempts in the following example, the integers 3 and 2 are considered arguments:
+In Python, an **[[argument]]** is the data brought into a function when it is called. When calling `remaining_login_attempts` in the following example, the integers 3 and 2 are considered arguments:
 
 `remaining_login_attempts(3, 2)`
 
@@ -106,7 +106,7 @@ When defining and calling functions, you're working with local variables, which 
 
 ### Global variables
 
-A **global variable** is a variable that is available through the entire program. Global variables are assigned outside of a function definition. Whenever that variable is called, whether inside or outside a function, it will return the value it is assigned.
+A **[[global variable]]** is a variable that is available through the entire program. Global variables are assigned outside of a function definition. Whenever that variable is called, whether inside or outside a function, it will return the value it is assigned.
 
 For example, you might assign the following variable at the beginning of your code:
 
@@ -116,7 +116,7 @@ Throughout the rest of your code, you will be able to access and modify the devi
 
 ### Local variables
 
-A **local variable** is a variable assigned within a function. These variables cannot be called or accessed outside of the body of a function. Local variables include parameters as well as other variables assigned within a function definition.
+A **[[local variable]]** is a variable assigned within a function. These variables cannot be called or accessed outside of the body of a function. Local variables include parameters as well as other variables assigned within a function definition.
 
 In the following function definition, total_string and name are local variables:
 
