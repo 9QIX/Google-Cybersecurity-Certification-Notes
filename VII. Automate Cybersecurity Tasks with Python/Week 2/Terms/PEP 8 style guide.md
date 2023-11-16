@@ -1,0 +1,2 @@
+- **PEP 8 Style Guide:**
+	- The focus shifts to the **[[PEP 8 style guide]]**, which stands for *Python Enhancement Proposals.* PEP 8 offers stylistic guidelines for Python programmers, providing suggestions related to syntax. While not mandatory, these suggestions aim to ensure consistency among programmers and enhance code understanding.

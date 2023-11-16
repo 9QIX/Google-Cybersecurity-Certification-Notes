@@ -140,20 +140,145 @@ The Python Standard Library contains many modules that you can import, including
 # Code readability
 
 - **Introduction to Style Guides:**
-	- The passage begins by highlighting the readability of Python and the presence of style guides in the Python community. Style guides are explained as manuals that provide guidelines for writing, formatting, and designing documents, specifically aimed at promoting clean and consistent code.
-- **PEP 8 Style Guide:**
-	- The focus shifts to the PEP 8 style guide, which stands for Python Enhancement Proposals. PEP 8 offers stylistic guidelines for Python programmers, providing suggestions related to syntax. While not mandatory, these suggestions aim to ensure consistency among programmers and enhance code understanding.
+	- The passage begins by highlighting the readability of Python and the presence of **[[style guide]]** in the Python community. Style guides are explained as manuals that provide guidelines for writing, formatting, and designing documents, specifically aimed at promoting clean and consistent code.
+	- **PEP 8 Style Guide:**
+		- The focus shifts to the **[[PEP 8 style guide]]**, which stands for *Python Enhancement Proposals.* PEP 8 offers stylistic guidelines for Python programmers, providing suggestions related to syntax. While not mandatory, these suggestions aim to ensure consistency among programmers and enhance code understanding.
 - **Importance of Code Readability:**
 	- The passage emphasizes the importance of code readability based on the principle that code is read more often than it's written. PEP 8 is positioned as a valuable resource for anyone seeking to style and format their Python code consistently with others.
 - **Comments in Code:**
-	- PEP 8's recommendations regarding comments are discussed. Comments are defined as notes programmers make about the intention behind their code, providing clarity on what the code is doing and why. The importance of keeping comments clear and up-to-date is highlighted through examples.
-- **Example of Code with and Without Comments:**
-	- An example is presented to illustrate the impact of comments on code understanding. The importance of comments becomes evident, as they help readers quickly comprehend the program's functionality and variables.
+	- PEP 8's recommendations regarding comments are discussed. **[[Comment]]** are defined as notes programmers make about the intention behind their code, providing clarity on what the code is doing and why. The importance of keeping comments clear and up-to-date is highlighted through examples.
+	- **Example of Code with and Without Comments:**
+		- An example is presented to illustrate the impact of comments on code understanding. The importance of comments becomes evident, as they help readers quickly comprehend the program's functionality and variables.
 - **Indentation for Readability:**
-	- The next topic is the significance of indentation for code readability. Indentation is described as spaces added at the beginning of a line of code, enhancing readability and ensuring proper code execution. Examples demonstrate how indentation is crucial, especially in conditional statements, to establish connections and avoid unintended execution.
-- **PEP 8's Recommendation on Indentation:**
-	- PEP 8's recommendation of using four spaces for indentation is mentioned. The passage explains that proper indentation is essential for grouping lines of code and ensuring they are executed as intended.
+	- The next topic is the significance of indentation for code readability. **[[Indentation]]** is described as spaces added at the beginning of a line of code, enhancing readability and ensuring proper code execution. Examples demonstrate how indentation is crucial, especially in conditional statements, to establish connections and avoid unintended execution.
+	- **PEP 8's Recommendation on Indentation:**
+		- PEP 8's recommendation of using four spaces for indentation is mentioned. The passage explains that proper indentation is essential for grouping lines of code and ensuring they are executed as intended.
 - **Personal Experience and Importance of Style Guides:**
 	- The narrator shares a personal experience from their first engineering job, highlighting the challenges faced when working with code that lacked a consistent style guide. The importance of adhering to coding style guides is emphasized, particularly for security professionals, to ensure readable and scalable code.
 - **Conclusion and Future Developments:**
 	- The passage concludes by reinforcing the importance of adhering to coding style guides for organizations and security professionals. The ability to write readable code is highlighted as a key aspect as the course progresses, indicating a focus on developing effective code practices for better readability.
+
+# Ensure proper syntax and readability in Python
+
+Previously, you were introduced to the PEP 8 style guide and its stylistic guidelines for programmers working in Python. You also learned about how adding comments and using correct indentation makes your code more readable. Additionally, correct indentation ensures your code is executed properly. This reading explores these ideas further and also focuses on common items to check in the syntax of your code to ensure it runs. 
+
+## Comments
+
+A **comment** is a note programmers make about the intentions behind their code. Comments make it easier for you and other programmers to read and understand your code. 
+
+It’s important to start your code with a comment that explains what the program does. Then, throughout the code, you should add additional comments about your intentions behind specific sections.
+
+When adding comments, you can add both single-line comments and multi-line comments.
+
+### **Single-line comments**
+
+Single-line comments in Python begin with the (#) symbol. According to the PEP 8 style guide, it’s best practice to keep all lines in Python under 79 characters to maintain readability, and this includes comments.
+
+Single-line comments are often used throughout your program to explain the intention behind specific sections of code. For example, this might be when you're explaining simpler components of your program, such as the following for loop:
+
+```python
+# Print elements of 'computer_assets' list
+computer_assets = ["laptop1", "desktop20", "smartphone03"]
+
+for asset in computer_assets:
+    print(asset)
+```
+
+**Note:** Comments are important when writing more complex code, like functions, or multiple loops or conditional statements. However, they're optional when writing less complex code like reassigning a variable.
+
+### **Multi-line comments**
+
+Multi-line comments are used when you need more than 79 characters in a single comment. For example, this might occur when defining a function if the comment describes its inputs and their data types as well as its output. 
+
+There are two commonly used ways of writing multi-line comments in Python. The first is by using the hashtag (#) symbol over multiple lines:
+
+```python
+# remaining_login_attempts() function takes two integer parameters,
+# the maximum login attempts allowed and the total attempts made,
+# and it returns an integer representing remaining login attempts
+
+def remaining_login_attempts(maximum_attempts, total_attempts):
+    return maximum_attempts - total_attempts
+```
+
+Another way of writing multi-line comments is by using documentation strings and not assigning them to a variable. Documentation strings, also called docstrings, are strings that are written over multiple lines and are used to document code. To create a documentation string, use triple quotation marks (""" """). 
+
+You could add the comment to the function in the previous example in this way too:
+
+```python
+"""
+remaining_login_attempts() function takes two integer parameters,
+the maximum login attempts allowed and the total attempts made,
+and it returns an integer representing remaining login attempts
+"""
+
+def remaining_login_attempts(maximum_attempts, total_attempts):
+    return maximum_attempts - total_attempts
+```
+
+## Correct indentation
+
+**Indentation** is space added at the beginning of a line of code. In Python, you should indent the body of conditional statements, iterative statements, and function definitions. Indentation is not only necessary for Python to interpret this syntax properly, but it can also make it easier for you and other programmers to read your code.
+
+The PEP 8 style guide recommends that indentations should be four spaces long. For example, if you had a conditional statement inside of a while loop, the body of the loop would be indented four spaces and the body of the conditional would be indented four spaces beyond that. This means the conditional would be indented eight spaces in total.
+
+```python
+count = 0
+login_status = True
+
+while login_status == True:
+    print("Try again.")
+    count = count + 1
+
+    if count == 4:
+        login_status = False
+```
+
+## Maintaining correct syntax
+
+Syntax errors involve invalid usage of the Python language. They are incredibly common with Python, so focusing on correct syntax is essential in ensuring that your code runs. Awareness of common errors will help you more easily fix them. 
+
+Syntax errors often occur because of mistakes with data types or in the headers of conditional or iterative statements or of function definitions.
+
+### Data types
+
+Correct syntax varies depending on data type:
+
+- Place string data in quotation marks.
+  ```python
+  username = "bmoreno"
+  ```
+- Do not use quotation marks around integer, float, or Boolean data types.
+  ```python
+  login_attempts = 5
+  percentage_successful = 0.8
+  login_status = True
+  ```
+- Place lists in brackets and separate elements with commas.
+  ```python
+  username_list = ["bmoreno", "tshah"]
+  ```
+
+### Colons in headers
+
+The header of a conditional or iterative statement or of a function definition must end with a colon. For example, a colon appears at the end of the header in the following function definition:
+
+  ```python
+  def remaining_login_attempts(maximum_attempts, total_attempts):
+      return maximum_attempts - total_attempts
+  ```
+
+#### Common Syntax Issues
+
+Be aware of common syntax errors, especially related to data types and the headers of statements and function definitions.
+
+#### Key Takeaways
+
+- Follow PEP 8 style guide for readable code.
+- Use comments to explain code sections.
+- Maintain correct indentation (four spaces).
+- Be aware of syntax rules for data types and statement headers.
+
+#### Resources for More Information
+
+- [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/): Comprehensive guide containing Python coding standards. Use the table of contents to navigate.
