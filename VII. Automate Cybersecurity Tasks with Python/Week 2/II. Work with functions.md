@@ -21,7 +21,7 @@
 
 - **Introduction to Return Statements:**
 	- The passage builds on previous knowledge of passing arguments into a function by introducing the concept of return statements. Return statements allow functions not only to receive information but also to send information back to the function call.
-- **Purpose and Usefulness of Return Statements:**
+- **Purpose and Usefulness of [[Return]] Statements:**
 	- The utility of return statements in providing information back from a function is emphasized. It is highlighted that this capability is beneficial for a security analyst in scenarios such as checking file access permissions and returning Boolean values.
 - **Example Function - Analyzing Login Attempts:**
 	- An example function is introduced, focusing on analyzing login attempts. The function, named `calculate_fails()`, takes in parameters related to total login attempts and failed attempts. It computes the percentage of failed attempts and uses a return statement to send this information back.
