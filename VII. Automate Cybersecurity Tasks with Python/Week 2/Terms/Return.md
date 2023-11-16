@@ -1,0 +1,2 @@
+- **Purpose and Usefulness of [[Return]] Statements:**
+	- The utility of return statements in providing information back from a function is emphasized. It is highlighted that this capability is beneficial for a security analyst in scenarios such as checking file access permissions and returning Boolean values.
