@@ -182,3 +182,26 @@ Due to this complexity, it's best to avoid combining global and local variables 
 ## Key takeaways
 
 Working with variables in functions requires understanding various concepts. A parameter is an object that is included in a function definition for use in that function, an argument is the data brought into a function when it is called, and the return keyword is used to return information from a function. Additionally, global variables are variables accessible throughout the program, and local variables are parameters and variables assigned within a function that aren't usable outside of a function. It's important to make sure your variables all have distinct names, even if one is a local variable and the other is a global variable.
+
+# Explore built-in functions
+
+- **Introduction to Built-in Functions:**
+	- The passage explores Python's built-in functions, emphasizing that these functions exist within Python and can be called directly. The primary task is to invoke them by name.
+- **Review of Print() and Type() Functions:**
+	- A quick review of the print() and type() functions is provided. The print() function outputs a specified object to the screen, while the type() function returns the data type of its input.
+- **Combining Built-in Functions:**
+	- The concept of combining built-in functions is introduced, explaining that multiple functions can be used together by passing one function into another as an argument. The inner function processes first, and its returned value is then passed to the outer function.
+- **Understanding Input and Output of Functions:**
+	- The importance of understanding the expected inputs and outputs of functions is emphasized. Some functions only accept specific data types, and a type error may occur if the wrong one is used.
+- **Examples with Print() Function:**
+	- The print() function is explored as an example, demonstrating its flexibility in accepting various data types and any number of parameters, even with different data types.
+- **Examples with Type() Function:**
+	- The type() function is examined, highlighting that it accepts all data types but only one parameter. Examples are provided where the data type of a string and a float value is determined and passed into a print() function.
+- **Introduction of New Built-in Functions:**
+	- Two new built-in functions are introduced: max() and sorted(). The max() function returns the largest numeric input, and the sorted() function sorts the components of a list.
+- **Exploration of Max() Function:**
+	- The max() function is explored by passing three variables as arguments. The highest value among them is determined and printed to the screen.
+- **Exploration of Sorted() Function:**
+	- The sorted() function is explained, highlighting its utility in sorting lists. An example is provided where a list of usernames is sorted alphabetically using the sorted() function.
+- **Conclusion and Encouragement:**
+	- The passage concludes by acknowledging that these are just a few of the available built-in functions. As the reader works more in Python, they are encouraged to become familiar with others that can enhance their programming capabilities.
