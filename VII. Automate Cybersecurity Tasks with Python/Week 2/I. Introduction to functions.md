@@ -132,10 +132,32 @@ def display_investigation_message():
     print("investigate activity")
 application_status = "potential concern"
 email_status = "okay"
+
 if application_status == "potential concern":
     print("application_log:")
     display_investigation_message()
+    
 if email_status == "potential concern":
     print("email log:")
     display_investigation_message()
 ```
+Output:
+```python
+application_log:
+investigate activity
+```
+
+The `display_investigation_message()` function is used twice within the code. It will print "investigate activity" messages about two different logs when the specified conditions evaluate to True. In this example, only the first conditional statement evaluates to True, so the message prints once.
+
+This code calls the function from within conditionals, but you might call a function from a variety of locations within the code.
+
+**Note:** Calling a function inside of the body of its function definition can create an infinite loop. This happens when it is not combined with logic that stops the function call when certain conditions are met. For example, in the following function definition, after you first call func1(), it will continue to call itself and create an infinite loop: 
+
+```python
+def func1():
+    func1()
+```
+
+## Key takeaways
+
+Python’s functions are important when writing code. To define your own functions, you need the two essential components of the function header and the function body. After defining a function, you can call it when needed.
