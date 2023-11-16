@@ -1,6 +1,3 @@
-- **Exploration of Max() Function:**
-	- The [[max()]] function is explored by passing three variables as arguments. The highest value among them is determined and printed to the screen.
-
 ## max() and min() 
 
 The max() function returns the largest numeric input passed into it. The min() function returns the smallest numeric input passed into it.
