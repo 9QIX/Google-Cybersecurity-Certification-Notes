@@ -55,9 +55,9 @@
 # Create a basic function
 
 - **Introduction to User-Defined Functions:**
-	The passage introduces the concept of user-defined functions in Python, allowing programmers to create functions with specific functionalities.
+	- The passage introduces the concept of user-defined functions in Python, allowing programmers to create functions with specific functionalities.
 - **Defining a Function:**
-	- The process of defining a function is explained using the def keyword before a function name.
+	- The process of defining a function is explained using the `def` keyword before a function name.
 	- The example function will greet employees after they log in.
 - **Syntax of Function Definition:**
 	- The syntax involves using parentheses after the def keyword and the function name.
@@ -67,11 +67,11 @@
 	- After the colon, the passage explains that the function's behavior is indicated.
 	- The example function is intended to output a message when an employee logs in.
 - **Coding the Function:**
-	- The passage provides the code for the greet_employee function, which prints a welcome message.
+	- The passage provides the code for the `greet_employee` function, which prints a welcome message.
 	- Indentation is used to signify that the print statement is part of the function.
 - **Calling the Function:**
 	- The need to call the function is explained, emphasizing that functions need to be called to execute.
-	- A new line is added to call the greet_employee function.
+	- A new line is added to call the `greet_employee` function.
 - **Execution of the Code:**
 	- The code is executed, and it is mentioned that the welcome message is printed.
 	- The reader is congratulated on defining and calling a simple function.
