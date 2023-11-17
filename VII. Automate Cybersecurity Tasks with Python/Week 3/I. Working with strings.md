@@ -174,3 +174,20 @@ A **substring** is a continuous sequence of characters within a string. For exam
 
 The .index() method can also be used to find the index of the first occurrence of a substring. It returns the index of the first character in that substring. Consider this example that finds the first instance of the user "tshah" in a string:
 
+```python
+tshah_index = "tsnow, tshah, bmoreno - updated".index("tshah")
+
+print(tshah_index)
+```
+Output:
+```python
+7
+```
+
+The .index() method returns the index 7, which is where the substring "tshah" starts.
+
+**Note:** When using the .index() method to search for substrings, you need to be careful. In the previous example, you want to locate the instance of "tshah". If you search for just "ts", Python will return 0 instead of 7 because "ts" is also a substring of "tsnow".
+
+## Key takeaways
+
+As a security analyst, you will work with strings in a variety of ways. First, you might need to use bracket notation to work with string indices. Two functions you will likely use are str(), which converts an input into a string, and len(), which finds the length of a string. You can also use string methods, functions that only work on strings. These include .upper(), which converts all letters in a string into uppercase letters, .lower(), which converts all letters in a string into lowercase letters, and .index(), which returns the index of the first occurrence of its input within a string.
