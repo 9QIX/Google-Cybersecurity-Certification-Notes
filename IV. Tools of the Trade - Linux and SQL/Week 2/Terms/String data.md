@@ -40,3 +40,6 @@ updates needed
 ```
 
 **Note:** Choosing one type of quotation marks and using it consistently makes it easier to read your code. This course uses double quotation marks.
+
+- **[[String Data]]:** The passage begins by emphasizing the importance of working with string data in security, particularly when dealing with usernames and login information.
+	- **Refresher on Strings:** A quick refresher on strings is provided, defining them as an ordered sequence of characters in Python, written within quotation marks. Examples of strings using double quotation marks are given: "Hello", "123", and "Number 1!"
