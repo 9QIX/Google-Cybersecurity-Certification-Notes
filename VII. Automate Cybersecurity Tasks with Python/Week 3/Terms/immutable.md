@@ -1,0 +1,1 @@
+- **Immutable Nature of Strings:** Introduces the concept that strings are **[[immutable]]** in Python, meaning they cannot be changed after creation and assignment. Demonstrates attempting to change a character in the string "HELLO" and encountering an error due to the immutability of strings.
