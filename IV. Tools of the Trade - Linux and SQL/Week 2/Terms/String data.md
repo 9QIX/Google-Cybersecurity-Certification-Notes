@@ -43,3 +43,9 @@ updates needed
 
 - **[[String Data]]:** The passage begins by emphasizing the importance of working with string data in security, particularly when dealing with usernames and login information.
 	- **Refresher on Strings:** A quick refresher on strings is provided, defining them as an ordered sequence of characters in Python, written within quotation marks. Examples of strings using double quotation marks are given: "Hello", "123", and "Number 1!"
+
+## String data in a security setting
+
+As an analyst, string data is one of the most common data types you will encounter in Python. **[[String data]]** is data consisting of an ordered sequence of characters. It's used to store any type of information you don't need to manipulate mathematically (such as through division or subtraction). In a cybersecurity context, this includes IP addresses, usernames, URLs, and employee IDs.
+
+You'll need to work with these strings in a variety of ways. For example, you might extract certain parts of an IP address, or you might verify whether usernames meet required criteria.

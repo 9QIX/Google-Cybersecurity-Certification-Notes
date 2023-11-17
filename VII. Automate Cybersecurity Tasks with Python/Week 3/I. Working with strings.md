@@ -32,7 +32,7 @@ The ability to work with strings is important in the cybersecurity profession. P
 
 ## String data in a security setting
 
-As an analyst, string data is one of the most common data types you will encounter in Python. **String data** is data consisting of an ordered sequence of characters. It's used to store any type of information you don't need to manipulate mathematically (such as through division or subtraction). In a cybersecurity context, this includes IP addresses, usernames, URLs, and employee IDs.
+As an analyst, string data is one of the most common data types you will encounter in Python. **[[String data]]** is data consisting of an ordered sequence of characters. It's used to store any type of information you don't need to manipulate mathematically (such as through division or subtraction). In a cybersecurity context, this includes IP addresses, usernames, URLs, and employee IDs.
 
 You'll need to work with these strings in a variety of ways. For example, you might extract certain parts of an IP address, or you might verify whether usernames meet required criteria.
 
@@ -188,6 +188,25 @@ The .index() method returns the index 7, which is where the substring "tshah" st
 
 **Note:** When using the .index() method to search for substrings, you need to be careful. In the previous example, you want to locate the instance of "tshah". If you search for just "ts", Python will return 0 instead of 7 because "ts" is also a substring of "tsnow".
 
+**Example:**
+You can use string slicing to also extract the domain extension of a URL. To do so, you can create a slice. The starting index should be the `ind` variable. This contains the index where the domain extension begins. The ending index should be `ind + 4` (since `".com"` is four characters long). Sometimes, like in this situation, it's easier to express the ending index in relation to the starting index. Examine the following code, run it as is, and observe the output.
+
+```python
+# Assign `url` to a specific URL
+url = "https://exampleURL1.com"
+
+# Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of ".com" in `url` 
+ind = url.index(".com")
+
+# Extract the domain extension in `url` and display it
+print(ind)
+print(url[ind:ind+4])
+```
+Output:
+```python
+19
+.com
+```
 ## Key takeaways
 
 As a security analyst, you will work with strings in a variety of ways. First, you might need to use bracket notation to work with string indices. Two functions you will likely use are str(), which converts an input into a string, and len(), which finds the length of a string. You can also use string methods, functions that only work on strings. These include .upper(), which converts all letters in a string into uppercase letters, .lower(), which converts all letters in a string into lowercase letters, and .index(), which returns the index of the first occurrence of its input within a string.
