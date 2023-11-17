@@ -92,3 +92,62 @@ Output:
 h
 h
 ```
+
+You can also take a slice from a string. When you take a slice from a string, you extract more than one character from it. It's often done in cybersecurity contexts when you’re only interested in a specific part of a string. For example, this might be certain numbers in an IP address or certain parts of a URL.
+
+In the device ID example, you might need the first three characters to determine a particular quality of the device. To do this, you can take a slice of the string using bracket notation. You can run this line of code to observe that it outputs "h32":
+
+```python
+print("h32rb17"[0:3])
+```
+Output:
+```python
+h32
+```
+
+**Note:** The slice starts at the 0 index, but the second index specified after the colon is excluded.  This means the slice ends one position before index 3, which is at index 2.
+
+## String functions and methods
+
+The str() and len() functions are useful for working with strings. You can also apply methods to strings, including the .upper(), .lower(), and .index() methods. A **method** is a function that belongs to a specific data type.
+
+### str() and len()
+
+The str() function converts its input object into a string. As an analyst, you might use this in security logs when working with numerical IDs that aren't going to be used with mathematical processes. Converting an integer to a string gives you the ability to search through it and extract slices from it.
+
+Consider the example of an employee ID 19329302 that you need to convert into a string. You can use the following line of code to convert it into a string and store it in a variable:
+
+`string_id = str(19329302)`
+
+The second function you learned for strings is the len() function, which returns the number of elements in an object.
+
+As an example, if you want to verify that a certain device ID conforms to a standard of containing seven characters, you can use the len() function and a conditional. When you run the following code, it will print a message if "h32rb17" has seven characters:
+
+```python
+device_id_length = len("h32rb17")
+
+if device_id_length == 7:
+    print("The device ID has 7 characters.")
+```
+Output:
+```python
+The device ID has 7 characters.
+```
+
+### .upper() and .lower() 
+
+The .upper() method returns a copy of the string with all of its characters in uppercase. For example, you can change this department name to all uppercase by running the code "Information Technology".upper(). It would return the string "INFORMATION TECHNOLOGY".
+
+Meanwhile, the .lower() method returns a copy of the string in all lowercase characters. "Information Technology".lower() would return the string "information technology".
+
+### .index()
+
+The .index() method finds the first occurrence of the input in a string and returns its location. For example, this code uses the .index() method to find the first occurrence of the character "r" in the device ID "h32rb17":
+
+```python
+print("h32rb17".index("r"))
+```
+Output:
+```
+
+```
