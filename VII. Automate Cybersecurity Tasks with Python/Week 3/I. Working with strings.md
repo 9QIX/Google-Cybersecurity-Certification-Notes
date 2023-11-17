@@ -148,6 +148,29 @@ The .index() method finds the first occurrence of the input in a string and retu
 print("h32rb17".index("r"))
 ```
 Output:
+```python
+3
 ```
 
+The .index() method returns 3 because the first occurrence of the character "r" is at index 3.
+
+In other cases, the input may not be found. When this happens, Python returns an error. For instance, the code print("h32rb17".index("a")) returns an error because "a" is not in the string "h32rb17".
+
+Also note that if a string contains more than one instance of a character, only the first one will be returned. For instance, the device ID "r45rt46" contains two instances of "r". You can run the following code to explore its output:
+
+```python
+print("r45rt46".index("r"))
 ```
+Output:
+```python
+0
+```
+
+The output is 0 because .index() returns only the first instance of "r", which is at index 0. The instance of "r" at index 3 is not returned.
+
+### Finding substrings with .index()
+
+A **substring** is a continuous sequence of characters within a string. For example, "llo" is a substring of "hello".
+
+The .index() method can also be used to find the index of the first occurrence of a substring. It returns the index of the first character in that substring. Consider this example that finds the first instance of the user "tshah" in a string:
+
