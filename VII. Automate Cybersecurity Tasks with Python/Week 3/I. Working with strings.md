@@ -25,3 +25,70 @@
 - **Working with Indices as a Security Analyst:** Relates the use of indices to find specific parts in a string, such as locating the "@" symbol in an email address.
 - **Immutable Nature of Strings:** Introduces the concept that strings are **[[immutable]]** in Python, meaning they cannot be changed after creation and assignment. Demonstrates attempting to change a character in the string "HELLO" and encountering an error due to the immutability of strings.
 - **Conclusion:** Summarizes the learning outcomes, including the understanding of string indexing, slicing, the index method, and the immutability of strings. Teases upcoming topics, inviting further exploration into list operations.
+
+# Strings and the security analyst
+
+The ability to work with strings is important in the cybersecurity profession. Previously, you were introduced to several ways to work with strings, including functions and methods. You also learned how to extract elements in strings using bracket notation and indices. This reading reviews these concepts and explains more about using the .index() method. It also highlights examples of string data you might encounter in a security setting.
+
+## String data in a security setting
+
+As an analyst, string data is one of the most common data types you will encounter in Python. **String data** is data consisting of an ordered sequence of characters. It's used to store any type of information you don't need to manipulate mathematically (such as through division or subtraction). In a cybersecurity context, this includes IP addresses, usernames, URLs, and employee IDs.
+
+You'll need to work with these strings in a variety of ways. For example, you might extract certain parts of an IP address, or you might verify whether usernames meet required criteria.
+
+## Working with indices in strings
+
+### Indices 
+
+An **index** is a number assigned to every element in a sequence that indicates its position. With strings, this means each character in the string has its own index.
+
+Indices start at 0. For example, you might be working with this string containing a device ID: "h32rb17". The following table indicates the index for each character in this string:
+
+|character|index|
+|---|---|
+|h|0|
+|3|1|
+|2|2|
+|r|3|
+|b|4|
+|1|5|
+|7|6|
+
+You can also use negative numbers as indices. This is based on their position relative to the last character in the string:
+
+|character|index|
+|---|---|
+|h|-7|
+|3|-6|
+|2|-5|
+|r|-4|
+|b|-3|
+|1|-2|
+|7|-1|
+
+### Bracket notation
+
+**Bracket notation** refers to the indices placed in square brackets. You can use bracket notation to extract a part of a string. For example, the first character of the device ID might represent a certain characteristic of the device. If you want to extract it, you can use bracket notation for this:
+
+`"h32rb17"[0]`
+
+This device ID might also be stored within a variable called device_id. You can apply the same bracket notation to the variable:
+
+```python
+device_id = "h32rb17"
+device_id[0]
+```
+
+In both cases, bracket notation outputs the character h when this bracket notation is placed inside a print() function. You can observe this by running the following code:
+
+```python
+device_id = "h32rb17"
+
+print("h32rb17"[0])
+print(device_id[0])
+```
+Output:
+```python
+h
+h
+```
