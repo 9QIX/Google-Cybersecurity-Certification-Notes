@@ -207,6 +207,24 @@ Output:
 19
 .com
 ```
+
+**Example 2:**
+Finally, extract the website name from the given URL using string slicing and the `ind` variable that you defined earlier. In the given URL, the website name is `"exampleURL1"`. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+```python
+# Assign `url` to a specific URL
+url = "https://exampleURL1.com"
+
+# Assign `ind` to the output of applying `.index()` to `url` in order to extract the starting index of ".com" in `url`
+ind = url.index(".com")
+
+# Extract the website name in `url` and display it
+print(url[8:ind])
+```
+Output:
+```python
+exampleURL1
+```
 ## Key takeaways
 
 As a security analyst, you will work with strings in a variety of ways. First, you might need to use bracket notation to work with string indices. Two functions you will likely use are str(), which converts an input into a string, and len(), which finds the length of a string. You can also use string methods, functions that only work on strings. These include .upper(), which converts all letters in a string into uppercase letters, .lower(), which converts all letters in a string into lowercase letters, and .index(), which returns the index of the first occurrence of its input within a string.
