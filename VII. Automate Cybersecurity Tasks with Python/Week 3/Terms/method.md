@@ -1,0 +1,3 @@
+- **String Methods:** The concept of string **[[method]]** is explained as functions belonging to a specific data type, such as strings. It is noted that methods appear after the string and are specific to the data type. The upper and lower methods are introduced as common string methods.
+	- **Upper Method Example (`.upper()`):** The upper method, which returns a copy of the string in all uppercase letters, is applied to the string "Hello." The syntax of using methods is highlighted, with the period (dot) separating the string and the method.
+	- **Lower Method Example (`.lower()`):** The lower method, returning a copy of the string in all lowercase letters, is demonstrated on the "Hello" string. The need to use a print function to output the results is emphasized.

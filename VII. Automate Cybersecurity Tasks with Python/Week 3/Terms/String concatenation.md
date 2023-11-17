@@ -1,0 +1,1 @@
+**String Concatenation:** **[[String concatenation]]**, achieved through the addition operator (+), is introduced as the process of joining two strings together. An example concatenating "Hello" and "world" is provided. The limitations of certain operators, such as subtraction, for strings are mentioned.
