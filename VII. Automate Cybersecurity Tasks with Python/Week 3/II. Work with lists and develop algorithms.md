@@ -30,7 +30,7 @@ Previously, you examined how to use bracket notation to access and change elemen
 
 ## List data in a security setting
 
-As a security analyst, you'll frequently work with lists in Python. **List data** is a data structure that consists of a collection of data in sequential form. You can use lists to store multiple elements in a single variable. A single list can contain multiple data types. 
+As a security analyst, you'll frequently work with lists in Python. **[[List data]]** is a data structure that consists of a collection of data in sequential form. You can use lists to store multiple elements in a single variable. A single list can contain multiple data types. 
 
 In a cybersecurity context, lists might be used to store usernames, IP addresses, URLs, device IDs, and data.
 
@@ -54,3 +54,23 @@ This table contains the index for each element in the list `["elarson", "fgarcia
 ## Bracket notation
 
 Similar to strings, you can use bracket notation to extract elements or slices in a list. To extract an element from a list, after the list or the variable that contains a list, add square brackets that contain the index of the element. The following example extracts the element with an index of 2 from the variable username_list and prints it. You can run this code to examine what it outputs:
+
+```python
+username_list = ["elarson", "fgarcia", "tshah", "sgilmore"]
+
+print(username_list[2])
+```
+Output:
+```python
+tshah
+```
+
+This example extracts the element at index 2 directly from the list:
+
+```python
+print(["elarson", "fgarcia", "tshah", "sgilmore"][2])
+```
+Output:
+```python
+tshah
+```
