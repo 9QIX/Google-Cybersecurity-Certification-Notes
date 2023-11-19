@@ -7,9 +7,9 @@
 		- **List Concatenation:** Similar to strings, introduces list concatenation using the plus sign. Demonstrates the concatenation of two lists and printing the result.
 - **Differences Between Lists and Strings:** Contrasts the immutability of strings with the mutability of lists. Emphasizes that lists can be freely changed, added to, and have elements removed.
 - **Changing List Elements:** Illustrates changing a specific element in a list by reassigning a new value to it, showcasing the mutability of lists.
-- **Inserting Elements with the Insert Method (`.insert(index, change)`):** Introduces the insert method for adding an element at a specific position in a list. Discusses the method's two arguments: the position and the element to be added.
+- **Inserting Elements with the Insert Method (`.insert(index, insert)`):** Introduces the insert method for adding an element at a specific position in a list. Discusses the method's two arguments: the position and the element to be added.
 	- **Insert Method Example:** Demonstrates using the insert method to add the integer 7 at index 1 in the list. Explains that existing elements are shifted down, maintaining their indices.
-- **Removing Elements with the Remove Method:** Introduces the remove method for eliminating a specific element from a list. Contrasts with the insert method, highlighting that the argument is the element itself, not its index.
+- **Removing Elements with the Remove Method (`.insert(remove)`):** Introduces the remove method for eliminating a specific element from a list. Contrasts with the insert method, highlighting that the argument is the element itself, not its index.
 - **Remove Method Example:** Removes the letter "d" from the list using the remove method and prints the updated list.
 - **Conclusion and Future Learning:** Acknowledges the importance of searching through lists for security analysts. Teases further exploration in the course.
 
