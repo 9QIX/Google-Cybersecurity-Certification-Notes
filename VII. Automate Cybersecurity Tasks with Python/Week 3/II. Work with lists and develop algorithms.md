@@ -23,3 +23,34 @@
 - **Introduction of the Append Method (`.append()`):** Introduces the append method, explaining its function in adding input to the end of a list. Provides an example of using append to add an element to an existing list.
 	- **Code Implementation for Multiple IP Addresses:** Combines the string slicing approach with a loop and the append method to solve the problem for multiple IP addresses in a list. Explains the for loop and the temporary storage of each IP address in the loop variable.
 - **Conclusion and Advice:** Concludes by acknowledging the complexity of designing algorithms and encourages breaking them down into smaller problems before coding. Hints at further practice in upcoming videos.
+
+# Lists and the security analyst
+
+Previously, you examined how to use bracket notation to access and change elements in a list and some fundamental methods for working with lists. This reading will review these concepts with new examples, introduce the .index() method as it applies to lists, and highlight how lists are used in a cybersecurity context.
+
+## List data in a security setting
+
+As a security analyst, you'll frequently work with lists in Python. **List data** is a data structure that consists of a collection of data in sequential form. You can use lists to store multiple elements in a single variable. A single list can contain multiple data types. 
+
+In a cybersecurity context, lists might be used to store usernames, IP addresses, URLs, device IDs, and data.
+
+Placing data within a list allows you to work with it in a variety of ways. For example, you might iterate through a list of device IDs using a for loop to perform the same actions for all items in the list. You could incorporate a conditional statement to only perform these actions if the device IDs meet certain conditions.
+
+## Working with indices in lists
+
+### Indices
+
+Like strings, you can work with lists through their indices, and indices start at 0. In a list, an index is assigned to every element in the list.
+
+This table contains the index for each element in the list `["elarson", "fgarcia", "tshah", "sgilmore"]`:
+
+|**element**|**index**|
+|---|---|
+|"elarson"|0|
+|"fgarcia"|1|
+|"tshah"|2|
+|"sgilmore"|3|
+
+## Bracket notation
+
+Similar to strings, you can use bracket notation to extract elements or slices in a list. To extract an element from a list, after the list or the variable that contains a list, add square brackets that contain the index of the element. The following example extracts the element with an index of 2 from the variable username_list and prints it. You can run this code to examine what it outputs:
