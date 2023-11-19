@@ -221,3 +221,11 @@ Output:
 ```python
 2
 ```
+
+Because the index of "tshah" is 2, it outputs this number.
+
+Similar to the .index() method used for strings, it only returns the index of the first occurrence of a list item. So if the username "tshah" were repeated twice, it would return the index of the first instance, and not the second.
+
+## Key takeaways
+
+Python offers a lot of ways to work with lists. Bracket notation allows you to extract elements and slices from lists and also to alter them. List methods allow you to alter lists in a variety of ways. The .insert() and .append() methods add elements to lists while the .remove() method allows you to remove them. The .index() method allows you to find the index of an element in a list.
