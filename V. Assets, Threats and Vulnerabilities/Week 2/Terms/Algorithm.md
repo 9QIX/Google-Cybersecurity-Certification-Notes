@@ -1,1 +1,5 @@
 **[[Algorithm]]**: A set of rules used to solve a problem
+
+- **Algorithm Definition:** Defines an **[[algorithm]]** as a set of rules that solve a problem, explaining that it involves steps taking input, performing tasks, and producing a solution as output. Establishes the relevance of algorithms in Python problem-solving for security analysts.
+	- **Problem Scenario:** Sets up a scenario where a security analyst needs to extract the first three digits of IP addresses to gain insights into associated networks. Describes the involvement of Python concepts like loops, lists, and strings in the solution.
+	- **Algorithm Breakdown:** Outlines an algorithmic approach to the problem. If dealing with a single IP address, use string slicing to extract the first three digits. For multiple IP addresses in a list, introduce a loop to apply the solution to each element.
