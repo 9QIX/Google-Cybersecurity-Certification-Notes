@@ -182,3 +182,42 @@ Output:
 Before appending an element: ['bmoreno', 'wjaffrey', 'tshah', 'sgilmore']
 After appending an element: ['bmoreno', 'wjaffrey', 'tshah', 'sgilmore', 'btang']
 ```
+
+This code places "btang" at the end of the username_list, and all other elements remain in their original positions.
+
+The .append() method is often used with for loops to populate an empty list with elements. You can explore how this works with the following code:
+
+```python
+numbers_list = []
+print("Before appending a sequence of numbers:", numbers_list)
+
+for i in range(10):
+    numbers_list.append(i)
+print("After appending a sequence of numbers:", numbers_list)
+```
+Output:
+```python
+Before appending a sequence of numbers: []
+After appending a sequence of numbers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+Before the for loop, the numbers_list variable does not contain any elements. When it is printed, the empty list is displayed. Then, the for loop iterates through a sequence of numbers and uses the .append() method to add each of these numbers to numbers_list. After the loop, when the numbers_list variable is printed, it displays these numbers.  
+
+## .index()
+
+Similar to the .index() method used for strings, the .index() method used for lists finds the first occurrence of an element in a list and returns its index. It takes the element you're searching for as an input.
+
+**Note:** Although it has the same name and use as the .index() method used for strings, the .index() method used for lists is not the same method. Methods are defined when defining a data type, and because strings and lists are defined differently, the methods are also different.
+
+Using the username_list variable, you can use the .index() method to find the index of the username "tshah":
+
+```python
+username_list = ["bmoreno", "wjaffrey", "tshah", "sgilmore", "btang"]
+username_index = username_list.index("tshah")
+
+print(username_index)
+```
+Output:
+```python
+2
+```
