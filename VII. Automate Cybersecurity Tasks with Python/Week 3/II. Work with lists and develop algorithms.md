@@ -97,6 +97,88 @@ The code returns a sublist of `["elarson", "fgarcia"]`. This is because the elem
 
 ## Changing the elements in a list
 
-Unlike strings, you can also use bracket notation to change elements in a list. This is because a string is **immutable** and cannot be changed after it is created and assigned a value, but lists are not immutable.
+Unlike strings, you can also use bracket notation to change elements in a list. This is because a string is **[[immutable]]** and cannot be changed after it is created and assigned a value, but lists are not immutable.
 
 To change a list element, use similar syntax as you would use when reassigning a variable, but place the specific element to change in bracket notation after the variable name. For example, the following code changes element at index 1 of the username_list variable to "bmoreno".
+
+```python
+username_list = ["elarson", "fgarcia", "tshah", "sgilmore"]
+print("Before changing an element:", username_list)
+
+username_list[1] = "bmoreno"
+print("After changing an element:", username_list)
+```
+Output:
+```python
+Before changing an element: ['elarson', 'fgarcia', 'tshah', 'sgilmore']
+After changing an element: ['elarson', 'bmoreno', 'tshah', 'sgilmore']
+```
+
+This code has updated the element at index 1 from "fgarcia" to "bmoreno".
+
+## List methods
+
+List methods are functions that are specific to the list data type. These include the .insert() , .remove(), .append() and .index().
+
+### **.insert()** 
+
+The .insert() method adds an element in a specific position inside a list. It has two parameters. The first is the index where you will insert the new element, and the second is the element you want to insert.
+
+You can run the following code to explore how this method can be used to insert a new username into a username list:
+
+```python
+username_list = ["elarson", "bmoreno", "tshah", "sgilmore"]
+print("Before inserting an element:", username_list)
+
+username_list.insert(2,"wjaffrey")
+print("After inserting an element:", username_list)
+```
+Output:
+```python
+Before inserting an element: ['elarson', 'bmoreno', 'tshah', 'sgilmore']
+After inserting an element: ['elarson', 'bmoreno', 'wjaffrey', 'tshah', 'sgilmore']
+```
+
+Because the first parameter is 2 and the second parameter is "wjaffrey", "wjaffrey" is inserted at index 2, which is the third position. The other list elements are shifted one position in the list. For example, "tshah" was originally located at index 2 and now is located at index 3.
+
+### **.remove()**
+
+The .remove() method removes the first occurrence of a specific element in a list. It has only one parameter, the element you want to remove.
+
+The following code removes "elarson" from the username_list:
+
+```python
+username_list = ["elarson", "bmoreno", "wjaffrey", "tshah", "sgilmore"]
+print("Before removing an element:", username_list)
+
+username_list.remove("elarson")
+print("After removing an element:", username_list)
+```
+Output:
+```python
+Before removing an element: ['elarson', 'bmoreno', 'wjaffrey', 'tshah', 'sgilmore']
+After removing an element: ['bmoreno', 'wjaffrey', 'tshah', 'sgilmore']
+```
+
+This code removes "elarson" from the list. The elements that follow "elarson" are all shifted one position closer to the beginning of the list.
+
+**Note:** If there are two of the same element in a list, the .remove() method only removes the first instance of that element and not all occurrences.
+
+### **.append()** 
+
+The .append() method adds input to the end of a list. Its one parameter is the element you want to add to the end of the list. 
+
+For example, you could use .append() to add "btang" to the end of the username_list:
+
+```python
+username_list = ["bmoreno", "wjaffrey", "tshah", "sgilmore"]
+print("Before appending an element:", username_list)
+
+username_list.append("btang")
+print("After appending an element:", username_list)
+```
+Output:
+```python
+Before appending an element: ['bmoreno', 'wjaffrey', 'tshah', 'sgilmore']
+After appending an element: ['bmoreno', 'wjaffrey', 'tshah', 'sgilmore', 'btang']
+```
