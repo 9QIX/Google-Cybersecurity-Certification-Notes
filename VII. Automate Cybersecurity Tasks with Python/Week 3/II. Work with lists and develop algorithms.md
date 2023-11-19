@@ -74,3 +74,29 @@ Output:
 ```python
 tshah
 ```
+
+### **Extracting a slice from a list**
+
+Just like with strings, it's also possible to use bracket notation to take a slice from a list. With lists, this means extracting more than one element from the list.
+
+When you extract a slice from a list, the result is another list. This extracted list is called a sublist because it is part of the original, larger list. 
+
+To extract a sublist using bracket notation, you need to include two indices. You can run the following code that takes a slice from a list and explore the sublist it returns:
+
+```python
+username_list = ["elarson", "fgarcia", "tshah", "sgilmore"]
+
+print(username_list[0:2])
+```
+Output:
+```python
+['elarson', 'fgarcia']
+```
+
+The code returns a sublist of `["elarson", "fgarcia"]`. This is because the element at index 0, "elarson", is included in the slice, but the element at index 2, "tshah", is excluded. The slice ends one element before this index.
+
+## Changing the elements in a list
+
+Unlike strings, you can also use bracket notation to change elements in a list. This is because a string is **immutable** and cannot be changed after it is created and assigned a value, but lists are not immutable.
+
+To change a list element, use similar syntax as you would use when reassigning a variable, but place the specific element to change in bracket notation after the variable name. For example, the following code changes element at index 1 of the username_list variable to "bmoreno".
