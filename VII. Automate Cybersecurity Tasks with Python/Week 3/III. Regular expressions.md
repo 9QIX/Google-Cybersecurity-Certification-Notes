@@ -103,3 +103,29 @@ Output:
 With the regular expression "\d+", the list contains the two matches of "32" and "17".
 
 Another symbol used to quantify the number of occurrences is the * symbol. The * symbol represents zero, one, or more occurrences of a specific character.  The following code substitutes the *  symbol for the + used in the previous example. You can run it to examine the difference:
+
+```python
+import re
+
+re.findall("\d*", "h32rb17")
+```
+Output:
+```python
+['', '32', '', '', '17', '']
+```
+
+Because it also matches to zero occurrences, the list now contains empty strings for the characters that were not single digits.
+
+If you want to indicate a specific number of repetitions to allow, you can place this number in curly brackets ({ }) after the character or symbol. In the following example, the regular expression pattern "`\d{2}`" instructs Python to return all matches of exactly two single digits in a row from a string of multiple device IDs:
+
+```python
+import re
+
+re.findall("\d{2}", "h32rb17 k825t0m c2994eh")
+```
+
+Because it is matching to two repetitions, when Python encounters a single digit, it checks whether there is another one following it. If there is, Python adds the two digits to the list and goes on to the next digit. If there isn't, it proceeds to the next digit without adding the first digit to the list.
+
+**Note:** Python scans strings left-to-right when matching against a regular expression. When Python finds a part of the string that matches the first expected character defined in the regular expression, it continues to compare the subsequent characters to the expected pattern. When the pattern is complete, it starts this process again. So in cases in which three digits appear in a row, it handles the third digit as a new starting digit.
+
+You can also specify a range within the curly brackets by separating two numbers with a comma. The first number is the minimum number of repetitions and the second number is the maximum number of repetitions. The following example returns all matches that have between one and three repetitions of a single digit:
