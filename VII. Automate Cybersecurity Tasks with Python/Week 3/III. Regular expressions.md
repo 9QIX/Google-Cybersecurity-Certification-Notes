@@ -1,7 +1,7 @@
 # Regular expressions in Python
 
 - **Overview of Previous Learning:** The passage begins by summarizing previous knowledge about working with strings, including positional indices and slicing, and mentions the application of these concepts to extract information from a list of IP addresses in the previous video.
-- **Introduction to Regular Expressions (Regex):** Introduces the concept of **[[regular expressions (regex)]]**, defining them as sequences of characters forming patterns. Emphasizes their use in searching within log files and highlights their capability to search for various patterns, such as specific prefixes or lengths, in a security context.
+- **Introduction to Regular Expressions (Regex):** Introduces the concept of **[[regular expression (regex)]]**, defining them as sequences of characters forming patterns. Emphasizes their use in searching within log files and highlights their capability to search for various patterns, such as specific prefixes or lengths, in a security context.
 	- **Application of Regex in Security:** Provides examples of how regex can be applied in a security context, such as efficiently searching for specific IP address patterns or extracting email addresses from log files without prior knowledge of the exact addresses.
 - **Explanation of Regex Symbols:** Introduces the plus sign (+) in regex, representing one or more occurrences of a specific character. Explains its application through examples. Introduces the `\w` symbol, matching any alphanumeric character, and discusses its combination with the plus sign to create flexible patterns.
 	- **Combining `\w` with the Plus Sign (`+`):** Demonstrates how combining `\w` with the plus sign (`\w+`) matches alphanumeric strings of any length, offering flexibility in both character types and string lengths. Provides examples of strings that match this combined pattern.
@@ -17,7 +17,7 @@ You were previously introduced to regular expressions and a couple of symbols th
 
 ## Basics of regular expressions
 
-A **regular expression (regex)** is a sequence of characters that forms a pattern. You can use these in Python to search for a variety of patterns. This could include IP addresses, emails, or device IDs.
+A **[[regular expression (regex)]]** is a sequence of characters that forms a pattern. You can use these in Python to search for a variety of patterns. This could include IP addresses, emails, or device IDs.
 
 To access regular expressions and related functions in Python, you need to import the re module first. You should use the following line of code to import the re module:
 
@@ -27,6 +27,26 @@ Regular expressions are stored in Python as strings. Then, these strings are use
 
 The patterns that comprise a regular expression consist of alphanumeric characters and special symbols. If a regular expression pattern consists only of alphanumeric characters, Python will review the specified string for matches to this pattern and return them. In the following example, the first parameter is a regular expression pattern consisting only of the alphanumeric characters "ts". The second parameter, "tsnow, tshah, bmoreno",  is the string it will search through. You can run the following code to explore what it returns:
 
-1
+```python
+import re
 
-2
+re.findall("ts", "tsnow, tshah, bmoreno")
+```
+Output:
+```python
+['ts', 'ts']
+```
+
+The output is a list of only two elements, the two matches to "ts": ['ts', 'ts'].
+
+If you want to do more than search for specific strings, you must incorporate special symbols into your regular expressions.
+
+## Regular expression symbols
+
+### Symbols for character types
+
+You can use a variety of symbols to form a pattern for your regular expression. Some of these symbols identify a particular type of character. For example, \w matches with any alphanumeric character.
+
+**Note:** The \w symbol also matches with the underscore ( _ ).
+
+You can run this code to explore what re.findall() returns when applying the regular expression of "\w" to the device ID of "h32rb17".
