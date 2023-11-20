@@ -61,3 +61,13 @@ Output:
 ['h', '3', '2', 'r', 'b', '1', '7']
 ```
 
+Because every character within this device ID is an alphanumeric character, Python returns a list with seven elements. Each element represents one of the characters in the device ID.
+
+You can use these additional symbols to match to specific kinds of characters:
+
+-  `.` matches to all characters, including symbols
+- `\d` matches to all single digits `[0-9]`
+- `\s` matches to all single spaces 
+- `\.` matches to the period character
+
+The following code searches through the same device ID as the previous example but changes the regular expression pattern to "\d". When you run it, it will return a different list:
