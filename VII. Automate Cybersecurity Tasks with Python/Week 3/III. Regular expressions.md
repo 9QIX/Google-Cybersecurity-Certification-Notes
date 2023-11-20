@@ -37,7 +37,7 @@ Output:
 ['ts', 'ts']
 ```
 
-The output is a list of only two elements, the two matches to "ts": ['ts', 'ts'].
+The output is a list of only two elements, the two matches to `"ts"`: `['ts', 'ts']`.
 
 If you want to do more than search for specific strings, you must incorporate special symbols into your regular expressions.
 
@@ -50,3 +50,14 @@ You can use a variety of symbols to form a pattern for your regular expression. 
 **Note:** The \w symbol also matches with the underscore ( _ ).
 
 You can run this code to explore what re.findall() returns when applying the regular expression of "\w" to the device ID of "h32rb17".
+
+```python
+import re
+
+re.findall("\w", "h32rb17")
+```
+Output:
+```python
+['h', '3', '2', 'r', 'b', '1', '7']
+```
+
