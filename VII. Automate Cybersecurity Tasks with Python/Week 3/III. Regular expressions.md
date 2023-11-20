@@ -159,9 +159,19 @@ To complete this task with regular expressions, you need to break down what you'
 ```python
 import re
 
-re.findall("\d{1,3}", "h32rb17 k825t0m c2994eh")
+pattern = "\w+:\s\d+"
+
+employee_logins_string = "1001 bmoreno: 12 Marketing 1002 tshah: 7 Human Resources 1003 sgilmore: 5 Finance"
+
+print(re.findall(pattern, employee_logins_string))
 ```
 Output:
 ```python
-['32', '17', '825', '0', '299', '4']
+['bmoreno: 12', 'tshah: 7', 'sgilmore: 5']
 ```
+
+**Note:** Working with regular expressions can carry the risk of returning unneeded information or excluding strings that you want to return. Therefore, it's useful to test your regular expressions.
+
+## Key takeaways
+
+Regular expressions allow you to search through strings to find matches to specific patterns. You can use regular expressions by importing the re module. This module contains multiple functions, including re.findall(), which returns all matches to a pattern in the form of a list. To form a pattern, you use characters and symbols. Symbols allow you to specify types of characters and to quantify how many repetitions of a character or type of character can occur in the pattern.
