@@ -71,3 +71,13 @@ You can use these additional symbols to match to specific kinds of characters:
 - `\.` matches to the period character
 
 The following code searches through the same device ID as the previous example but changes the regular expression pattern to "\d". When you run it, it will return a different list:
+
+```python
+import re
+
+re.findall("\d", "h32rb17")
+```
+Output:
+```python
+['3', '2', '1', '7']
+```
