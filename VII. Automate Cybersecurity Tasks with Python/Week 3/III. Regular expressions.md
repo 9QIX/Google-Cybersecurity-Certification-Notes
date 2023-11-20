@@ -81,3 +81,25 @@ Output:
 ```python
 ['3', '2', '1', '7']
 ```
+
+This time, the list contains only four elements. Each element is one of the numeric digits in the string.
+
+### Symbols to quantify occurrences
+
+Other symbols quantify the number of occurrences of a specific character in the pattern. In a regular expression pattern, you can add them after a character or a symbol identifying a character type to specify the number of repetitions that match to the pattern.
+
+For example, the + symbol represents one or more occurrences of a specific character. In the following example, the pattern places it after the "\d" symbol to find matches to one or more occurrences of a single digit:
+
+```python
+import re
+
+re.findall("\d+", "h32rb17")
+```
+Output:
+```python
+['32', '17']
+```
+
+With the regular expression "\d+", the list contains the two matches of "32" and "17".
+
+Another symbol used to quantify the number of occurrences is the * symbol. The * symbol represents zero, one, or more occurrences of a specific character.  The following code substitutes the *  symbol for the + used in the previous example. You can run it to examine the difference:
