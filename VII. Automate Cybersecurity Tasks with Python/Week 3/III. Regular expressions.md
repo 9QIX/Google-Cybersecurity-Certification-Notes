@@ -143,3 +143,25 @@ Output:
 ```python
 ['32', '17', '825', '0', '299', '4']
 ```
+
+The returned list contains elements of one digit like  "0", two digits like "32" and three digits like "825".
+
+### Constructing a pattern
+
+Constructing a regular expression requires you to break down the pattern you're searching for into smaller chunks and represent those chunks using the symbols you've learned. Consider an example of a string that contains multiple pieces of information about employees at an organization. For each employee, the following string contains their employee ID, their username followed by a colon (:), their attempted logins for the day, and their department:
+
+`employee_logins_string = "1001 bmoreno: 12 Marketing 1002 tshah: 7 Human Resources 1003 sgilmore: 5 Finance"`
+
+Your task is to extract the username and the login attempts, without the employee's ID number or department.
+
+To complete this task with regular expressions, you need to break down what you're searching for into smaller components. In this case, those components are the varying number of characters in a username, a colon, a space, and a varying number of single digits. The corresponding regular expression symbols are `\w+`, `:`, `\s`, and `\d+` respectively. Using these symbols as your regular expression, you can run the following code to extract the strings:
+
+```python
+import re
+
+re.findall("\d{1,3}", "h32rb17 k825t0m c2994eh")
+```
+Output:
+```python
+['32', '17', '825', '0', '299', '4']
+```
