@@ -1,0 +1,1 @@
+- **[[Substring]]**: A continuous sequence of characters within a string
