@@ -92,56 +92,48 @@ Returns a list of matches to a regular expression.
 import re
 re.findall("a53", "a53-32c .E")  # Returns the list ["a53"]
 ```
-
 ##### `\w`
 Matches with any alphanumeric character; also matches with the underscore (_).
 ```python
 import re
 re.findall("\w", "a53-32c .E")  # Returns the list ["a", "5", "3", "3", "2", "c", "E"]
 ```
-
 ##### `.` (Dot)
 Matches to all characters, including symbols.
 ```python
 import re
 re.findall(".", "a53-32c .E")  # Returns the list ["a", "5", "3", "-", "3", "2", "c", " ", ".", "E"]
 ```
-
 ##### `\d`
 Matches to all single digits.
 ```python
 import re
 re.findall("\d", "a53-32c .E")  # Returns the list ["5", "3", "3", "2"]
 ```
-
 ##### `\s`
 Matches to all single spaces.
 ```python
 import re
 re.findall("\s", "a53-32c .E")  # Returns the list [" "]
 ```
-
 ##### `\.` (Escape Dot)
 Matches to the period character.
 ```python
 import re
 re.findall("\.", "a53-32c .E")  # Returns the list ["."]
 ```
-
 ##### `+`
 Represents one or more occurrences of a specific character.
 ```python
 import re
 re.findall("\w+", "a53-32c .E")  # Returns the list ["a53", "32c", "E"]
 ```
-
 ##### `*`
 Represents zero, one, or more occurrences of a specific character.
 ```python
 import re
 re.findall("\w*", "a53-32c .E")  # Returns the list ["a53", " ", "32c", " ", " ", "E"]
 ```
-
 ##### `{ }`
 Represents a specified number of occurrences of a specific character; the number is specified within the curly brackets.
 ```python
