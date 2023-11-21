@@ -93,7 +93,7 @@ import re
 re.findall("a53", "a53-32c .E")  # Returns the list ["a53"]
 ```
 ##### `\w`
-Matches with any alphanumeric character; also matches with the underscore (_).
+Matches with any alphanumeric character; also matches with the underscore (`_`).
 ```python
 import re
 re.findall("\w", "a53-32c .E")  # Returns the list ["a", "5", "3", "3", "2", "c", "E"]
@@ -140,3 +140,36 @@ Represents a specified number of occurrences of a specific character; the number
 import re
 re.findall("\w{3}", "a53-32c .E")  # Returns the list ["a53", "32c"]
 ```
+
+
+# Glossary terms from module 3
+
+## **Terms and definitions from Course 7, Module 3**
+
+**A**
+- **[[Algorithm]]**: A set of rules that solve a problem
+
+**B**
+- **[[Bracket notation]]**: The indices placed in square brackets
+
+**D**
+- **[[Debugging]]**: The practice of identifying and fixing errors in code
+
+**I**
+- **[[Immutable]]**: An object that cannot be changed after it is created and assigned a value
+- **[[Index]]**: A number assigned to every element in a sequence that indicates its position
+
+**L**
+- **[[List concatenation]]**: The concept of combining two lists into one by placing the elements of the second list directly after the elements of the first list
+- **[[List data]]**: Data structure that consists of a collection of data in sequential form
+
+**M**
+- **[[Method]]**: A function that belongs to a specific data type
+
+**R**
+- **[[Regular expression (regex)]]**: A sequence of characters that forms a pattern
+
+**S**
+- **[[String concatenation]]**: The process of joining two strings together
+- **[[String data]]**: Data consisting of an ordered sequence of characters
+- **[[Substring]]**: A continuous sequence of characters within a string
