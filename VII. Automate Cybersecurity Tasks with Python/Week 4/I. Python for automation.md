@@ -41,7 +41,7 @@ You can develop your own functions based on your particular needs. You can also 
 
 ### Techniques for working with lists
 
-List data is another common data type. Like with strings, you can use bracket notation to access a list element through its index. Several methods also help you with automation when working with lists. These include .insert(), .remove(), .append(), and .index().
+**[[List data]]** is another common data type. Like with strings, you can use bracket notation to access a list element through its index. Several methods also help you with automation when working with lists. These include .insert(), .remove(), .append(), and .index().
 
 ### Example: Counting logins made by a flagged user
 
@@ -57,7 +57,7 @@ Additionally, if you want to reuse this code multiple times, you can incorporate
 
 ## Working with files in Python
 
-One additional component of automating cybersecurity-related tasks in Python is understanding how to work with files. Security-related data will often be initially found in log files. A **log** is a record of events that occur within an organization's systems. In logs, lines are often appended to the record as time progresses.
+One additional component of automating cybersecurity-related tasks in Python is understanding how to work with files. Security-related data will often be initially found in log files. A **[[log]]** is a record of events that occur within an organization's systems. In logs, lines are often appended to the record as time progresses.
 
 Two common file formats for security logs are .txt files and .csv files. Both .txt and .csv files are types of text files, meaning they contain only plain text. They do not contain images and do not specify graphical properties of the text, including font, color, or spacing. In a .csv file, or a "comma-separated values" file, the values are separated by commas. In a .txt file, there is not a specific format for separating values, and they may be separated in a variety of ways, including spaces.
 
