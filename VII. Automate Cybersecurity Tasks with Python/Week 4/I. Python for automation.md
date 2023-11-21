@@ -11,7 +11,7 @@ Throughout this course, you explored coding in Python. You've focused on variabl
 
 ## Automating tasks in Python
 
-**Automation** is the use of technology to reduce human and manual effort to perform common and repetitive tasks. As a security analyst, you will primarily use Python to automate tasks.
+**[[Automation]]** is the use of technology to reduce human and manual effort to perform common and repetitive tasks. As a security analyst, you will primarily use Python to automate tasks.
 
 You have encountered multiple examples of how to use Python for automation in this course, including investigating logins, managing access, and updating devices.
 

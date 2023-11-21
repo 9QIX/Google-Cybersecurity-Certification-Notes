@@ -39,3 +39,9 @@ Sometimes automation can be used to perform one or more subtasks of a larger set
 - Items that should not be fully automated due to costs and safety:
     - Grocery store checkout process, including bagging groceries
     - Tasks that are less expensive to perform manually
+
+## Automating tasks in Python
+
+**[[Automation]]** is the use of technology to reduce human and manual effort to perform common and repetitive tasks. As a security analyst, you will primarily use Python to automate tasks.
+
+You have encountered multiple examples of how to use Python for automation in this course, including investigating logins, managing access, and updating devices.
