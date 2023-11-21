@@ -175,3 +175,16 @@ Output:
 ## Key takeaways
 
 Regular expressions allow you to search through strings to find matches to specific patterns. You can use regular expressions by importing the re module. This module contains multiple functions, including re.findall(), which returns all matches to a pattern in the form of a list. To form a pattern, you use characters and symbols. Symbols allow you to specify types of characters and to quantify how many repetitions of a character or type of character can occur in the pattern.
+
+## Conclusion
+
+- Regular expressions in Python allow you to create patterns that you can then use to find important strings. 
+- Regular expression patterns can be built to match specific characters and character combinations. 
+- Examples of regular expression symbols practiced in this lab:
+  - `\w` represents any alphanumeric character.
+  - `+` represents one or more occurrences of the previous character in the regular expression.
+  - `\d` represents any digit.
+  - `\.` represents a period. 
+  - `{x,y}` represents anywhere between x and y number of occurrences of the previous character in the regular expression. The x and y can be replaced with any two positive integers to indicate an exact range for the number of occurrences.
+- The `re` module in Python contains functions that are useful when working with regular expressions. 
+  - One example is the `re.findall()` function, which takes in a regular expression pattern as well as a string, checks for all instances in the string that match with the pattern and outputs a list of the matches. 
