@@ -9,7 +9,6 @@ Converts the input object to a string.
 ```python
 str(10)  # Converts the integer 10 to the string "10"
 ```
-
 ##### `len()`
 Returns the number of elements in an object.
 ```python
@@ -23,13 +22,11 @@ Returns a copy of the string in all uppercase letters.
 ```python
 print("Security".upper())  # Returns and displays "SECURITY"
 ```
-
 ##### `.lower()`
 Returns a copy of the string in all lowercase letters.
 ```python
 print("Security".lower())  # Returns and displays "security"
 ```
-
 ##### `.index()`
 Finds the first occurrence of the input in a string and returns its location.
 ```python
@@ -44,21 +41,18 @@ Adds an element in a specific position inside the list.
 username_list = ["elarson", "fgarcia", "tshah"]
 username_list.insert(2, "wjaffrey")  # Adds "wjaffrey" at index 2; the list becomes ["elarson", "fgarcia", "wjaffrey", "tshah"]
 ```
-
 ##### `.remove()`
 Removes the first occurrence of a specific element inside a list.
 ```python
 username_list = ["elarson", "bmoreno", "wjaffrey", "tshah"]
 username_list.remove("elarson")  # Removes "elarson"; the list becomes ["fgarcia", "wjaffrey", "tshah"]
 ```
-
 ##### `.append()`
 Adds input to the end of a list.
 ```python
 username_list = ["bmoreno", "wjaffrey", "tshah"]
 username_list.append("btang")  # Adds "btang" to the end; the list becomes ["fgarcia", "wjaffrey", "tshah", "btang"]
 ```
-
 ##### `.index()`
 Finds the first occurrence of an element in a list and returns its index.
 ```python
@@ -71,10 +65,14 @@ print(username_list.index("tshah"))  # Finds and displays the index of the first
 ##### `+` (Concatenation)
 Combines two strings or lists together.
 ```python
-device_id = "IT" + "nwp12"  # Combines "IT" with "nwp12" and assigns to the variable device_id
-users = ["elarson", "bmoreno"] + ["tshah", "btang"]  # Combines two lists
-```
+device_id = "IT" + "nwp12"  
+# Combines "IT" with "nwp12" and assigns to the variable device_id
+# Output: "ITnwp12"
 
+users = ["elarson", "bmoreno"] + ["tshah", "btang"]  
+# Combines two lists
+# Output: ["elarson", "bmoreno", "tshah", "btang"]
+```
 ##### `[]` (Bracket Notation)
 Uses indices to extract parts of a string or list.
 ```python
