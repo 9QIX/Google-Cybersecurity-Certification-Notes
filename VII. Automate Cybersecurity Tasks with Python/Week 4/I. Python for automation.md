@@ -19,15 +19,15 @@ Automating cybersecurity-related tasks requires understanding the following Pyth
 
 ### Variables
 
-A **variable** is a container that stores data. Variables are essential for automation. Without them, you would have to individually rewrite values for each action you took in Python.
+A **[[variable]]** is a container that stores data. Variables are essential for automation. Without them, you would have to individually rewrite values for each action you took in Python.
 
 ### Conditional statements
 
-A **conditional statement** is a statement that evaluates code to determine if it meets a specified set of conditions. Conditional statements allow you to check for conditions before performing actions. This is much more efficient than manually evaluating whether to apply an action to each separate piece of data.
+A **[[conditional statement]]** is a statement that evaluates code to determine if it meets a specified set of conditions. Conditional statements allow you to check for conditions before performing actions. This is much more efficient than manually evaluating whether to apply an action to each separate piece of data.
 
 ### Iterative statements
 
-An **iterative statement** is code that repeatedly executes a set of instructions. You explored two kinds of iterative statements: for loops and while loops. In both cases, they allow you to perform the same actions a certain number of times without the need to retype the same code each time. Using a for loop allows you to automate repetition of that code based on a sequence, and using a while loop allows you to automate the repetition based on a condition.
+An **[[iterative statement]]** is code that repeatedly executes a set of instructions. You explored two kinds of iterative statements: for loops and while loops. In both cases, they allow you to perform the same actions a certain number of times without the need to retype the same code each time. Using a for loop allows you to automate repetition of that code based on a sequence, and using a while loop allows you to automate the repetition based on a condition.
 
 ### Functions
 
