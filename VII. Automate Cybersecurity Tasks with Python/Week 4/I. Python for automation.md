@@ -50,11 +50,8 @@ As one example, you may find that you need to investigate the logins of a specif
 To automate the investigation, you'll need to incorporate the following Python components:
 
 - A for loop will allow you to iterate through all the usernames in the list. 
-    
 - Within the for loop, you should incorporate a conditional statement to examine whether each username in the list matches the username of the flagged user.
-    
 - When the condition evaluates to True, you also need to increment a counter variable that keeps track of the number of times the flagged user appears in the list.
-    
 
 Additionally, if you want to reuse this code multiple times, you can incorporate it into a function. The function can include parameters that accept the username of the flagged user and the list to iterate through. (The list would contain the usernames associated with all login attempts made that day.) The function can use the counter variable to return the number of logins for that flagged user.
 
