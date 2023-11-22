@@ -106,8 +106,26 @@ It's important for security analysts to be able to import files into Python and 
 
 - **Objective:** The passage aims to expand on the knowledge of working with text files in Python by introducing the concept of parsing. 
 - **Parsing with the Split Method:** **[[Parsing]]** is described as the process of converting data into a more readable format. 
-	- The method introduced for parsing in this context is the `split` method. It is explained that the `.split()` method converts a string into a list by separating the string based on a specified character. If no argument is passed, it separates the string based on whitespace. An example is provided, demonstrating how the split method can be used to convert a string into a list, making it easier to analyze.
+	- The method introduced for parsing in this context is the `.split()` method. It is explained that the `.split()` method converts a string into a list by separating the string based on a specified character. If no argument is passed, it separates the string based on whitespace. An example is provided, demonstrating how the split method can be used to convert a string into a list, making it easier to analyze.
 - **Working with Security Log Example:** The passage then presents an example related to a security log where each line represents a new data point. To store these data points in a list, the `split` method is used without passing an argument, effectively splitting the text based on new lines. The resulting list of usernames is then printed, demonstrating the conversion.
 - **Variable Assignment:** The importance of assigning the output of the split operation to a variable (e.g., `usernames`) is highlighted. This allows the list to be reused in other code.
 - **Closing Message:** The passage concludes by congratulating the learner on learning the basics of parsing a text file in Python and provides a preview of upcoming videos, indicating a focus on techniques for working more in-depth with data in Python.
 - **Overall Structure:** The passage follows a logical progression, starting with the explanation of parsing, introducing the `split` method, providing a specific example with security logs, and emphasizing the importance of variable assignment. The tone is instructive and encourages the learner to apply the concepts in upcoming videos.
+
+# Work with files in Python
+
+You previously explored how to open files in Python as well as how to read them and write to them. You also examined how to adjust the structure of file contents through the .split() method. In this reading, you'll review the .split() method, and you'll also learn an additional method that can help you work with file contents. 
+
+## Parsing
+
+Part of working with files involves structuring its contents to meet your needs. **Parsing** is the process of converting data into a more readable format. Data may need to become more readable in a couple of different ways. First, certain parts of your Python code may require modification into a specific format. By converting data into this format, you enable Python to process it in a specific way. Second, programmers need to read and interpret the results of their code, and parsing can also make the data more readable for them.
+
+Methods that can help you parse your data include .split() and .join().
+
+## .split()
+
+### **The basics of .split()**
+
+The .split() method converts a string into a list. It separates the string based on a specified character that's passed into .split() as an argument. 
+
+In the following example, the usernames in the approved_users string are separated by a comma. For this reason, a string containing the comma (",") is passed into .split() in order to parse it into a list. Run this code and analyze the different contents of approved_users before and after the .split() method is applied to it:
