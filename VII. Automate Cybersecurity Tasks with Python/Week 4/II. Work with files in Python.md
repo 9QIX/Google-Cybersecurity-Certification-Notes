@@ -46,7 +46,9 @@ Because they're in the same directory, only the name of the file is required. Th
 
 However, "access_log.txt" is not in the same directory as the Python file "log_parser.ipynb". Therefore, it's necessary to specify its absolute file path. A **file path** is the location of a file or directory. An absolute file path starts from the highest-level directory, the root. In the following code, the first parameter of the open() function includes the absolute file path to "access_log.txt":
 
+```python
 with open("/home/analyst/logs/access_log.txt", "r") as file:
+```
 
 **Note:** In Python, the names of files or their file paths can be handled as string data, and like all string data, you must place them in quotation marks.
 
