@@ -90,11 +90,11 @@ Like when opening a file to read from it, you should indicate what to do with th
 
 The following example uses the .write() method to append the content of the line variable to the file "access_log.txt".
 
+```python
 line = "jrafael,192.168.243.140,4:56:27,True"
-
 with open("access_log.txt", "a") as file:
-
     file.write(line)
+```
 
 **Note:** Calling the .write() method without using the with keyword when importing the file might result in its arguments not being completely written to the file if the file is not properly closed in another way.
 
