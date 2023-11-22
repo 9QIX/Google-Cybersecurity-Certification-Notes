@@ -105,13 +105,8 @@ It's important for security analysts to be able to import files into Python and 
 # Parse a text file in Python
 
 - **Objective:** The passage aims to expand on the knowledge of working with text files in Python by introducing the concept of parsing. Parsing is described as the process of converting data into a more readable format.
-
 - **Parsing with the Split Method:** The method introduced for parsing in this context is the `split` method. It is explained that the `split` method converts a string into a list by separating the string based on a specified character. If no argument is passed, it separates the string based on whitespace. An example is provided, demonstrating how the split method can be used to convert a string into a list, making it easier to analyze.
-
 - **Working with Security Log Example:** The passage then presents an example related to a security log where each line represents a new data point. To store these data points in a list, the `split` method is used without passing an argument, effectively splitting the text based on new lines. The resulting list of usernames is then printed, demonstrating the conversion.
-
 - **Variable Assignment:** The importance of assigning the output of the split operation to a variable (e.g., `usernames`) is highlighted. This allows the list to be reused in other code.
-
 - **Closing Message:** The passage concludes by congratulating the learner on learning the basics of parsing a text file in Python and provides a preview of upcoming videos, indicating a focus on techniques for working more in-depth with data in Python.
-
 - **Overall Structure:** The passage follows a logical progression, starting with the explanation of parsing, introducing the `split` method, providing a specific example with security logs, and emphasizing the importance of variable assignment. The tone is instructive and encourages the learner to apply the concepts in upcoming videos.
