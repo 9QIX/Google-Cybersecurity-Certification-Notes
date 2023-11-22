@@ -62,11 +62,11 @@ When you open a file using with open(), you must provide a variable that can sto
 
 After you use the code with open("update_log.txt", "r") as file: to import "update_log.txt" into the file variable, you should indicate what to do with the file on the indented lines that follow it. For example, this code uses the .read() method to read the contents of the file:
 
+```python
 with open("update_log.txt", "r") as file:
-
     updates = file.read()
-
 print(updates)
+```
 
 The .read() method converts files into strings. This is necessary in order to use and display the contents of the file that was read.
 
