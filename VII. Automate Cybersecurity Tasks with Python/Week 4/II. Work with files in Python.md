@@ -142,3 +142,25 @@ Output:
 before .split(): elarson,bmoreno,tshah,sgilmore,eraab
 after .split(): ['elarson', 'bmoreno', 'tshah', 'sgilmore', 'eraab']
 ```
+
+Before the .split() method is applied to approved_users, it contains a string, but after it is applied, this string is converted to a list.
+
+If you do not pass an argument into .split(), it will separate the string every time it encounters a whitespace.
+
+**Note:** A variety of characters are considered whitespaces by Python. These characters include spaces between characters, returns for new lines, and others.
+
+The following example demonstrates how a string of usernames that are separated by space can be split into a list through the .split() method:
+
+```python
+removed_users = "wjaffrey jsoto abernard jhill awilliam"
+print("before .split():", removed_users)
+
+removed_users = removed_users.split()
+print("after .split():", removed_users)
+```
+Output:
+```python
+before .split(): wjaffrey jsoto abernard jhill awilliam
+after .split(): ['wjaffrey', 'jsoto', 'abernard', 'jhill', 'awilliam']
+```
+
