@@ -191,3 +191,16 @@ In methods like .split() or .index(), you append the method to the string or lis
 However, with .join(), you must pass the list that you want to concatenate into a string in as an argument. You append .join() to a character that you want to separate each element with once they are joined into a string.
 
 For example, in the following code, the approved_users variable contains a list. If you want to join that list into a string and separate each element with a comma, you can use ",".join(approved_users). Run the code and examine what it returns:
+
+```python
+approved_users = ["elarson", "bmoreno", "tshah", "sgilmore", "eraab"]
+print("before .join():", approved_users)
+
+approved_users = ",".join(approved_users)
+print("after .join():", approved_users)
+```
+Output:
+```python
+before .join(): ['elarson', 'bmoreno', 'tshah', 'sgilmore', 'eraab']
+after .join(): elarson,bmoreno,tshah,sgilmore,eraab
+```
