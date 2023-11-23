@@ -155,3 +155,20 @@ Some debuggers also have a feature that allows you to check the values stored in
 Another debugging strategy is to incorporate temporary print statements that are designed to identify the source of the error. You should strategically incorporate these print statements to print at various locations in the code. You can specify line numbers as well as descriptive text about the location. 
 
 For example, you may have code that is intended to add new users to an approved list and then display the approved list. The code should not add users that are already on the approved list. If you analyze the output of this code after you run it, you will realize that there is a logic error:
+
+```python
+new_users = ["sgilmore", "bmoreno"]
+approved_users = ["bmoreno", "tshah", "elarson"]
+def add_users():
+    for user in new_users:
+        if user in approved_users:
+            print(user,"already in list")
+        approved_users.append(user)
+add_users()
+print(approved_users)
+```
+Output:
+```
+bmoreno already in list
+['bmoreno', 'tshah', 'elarson', 'sgilmore', 'bmoreno']
+```
