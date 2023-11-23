@@ -129,3 +129,16 @@ Methods that can help you parse your data include .split() and .join().
 The .split() method converts a string into a list. It separates the string based on a specified character that's passed into .split() as an argument. 
 
 In the following example, the usernames in the approved_users string are separated by a comma. For this reason, a string containing the comma (",") is passed into .split() in order to parse it into a list. Run this code and analyze the different contents of approved_users before and after the .split() method is applied to it:
+
+```python
+approved_users = "elarson,bmoreno,tshah,sgilmore,eraab"
+print("before .split():", approved_users)
+
+approved_users = approved_users.split(",")
+print("after .split():", approved_users)
+```
+Output:
+```python
+before .split(): elarson,bmoreno,tshah,sgilmore,eraab
+after .split(): ['elarson', 'bmoreno', 'tshah', 'sgilmore', 'eraab']
+```
