@@ -43,8 +43,8 @@
 		- Debugging Strategies:
 			- Insert print statements to identify the issue.
 			- Identify that the program does not enter the if statement related to the 200 status code.
-  4. **Fixing Logic Error:**
-     - Issue: The program doesn't enter the if statement checking for the 200 status code because the return statement precedes it.
-     - Resolution: Move the if statement to check the status code before the return statement to ensure proper execution.
+	4. **Fixing Logic Error:**
+		- Issue: The program doesn't enter the if statement checking for the 200 status code because the return statement precedes it.
+		- Resolution: Move the if statement to check the status code before the return statement to ensure proper execution.
 - **Conclusion:** The passage concludes by affirming the completion of the debugging process and expresses the hope that the reader has gained a stronger understanding of debugging strategies. It also suggests that the experience provided insights into common errors encountered during debugging.
 
