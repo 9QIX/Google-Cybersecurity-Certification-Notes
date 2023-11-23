@@ -1,0 +1,1 @@
+A **[[debugger]]** is a software tool that helps to locate the source of an error and assess its causes.

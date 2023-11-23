@@ -191,6 +191,19 @@ print(approved_users)
 ```
 Output:
 ```
+line 5 - inside for loop
+line 9 - before .append method
+line 5 - inside for loop
+line 7 - inside if statement
 bmoreno already in list
+line 9 - before .append method
 ['bmoreno', 'tshah', 'elarson', 'sgilmore', 'bmoreno']
 ```
+
+The print statement "line 5 - inside for loop" outputs twice, indicating that Python has entered the for loop for each username in new_users. This is as expected. Additionally, the print statement "line 7 - inside if statement" only outputs once, and this is also as expected because only one of these usernames was already in approved_users.
+
+However, the print statement "line 9 - before .append method" outputs twice. This means the code calls the .append() method for both usernames even though one is already in approved_users. This helps isolate the logic error to this area. This can help you realize that the line of code approved_users.append(user) should be the body of an else statement so that it only executes when user is not in approved_users.
+
+## Key takeaways
+
+There are three main types of errors you'll encounter while coding in Python. Syntax errors involve invalid usage of the programming language. Logic errors occur when the logic produced in the code produces unintended results. Exceptions involve code that cannot be executed even though it is syntactically correct. You will receive error messages for syntax errors and exceptions that can help you fix these mistakes. Additionally, using debuggers and inserting print statements can help you identify logic errors and further debug exceptions.
