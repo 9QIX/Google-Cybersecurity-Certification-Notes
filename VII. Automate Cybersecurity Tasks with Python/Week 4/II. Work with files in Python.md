@@ -164,3 +164,30 @@ before .split(): wjaffrey jsoto abernard jhill awilliam
 after .split(): ['wjaffrey', 'jsoto', 'abernard', 'jhill', 'awilliam']
 ```
 
+### **Applying .split() to files**
+
+The .split() method allows you to work with file content as a list after you've converted it to a string through the .read() method. This is useful in a variety of ways. For example, if you want to iterate through the file contents in a for loop, this can be easily done when it's converted into a list.
+
+The following code opens the "update_log.txt" file. It then reads all of the file contents into the updates variable as a string and splits the string in the updates variable into a list by creating a new element at each whitespace:
+
+```python
+with open("update_log.txt", "r") as file:
+    updates = file.read()
+updates = updates.split()
+```
+
+After this, through the updates variable, you can work with the contents of the "update_log.txt" file in parts of your code that require it to be structured as a list. 
+
+**Note:** Because the line that contains .split() is not indented as part of the with statement, the file closes first. Closing a file as soon as it is no longer needed helps maintain code readability. Once a file is read into the updates variable, it is not needed and can be closed.
+
+## .join()
+
+### **The basics of .join()**
+
+If you need to convert a list into a string, there is also a method for that. The .join() method concatenates the elements of an iterable into a string. The syntax used with .join() is distinct from the syntax used with .split() and other methods that you've worked with, such as .index(). 
+
+In methods like .split() or .index(), you append the method to the string or list that you're working with and then pass in other arguments. For example, the code usernames.index(2), appends the .index() method to the variable usernames, which contains a list. It passes in 2 as the argument to indicate which element to return.
+
+However, with .join(), you must pass the list that you want to concatenate into a string in as an argument. You append .join() to a character that you want to separate each element with once they are joined into a string.
+
+For example, in the following code, the approved_users variable contains a list. If you want to join that list into a string and separate each element with a comma, you can use ",".join(approved_users). Run the code and examine what it returns:
