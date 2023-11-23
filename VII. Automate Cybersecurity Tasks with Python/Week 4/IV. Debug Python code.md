@@ -48,3 +48,30 @@
 		- Resolution: Move the if statement to check the status code before the return statement to ensure proper execution.
 - **Conclusion:** The passage concludes by affirming the completion of the debugging process and expresses the hope that the reader has gained a stronger understanding of debugging strategies. It also suggests that the experience provided insights into common errors encountered during debugging.
 
+# Explore debugging techniques
+
+Previously, you examined three types of errors you may encounter while working in Python and explored strategies for debugging these errors. This reading further explores these concepts with additional strategies and examples for debugging Python code.
+
+## Types of errors 
+
+It's a normal part of developing code in Python to get error messages or find that the code you're running isn't working as you intended. The important thing is that you can figure out how to fix errors when they occur. Understanding the three main types of errors can help. These types include syntax errors, logic errors, and exceptions.
+
+### **Syntax errors** 
+
+A **[[syntax error]]** is an error that involves invalid usage of a programming language. Syntax errors occur when there is a mistake with the Python syntax itself. Common examples of syntax errors include forgetting a punctuation mark, such as a closing bracket for a list or a colon after a function header.  
+
+When you run code with syntax errors, the output will identify the location of the error with the line number and a portion of the affected code. It also describes the error. Syntax errors often begin with the label  "SyntaxError:" . Then, this is followed by a  description of the error. The description might simply be "invalid syntax" . Or if you forget a closing parentheses on a function, the description might be "unexpected EOF while parsing". "EOF" stands for "end of file."  
+
+The following code contains a syntax error. Run it and examine its output:
+
+```python
+message = "You are debugging a syntax error
+print(message)
+```
+Output:
+```
+Error on line 1:
+    message = "You are debugging a syntax error
+                                              ^
+SyntaxError: EOL while scanning string literal
+```
