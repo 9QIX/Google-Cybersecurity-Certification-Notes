@@ -100,3 +100,31 @@ Output:
 ```
 User has not reached maximum number of login attempts.
 ```
+
+The output displays the message "User has not reached maximum number of login attempts." However, this is not true since the maximum number of login attempts is five. This is a logic error.
+
+Logic errors can also result when you assign the wrong value in a condition or when a mistake with indentation means that a line of code executes in a way that was not planned.
+
+### **Exceptions**
+
+An **exception** is an error that involves code that cannot be executed even though it is syntactically correct. This happens for a variety of reasons.
+
+One common cause of an exception is when the code includes a variable that hasn't been assigned or a function that hasn't been defined. In this case, your output will include "NameError" to indicate that this is a name error. After you run the following code, use the error message to determine which variable was not assigned:
+
+```python
+username = "elarson"
+month = "March"
+total_logins = 75
+failed_logins = 18
+
+print("Login report for", username, "in", month)
+print("Total logins:", total_logins)
+print("Failed logins:", failed_logins)
+print("Unusual logins:", unusual_logins)
+```
+Output:
+```
+Error on line 8:
+    print("Unusual logins:", unusual_logins)
+NameError: name 'unusual_logins' is not defined
+```
