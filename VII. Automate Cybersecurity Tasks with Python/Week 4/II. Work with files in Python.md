@@ -204,3 +204,33 @@ Output:
 before .join(): ['elarson', 'bmoreno', 'tshah', 'sgilmore', 'eraab']
 after .join(): elarson,bmoreno,tshah,sgilmore,eraab
 ```
+
+Before .join() is applied, approved_users is a list of five elements. After it is applied, it is a string with each username separated by a comma.
+
+**Note**: Another way to separate elements when using the .join() method is to use "\n", which is the newline character. The "\n" character indicates to separate the elements by placing them on new lines.
+
+### **Applying .join() to files**
+
+When working with files, it may also be necessary to convert its contents back into a string. For example, you may want to use the .write() method. The .write() method writes string data to a file. This means that if you have converted a file's contents into a list while working with it, you'll need to convert it back into a string before using .write(). You can use the .join() method for this.
+
+You already examined how .split() could be applied to the contents of the "update_log.txt" file once it is converted into a string through .read() and stored as updates:
+
+```python
+with open("update_log.txt", "r") as file:
+    updates = file.read()
+updates = updates.split()
+```
+
+After you're through performing operations using the list in the updates variable, you might want to replace "update_log.txt" with the new contents. To do so, you need to first convert updates back into a string using .join(). Then, you can open the file using a with statement and use the .write() method to write the updates string to the file:
+
+```python
+updates = " ".join(updates)
+with open("update_log.txt", "w") as file
+    file.write(updates)`
+```
+
+The code " ".join(updates) indicates to separate each of the list elements in updates with a space once joined back into a string. And because "w" is specified as the second argument of open(), Python will overwrite the contents of "update_log.txt" with the string currently in the updates variable. 
+
+## Key takeaways
+
+An important element of working with files is being able to parse the data it contains. Parsing means converting the data into a readable format. The .split() and .join() methods are both useful for parsing data. The .split() method allows you to convert a string into a list, and the .join() method allows you to convert a list into a string.
