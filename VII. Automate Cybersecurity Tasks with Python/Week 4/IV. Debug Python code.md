@@ -1,4 +1,5 @@
 - **Objective:** The passage aims to address the challenges associated with debugging code, emphasizing its significance for ensuring code functionality. It introduces three types of errors—syntax errors, logic errors, and exceptions—and explores techniques for identifying and fixing them.
+- **[[Debugging]]**: is the practice of identifying and fixing errors in code. 
 - **Types of Errors:**
 	1. **Syntax Errors:**
 		- Definition: Invalid usage of the Python language.
