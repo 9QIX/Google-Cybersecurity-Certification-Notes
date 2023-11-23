@@ -135,3 +135,23 @@ In addition to name errors, the following messages are output for other types of
 	- "**[[IndexError]]**": An index error occurs when you place an index in bracket notation that does not exist in the sequence being referenced. For example, in the list `usernames = ["bmoreno", "tshah", "elarson"]`, the indices are 0, 1, and 2. If you referenced this list with the statement `print(usernames[3])`, this would result in an index error.
 	- "**[[TypeError]]**": A type error results from using the wrong data type. For example, if you tried to perform a mathematical calculation by adding a string value to an integer, you would get a type error.
 	- "**[[FileNotFound]]**": A file not found error occurs when you try to open a file that does not exist in the specified location.
+
+## Debugging strategies  
+
+Keep in mind that if you have multiple errors, the Python interpreter will output error messages one at a time, starting with the first error it encounters. After you fix that error and run the code again, the interpreter will output another message for the next syntax error or exception it encounters.
+
+When dealing with syntax errors, the error messages you receive in the output will generally help you fix the error. However, with logic errors and exceptions, additional strategies may be needed.
+
+### **Debuggers** 
+
+In this course, you have been running code in a notebook environment. However, you may write Python code in an Integrated Development Environment (IDE). An **[[Integrated Development Environment (IDE)]]** is a software application for writing code that provides editing assistance and error correction tools. Many IDEs offer error detection tools in the form of a debugger. A **[[debugger]]** is a software tool that helps to locate the source of an error and assess its causes.
+
+In cases when you can't find the line of code that is causing the issue, debuggers help you narrow down the source of the error in your program. They do this by working with breakpoints. Breakpoints are markers placed on certain lines of executable code that indicate which sections of code should run when debugging.
+
+Some debuggers also have a feature that allows you to check the values stored in variables as they change throughout your code. This is especially helpful for logic errors so that you can locate where variable values have unintentionally changed. 
+
+### **Use print statements** 
+
+Another debugging strategy is to incorporate temporary print statements that are designed to identify the source of the error. You should strategically incorporate these print statements to print at various locations in the code. You can specify line numbers as well as descriptive text about the location. 
+
+For example, you may have code that is intended to add new users to an approved list and then display the approved list. The code should not add users that are already on the approved list. If you analyze the output of this code after you run it, you will realize that there is a logic error:
