@@ -172,3 +172,25 @@ Output:
 bmoreno already in list
 ['bmoreno', 'tshah', 'elarson', 'sgilmore', 'bmoreno']
 ```
+
+Even though you get the message "bmoreno already in list", a second instance of "bmoreno" is added to the list. In the following code, print statements have been added to the code. When you run it, you can examine what prints:
+
+```python
+new_users = ["sgilmore", "bmoreno"]
+approved_users = ["bmoreno", "tshah", "elarson"]
+def add_users():
+    for user in new_users:
+        print("line 5 - inside for loop")
+        if user in approved_users:
+            print("line 7 - inside if statement")
+            print(user,"already in list")
+        print("line 9 - before .append method")
+        approved_users.append(user)
+add_users()
+print(approved_users)
+```
+Output:
+```
+bmoreno already in list
+['bmoreno', 'tshah', 'elarson', 'sgilmore', 'bmoreno']
+```
