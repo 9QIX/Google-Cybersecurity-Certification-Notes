@@ -107,7 +107,7 @@ Logic errors can also result when you assign the wrong value in a condition or w
 
 ### **Exceptions**
 
-An **[[exception]]** is an error that involves code that cannot be executed even though it is syntactically correct. This happens for a variety of reasons.
+An **[[Exception]]** is an error that involves code that cannot be executed even though it is syntactically correct. This happens for a variety of reasons.
 
 One common cause of an exception is when the code includes a variable that hasn't been assigned or a function that hasn't been defined. In this case, your output will include "NameError" to indicate that this is a name error. After you run the following code, use the error message to determine which variable was not assigned:
 

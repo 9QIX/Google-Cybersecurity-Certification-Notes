@@ -65,3 +65,41 @@ approved_users = ",".join(["elarson", "bmoreno", "tshah"])
 
 Make sure to replace the `pass` statement with the actual code you want to execute within the block where the file is opened for reading.
 
+# Glossary terms from module 4
+
+## **Terms and definitions from Course 7, Module 4**
+
+Certainly, here are the terms and definitions from the provided list, with the **[[ ]]** notation:
+
+**A**
+- **[[Automation]]**: The use of technology to reduce human and manual effort to perform common and repetitive tasks
+
+**C**
+- **[[Conditional statement]]**: A statement that evaluates code to determine if it meets a specified set of conditions
+
+**D**
+- **[[Debugger]]**: A software tool that helps to locate the source of an error and assess its causes
+- **[[Debugging]]**: The practice of identifying and fixing errors in code
+- **[[Exception]]**: An error that involves code that cannot be executed even though it is syntactically correct
+
+**F**
+- **[[File path]]**: The location of a file or directory 
+- **[[Function]]**: A section of code that can be reused in a program
+
+**I**
+- **[[Integrated development environment (IDE)]]**: A software application for writing code that provides editing assistance and error correction tools
+- **[[Iterative statement]]**: Code that repeatedly executes a set of instructions
+
+**L**
+- **[[Log]]**: A record of events that occur within an organization's systems 
+- **[[Logic error]]**: An error that results when the logic used in code produces unintended results
+
+**P**
+- **[[Parsing]]**: The process of converting data into a more readable format
+
+**S**
+- **[[Syntax error]]**: An error that involves invalid usage of a programming language
+
+**V**
+- **[[Variable]]**: A container that stores data
+
