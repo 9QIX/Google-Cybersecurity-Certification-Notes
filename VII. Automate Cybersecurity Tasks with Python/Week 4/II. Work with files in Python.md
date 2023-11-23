@@ -226,7 +226,7 @@ After you're through performing operations using the list in the updates variabl
 ```python
 updates = " ".join(updates)
 with open("update_log.txt", "w") as file
-    file.write(updates)`
+    file.write(updates)
 ```
 
 The code " ".join(updates) indicates to separate each of the list elements in updates with a space once joined back into a string. And because "w" is specified as the second argument of open(), Python will overwrite the contents of "update_log.txt" with the string currently in the updates variable. 
@@ -234,3 +234,15 @@ The code " ".join(updates) indicates to separate each of the list elements in u
 ## Key takeaways
 
 An important element of working with files is being able to parse the data it contains. Parsing means converting the data into a readable format. The .split() and .join() methods are both useful for parsing data. The .split() method allows you to convert a string into a list, and the .join() method allows you to convert a list into a string.
+
+## Conclusion
+
+- Python has functions and syntax that help you import and parse text files.
+	- The `with` statement allows you to efficiently handle files.
+	- The `open()` function allows you to import or open a file. It takes in the name of the file as the first parameter and a string that indicates the purpose of opening the file as the second parameter.
+	    - Specify `"r"` as the second parameter if you're opening the file for reading purposes.
+	    - Specify `"a"` as the second parameter if you're opening the file for appending purposes.
+	    - Specify `"w"` as the second parameter if you're opening the file for writing purposes.
+	- The `.read()` method allows you to read in a file. 
+	- The `.write()` method allows you to append or write to a file.
+	- The `.split()` method in Python allows you to convert a string to a list.
