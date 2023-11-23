@@ -1,17 +1,17 @@
 - **Objective:** The passage aims to address the challenges associated with debugging code, emphasizing its significance for ensuring code functionality. It introduces three types of errors—syntax errors, logic errors, and exceptions—and explores techniques for identifying and fixing them.
 - **[[Debugging]]**: is the practice of identifying and fixing errors in code. 
-- **Types of Errors:**
-	1. **Syntax Errors:**
+- **[[Types of Errors]]:**
+	1. **[[Syntax Errors]]:**
 		- Definition: Invalid usage of the Python language.
 		- Example: Forgetting to add a colon after a function header.
 		- Resolution: Locate and correct the error indicated by error messages.
-	2. **Logic Errors:**
+	1. **[[Logic Errors]]:**
 		- Definition: Errors that may not cause error messages but produce unintended results.
 		- Example: Writing incorrect text within a print statement or using the wrong comparison operator.
 		- Debugging Strategies:
 			- Use print statements to identify functioning sections.
 			- Employ a debugger to insert breakpoints and run code sections independently.
-	3. **Exceptions:**
+	2. **[[Exceptions]]:**
 		- Definition: Occur when the program encounters difficulties in executing code, despite correct syntax.
 		- Examples: Division by 0, accessing nonexistent index values, unrecognized variable or function names, or incorrect data types.
 		- Debugging Tools:
