@@ -207,3 +207,13 @@ However, the print statement "line 9 - before .append method" outputs twice. Thi
 ## Key takeaways
 
 There are three main types of errors you'll encounter while coding in Python. Syntax errors involve invalid usage of the programming language. Logic errors occur when the logic produced in the code produces unintended results. Exceptions involve code that cannot be executed even though it is syntactically correct. You will receive error messages for syntax errors and exceptions that can help you fix these mistakes. Additionally, using debuggers and inserting print statements can help you identify logic errors and further debug exceptions.
+
+## Conclusion
+
+- Debugging is an essential practice that analysts use to identify errors in code and fix them to ensure that the code runs smoothly.
+- Python executes code from top to bottom and stops once it encounters an error. So if there are multiple errors in a code cell, the outputted error message will typically show the first error.  
+- In Python, common types of errors include syntax errors, logic errors, and exceptions.
+	-  Syntax errors often involve punctuation such as a missing `:` at the end of a `with` statement header and a missing `,` between elements in a list.
+	- Logic errors could involve incorrect indices when accessing elements from  a list.
+	- Exceptions could involve misspelled variable names or incorrectly called string methods.
+- A key strategy for debugging is running code and examining if it produces the intended results. If the output isn't correct, or if it displays an the error message, use this to identify which line(s) of the code could be causing the issue. After fixing the code, it's important to run it again to ensure that everything works as expected.
