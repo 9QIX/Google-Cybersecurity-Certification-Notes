@@ -12,3 +12,18 @@
 - **Code Execution Example:**
 	- Test the `login_check()` function with an example username, demonstrating that users with fewer than three failed login attempts can log in while users with three or more failed attempts trigger an "account locked" message.
 - **Closing Message:** The passage concludes by acknowledging the development of a security algorithm for log analysis. It emphasizes future learning opportunities to enhance the algorithm's efficiency and recaps the covered topics, from list operations to algorithm development and file parsing, within the context of security.
+
+## Conclusion
+
+- Python has functions and syntax that help you import and parse text files.
+	- The `with` statement allows you to efficiently handle files.
+	- The `open()` function allows you to import or open a file. It takes in the name of the file as the first parameter and a string that indicates the purpose of opening the file as the second parameter.
+		-  Specify `"r"` as the second parameter if you're opening the file for reading purposes.
+		- Specify `"w"` as the second parameter if you're opening the file for writing purposes.
+  - The `.read()` method allows you to read in a file. 
+  - The `.write()` method allows you to append or write to a file.
+- You can use a `for` loop to iterate over a list.
+- You can use an `if` statement to check if a given value is in a list and execute a specific action if so.
+- You can use the `.split()` method to convert a string to a list.
+- You can use Python to compare contents of a text file against elements of a list.
+- Algorithms can be incorporated into functions. When defining a function, you must specify the parameters it takes in and the actions it should execute.
