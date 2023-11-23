@@ -9,8 +9,6 @@
 	4.  Within the function, initialize a counter variable and use a for loop to iterate through the login list.
 	5. Use an if statement to check if the loop variable is equal to the current user. If true, increment the counter by 1.
 	6. Implement a final if-else statement to print an alert if the counter is three or more, indicating an account lock.
-
 - **Code Execution Example:**
-  - Test the `login_check()` function with an example username, demonstrating that users with fewer than three failed login attempts can log in while users with three or more failed attempts trigger an "account locked" message.
-
+	- Test the `login_check()` function with an example username, demonstrating that users with fewer than three failed login attempts can log in while users with three or more failed attempts trigger an "account locked" message.
 - **Closing Message:** The passage concludes by acknowledging the development of a security algorithm for log analysis. It emphasizes future learning opportunities to enhance the algorithm's efficiency and recaps the covered topics, from list operations to algorithm development and file parsing, within the context of security.
