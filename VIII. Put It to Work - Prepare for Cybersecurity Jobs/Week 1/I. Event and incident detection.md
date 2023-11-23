@@ -30,13 +30,9 @@ In this reading, you will learn about key data classification types and the diff
 Security professionals classify data types to help them properly protect an organization from cyber attacks that negatively impact business operations. Here is a review of the most common data types:
 
 - **Public data**
-    
 - **Private data**
-    
 - **Sensitive data**
-    
 - **Confidential data**
-    
 
 ### Public data
 
