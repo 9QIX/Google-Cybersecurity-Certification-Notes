@@ -128,3 +128,10 @@ Error on line 8:
     print("Unusual logins:", unusual_logins)
 NameError: name 'unusual_logins' is not defined
 ```
+
+The output indicates there is a "NameError" involving the unusual_logins variable. You can fix this by assigning this variable a value.
+
+In addition to name errors, the following messages are output for other types of exceptions:
+	- "IndexError": An index error occurs when you place an index in bracket notation that does not exist in the sequence being referenced. For example, in the list `usernames = ["bmoreno", "tshah", "elarson"]`, the indices are 0, 1, and 2. If you referenced this list with the statement `print(usernames[3])`, this would result in an index error.
+	- "TypeError": A type error results from using the wrong data type. For example, if you tried to perform a mathematical calculation by adding a string value to an integer, you would get a type error.
+	- "FileNotFound": A file not found error occurs when you try to open a file that does not exist in the specified location.
