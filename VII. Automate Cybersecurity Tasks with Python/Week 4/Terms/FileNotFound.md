@@ -1,0 +1,1 @@
+- "**[[FileNotFound]]**": A file not found error occurs when you try to open a file that does not exist in the specified location.

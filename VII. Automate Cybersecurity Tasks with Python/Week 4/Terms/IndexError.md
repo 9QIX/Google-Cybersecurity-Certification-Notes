@@ -1,0 +1,1 @@
+- "**[[IndexError]]**": An index error occurs when you place an index in bracket notation that does not exist in the sequence being referenced. For example, in the list `usernames = ["bmoreno", "tshah", "elarson"]`, the indices are 0, 1, and 2. If you referenced this list with the statement `print(usernames[3])`, this would result in an index error.

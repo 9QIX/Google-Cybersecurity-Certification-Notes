@@ -1,0 +1,1 @@
+- "**[[TypeError]]**": A type error results from using the wrong data type. For example, if you tried to perform a mathematical calculation by adding a string value to an integer, you would get a type error.
