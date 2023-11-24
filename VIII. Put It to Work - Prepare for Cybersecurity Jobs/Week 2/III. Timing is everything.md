@@ -71,9 +71,9 @@ Confidence is an important attribute for a security analyst to have, especially 
 
 An important part of escalation is recognizing which assets and data are the most important for your organization. You can determine this information by reading through your onboarding materials, asking your supervisor directly about which assets and data are most important, and reviewing your company’s security policies. When you have that type of understanding, it allows you to recognize when one incident should be given a higher priority over others. You previously learned about the following incident classification types:
 
-- **Malware infections:** Occur when malicious software designed to disrupt a system infiltrates an organization’s computers or network
-- **Unauthorized access:** Occurs when an individual gains digital or physical access to a system, data,  or application without permission 
-- **Improper usage:** Occurs when an employee of an organization violates the organization’s acceptable use policies
+- **[[Malware infections]]:** Occur when malicious software designed to disrupt a system infiltrates an organization’s computers or network
+- **[[Unauthorized access]]:** Occurs when an individual gains digital or physical access to a system, data,  or application without permission 
+- **[[Improper usage]]:** Occurs when an employee of an organization violates the organization’s acceptable use policies
 
 Identifying a specific incident type allows you to properly prioritize and quickly escalate those incidents. Remember, an incident which directly impacts assets that are essential to business operations should always take priority over incidents that do not directly impact business operations. For example, an incident where unauthorized access has been gained to a manufacturing application should take priority over an incident where malware has infected a legacy system that does not impact business operations. As you gain experience in the cybersecurity field, you will learn how to quickly assess the priority levels of incident types. 
 
