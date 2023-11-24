@@ -1,0 +1,1 @@
+**[[Sensitive data]]**: A type of data that includes personally identifiable information (PII), sensitive personally identifiable information (SPII), and protected health information (PHI)
