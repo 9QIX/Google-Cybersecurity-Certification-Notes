@@ -1,0 +1,3 @@
+## Data controllers
+
+**[[Data controllers]]** determine the procedure and purpose for processing data. This role largely focuses on collecting the personal information of customers. The data controller determines how that data is used. The data controller also ensures that data is used, stored, and processed in accordance with relevant security and privacy regulations. If sensitive customer information was at risk, that event would be escalated to data controllers.

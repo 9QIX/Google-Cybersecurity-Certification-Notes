@@ -1,0 +1,3 @@
+## Data processors
+
+**[[Data processors]]** report directly to the data controller and are responsible for processing the data on behalf of the data controller. The data processor is typically a vendor and is often tasked with installing security measures to help protect the data. Data processing issues are typically escalated to the individual who oversees the third-party organization responsible for data processing.

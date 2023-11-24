@@ -1,0 +1,3 @@
+## Data protection officers (DPOs)
+
+**[[Data protection officers]]** are responsible for monitoring the internal compliance of an organization’s data protection procedures. These individuals advise the security team on the obligations required by the organization's data protection standards and procedures. They also conduct assessments to determine whether or not the security measures in place are properly protecting the data as necessary. DPOs are notified when set standards or protocols have been violated.  
