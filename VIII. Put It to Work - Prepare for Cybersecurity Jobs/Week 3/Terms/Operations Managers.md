@@ -1,0 +1,2 @@
+**[[Operations Managers]]:**
+     - Responsibilities: Oversee security professionals, identify and safeguard the organization from security threats, first line of defense, daily maintenance of security operations.

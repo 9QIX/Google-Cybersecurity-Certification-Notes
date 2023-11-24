@@ -1,0 +1,4 @@
+- **[[Escalation Policy]]:**
+    - Definition: Organization's process for handling security incidents. A set of actions that outline who should be notified when an incident alter occurs and how that incident should be handled.
+    - Escalation Policy Challenges: Unexpected challenges can arise, such as a supervisor being out of the office.
+    - Importance: Understanding and following the organization's escalation policy is crucial.

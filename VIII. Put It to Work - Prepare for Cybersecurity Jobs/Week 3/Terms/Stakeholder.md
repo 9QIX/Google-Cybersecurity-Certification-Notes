@@ -1,0 +1,3 @@
+- **[[Stakeholder]]:**
+    - Defined as an individual or group with an interest in the decisions or activities of an organization.
+    - Relevance: Stakeholders' decisions impact the daily work of entry-level analysts.

@@ -1,0 +1,1 @@
+**[[Data protection officer (DPO)]]**: An individual that is responsible for monitoring the compliance of an organization's data protection procedures

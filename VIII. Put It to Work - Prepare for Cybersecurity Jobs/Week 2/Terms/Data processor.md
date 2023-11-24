@@ -1,0 +1,1 @@
+**[[Data processor]]**: A person that is responsible for processing data on behalf of the data controller

@@ -1,0 +1,1 @@
+**[[Data controller]]**: A person that determines the procedure and purpose for processing data

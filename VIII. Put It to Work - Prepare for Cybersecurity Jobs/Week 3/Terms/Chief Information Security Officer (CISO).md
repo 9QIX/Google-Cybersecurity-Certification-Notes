@@ -1,0 +1,2 @@
+**[[Chief Information Security Officer (CISO)]]:**
+    - High-level executive responsible for developing security architecture, conducting risk analysis, system audits, and creating security and business continuity plans.
