@@ -87,13 +87,9 @@ After finishing the required onboarding materials, she decides to put together a
 Juliana recalls the following steps of the information lifecycle:
 
 - The first step in the information lifecycle is to identify the important assets to the company, including sensitive customer information such as PII, financial information, social security numbers, and EINs. 
-    
 - The second step is to assess the security measures in place to protect the identified assets and review the company’s information security policies. There are different components to this step, ranging from vulnerability scanning to reviewing processes and procedures that are already in place. Juliana is new to the company and might not be ready to conduct vulnerability scans. 
-    
 - The third step of the information lifecycle is to protect the identified assets of the organization. Once again, this is only Juliana’s first day on the job. She asks her supervisor if she can observe a more senior security analyst for a day. This will give her the opportunity to learn how the security team monitors the company’s systems and network.
-    
 - The last step of the security lifecycle is to monitor the security processes that have been implemented to protect the organization’s assets. She contacts her supervisor and gives them a detailed report of what she has learned on her first day. She requests to finish her day by monitoring a few of the systems that are in place. Her supervisor is impressed with her initiative and prepares Juliana to monitor the security systems. What a great first day for Juliana! 
-    
 
 ## Key takeaways
 
