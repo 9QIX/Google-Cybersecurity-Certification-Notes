@@ -45,7 +45,6 @@ Low-level security issues are security risks that do not result in the exposure 
 - An employee having one failed login attempt on their account
 - An employee downloading unapproved software onto their work laptop 
 
-
 These issues are not significant security challenges, but they must be investigated further in case they need to be escalated. An employee typing in a password two to three times might not be of concern. But if that employee types in a password 15 times within 30 minutes, there might be an issue that needs to be escalated. What if the multiple failed login attempts were a malicious actor attempting to compromise an employee’s account? What if an employee downloads an internet game or software on their work laptop that is infected with malware? You previously learned that malware is software designed to harm devices or networks. If malware is downloaded onto an organization’s network, it can lead to financial loss and even loss of reputation with the organization’s customers. While low-level security issues are not considered significant security threats, they should still be investigated to ensure they result in minimal impact to the organization.
 
 ## The escalation process
