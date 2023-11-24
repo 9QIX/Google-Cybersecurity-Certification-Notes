@@ -52,15 +52,15 @@ This information must be protected from everyone who does not have authorized ac
 
 ### Confidential data
 
-This data classification type is important for an organization’s ongoing business operations. **Confidential data** often has limits on the number of people who have access to it. Access to confidential data sometimes involves the signing of non-disclosure agreements (NDAs)— legal contracts that bind two or more parties to protect information—to further protect the confidentiality of the data. 
+This data classification type is important for an organization’s ongoing business operations. **[[Confidential data]]** often has limits on the number of people who have access to it. Access to confidential data sometimes involves the signing of non-disclosure agreements (NDAs)— legal contracts that bind two or more parties to protect information—to further protect the confidentiality of the data. 
 
-Examples of confidential data include proprietary information such as trade secrets, financial records, and sensitive government data.
+Examples of confidential data include proprietary information such as *trade secrets, financial records, and sensitive government data*.
 
 ## Asset classification
 
-**Asset classification** means labeling assets based on sensitivity and importance to an organization. The classification of an organization's assets ranges from low- to high-level. 
+**[[Asset classification]]** means labeling assets based on sensitivity and importance to an organization. The classification of an organization's assets ranges from low- to high-level. 
 
-Public data is a low-level asset. It is readily available to the public and will not have a negative impact on an organization if compromised. Sensitive data and confidential data are high-level assets. They can have a significantly negative impact on an organization if leaked publicly. That negative impact can lead to the loss of a company’s competitive edge, reputation, and customer trust. A company’s website address is an example of a low-level asset. An internal email from that company discussing trade secrets is an example of a high-level asset. 
+*Public data is a low-level asset.* It is readily available to the public and will not have a negative impact on an organization if compromised. *Sensitive data and confidential data are high-level assets*. They can have a significantly negative impact on an organization if leaked publicly. That negative impact can lead to the loss of a company’s competitive edge, reputation, and customer trust. A company’s website address is an example of a low-level asset. An internal email from that company discussing trade secrets is an example of a high-level asset. 
 
 ## Key takeaways
 
