@@ -1,0 +1,25 @@
+# Prepare to escalate through security recognition
+
+- **Overview of Incident Escalation:**
+    - Definition: Previously discussed what it means to escalate an incident.
+    - Skills: Previous discussion on the skills needed for proper incident escalation.
+- **Incident Classification Types:**
+    - Malware Infection
+    - Unauthorized Access
+    - Improper Usage
+- **Malware Infection:**
+    - Definition: Malicious software disrupting a system by infiltrating an organization's computers or network.
+    - Forms: Various types discussed, including phishing attempts and ransomware attacks.
+    - Impact: Slowed network speeds, potential data lockdown for ransom.
+    - Significance: Especially impactful due to the sensitivity of data stored on an organization's network.
+- **Unauthorized Access:**
+    - Definition: Occurs when an individual gains digital or physical access to a system or application without permission.
+    - Methods: Reference to brute force attacks discussed earlier in the program.
+    - Escalation: All unauthorized access incidents are important to escalate; urgency depends on the criticality to the organization's business operations.
+- **Improper Usage:**
+    - Definition: Occurs when an employee violates the organization's acceptable use policies.
+    - Complexity: Instances can be unintentional or intentional.
+    - Decision-Making: Determining accidental or intentional acts can be difficult, hence escalation to a supervisor is recommended.
+- **General Advice:**
+    - Importance of knowing incident types and how to escalate them.
+    - Acknowledgment that encountering various incident types is likely in the role of a security team member.
