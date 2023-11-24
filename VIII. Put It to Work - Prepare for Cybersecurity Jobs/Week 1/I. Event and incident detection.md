@@ -36,19 +36,19 @@ Security professionals classify data types to help them properly protect an orga
 
 ### Public data
 
-This data classification does not need extra security protections. **[[Public data]]** is already accessible to the public and poses a minimal risk to the organization if viewed or shared by others. Although this data is open to the public, it still needs to be protected from security attacks. Examples of public data include press releases, job descriptions, and marketing materials.
+This data classification does not need extra security protections. **[[Public data]]** is already accessible to the public and poses a minimal risk to the organization if viewed or shared by others. Although this data is open to the public, it still needs to be protected from security attacks. Examples of public data include *press releases, job descriptions, and marketing materials*.
 
 ### Private data
 
-This data classification type has a higher security level. **Private data** is information that should be kept from the public. If an individual gains unauthorized access to private data, that event has the potential to pose a serious risk to an organization. 
+This data classification type has a higher security level. **[[Private data]]** is information that should be kept from the public. If an individual gains unauthorized access to private data, that event has the potential to pose a serious risk to an organization. 
 
-Examples of private data can include company email addresses, employee identification numbers, and an organization’s research data. 
+Examples of private data can include company *email addresses, employee identification numbers, and an organization’s research data.* 
 
 ### Sensitive data
 
 This information must be protected from everyone who does not have authorized access. Unauthorized access to sensitive data can cause significant damage to an organization’s finances and reputation. 
 
-**Sensitive data** includes personally identifiable information (PII), sensitive personally identifiable information (SPII), and protected health information (PHI). Examples of these types of sensitive data are banking account numbers, usernames and passwords, social security numbers (which U.S. citizens use to report their wages to the government), passwords, passport numbers, and medical information. 
+**[[Sensitive data]]** includes personally identifiable information (PII), sensitive personally identifiable information (SPII), and protected health information (PHI). Examples of these types of sensitive data are *banking account numbers, usernames and passwords, social security numbers (which U.S. citizens use to report their wages to the government), passwords, passport numbers, and medical information*. 
 
 ### Confidential data
 
