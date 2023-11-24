@@ -53,3 +53,8 @@ A **[[data owner]]** is the person that decides who can access, edit, use, or de
 ## Key takeaways
 
 Incident escalation requires various members of a security team to act as one. Entry-level analysts should be familiar with the roles and responsibilities of different team members on the security team. As an entry-level analyst, you will typically escalate incidents to your direct supervisor. However, it’s still important to have an understanding of the different team members as you move forward in your security career because it will help you recognize which incidents should be reported to whom.
+
+# Identify: Analyze cybersecurity incidents and their impact
+
+![[Pasted image 20231124180949.png]]
+
