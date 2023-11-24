@@ -1,11 +1,38 @@
 # Detect and protect without neglect
 
-- **Security Incidents:** Events compromising organization data and assets. Impact includes financial losses, regulatory fines, and loss of credibility.
-- **Collaboration in Security:** Teamwork is essential for diverse security concerns. Team members focus on financial data, usernames/passwords, third-party vendor security, and employee PII.
-- **Data Protection:** Recognition of multi-level impact of protected assets and data. Emphasis on the critical importance of protecting customer data.
-- **Security Mindset:** Security professionals must handle sensitive data with care. Attention to detail is crucial for ensuring protection of private data from breaches.
-- **Security Incidents vs. Resolved Events:** A security incident results in a data breach; a resolved event does not. Proactive approach: Report even seemingly small issues to supervisors.
-- **Issues in Security:** Examples include unauthorized app installations, identification of malicious code in logs. Importance of reporting: No issue is too small or too big; potential impacts range from operational downtime to severe financial consequences.
-- **Responsibility in Security:** Every day as a security professional comes with a level of responsibility. Decisions made affect the organization, its customers, and team members.
-- **Caution and Reporting:** Security professionals should exercise caution and report events to appropriate team members when uncertain of potential impacts.
-- **Overall Message:** Each action in the role of a security professional is significant. Decisions made have far-reaching consequences, emphasizing the importance of the role in the realm of cybersecurity.
+- **Security Incidents and Impact:**
+    - Definition: Events compromising organization data and assets.
+    - Impact: Financial losses, regulatory fines, loss of credibility with customers and industry peers.
+- **Role of Security Professionals:**
+    - Importance: Critical in protecting company data and assets.
+    - Collaborative Nature: No security professional can work alone.
+    - Diverse Team Focus: Various team members handle sensitive financial data, usernames/passwords, third-party vendor security, and employees' PII.
+- **Stakeholder Interest:**
+    - Stakeholders across the organization have an interest in the security team's role.
+    - Goal: Keeping the organization and its people safe from malicious attacks.
+- **Data Protection and Customer Trust:**
+    - Multi-level impact of protected assets and data.
+    - Emphasis on the protection of customer data.
+    - Customer Trust: Organizations are trusted to protect *credit card numbers, Social Security numbers, emails, usernames, passwords, etc.*
+- **Security Mindset:**
+    - Understanding the importance of the data being protected.
+    - Importance of a strong security mindset for security professionals.
+- **Handling Sensitive Data:**
+    - Security professionals must handle sensitive data with care.
+    - Attention to detail: Crucial for ensuring the protection of private data from breaches.
+- **Security Events and Incidents:**
+    - Definition: A security event resulting in a data breach is categorized as a security incident.
+    - Resolution: If an event is resolved without a breach, it's not considered an incident.
+- **Proactive Approach and Attention to Detail:**
+    - Better to be safe: Pay attention to details in the security profession.
+    - Raising Issues: Seemingly small issues, like unauthorized app installations, should be escalated to supervisors due to potential vulnerabilities.
+- **Example Issues:**
+    - Unauthorized app installations and potential app vulnerabilities.
+    - Identification of malicious code in logs.
+    - Importance: No issue is too small or too big; potential impacts range from operational downtime to severe financial consequences.
+- **Responsibility in Security:**
+    - Daily responsibility for security professionals.
+    - Decisions made affect the organization, its customers, and team members across different departments.
+- **Final Message:**
+    - Emphasis on the significance of each action by security professionals.
+    - The reminder that decisions made have far-reaching consequences, underlining the importance of the role in the realm of cybersecurity.
