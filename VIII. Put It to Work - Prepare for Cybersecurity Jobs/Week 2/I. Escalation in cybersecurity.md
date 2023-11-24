@@ -1,0 +1,27 @@
+# The importance of escalation
+
+- **Incident Escalation Overview:**
+    - Definition: Process of identifying potential security incidents, triaging, and handing off to more experienced team members.
+    - Importance: Protects company assets and data.
+- **Roles in Incident Escalation:**
+    - Entry-level analysts unlikely to respond independently.
+    - Importance: Knowing how to evaluate and escalate incidents when necessary.
+- **Essential Skills for Escalation:**
+    - Attention to detail: Identifying anomalies in the organization's network or systems.
+    - Following escalation guidelines: Knowing how to properly escalate identified issues.
+- **Security Team Structure:**
+    - Larger organizations have multi-level security teams.
+    - Roles include Chief Information Security Officer (CISO), engineering, public relations, legal.
+    - Each role's significance depends on the nature and scope of the incident.
+- **Importance of Timely Escalation:**
+    - Even minor incidents can escalate if not addressed promptly.
+    - Potential consequences: Financial costs, exposure of sensitive customer data, damage to company reputation.
+- **Role of Entry-Level Analysts:**
+    - Crucial in helping identify issues within the network and systems.
+    - Responsible for ensuring the right team member is alerted when incidents occur.
+- **Analogy to an Assembly Line:**
+    - Every decision by entry-level analysts impacts the entire security team.
+    - Importance of correctly identifying and escalating incidents.
+- **Decision-Making in Incident Escalation:**
+    - Knowing when and how to escalate incidents is a critical daily decision.
+    - Future discussions on various levels of security incidents and determining urgency for escalation.
