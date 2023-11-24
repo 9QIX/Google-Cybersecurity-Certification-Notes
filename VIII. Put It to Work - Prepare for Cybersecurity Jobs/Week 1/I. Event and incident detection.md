@@ -65,3 +65,8 @@ Examples of confidential data include proprietary information such as *trade sec
 ## Key takeaways
 
 Every company has their own data classification policy that identifies what type of data is in each category. It will be important to your success as a security professional to familiarize yourself with that policy. Understanding different data and asset classification types is important. It helps you prioritize what data needs to be protected most. It also helps you recognize what assets need higher levels of security and what assets need minimal security.
+
+# Explore: Asset protection
+
+![[Pasted image 20231124153128.png]]
+
