@@ -1,0 +1,3 @@
+This data classification type is important for an organization’s ongoing business operations. **[[Confidential data]]** often has limits on the number of people who have access to it. Access to confidential data sometimes involves the signing of non-disclosure agreements (NDAs)— legal contracts that bind two or more parties to protect information—to further protect the confidentiality of the data. 
+
+Examples of confidential data include proprietary information such as *trade secrets, financial records, and sensitive government data*.
