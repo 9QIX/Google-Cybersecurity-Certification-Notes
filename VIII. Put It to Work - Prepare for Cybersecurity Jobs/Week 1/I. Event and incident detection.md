@@ -36,7 +36,7 @@ Security professionals classify data types to help them properly protect an orga
 
 ### Public data
 
-This data classification does not need extra security protections. **Public data** is already accessible to the public and poses a minimal risk to the organization if viewed or shared by others. Although this data is open to the public, it still needs to be protected from security attacks. Examples of public data include press releases, job descriptions, and marketing materials.
+This data classification does not need extra security protections. **[[Public data]]** is already accessible to the public and poses a minimal risk to the organization if viewed or shared by others. Although this data is open to the public, it still needs to be protected from security attacks. Examples of public data include press releases, job descriptions, and marketing materials.
 
 ### Private data
 
