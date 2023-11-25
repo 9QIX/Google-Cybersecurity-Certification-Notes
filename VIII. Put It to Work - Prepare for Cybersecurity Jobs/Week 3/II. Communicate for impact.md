@@ -63,13 +63,9 @@ You previously learned about security stakeholders and their significance in an 
 Security stakeholders have roles and responsibilities that are time sensitive and impact the business. It’s important that any communications they receive, and the actions they need to take, are clear. To get to the point in your communications, ask yourself: 
 
 - What do I want this person to know? 
-    
 - Why is it important for them to know it? 
-    
 - When do they need to take action?
-    
 - How do I explain the situation in a nontechnical manner?
-    
 
 ## Follow the protocols 
 
@@ -86,17 +82,11 @@ When you communicate with an operations manager, make sure you address relevant 
 Your method of communication will vary, depending on the type of information you’re sharing. Knowing which communication channels are appropriate for different scenarios is a great skill to help you communicate effectively with stakeholders. Here are a few ways you might choose to communicate:
 
 - Instant messaging
-    
 - Emailing
-    
 - Video calling
-    
-- Phone calls
-    
+- Phone calls 
 - Sharing a spreadsheet of data
-    
 - Sharing a slideshow presentation 
-    
 
 If your message is straightforward, an instant message or phone call might be the route to take. If you have to describe a complex situation with multiple layers, an email or in-person meeting might be the better option. If you’re providing a lot of data and numbers, sharing a graph might be the best solution. Each situation helps you determine the best means of communication. 
 
