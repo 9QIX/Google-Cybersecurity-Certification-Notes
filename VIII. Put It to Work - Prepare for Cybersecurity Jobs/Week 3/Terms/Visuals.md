@@ -1,0 +1,4 @@
+- **Visual Elements in Communication:**
+	- Importance: **[[Visuals]]** enhance understanding and retention.
+	- Formats: Graphs, charts, videos, dashboards, etc.
+	- Upcoming Learning Opportunity: Use of Google Sheets for creating visual security stories.
