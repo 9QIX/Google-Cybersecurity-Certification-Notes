@@ -1,0 +1,26 @@
+# Clear and concise communication
+
+- **Introduction:**
+	- Recap: Previous discussion on stakeholders and their roles within an organization.
+	- Focus: Exploring the role of communication with stakeholders.
+- **Sensitivity of Information:**
+	- Example: Sending an email about a security breach requires mindfulness.
+	- Tailored Communication: Different stakeholders need to be informed about different issues.
+	- Communication Criteria: Clear, concise, focused, and mindful of details.
+- **Detail-Oriented Profession:**
+	- Emphasis: Security is a detail-driven profession.
+	- Importance: Staying mindful of details in communication is essential.
+- **Guidelines for Communication:**
+	- Stakeholder Busyness: Stakeholders are busy, communication should be precise.
+	- Clarity: Avoid unnecessary technical terms; have a clear purpose.
+	- Questions: Ask managers or supervisors about stakeholders' information needs.
+- **Security Mindset in Communication:**
+	- Recall: Earlier discussion on having a security mindset.
+	- Questions Example: What's the most important data to protect daily? Which security tool is crucial for data and asset protection?
+	- Understanding Stakeholders: Knowing what matters most to stakeholders for effective communication.
+- **Effective Communication Principles:**
+	- Relay Relevant Information: Communicate only the most relevant information to stakeholders.
+	- Stakeholder Empowerment: Keeping stakeholders informed helps them perform their roles effectively.
+- **Conclusion:**
+	- Role Significance: Illustration of the essential role within a security team.
+	- Teaser: Upcoming discussion on the most important information to communicate with stakeholders.
