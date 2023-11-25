@@ -1,0 +1,4 @@
+- **[[Email Communication]]:**
+	- Sensitivity: Be mindful of sensitive information in email and phone communications.
+	- Security Procedures: Follow organization's playbook guidelines for communicating sensitive data.
+	- Caution: Ensure emails are sent to the correct recipients to avoid risks associated with confidential information leakage.

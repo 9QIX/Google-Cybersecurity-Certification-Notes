@@ -3,11 +3,11 @@
 - **Introduction:**
 	- Importance: Communication skills as a valuable asset for security professionals.
 	- Focus: Various communication strategies for engaging with stakeholders.
-- **Visual Communication:**
+- **[[Visual Communication]]:**
 	- Impact: Visuals enhance storytelling by presenting impactful data and metrics.
 	- Tools: Charts and graphs for comparing data points or illustrating parts of larger issues.
 	- Detail: Use relevant and detailed graphics to develop compelling security stories.
-- **Email Communication:**
+- **[[Email Communication]]:**
 	- Sensitivity: Be mindful of sensitive information in email and phone communications.
 	- Security Procedures: Follow organization's playbook guidelines for communicating sensitive data.
 	- Caution: Ensure emails are sent to the correct recipients to avoid risks associated with confidential information leakage.

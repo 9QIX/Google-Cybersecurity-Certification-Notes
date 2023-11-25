@@ -1,0 +1,4 @@
+- **[[Visual Communication]]:**
+	- Impact: Visuals enhance storytelling by presenting impactful data and metrics.
+	- Tools: Charts and graphs for comparing data points or illustrating parts of larger issues.
+	- Detail: Use relevant and detailed graphics to develop compelling security stories.
