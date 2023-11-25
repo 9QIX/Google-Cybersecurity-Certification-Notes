@@ -34,12 +34,12 @@
 	- Analogy: Drawing parallels between security communications and storytelling.
 	- Components: Beginning, middle, end, conflict, and resolution.
 - **Security Story Elements:**
-	1. **Description of the Issue:**
+	1. **What the security challenge is (Description of the issue):**
 		- Example: Potential malicious code execution found in system logs.
-	2. **Reference to Incident Response Playbook:**
+	2. **How it impacts the organization (Reference to incident response playbook):**
 		- Guidance: Mention suggestions from the playbook regarding malicious code found in logs.
 		- Demonstration: Indicates adherence to established team procedures.
-	3. **Proposed Solution:**
+	3. **Possible solution to the issue (Proposed solution):**
 		- Clarification: Acknowledgment of not being the final decision-maker, but offering a potential solution.
 - **Communication Channels:**
 	- Options: Email, documents, visual representations, incident management or ticketing systems.
