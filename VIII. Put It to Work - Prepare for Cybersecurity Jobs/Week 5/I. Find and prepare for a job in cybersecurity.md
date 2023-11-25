@@ -2,10 +2,10 @@
 
 - **Introduction:**
 	- Reflection: Recap of earlier discussions on security roles in the industry.
-- **Security Analyst:**
+- **[[Security Analyst]]:**
 	- Role Overview: Entry-level position focusing on monitoring networks, developing security strategies, and researching IT security trends.
 	- Relevant Skills: Foundational understanding of log monitoring and SIEM tools.
-- **Information Security Analyst:**
+- **[[Information Security Analyst]]:**
 	- Role Overview: Focus on creating and implementing security measures to protect networks and systems.
 	- Relevant Skills: Knowledge of controls, frameworks, and tools for risk identification.
 - **Security Operations Center Analyst (SOC Analyst):**

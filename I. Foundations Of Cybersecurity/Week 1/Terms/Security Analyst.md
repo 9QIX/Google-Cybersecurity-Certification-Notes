@@ -14,3 +14,7 @@ The job of the **[[security analyst]]** is to continuously monitor an environmen
 - Escalating or resolving alerts 
 
 If a critical threat is identified, then analysts escalate it to the appropriate team lead, such as the technical lead.
+
+- **[[Security Analyst]]:**
+	- Role Overview: Entry-level position focusing on monitoring networks, developing security strategies, and researching IT security trends.
+	- Relevant Skills: Foundational understanding of log monitoring and SIEM tools.
