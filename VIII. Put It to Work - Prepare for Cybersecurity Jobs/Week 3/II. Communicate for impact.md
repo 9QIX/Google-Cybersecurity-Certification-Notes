@@ -24,3 +24,32 @@
 - **Conclusion:**
 	- Role Significance: Illustration of the essential role within a security team.
 	- Teaser: Upcoming discussion on the most important information to communicate with stakeholders.
+
+# Building blocks of cybersecurity communications
+
+- **Introduction:**
+	- Recap: Importance of specific and clear communications for stakeholders.
+	- Focus: Detailed guidance on creating precise and clear security communications.
+- **Communication Structure:**
+	- Analogy: Drawing parallels between security communications and storytelling.
+	- Components: Beginning, middle, end, conflict, and resolution.
+- **Security Story Elements:**
+	1. **Description of the Issue:**
+		- Example: Potential malicious code execution found in system logs.
+	2. **Reference to Incident Response Playbook:**
+		- Guidance: Mention suggestions from the playbook regarding malicious code found in logs.
+		- Demonstration: Indicates adherence to established team procedures.
+	3. **Proposed Solution:**
+		- Clarification: Acknowledgment of not being the final decision-maker, but offering a potential solution.
+- **Communication Channels:**
+	- Options: Email, documents, visual representations, incident management or ticketing systems.
+	- Utilization: Selection based on the nature of the scenario and stakeholders involved.
+- **Visual Elements in Communication:**
+	- Importance: Visuals enhance understanding and retention.
+	- Formats: Graphs, charts, videos, dashboards, etc.
+	- Upcoming Learning Opportunity: Use of Google Sheets for creating visual security stories.
+- **Empowering Stakeholders:**
+	- Role: A security professional who effectively communicates helps stakeholders make informed decisions.
+	- Goal: Facilitate stakeholders' jobs by providing clear and compelling security stories.
+- **Upcoming Discussion:**
+	- Teaser: Continuing the discussion on effective communication with stakeholders.
