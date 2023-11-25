@@ -59,7 +59,7 @@ For example, consider a situation where your supervisor has asked you to provide
 
 Stakeholders, like the rest of the security team, are busy. With that in mind, be clear and concise any time you communicate with them. This makes everyone’s job easier! It’s important to recognize when visual dashboards are the most effective communication method. A visual dashboard is often best to use when you’re communicating information that involves numbers and data.
 
-# Creating a Visual Security Story in Google Sheets
+# How to create a visual dashboard
 
 - **Introduction:**
 	- Purpose: Creating a visual security story to convey essential information to stakeholders.
@@ -94,6 +94,7 @@ Stakeholders, like the rest of the security team, are busy. With that in mind, b
 	10. Click on the "Chart & axis titles" section.
 	11. Update the title (e.g., Clicked phishing emails by department).
 	12. Click the "x" icon to close the chart editor.
+- ![[Pasted image 20231125202955.png]]
 - **Conclusion:**
 	- Significance: Visual stories help convey information to stakeholders in a meaningful way.
 	- Impact: Promotes understanding of security issues within the organization and aids decision-makers in addressing risks.
