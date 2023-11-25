@@ -1,0 +1,22 @@
+# Engage with the cybersecurity community in a meaningful way
+
+- **Introduction:**
+	- Importance: Connecting with industry professionals to advance your career in security.
+- **Effective Use of Social Media:**
+	- Caution: Be mindful of the information you share and responses to unknown messages.
+	- Focus: Ways to use social media for career advancement.
+- **Following Security Leaders:**
+	- Recommendation: Follow Chief Information Security Officers (CISOs) and other industry leaders.
+	- Platform: Preferably use LinkedIn® for professional connections.
+	- Finding CISOs: Conduct an internet search for CISOs of organizations of interest.
+- **Connecting with Analysts:**
+	- Approach: Connect with other security analysts on platforms like LinkedIn®.
+	- Search: Use keywords like cybersecurity analysts and explore related groups and events.
+	- Connection Request: Include a brief comment expressing your interest in learning from their experiences.
+- **Alternative Ways to Connect:**
+	- Joining Associations: Research and join cybersecurity industry associations aligned with your goals.
+	- Search Tip: Use the term "cybersecurity industry associations" for a variety of options.
+- **Conclusion:**
+	- Action Items: Follow a CISO on LinkedIn®, connect with fellow analysts, and explore cybersecurity associations.
+	- Upcoming: Next video.
+	- Farewell: That's all for now. See you in the next video!
