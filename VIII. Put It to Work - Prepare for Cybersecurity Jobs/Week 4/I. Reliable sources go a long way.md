@@ -4,7 +4,7 @@
 
 - **Introduction:**
 	- Importance: Staying up-to-date on the latest security trends and news in an evolving industry.
-- **OWASP Top 10:**
+- **[[OWASP Top 10]]:**
 	- Significance: Globally recognized standard awareness document listing the top 10 most critical security risks to web applications.
 	- Update Frequency: Every three to four years, showcasing the evolving nature of the field.
 - **Continuing Security Education:**
