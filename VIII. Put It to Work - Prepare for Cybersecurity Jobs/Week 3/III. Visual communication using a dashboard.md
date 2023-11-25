@@ -98,3 +98,25 @@ Stakeholders, like the rest of the security team, are busy. With that in mind, b
 - **Conclusion:**
 	- Significance: Visual stories help convey information to stakeholders in a meaningful way.
 	- Impact: Promotes understanding of security issues within the organization and aids decision-makers in addressing risks.
+
+# Juliana’s story: Effective communication
+
+Throughout this course, you’ve been following the story of Juliana Soto. Juliana was recently hired as a cybersecurity analyst by Right-On-Time Payment Solutions, a payment processing company that handles sensitive customer information. In [the reading about attention to detail](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/supplement/Wqjc4/julianas-story-attention-to-detail), Juliana had to deal with two different types of security incidents, and she used her company’s escalation policy to properly escalate the two incidents. Now you will review how Juliana handled communication with stakeholders after escalating the incidents.
+
+## Communicating with stakeholders after an incident
+
+Days after escalating the two incidents, Juliana’s manager asks her to communicate information about the incidents to stakeholders. 
+
+### **Communicating about incident #1**
+
+One of the incidents dealt with an employee being locked out of their account due to multiple failed login attempts. Juliana’s manager was recently asked to provide a report that reviews how many departments have experienced locked employee accounts due to failed login attempts over the last month. The security team shared data that details the number of locked employee accounts due to multiple failed login attempts from five different departments.
+
+Juliana’s manager will report the information to the senior executives of each of the five departments. The manager asks Juliana to display the data in a way that communicates the incident clearly to these stakeholders. For this task, Juliana decides to put together a visual dashboard to represent the data because the communication is primarily focused on numbers. Her dashboard will use charts and graphs to relay important information, like the number of  employees who have been locked out of their accounts in the last month. Juliana's visual dashboard makes it easier for the high-level stakeholders to review incident #1 and determine a course of action. 
+
+### **Communicating about incident #2**
+
+Juliana’s manager has also been informed that the Chief Information Security Officer (CISO) wants more information about what took place during the second incident, which involved an attacker almost compromising a system that stores customers’ private data. This communication will include a more detailed report that establishes what processes and procedures worked well during attackers' attempts to compromise the system and what processes and procedures might need to be revised. Because this is a more detailed communication, Juliana decides to put together a detailed document with timelines that clearly explain what happened. The document also includes her thoughts on what the security team, data owners, and data processors could have done differently to protect the system in question. She shares the report with her manager so they can review it.
+
+## Key takeaways
+
+Communications for stakeholders should always be focused on what matters to them most. Some stakeholders will be more focused on the data and numbers, and other stakeholders will be more focused on how policies and procedures are working to prevent cyber attacks. Recognizing what’s important to each stakeholder will help an analyst decide what method of communication is best to use.
