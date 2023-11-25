@@ -1,4 +1,4 @@
-# Effective Communication Strategies for Security Professionals
+# Visual storytelling in cybersecurity
 
 - **Introduction:**
 	- Importance: Communication skills as a valuable asset for security professionals.
@@ -58,3 +58,42 @@ For example, consider a situation where your supervisor has asked you to provide
 ## Key takeaways
 
 Stakeholders, like the rest of the security team, are busy. With that in mind, be clear and concise any time you communicate with them. This makes everyone’s job easier! It’s important to recognize when visual dashboards are the most effective communication method. A visual dashboard is often best to use when you’re communicating information that involves numbers and data.
+
+# Creating a Visual Security Story in Google Sheets
+
+- **Introduction:**
+	- Purpose: Creating a visual security story to convey essential information to stakeholders.
+	- Scenario: Chief Information Security Officer (CISO) wants to know which departments click on phishing emails the most.
+- **Platform Options:**
+	- Apache OpenOffice: Free, open-source office suite for creating visual representations.
+	- Google Sheets: No-cost option with the capability to create spreadsheets and visual stories.
+- **Google Account Creation:**
+	1. Go to [Google.com](https://www.google.com/).
+	2. Click on "Sign in."
+	3. Click "Create account."
+	4. Select "For my personal use."
+	5. Complete each step to create your personal account.
+- **Creating Google Sheets Visualization:**
+	1. Click the dots menu in the top right corner.
+	2. Click the Sheets icon.
+	3. Click "Blank" to start a new spreadsheet.
+	4. Enter data:
+		- A1: Department, B1: # of clicked phishing emails
+		- A2: Human Resources, B2: 30
+		- A3: Customer Service, B3: 18
+		- A4: Global Security, B4: 10
+		- A5: Media Relations, B5: 40
+		- A6: Professional Development, B6: 27
+	5. Select rows and columns containing headers, department names, and data.
+	6. Click "Insert" at the top of the sheet.
+	7. Select "Chart" from the dropdown menu.
+	8. In the Chart editor menu:
+		- Click the Chart type drop-down menu, scroll to bar chart options.
+		- Select the first bar chart.
+	9. In the Chart editor menu, click "Customize."
+	10. Click on the "Chart & axis titles" section.
+	11. Update the title (e.g., Clicked phishing emails by department).
+	12. Click the "x" icon to close the chart editor.
+- **Conclusion:**
+	- Significance: Visual stories help convey information to stakeholders in a meaningful way.
+	- Impact: Promotes understanding of security issues within the organization and aids decision-makers in addressing risks.
