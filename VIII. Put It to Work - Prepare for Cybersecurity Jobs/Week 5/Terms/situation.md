@@ -1,0 +1,3 @@
+### **Situation**
+
+The **[[situation]]** is the project you worked on or a challenge that you had to overcome. For example, perhaps you had to manage a disgruntled customer’s negative feedback about your company,  a system error on your work device that slowed down a customer transaction, or being left alone in the office for an extended period of time. Fully describing the situation allows the interviewer to gain a clear understanding of the challenge you had to overcome.  

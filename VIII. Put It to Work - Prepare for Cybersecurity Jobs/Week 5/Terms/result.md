@@ -1,0 +1,3 @@
+### **Result**
+
+Finally, sharing the **[[result]]** of your challenge or example shows the employers how the situation was resolved as a direct result of the actions you took. When participating in an interview, you want to make sure that any example you give with the STAR method ends in a positive result. Positive results show an employer that you are someone who has demonstrated an ability to successfully resolve issues and may lead an employer to offer you a job. Of course, not all situations have completely positive outcomes; if an employer asks you about a situation that didn’t have a positive outcome, try to focus on what you learned from the situation and how that experience helped you become a better employee. 
