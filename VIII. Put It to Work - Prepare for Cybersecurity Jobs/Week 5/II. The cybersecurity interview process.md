@@ -92,10 +92,10 @@ Interviews are a great opportunity to learn more about a job and the company you
 	- Organize answers using the STAR method for clarity.
 	- Thinking out loud helps the interviewer follow your thought process.
 - **STAR Method:**
-	- Situation
-	- Task
-	- Action
-	- Results
+	- **Situation**: Describe the context or background of a specific situation you faced. Provide details about where and when it occurred.
+	- **Task**: Clearly outline the task or challenge you were assigned within that situation. What was your role? What were the goals or expectations?
+	- **Action**: Explain the specific actions you took to address the situation and accomplish the task. Highlight your individual contributions and any steps you took to overcome obstacles.
+	- **Results**: Share the outcomes and results of your actions. What happened as a result of your efforts? This is an opportunity to discuss achievements, improvements, or lessons learned.
 - **Admission of Not Knowing:**
 	- It's acceptable not to know the answer.
 	- Honesty is crucial; don't pretend to know if you don't.
