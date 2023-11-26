@@ -135,17 +135,14 @@ Additionally, it may be a good idea to write the entire question down on paper b
 Every technical interview will be different, depending on the company and the interviewers. But here are a few possible technical interview questions to help you prepare:
 
 - What is the TCP/IP model? 
-    
 
 The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network.
 
 - What is the OSI model?
-    
 
 The OSI model stands for open systems interconnection (OSI) model. It is a standardized concept that describes the seven layers computers use to communicate and send data over the network.
 
 - What are SIEM tools and what are they used for? 
-    
 
 SIEM tools are security information and event management tools that are used by security professionals to identify and analyze security threats, risks, and vulnerabilities.
 
