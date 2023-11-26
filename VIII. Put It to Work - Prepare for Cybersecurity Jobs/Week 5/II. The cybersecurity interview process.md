@@ -182,12 +182,12 @@ Technical interviews are a great opportunity to show your potential employer you
 
 # Build rapport with interviewers
 
-- **Definition of Rapport:**
+- **Definition of [[Rapport]]:**
 	- A friendly relationship where people understand each other's ideas and communicate well.
-- **Initiating Rapport Building:**
-	- Starts from the first interaction with the company's staff through phone, email, or video conference.
-	- Use a professional tone in emails expressing interest in the job while being polite and friendly.
-	- Express appreciation for being considered and the potential opportunity to interview.
+	- **Initiating Rapport Building:**
+		- Starts from the first interaction with the company's staff through phone, email, or video conference.
+		- Use a professional tone in emails expressing interest in the job while being polite and friendly.
+		- Express appreciation for being considered and the potential opportunity to interview.
 - **Phone Screen Etiquette:**
 	- Use a friendly, conversational tone during initial phone screens.
 	- Smile while talking to sound friendlier, even though the other person can't see you.
