@@ -77,3 +77,41 @@ LinkedIn® professional services is a social networking site where you can also 
 ## Key takeaways
 
 Building a network of security professionals, viewing and applying for jobs on various sites, and using professional networking applications like LinkedIn are great ways to find a job in the cybersecurity profession. So, use all of these resources to your advantage!
+
+# Cover letter tips
+
+- **Introduction:**
+    - The speaker is Garvey, a global staffing manager at Google, responsible for hiring cybersecurity engineers worldwide.
+- **Unique Nature of Cybersecurity Hiring:**
+    - Cybersecurity is a rapidly evolving field with candidates from diverse backgrounds.
+    - Cover letters offer an opportunity to convey personal stories beyond the facts listed in a resume.
+- **Purpose of Cover Letters:**
+    - Cover letters reveal the candidate's identity and motivations.
+    - Answers the question: Why cybersecurity? What draws the candidate to this field?
+- **Understanding Candidate Passion:**
+    - Candidates often have a personal connection to cybersecurity, such as being a victim of cybercrime or witnessing its impact.
+    - Garvey is interested in understanding the candidate's passion and interest in the cybersecurity space.
+- **Cover Letter Length:**
+    - No strict rule on length, but it should be concise and impactful.
+    - Suggested structure: Brief introduction, personal details, uniqueness, motivations, soft skills, career transition reasons (if applicable), and alignment with company mission.
+- **Tailoring the Cover Letter:**
+    - Emphasizes the importance of tailoring the cover letter to the specific company and its mission.
+    - Encourages candidates to align their goals with the company's purpose and products.
+- **Capturing Attention:**
+    - A cover letter is meant to quickly capture attention and maintain interest.
+    - Being bold and expressive is encouraged, but simplicity in language is also advised.
+- **Highlighting Unique Qualities:**
+    - Candidates should emphasize what makes them unique and differentiates them from other applicants.
+    - Overcoming adversity and plans for handling challenges in the work environment should be addressed.
+- **Addressing Career Transitions:**
+    - For those transitioning to a cybersecurity career, the cover letter should explain the reasons behind the shift.
+    - Highlight what excites the candidate about cybersecurity and what was missing in their previous career.
+- **Long-Term Commitment:**
+    - Garvey expresses the desire to retain candidates in the long term and wants to understand what will keep them happy.
+    - Candidates are encouraged to convey their passion for the field and what excites them about the cybersecurity space.
+- **Company Knowledge:**
+    - Stress on the importance of knowing the company's mission, purpose, and products.
+    - Advises candidates to integrate this knowledge into their cover letters.
+- **Concluding Advice:**
+    - Be bold, capture attention quickly, and focus on what makes the candidate stand out.
+    - Simplicity in words is recommended, but the content should be compelling and unique.
