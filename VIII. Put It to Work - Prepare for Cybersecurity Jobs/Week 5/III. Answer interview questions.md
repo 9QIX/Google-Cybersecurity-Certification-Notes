@@ -54,3 +54,16 @@ Finally, sharing the **[[result]]** of your challenge or example shows the emplo
 ## Key takeaways
 
 The STAR method stands for Situation, Task, Action, and Result. Following this method helps you communicate to an employer an example of a challenge you faced in the workplace. Remember to use one of your success stories when using the STAR method on an interview. Challenges arise all the time in the security world, so being able to demonstrate an ability to overcome any type of challenge is a great trait to show off during an interview. Plus, since cybersecurity is such a team-driven industry, being able to communicate effectively to an interviewer will help you be a competitive applicant.
+
+# Common Behavioral Interview Questions for Cybersecurity Analysts
+
+1. Describe an experience advising and working with internal business units on security related issues. How did you meet with teams, address questions, encourage compliance, and help ensure optimal productivity?
+2. Describe an experience in which you implemented a security solution. What was your solution, how did you help with implementation, and what were the results?
+3. Describe an experience in which you used your cybersecurity skills effectively. How did you analyze variables and identify anomalies to improve security and productivity for your company?
+4. Tell me about a time when an update in the field of information security, cybersecurity, or regulatory compliance took you by surprise. What was this update and how did you learn of it? What do you do today to stay up-to-date on relevant information?
+5. Describe an experience in which you used technical security tools as part of issue resolution. How did you assess the issues and reach the conclusion that these tools represented the optimal solution? What was the outcome?
+6. Describe an experience in which you had to plan, develop, execute, and/or maintain documentation related to security processes and procedures.
+7. Tell me about a time you had to work across various internal teams on security tasks. How did you plan and arrange appropriate times to meet and mutually acceptable timelines across these teams? What was the outcome?
+8. Describe an experience in which a security leak or other issue called for immediate response, analysis, and action. How did you organize and execute this while prioritizing and dealing with other duties disrupted by this event? What was the outcome?
+9. Tell me about a time you had to speak to higher management in your role as a cybersecurity analyst about complex technical issues and solutions. How did you express highly technical information in a way that could be understood and responded to effectively?
+10. Tell me about a time you experienced reluctance on the part of some members of higher management with regard to a security or regulatory issue. How did you go about gaining support for your opinions, whom did you speak with, and what was the outcome?
