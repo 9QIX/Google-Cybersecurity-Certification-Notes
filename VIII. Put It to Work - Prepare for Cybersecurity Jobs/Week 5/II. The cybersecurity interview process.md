@@ -126,7 +126,7 @@ Python is a programming language that serves as an important tool in security, 
 
 ## General techniques
 
-During your technical interview, you might be expected to demonstrate basic knowledge of various general security concepts. For example, you might need to show familiarity with **security frameworks**, which are guidelines used for building plans to help mitigate risk and threats to data and privacy. When discussing security frameworks, it would be helpful to mention your knowledge of specific NIST frameworks, such as the Cybersecurity Framework (CSF). Another technical concept for you to discuss during a technical interview is network security. You might recall that **network security** is the practice of keeping an organization’s network infrastructure secure from unauthorized access. Reviewing the different technical concepts you’ve learned throughout this program is a good way to prepare for a technical interview. It will sharpen your skills and help you leave a good impression on the interviewer. 
+During your technical interview, you might be expected to demonstrate basic knowledge of various general security concepts. For example, you might need to show familiarity with **[[security frameworks]]**, which are guidelines used for building plans to help mitigate risk and threats to data and privacy. When discussing security frameworks, it would be helpful to mention your knowledge of specific NIST frameworks, such as the Cybersecurity Framework (CSF). Another technical concept for you to discuss during a technical interview is network security. You might recall that **[[network security]]** is the practice of keeping an organization’s network infrastructure secure from unauthorized access. Reviewing the different technical concepts you’ve learned throughout this program is a good way to prepare for a technical interview. It will sharpen your skills and help you leave a good impression on the interviewer. 
 
 Additionally, it may be a good idea to write the entire question down on paper before answering. Often, technical interview questions have multiple parts to cover. People sometimes rush to give an answer and show their knowledge but not fully cover everything that the question asks. Writing down the question can help you ensure you have the question right and are able to provide a structured response. 
 
@@ -149,3 +149,39 @@ SIEM tools are security information and event management tools that are used by 
 ## Key takeaways
 
 Technical interviews are a great opportunity to show your potential employer your technical cybersecurity skills, such as coding, during the interview. Even if you have no prior security experience, you can take this time to share what you’ve learned in the Google Cybersecurity Certificate program and express your excitement to put that learning into action. By preparing for the technical interview process, you’ll be well on your way to building a career in cybersecurity.
+
+# Conduct pre-interview research
+
+- **Researching the Organization:**
+	- Conduct research on the organization before the interview.
+	- Understand the mission, vision, core values, and company culture.
+	- Evaluate if these align with your values and articulate this alignment during the interview.
+	- Information can often be found in the job description or on the organization's website.
+
+- **Setting Yourself Apart:**
+	- Acknowledge that you are one of many applicants.
+	- Highlight qualities that set you apart from other candidates.
+	- Emphasize skills, experience, and work ethic that make you the best fit for the position.
+
+- **Aligning Goals:**
+	- Consider how your goals align with the organization's goals.
+	- Showcase why you are the best candidate for the role.
+	- Aim to be memorable to the interviewer.
+
+- **Understanding Employer's Needs:**
+	- Analyze the organization's needs and goals for the position.
+	- Clearly articulate how you can meet those needs.
+	- Demonstrate an understanding of productivity, compliance goals, or team expansion.
+
+- **Addressing Lack of Experience:**
+	- Be prepared to address concerns about lack of experience.
+	- Highlight strong work ethic, quick learning ability, collaboration skills, and problem-solving skills.
+	- Showcase a security mindset developed through personal, work, or educational experiences.
+
+- **Demonstrating Value:**
+	- Show how you can add value to the team.
+	- Prepare questions for the interviewer about the organization's past accomplishments and future goals.
+	- Display genuine interest and concern for the organization's success.
+
+- **Building Rapport:**
+	- Coming up in the next discussion: Building rapport with interviewers.
