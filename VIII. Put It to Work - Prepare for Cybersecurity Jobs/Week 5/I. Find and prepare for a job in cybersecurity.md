@@ -115,3 +115,4 @@ Building a network of security professionals, viewing and applying for jobs on v
 - **Concluding Advice:**
     - Be bold, capture attention quickly, and focus on what makes the candidate stand out.
     - Simplicity in words is recommended, but the content should be compelling and unique.
+
