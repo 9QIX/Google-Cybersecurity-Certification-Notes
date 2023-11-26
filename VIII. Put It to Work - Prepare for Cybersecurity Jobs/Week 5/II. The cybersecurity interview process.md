@@ -76,3 +76,33 @@ If the company lets you know that you didn’t get the job, take a moment to pro
 ## Key takeaways
 
 Interviews are a great opportunity to learn more about a job and the company you’d be working for. By preparing for the interview process and continuing to persevere in your job search, you’ll be well on your way to building a career in cybersecurity.
+
+# Technical interview tips
+
+- **Introduction:**
+	- Garvey, Global Staffing Manager at Google, with seven years of experience hiring security engineers.
+	- Emphasizes understanding fundamentals over trivia in technical interviews.
+- **Preparation Recommendations:**
+	- Focus on programs and applications like Splunk and Wireshark.
+	- Understand their functions, purpose, and internals.
+	- Grasp the fundamentals of network security, web application security, operating system internals, and security protocols.
+- **Handling Open-Ended Questions:**
+	- Open-ended questions are complex and ambiguous.
+	- Start by asking clarifying questions to narrow down the focus.
+	- Organize answers using the STAR method for clarity.
+	- Thinking out loud helps the interviewer follow your thought process.
+- **Admission of Not Knowing:**
+	- It's acceptable not to know the answer.
+	- Honesty is crucial; don't pretend to know if you don't.
+- **Ideal Candidate Traits:**
+	- Ideal candidates love to learn and are humble and honest.
+	- They navigate ambiguity and complexity well.
+	- Demonstrates a proactive approach to problem-solving and a continuous learning mindset.
+- **Dealing with Nerves:**
+	- Acknowledges that nervousness is standard during technical interviews.
+	- Reminds candidates to trust themselves, as someone has already believed in them.
+	- Encourages candidates not to fear failure and to embrace the learning opportunity.
+- **Closing Message:**
+	- The cybersecurity field welcomes those who are passionate about learning.
+	- Ideal candidates run towards challenges, always seeking to grow and mentor others.
+	- Encourages candidates to trust themselves and not be afraid to fail.
