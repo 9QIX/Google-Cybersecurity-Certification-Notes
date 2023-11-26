@@ -1,0 +1,26 @@
+# Use strategies to answer interview questions
+
+- **Introduction:**
+	- Exciting process of preparing for job interviews in the security field.
+	- Overview of learned program content for standing out as a candidate.
+- **Consideration of Interview Questions:**
+	- Emphasis on carefully considering each question before responding.
+	- Introduction to the STAR method for interview preparation.
+- **STAR Method Explained:**
+	- STAR method (Situation, Task, Action, Result) for answering behavioral and situational interview questions.
+	- Suitable for open-ended questions like "Tell me about a time when you encountered a challenge on the job."
+- **Example of STAR Method:**
+	- Example response using STAR method:
+		- **Situation:** Two people needed to stay home for work due to illness, and I was the only person available to assist customers.
+		- **Task:** Answer phone calls while assisting shoppers in the store.
+		- **Action:** Developed a strategy to manage both tasks effectively.
+		- **Result:** Successfully managed in-store operations without errors, received compliments from the manager.
+- **Benefits of STAR Method:**
+	- Highlights the benefits of using STAR for open-ended interview questions.
+- **Confidence in Answers:**
+	- Confidence demonstrated by admitting when you don't know something.
+	- Example: Acknowledge the lack of a particular skill, express eagerness to learn, and highlight adaptability.
+	- Confidence shown by taking time to fully understand a question before providing a thoughtful response.
+- **Nervousness Overcoming Strategies:**
+	- Strategies discussed to overcome nervousness during job interviews.
+	- Upcoming exploration of additional ways to prepare for interviews.
