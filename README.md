@@ -10,8 +10,8 @@ Welcome to my repository for notes and resources related to the **Google Cyberse
 4. [Tools of the Trade: Linux and SQL](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/IV.%20Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL) 🛡️
 5. [Assets, Threats, and Vulnerabilities](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/V.%20Assets%2C%20Threats%20and%20Vulnerabilities) 🌍🔍
 6. [Sound the Alarm: Detection and Response](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/VI.%20Sound%20the%20Alarm%20-%20Detection%20and%20Response/Week%201) 🚨🔥
-7. [Automate Cybersecurity Tasks with Python]() ⚙️🔐
-8. [Put It to Work: Prepare for Cybersecurity Jobs]() 🌟💡
+7. [Automate Cybersecurity Tasks with Python](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/VII.%20Automate%20Cybersecurity%20Tasks%20with%20Python) ⚙️🔐
+8. [Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/VIII.%20Put%20It%20to%20Work%20-%20Prepare%20for%20Cybersecurity%20Jobs) 🌟💡
 
 ## 📝 Notes
 
