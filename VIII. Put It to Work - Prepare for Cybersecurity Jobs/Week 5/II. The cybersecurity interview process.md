@@ -179,3 +179,33 @@ Technical interviews are a great opportunity to show your potential employer you
 	- Display genuine interest and concern for the organization's success.
 - **Building Rapport:**
 	- Coming up in the next discussion: Building rapport with interviewers.
+
+# Build rapport with interviewers
+
+- **Definition of Rapport:**
+	- A friendly relationship where people understand each other's ideas and communicate well.
+- **Initiating Rapport Building:**
+	- Starts from the first interaction with the company's staff through phone, email, or video conference.
+	- Use a professional tone in emails expressing interest in the job while being polite and friendly.
+	- Express appreciation for being considered and the potential opportunity to interview.
+- **Phone Screen Etiquette:**
+	- Use a friendly, conversational tone during initial phone screens.
+	- Smile while talking to sound friendlier, even though the other person can't see you.
+- **In-Person and Video Interview Tips:**
+	- Ease interview nervousness by engaging actively and naturally.
+	- Start with a friendly greeting, ask about the interviewer's day or weekend.
+	- Maintain eye contact during in-person interviews or directly into the camera during video interviews to show engagement.
+- **Asking Questions:**
+	- During the later part of the interview, when asked if you have any questions, be prepared with some.
+	- Examples of good questions to ask:
+		- "What is the biggest challenge I might face in this role, and how would I be expected to meet that challenge?"
+		- "What would you say is the best part about working for this company?"
+		- "What is a typical day like for an analyst?"
+		- "What is the potential for growth in this role?"
+- **Follow-Up Email:**
+	- Send a brief follow-up email a day or two after the in-person interview.
+	- Thank the interviewer for the opportunity and mention something specific from the interview.
+	- Reinforces active engagement and helps set you apart from other candidates.
+- **Importance of Building Rapport:**
+	- Highlighted as a crucial skill, especially for first security position interviews.
+	- Emphasizes the significance of friendly yet professional communication before and after the interview.
