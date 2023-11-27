@@ -67,3 +67,4 @@ For example, if you were interviewing for a position for Google’s security tea
 ## Key takeaways 
 
 Creating an elevator pitch that's 60 seconds or fewer is a great tool to use to quickly share who you are. Use an elevator pitch to introduce yourself to career and business connections in the future. You can even use your elevator pitch in other types of situations, like meeting new friends or colleagues.
+
