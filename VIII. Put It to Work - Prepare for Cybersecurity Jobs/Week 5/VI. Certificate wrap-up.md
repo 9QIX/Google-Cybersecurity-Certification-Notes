@@ -3,7 +3,6 @@
 - **Acknowledgment of Achievements:**
     - The certificate program covered rigorous security content, and despite potential challenges, you persevered.
     - Recognizing your commitment and effort, you should take pride in your accomplishments.
-
 - **Addressing the Growing Need for Security Professionals:**
     - Emphasizing the growth of the security field and the increasing demand for professionals like you to safeguard organizations and individuals globally.
 - **Summary of Program Highlights:**
