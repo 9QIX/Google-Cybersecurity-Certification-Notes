@@ -55,3 +55,4 @@ Certainly, here are the terms and definitions from the provided list:
 
 **V**
 - **[[Visual dashboard]]**: A way of displaying various types of data quickly in one place
+
