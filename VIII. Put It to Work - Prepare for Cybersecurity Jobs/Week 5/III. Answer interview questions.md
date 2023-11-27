@@ -101,16 +101,8 @@ It’s likely that each panelist will ask you at least one question during the i
 
 There’s an endless supply of job-preparation resources available to you. Here are some great ones to get you started:
 
-- [Interview tips from Google](https://careers.google.com/interview-tips/?src=Online%2FSocial%2FNewYearNewJob&utm_campaign=&utm_medium=Social&utm_source=Online)
-    
-
-- . This resource from the Google Careers team provides best practices and advice on how to prepare and ace your interviews at Google, but of course these tips will work at any company!
-    
-- [Interviewing techniques for persons with disabilities](https://askjan.org/publications/consultants-corner/vol01iss13.cfm)
-    
-
-- . This resource from the Job Accommodation Network (JAN) offers helpful advice on navigating the interview process for individuals with disabilities. 
-    
+- [Interview tips from Google](https://careers.google.com/interview-tips/?src=Online%2FSocial%2FNewYearNewJob&utm_campaign=&utm_medium=Social&utm_source=Online). This resource from the Google Careers team provides best practices and advice on how to prepare and ace your interviews at Google, but of course these tips will work at any company!
+- [Interviewing techniques for persons with disabilities](https://askjan.org/publications/consultants-corner/vol01iss13.cfm) . This resource from the Job Accommodation Network (JAN) offers helpful advice on navigating the interview process for individuals with disabilities.  
 
 ## Key takeaways
 
