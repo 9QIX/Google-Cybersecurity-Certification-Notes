@@ -1,0 +1,6 @@
+- **Definition:**
+	- An **[[elevator pitch]]** is a succinct summary of your experience, skills, and background.
+	- Named for its brevity, it should be deliverable in 60 seconds or less, equivalent to the time spent in an elevator ride.
+- **Purpose:**
+	- Elevator pitches enable you to swiftly convey your professional identity to potential employers.
+	- Applicable in diverse networking scenarios: job fairs, career expos, professional conferences, and online platforms like LinkedIn®.
