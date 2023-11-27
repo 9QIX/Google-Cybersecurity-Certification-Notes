@@ -152,3 +152,25 @@ There’s an endless supply of job-preparation resources available to you. Here 
 ## Key takeaways
 
 Preparation for your first interview is very important, so be sure to do your research and practice for the introductory call. Don’t worry if you don’t have prior security experience. Instead, you can rely on the information and skill sets you’ve gained from completing this certificate program.
+
+# Ask the interviewer questions
+
+- **Introduction:**
+	- Discussion on additional strategies for job interviews.
+- **Asking Questions:**
+	- Importance of being prepared to answer the common question, "Do you have any questions for me?"
+	- Opportunity to demonstrate preparedness and engage in a meaningful conversation.
+	- Emphasis on researching the company beforehand for more impactful questions.
+	- Demonstrates passion for the career and willingness to contribute to the company's security posture.
+- **General Questions for Interviewers:**
+	- Examples of questions to ask the interviewer:
+		- "What's the biggest challenge for a new person in this role?"
+		- "In what ways can I contribute to the success of the team and the organization?"
+		- "What qualities or traits are most important for working well with the team and other stakeholders?"
+	- These questions aid in developing rapport and showcase genuine interest in the role and organizational culture.
+- **Excitement in the Interview Process:**
+	- Highlighting the excitement of the job interview process when well-prepared.
+	- Encouragement to ask tough questions to demonstrate thoughtfulness and curiosity.
+	- Aiming to portray oneself as a thoughtful, curious individual capable of adding value to the team.
+- **Upcoming Strategy:**
+	- Teaser for the next strategy discussion: The elevator pitch!
