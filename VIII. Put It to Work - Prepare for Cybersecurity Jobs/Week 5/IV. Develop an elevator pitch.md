@@ -1,0 +1,39 @@
+# Develop an elevator pitch
+
+- **Definition:**
+	- An **elevator pitch** is a succinct summary of your experience, skills, and background.
+	- Named for its brevity, it should be deliverable in 60 seconds or less, equivalent to the time spent in an elevator ride.
+- **Purpose:**
+	- Elevator pitches enable you to swiftly convey your professional identity to potential employers.
+	- Applicable in diverse networking scenarios: job fairs, career expos, professional conferences, and online platforms like LinkedIn®.
+- **Crafting Your Elevator Pitch:**
+	- **Short and Persuasive:**
+		- Avoid detailing all past experiences and accomplishments.
+		- Clearly state who you are, your passion for being a security professional, and specific qualifications related to a security analyst role.
+	- **Highlighting Transferable Skills:**
+		- Emphasize critical thinking, problem-solving, and collaborative relationship-building.
+		- Showcase skills developed through the certificate program, such as using SIEM tools, SQL, and Python for risk identification and response.
+- **Things to Avoid:**
+	- **Rambling and Irrelevance:**
+		- Avoid unnecessary details; focus on essential information.
+		- Potential employers want to know who you are and why you are suitable for a security role.
+	- **Over-Practice:**
+		- Practice multiple times but avoid sounding ingenuine or robotic.
+		- Speak naturally, as in a conversation, to keep the audience engaged and interested.
+	- **Speaking Too Quickly:**
+		- Due to its brevity, it's easy to rush through the pitch.
+		- Speaking too quickly might cause key skills to be overlooked; maintain a measured pace.
+- **Tips for Effective Delivery:**
+	- **Natural Conversation Tone:**
+		- Speak naturally, as if having a conversation.
+		- Engage the audience and maintain their interest.
+	- **Avoiding Speed:**
+		- Resist the urge to rush through the pitch.
+		- Ensure that key skills are effectively communicated.
+- **Additional Tip:**
+	- **Internet Search for Examples:**
+		- Explore online elevator pitch examples for inspiration and ideas.
+- **Essence of Your Pitch:**
+	- Your elevator pitch is a compelling narrative about why you are an outstanding candidate for a security position.
+	- Despite natural nervousness, gather your composure, take a deep breath, and deliver your pitch with confidence, conviction, and at a normal pace.
+	- You've got this!
