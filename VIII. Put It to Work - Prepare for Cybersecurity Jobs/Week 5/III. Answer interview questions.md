@@ -174,3 +174,30 @@ Preparation for your first interview is very important, so be sure to do your re
 	- Aiming to portray oneself as a thoughtful, curious individual capable of adding value to the team.
 - **Upcoming Strategy:**
 	- Teaser for the next strategy discussion: The elevator pitch!
+
+# Interview tips from a hiring manager
+
+- **Introduction:**
+	- Karan, a Security Engineering Manager at Google, shares insights from his experience in hiring candidates.
+	- Fascination with learning about diverse paths and backgrounds of candidates.
+- **Observations on Candidate Backgrounds:**
+	- Notable increase in the number of candidates from non-technical backgrounds, including recruiting and sales.
+- **Preparation Strategies - Technical:**
+	- Breaks down interview preparation into technical and non-technical aspects.
+	- Advises building on networking fundamentals and information security fundamentals.
+	- Emphasizes understanding how concepts are related and asking clarifying questions during problem-solving.
+	- Encourages admitting if you don't know something but providing an approach to the problem.
+- **Preparation Strategies - Non-Technical:**
+	- Recommends practicing with an interview partner, focusing on responses, identifying areas for improvement, and being kind to oneself.
+	- Stresses bringing the whole self to the interview, showcasing teamwork, leadership, and project collaboration examples.
+	- Highlights the importance of soft skills, crucial even when solving security problems.
+- **Attributes Sought in Candidates:**
+	- Curiosity is a key attribute sought in new industry entrants.
+	- Values individuals with drive, a strong desire to learn, and the ability to ask the right questions.
+	- Emphasizes the significance of problem-solving through collaboration.
+- **Advice for Job Seekers:**
+	- Encourages not to fear rejection and acknowledges that finding the first role may take time.
+	- Shares personal experience of applying to hundreds of positions before landing the first job.
+	- Urges applicants not to hesitate to apply even if they don't meet all preferred qualifications, emphasizing the importance of meeting minimum qualifications.
+- **Closing Message:**
+	- Encourages continuous application and perseverance in the job search.
