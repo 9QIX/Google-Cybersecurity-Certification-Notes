@@ -111,3 +111,37 @@ Signing in early also indicates to your interviewer that you respect their time 
 ## Key takeaways
 
 Follow the tips in this reading to become more confident with the remote interviewing process. Always test your technology before the interview to ensure it works well with the video platform software being used for the interview.
+
+# Overcome imposter syndrome
+
+- **Introduction:**
+	- **Speaker:** Emily, Program Manager at Google, specializing in security education.
+- **Addressing Imposter Syndrome:**
+	- Imposter syndrome is a real and common experience in the professional world.
+	- Cycles of feeling accomplished and on top of the game, followed by moments of self-doubt, are normal.
+- **Combatting Imposter Syndrome:**
+	- **Community Engagement:**
+		- Joining cybersecurity associations helps combat imposter syndrome.
+		- Building connections and community in the industry is crucial.
+		- Being part of organizations provides a support system and examples of growth.
+	- **Networking:**
+		- Joining a new industry can be intimidating; networking with experienced professionals is valuable.
+		- Support from others in the field is essential, and sharing skills reinforces personal progress.
+	- **Trusted Mentorship:**
+		- Connecting with a trusted mentor is instrumental in dealing with imposter syndrome.
+		- Mentors provide guidance, reassure about the impossibility of knowing everything, and foster confidence.
+	- **Acknowledging Small Wins:**
+		- Recognizing and celebrating small wins is vital for boosting confidence.
+		- Keeping a collection of positive feedback and accomplishments helps during challenging times.
+	- **Reflecting on Career Journey:**
+		- Reflecting on one's career journey showcases personal growth and acquired skills.
+		- It's a powerful reminder of the progress made and the value one brings to the organization.
+- **Adapting to Industry Dynamics:**
+	- In the security industry, continuous learning is crucial due to rapid changes.
+	- Acknowledging that no one knows everything and staying flexible and open to learning is key.
+- **Maintaining Confidence in a New Job:**
+	- It's normal to feel uncertain in a new job; taking time to ask questions is acceptable.
+	- Seeking information and support from colleagues contributes to personal and collective success.
+- **Conclusion:**
+	- Imposter syndrome is a shared experience, and overcoming it involves community, mentorship, celebrating achievements, and embracing a continuous learning mindset.
+*Remember: It's okay not to know everything, and asking questions is a pathway to success.*
