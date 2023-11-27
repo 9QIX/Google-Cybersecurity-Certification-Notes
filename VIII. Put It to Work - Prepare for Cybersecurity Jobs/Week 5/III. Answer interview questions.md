@@ -70,7 +70,52 @@ The STAR method stands for Situation, Task, Action, and Result. Following this m
 
 # Answers
 
-
+**1. Experience Advising and Working with Internal Business Units:**
+   - **Situation:** While working as a Cybersecurity Junior Analyst at Nice Touch Healthcare Group, there was a noticeable increase in employees clicking on phishing email links. The root cause was identified as a lack of education among various department leaders regarding the risks associated with clicking on suspicious links.
+   - **Task:** I was tasked with identifying departments with the highest phishing link click rates and communicating these findings to the respective leaders.
+   - **Action:** Scheduled meetings with senior-level analysts to discuss the phishing data. Created visual presentations to illustrate the impact of the data. Initiated video calls with department leaders after coordinating with their assistants via email. Collaboratively devised an employee awareness campaign with a set timeline for completion.
+   - **Result:** Within one month of implementing the plan, there was a significant 20% decrease in phishing incidents, showcasing the success of the awareness campaign.
+**2. Implementation of a Security Solution:**
+   - **Situation:** Upon joining Nice Touch Healthcare Group, I took charge of managing updates and changes to the third-party assessment program's procedures and policies.
+   - **Task:** Oversee the implementation of the third-party assessment program, ensuring the security of all external entities the organization engaged with.
+   - **Action:** Conducted an audit of existing policies and procedures, identifying outdated access points. Received approval to remove unnecessary access, and initiated weekly team meetings to discuss changes. Periodically adjusted access to the shared folder as needed.
+   - **Result:** Executives acknowledged the streamlined and collaborative nature of the third-party assessment program during the end-of-year functional review.
+**3. Effective Use of Cybersecurity Skills:**
+   - **Situation:** Faced a cybersecurity challenge where effective analysis of variables and identification of anomalies were crucial to enhancing security and productivity.
+   - **Task:** Utilize cybersecurity skills to analyze variables and identify anomalies, ultimately improving security measures and operational efficiency.
+   - **Action:** Employed my cybersecurity expertise to implement changes based on the analysis, resulting in noticeable improvements in security and operational efficiency.
+**4. Surprise Update in Information Security:**
+   - **Situation:** Encountered an unexpected update in information security, cybersecurity, or regulatory compliance.
+   - **Task:** Stay informed and adapt to the new information while minimizing disruption.
+   - **Action:** Actively engaged in continuous learning through industry publications, forums, and professional networks to stay up-to-date on relevant information.
+**5. Use of Technical Security Tools in Issue Resolution:**
+   - **Situation:** Faced a security incident demanding the use of technical security tools for resolution.
+   - **Task:** Assess issues and determine optimal solutions using technical security tools.
+   - **Action:** Effectively utilized technical security tools to assess and resolve the incident, ensuring the organization's security posture was maintained.
+**6. Planning, Developing, and Maintaining Security Documentation:**
+   - **Situation:** Tasked with managing updates to documentation related to a third-party assessment program.
+   - **Task:** Plan, develop, execute, and maintain documentation related to security processes and procedures.
+   - **Action:** Conducted an audit of access, removed outdated entries, and initiated regular team meetings for updates, resulting in a more efficient and collaborative documentation system.
+   - **Result:** Recognized in the end-of-year functional review for streamlining processes and maintaining documentation.
+**7. Working Across Internal Teams on Security Tasks:**
+   - **Situation:** Faced a phishing challenge requiring collaboration across various internal teams.
+   - **Task:** Coordinate efforts across internal teams on security tasks.
+   - **Action:** Utilized the organization's work calendar, scheduled meetings and video calls with department leaders, fostering collaboration. Successfully implemented a plan resulting in a significant decrease in phishing incidents.
+   - **Result:** Improved collaboration and a substantial decrease in phishing incidents.
+**8. Immediate Response to a Security Leak:**
+   - **Situation:** Faced a security leak demanding immediate response, analysis, and action.
+   - **Task:** Organize and execute an immediate response to the security leak while prioritizing and managing disruptions.
+   - **Action:** Led the team in swiftly addressing the issue, containing the leak, and minimizing potential damage.
+   - **Result:** Successfully contained the leak, minimizing potential damage to the organization.
+**9. Communication with Higher Management on Technical Issues:**
+   - **Situation:** Required to speak to higher management about complex technical issues and solutions.
+   - **Task:** Express highly technical information in a way that could be understood and responded to effectively.
+   - **Action:** Translated technical details into clear and concise language, ensuring effective communication and understanding from higher management.
+**10. Gaining Support for Security or Regulatory Issues:**
+   - **Situation:** Faced reluctance from some members of higher management regarding a security or regulatory issue.
+   - **Task:** Gain support for opinions on the security concern and ensure compliance.
+   - **Action:** Engaged in targeted discussions, presented evidence, demonstrated risks, and proposed viable solutions.
+   - **Result:** Gained support, leading to a collaborative approach and ensuring compliance.
 # Prepare for interviews
 
 Great news! You’ve submitted your application and received a follow-up email requesting an interview.  The work isn’t over yet, though—you still have a lot of preparation to do. That’s what you’re going to learn about in this reading!
