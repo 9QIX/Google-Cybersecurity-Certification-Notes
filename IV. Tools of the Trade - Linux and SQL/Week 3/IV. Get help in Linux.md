@@ -48,7 +48,7 @@ Certainly! Here's a detailed explanation of the concepts and commands covered in
 **The `whatis` Command**
 - **`whatis` Command**: `whatis` provides a quick one-line description of a specified command.
 - **Quick Reference**: It helps users get a brief overview of a command's purpose without displaying extensive details.
-- **Usage**: To get a short description of a command, use `whatis <command_name>`.
+- **Usage**: To get a short description of a command, use `whatis <command_name>`
 
 **The `apropos` Command**
 - **`apropos` Command**: `apropos` searches manual page descriptions for commands containing a specified keyword or string.
