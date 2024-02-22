@@ -21,6 +21,7 @@ Feel free to explore the detailed notes for each module linked above. These note
 
 This repository is a collaborative effort! If you've found a typo, want to suggest improvements, or have additional resources to share, feel free to open an issue or submit a pull request. Let's make this a hub of knowledge and support for aspiring cybersecurity professionals! 🌟
 
+
 ## 🚀 Let's Connect
 
 If you're on a cybersecurity journey too, let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/khlbulaong/). Let's learn and grow together! 👥💬
