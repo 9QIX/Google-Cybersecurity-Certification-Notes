@@ -3,7 +3,7 @@
 Welcome to my repository for notes and resources related to the **Google Cybersecurity Professional Certificate**! 🚀 This comprehensive program covers a wide range of cybersecurity topics, equipping learners with essential skills to navigate the ever-evolving digital security landscape.
   
 ## Table of Contents 📚
-
+ 
 1. [Foundations of Cybersecurity](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/I.%20Foundations%20Of%20Cybersecurity) 🌐
 2. [Play It Safe: Manage Security Risks](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/II.%20Play%20It%20Safe%20-%20Manage%20Security%20Risks) 🔑
 3. [Connect and Protect: Networks and Network Security](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/III.%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security) 🌐🔌
