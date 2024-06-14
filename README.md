@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional Certificate Notes 🛡️🔒 
   
 Welcome to my repository for notes and resources related to the **Google Cybersecurity Professional Certificate**! 🚀 This comprehensive program covers a wide range of cybersecurity topics, equipping learners with essential skills to navigate the ever-evolving digital security landscape.
-   
+    
 ## Table of Contents 📚
  
 1. [Foundations of Cybersecurity](https://github.com/9QIX/Google-Cybersecurity-Certification-Notes/tree/main/I.%20Foundations%20Of%20Cybersecurity) 🌐
