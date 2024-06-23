@@ -1,4 +1,4 @@
-
+ 
 ## [[Cybersecurity]] is the practice of ensuring: #CIA 
 
 [[Confidentiality]], [[Integrity]], and [[Availability]] of information are ensured through the effective practice of security. This involves protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
